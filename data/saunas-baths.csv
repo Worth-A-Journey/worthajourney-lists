@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Hvammsvik Hot Springs,Hot spring,Hvalfjörður,Iceland,IS,64.3736,-21.5644,https://worthajourney.com/saunas-baths/#hvammsvik-hot-springs
+2,Infinit Maximus,Thermal bath,Brno,Czechia,CZ,49.2434,16.5160,https://worthajourney.com/saunas-baths/#infinit-maximus
+3,Vök Baths,Hot spring,Egilsstaðir,Iceland,IS,65.3031,-14.4470,https://worthajourney.com/saunas-baths/#vok-baths
+4,Sweet Lake Wellness,Day spa,Zoetermeer,Netherlands,NL,52.0487,4.5230,https://worthajourney.com/saunas-baths/#sweet-lake-wellness
+5,The Woodland Spa,Day spa,Burnley,United Kingdom,GB,53.8019,-2.2530,https://worthajourney.com/saunas-baths/#the-woodland-spa
+6,Tabacón Thermal Resort and Spa,Hotel spa,La Fortuna,Costa Rica,CR,10.4916,-84.7220,https://worthajourney.com/saunas-baths/#tabacon-thermal-resort-and-spa
+7,The Well,Hotel spa,"Sofiemyr, near Oslo",Norway,NO,59.7920,10.8200,https://worthajourney.com/saunas-baths/#the-well
+8,Rogner Bad Blumau,Hotel spa,Bad Blumau,Austria,AT,47.1248,16.0474,https://worthajourney.com/saunas-baths/#rogner-bad-blumau
+9,Sky Lagoon,Hot spring,"Kópavogur, near Reykjavik",Iceland,IS,64.1165,-21.9463,https://worthajourney.com/saunas-baths/#sky-lagoon
+10,Manor House Thermal Spa Gardens,Hotel spa,Alsager,United Kingdom,GB,53.0882,-2.2976,https://worthajourney.com/saunas-baths/#manor-house-thermal-spa-gardens
+11,Wai Ariki Hot Springs and Spa,Hot spring,Rotorua,New Zealand,NZ,-38.1318,176.2556,https://worthajourney.com/saunas-baths/#wai-ariki-hot-springs-and-spa
+12,Elaisa Energetic Wellness,Day spa,Dilsen-Stokkem,Belgium,BE,51.0017,5.6824,https://worthajourney.com/saunas-baths/#elaisa-energetic-wellness
+13,Thermen Berendonck,Hotel spa,Wijchen,Netherlands,NL,51.8085,5.7801,https://worthajourney.com/saunas-baths/#thermen-berendonck
+14,La Source Bains Nordiques,Nordic spa,Rawdon,Canada,CA,46.0604,-73.7319,https://worthajourney.com/saunas-baths/#la-source-bains-nordiques
+15,Forest Lagoon,Hot spring,Akureyri,Iceland,IS,65.6701,-18.0421,https://worthajourney.com/saunas-baths/#forest-lagoon
+16,Spa One,Day spa,Oosterhout,Netherlands,NL,51.6340,4.7949,https://worthajourney.com/saunas-baths/#spa-one
+17,Nirvana Spa,Day spa,Wokingham,United Kingdom,GB,51.4200,-0.8901,https://worthajourney.com/saunas-baths/#nirvana-spa
+18,Scandinave Spa Mont-Tremblant,Nordic spa,Mont-Tremblant,Canada,CA,46.1692,-74.6066,https://worthajourney.com/saunas-baths/#scandinave-spa-mont-tremblant
+19,Orvis Hot Springs,Hot spring,Ridgway,United States,US,38.1338,-107.7351,https://worthajourney.com/saunas-baths/#orvis-hot-springs
+20,Thermen Bussloo,Sauna,Voorst,Netherlands,NL,52.1919,6.0946,https://worthajourney.com/saunas-baths/#thermen-bussloo
+21,Alf Layla Wa Layla Turkish Bath,Hammam,Amman,Jordan,JO,31.9880,35.8665,https://worthajourney.com/saunas-baths/#alf-layla-wa-layla-turkish-bath
+22,Obermain Therme,Thermal bath,Bad Staffelstein,Germany,DE,50.1090,10.9912,https://worthajourney.com/saunas-baths/#obermain-therme
+23,Irifune Onsen,Sauna,Osaka,Japan,JP,34.6488,135.5023,https://worthajourney.com/saunas-baths/#irifune-onsen
+24,Mediterana,Thermal bath,Bergisch Gladbach,Germany,DE,50.9650,7.1365,https://worthajourney.com/saunas-baths/#mediterana
+25,Roman Sauna & Baths,Sauna,Czeladź,Poland,PL,50.3081,19.0699,https://worthajourney.com/saunas-baths/#roman-sauna-baths
+26,Balnea Spa,Hotel spa,Bromont,Canada,CA,45.2738,-72.6965,https://worthajourney.com/saunas-baths/#balnea-spa
+27,Nordik Spa-Nature Chelsea,Nordic spa,Chelsea,Canada,CA,45.5050,-75.8027,https://worthajourney.com/saunas-baths/#nordik-spa-nature-chelsea
+28,Termas Geometricas,Hot spring,Panguipulli,Chile,CL,-39.5019,-71.8749,https://worthajourney.com/saunas-baths/#termas-geometricas
+29,Hürrem Hammam Wellness & Spa,Hammam,North Miami,United States,US,25.9111,-80.1577,https://worthajourney.com/saunas-baths/#hurrem-hammam-wellness-spa
+30,QC Terme Salsomaggiore,Hot spring,Salsomaggiore Terme,Italy,IT,44.8161,9.9797,https://worthajourney.com/saunas-baths/#qc-terme-salsomaggiore
+31,AIRE Ancient Baths London,Bathhouse,London,United Kingdom,GB,51.5089,-0.1227,https://worthajourney.com/saunas-baths/#aire-ancient-baths-london
+32,Vabali Spa Berlin,Sauna,Berlin,Germany,DE,52.5275,13.3607,https://worthajourney.com/saunas-baths/#vabali-spa-berlin
+33,Elamus Spa,Day spa,Tallinn,Estonia,EE,59.3998,24.6653,https://worthajourney.com/saunas-baths/#elamus-spa
+34,Yonaguni Spa,Day spa,Obernai,France,FR,48.4620,7.4719,https://worthajourney.com/saunas-baths/#yonaguni-spa
+35,King Spa & Sauna,Jjimjilbang,Palisades Park,United States,US,40.8520,-74.0023,https://worthajourney.com/saunas-baths/#king-spa-sauna
+36,Termas del Sol,Hot spring,Puelo,Chile,CL,-41.6836,-72.3243,https://worthajourney.com/saunas-baths/#termas-del-sol
+37,Aurora Spa & Bathhouse,Bathhouse,Sorrento,Australia,AU,-38.3397,144.7418,https://worthajourney.com/saunas-baths/#aurora-spa-bathhouse
+38,Sauna Drôme Putten,Sauna,Putten,Netherlands,NL,52.2126,5.6198,https://worthajourney.com/saunas-baths/#sauna-drome-putten
+39,AVITA Therme & Resort,Thermal bath,Bad Tatzmannsdorf,Austria,AT,47.3371,16.2223,https://worthajourney.com/saunas-baths/#avita-therme-resort
+40,Maritimo Resort,Sauna,Oer-Erkenschwick,Germany,DE,51.6579,7.2481,https://worthajourney.com/saunas-baths/#maritimo-resort
+41,Thermen Katara,Thermal bath,Sint-Niklaas,Belgium,BE,51.1435,4.0916,https://worthajourney.com/saunas-baths/#thermen-katara
+42,CASCADA Thermal Springs + Hotel,Hot spring,Portland,United States,US,45.5590,-122.6539,https://worthajourney.com/saunas-baths/#cascada-thermal-springs-hotel
+43,Fortyseven Wellness-Therme,Thermal bath,Baden,Switzerland,CH,47.4812,8.3131,https://worthajourney.com/saunas-baths/#fortyseven-wellness-therme
+44,monte mare Seesauna in Tegernsee,Sauna,Tegernsee,Germany,DE,47.7152,11.7535,https://worthajourney.com/saunas-baths/#monte-mare-seesauna-in-tegernsee
+45,Saunabad Großer Teich,Sauna,Limbach-Oberfrohna,Germany,DE,50.8506,12.7608,https://worthajourney.com/saunas-baths/#saunabad-grosser-teich
+46,Tamatebako Open-air Onsen,Hot spring,Ibusuki,Japan,JP,31.1831,130.6173,https://worthajourney.com/saunas-baths/#tamatebako-open-air-onsen
+47,Strøm Spa Nordique Vieux-Québec,Nordic spa,Quebec City,Canada,CA,46.8005,-71.2113,https://worthajourney.com/saunas-baths/#strom-spa-nordique-vieux-quebec
+48,Termas de Fiambala,Hot spring,Fiambalá,Argentina,AR,-27.7425,-67.5503,https://worthajourney.com/saunas-baths/#termas-de-fiambala
+49,Terme Olimia,Thermal bath,Podčetrtek,Slovenia,SI,46.1574,15.6075,https://worthajourney.com/saunas-baths/#terme-olimia
+50,Fort Resort Beemster,Hotel spa,Zuidoostbeemster,Netherlands,NL,52.5279,4.9285,https://worthajourney.com/saunas-baths/#fort-resort-beemster
+51,Tenzan Onsen,Hot spring,Hakone,Japan,JP,35.2252,139.0887,https://worthajourney.com/saunas-baths/#tenzan-onsen
+52,Hotel Iyaonsen,Hotel spa,Miyoshi,Japan,JP,33.9213,133.8174,https://worthajourney.com/saunas-baths/#hotel-iyaonsen
+53,Tamagawa Onsen,Hotel spa,Semboku,Japan,JP,39.9632,140.7246,https://worthajourney.com/saunas-baths/#tamagawa-onsen
+54,Palais Thermal Bad Wildbad,Thermal bath,Bad Wildbad,Germany,DE,48.7496,8.5507,https://worthajourney.com/saunas-baths/#palais-thermal-bad-wildbad
+55,Sonikogenonsen Okame Hot Spring,Onsen,"Soni, Nara",Japan,JP,34.5245,136.1515,https://worthajourney.com/saunas-baths/#sonikogenonsen-okame-hot-spring
+56,KissSalis Therme Bad Kissingen,Thermal bath,Bad Kissingen,Germany,DE,50.1885,10.0637,https://worthajourney.com/saunas-baths/#kisssalis-therme-bad-kissingen
+57,Kristall Therme trimini Kochel am See,Thermal bath,Kochel am See,Germany,DE,47.6559,11.3543,https://worthajourney.com/saunas-baths/#kristall-therme-trimini-kochel-am-see
+58,Sole Uno - Wellness World,Thermal bath,Rheinfelden,Switzerland,CH,47.5578,7.7997,https://worthajourney.com/saunas-baths/#sole-uno-wellness-world
+59,Badegärten Eibenstock,Bathhouse,Eibenstock,Germany,DE,50.5052,12.5984,https://worthajourney.com/saunas-baths/#badegarten-eibenstock
+60,Mawell Resort,Hotel spa,Langenburg,Germany,DE,49.2487,9.8633,https://worthajourney.com/saunas-baths/#mawell-resort
+61,Scandinave Spa Whistler,Nordic spa,Whistler,Canada,CA,50.1370,-122.9475,https://worthajourney.com/saunas-baths/#scandinave-spa-whistler
+62,Quinn's Hot Springs Resort,Hotel spa,Paradise,United States,US,47.3308,-114.7891,https://worthajourney.com/saunas-baths/#quinn-s-hot-springs-resort
+63,Kılıç Ali Paşa Hamam,Hammam,Istanbul,Turkey,TR,41.0262,28.9806,https://worthajourney.com/saunas-baths/#klc-ali-pasa-hamam
+64,Pulse Therme,Thermal bath,"Banya, near Bansko",Bulgaria,BG,41.8778,23.5303,https://worthajourney.com/saunas-baths/#pulse-therme
+65,Panorama Sauna,Sauna,Grafschaft,Germany,DE,50.5599,7.0542,https://worthajourney.com/saunas-baths/#panorama-sauna
+66,Cron4 Piscina & Sauna,Sauna,Brunico,Italy,IT,46.7795,11.9374,https://worthajourney.com/saunas-baths/#cron4-piscina-sauna
+67,Waer Waters,Day spa,Dilbeek,Belgium,BE,50.8761,4.2445,https://worthajourney.com/saunas-baths/#waer-waters
+68,Island Spa & Sauna,Jjimjilbang,Edison,United States,US,40.5141,-74.4069,https://worthajourney.com/saunas-baths/#island-spa-sauna
+69,Çukurcuma Hamamı 1831,Hammam,Istanbul,Turkey,TR,41.0317,28.9805,https://worthajourney.com/saunas-baths/#cukurcuma-hamam-1831
+70,Les Grands Bains d’Hérémence,Hot spring,Hérémence,Switzerland,CH,46.1791,7.3883,https://worthajourney.com/saunas-baths/#les-grands-bains-dheremence
+71,AIRE Ancient Baths Chicago,Bathhouse,Chicago,United States,US,41.8957,-87.6481,https://worthajourney.com/saunas-baths/#aire-ancient-baths-chicago
+72,QC Terme Bagni di Bormio Bagni Nuovi,Hot spring,Valdidentro,Italy,IT,46.4864,10.3608,https://worthajourney.com/saunas-baths/#qc-terme-bagni-di-bormio-bagni-nuovi
+73,Therme Eins,Thermal bath,Bad Füssing,Germany,DE,48.3547,13.3128,https://worthajourney.com/saunas-baths/#therme-eins
+74,Spa Aphrodite Rajecké Teplice,Hot spring,Rajecké Teplice,Slovakia,SK,49.1293,18.6822,https://worthajourney.com/saunas-baths/#spa-aphrodite-rajecke-teplice
+75,Neptunbad Sports & Spa,Bathhouse,Cologne,Germany,DE,50.9472,6.9191,https://worthajourney.com/saunas-baths/#neptunbad-sports-spa
+76,Iron Mountain Hot Springs,Hot spring,Glenwood Springs,United States,US,39.5553,-107.3363,https://worthajourney.com/saunas-baths/#iron-mountain-hot-springs
+77,Goshonoyu Onsen,Bathhouse,Toyooka,Japan,JP,35.6259,134.8074,https://worthajourney.com/saunas-baths/#goshonoyu-onsen
+78,Sauna Heaven Soka,Sauna,Sōka,Japan,JP,35.8249,139.8052,https://worthajourney.com/saunas-baths/#sauna-heaven-soka
+79,AIRE Ancient Baths New York · Tribeca,Bathhouse,New York,United States,US,40.7181,-74.0048,https://worthajourney.com/saunas-baths/#aire-ancient-baths-new-york-tribeca
+80,Thermal Spa Loipersdorf,Thermal bath,Bad Loipersdorf,Austria,AT,46.9848,16.1108,https://worthajourney.com/saunas-baths/#thermal-spa-loipersdorf
+81,St Martins Therme & Lodge,Thermal bath,Frauenkirchen,Austria,AT,47.8084,16.9180,https://worthajourney.com/saunas-baths/#st-martins-therme-lodge
+82,Vabali Spa Hamburg,Day spa,"Glinde, near Hamburg",Germany,DE,53.5357,10.2078,https://worthajourney.com/saunas-baths/#vabali-spa-hamburg
+83,Panorama Therme Beuren,Thermal bath,Beuren,Germany,DE,48.5657,9.3983,https://worthajourney.com/saunas-baths/#panorama-therme-beuren
+84,Yasuragi Spa Hotel,Hotel spa,"Saltsjö-Boo, near Stockholm",Sweden,SE,59.3455,18.2405,https://worthajourney.com/saunas-baths/#yasuragi-spa-hotel
+85,Sauna Tokyo,Sauna,Tokyo,Japan,JP,35.6733,139.7377,https://worthajourney.com/saunas-baths/#sauna-tokyo
+86,Banya Forrest,Banya,Dubai,United Arab Emirates,AE,25.0794,55.1196,https://worthajourney.com/saunas-baths/#banya-forrest
+87,Aqua Dome,Thermal bath,Längenfeld,Austria,AT,47.0697,10.9647,https://worthajourney.com/saunas-baths/#aqua-dome
+88,Hürlimannbad & Spa,Thermal bath,Zurich,Switzerland,CH,47.3649,8.5251,https://worthajourney.com/saunas-baths/#hurlimannbad-spa
+89,Therme Bad Steben,Thermal bath,Bad Steben,Germany,DE,50.3635,11.6348,https://worthajourney.com/saunas-baths/#therme-bad-steben
+90,RupertusTherme,Thermal bath,Bad Reichenhall,Germany,DE,47.7323,12.8752,https://worthajourney.com/saunas-baths/#rupertustherme
+91,Blue Lagoon,Hot spring,Grindavík,Iceland,IS,63.8791,-22.4453,https://worthajourney.com/saunas-baths/#blue-lagoon
+92,Hanmer Springs Thermal Pools,Hot spring,Hanmer Springs,New Zealand,NZ,-42.5226,172.8291,https://worthajourney.com/saunas-baths/#hanmer-springs-thermal-pools
+93,Vabali Spa Düsseldorf,Bathhouse,Düsseldorf,Germany,DE,51.1832,6.9104,https://worthajourney.com/saunas-baths/#vabali-spa-dusseldorf
+94,Termas Villa Elisa,Hot spring,Villa Elisa,Argentina,AR,-32.1298,-58.4402,https://worthajourney.com/saunas-baths/#termas-villa-elisa
+95,Strøm Spa Nordique Mont-Saint-Hilaire,Nordic spa,Mont-Saint-Hilaire,Canada,CA,45.5407,-73.1820,https://worthajourney.com/saunas-baths/#strom-spa-nordique-mont-saint-hilaire
+96,Zao Onsen Dairotenburo,Hot spring,Yamagata,Japan,JP,38.1661,140.4019,https://worthajourney.com/saunas-baths/#zao-onsen-dairotenburo
+97,Centre du Lac,Sauna,Pijnacker,Netherlands,NL,52.0375,4.4645,https://worthajourney.com/saunas-baths/#centre-du-lac
+98,Parque das Fontes,Hot spring,Rio Quente,Brazil,BR,-17.7747,-48.7481,https://worthajourney.com/saunas-baths/#parque-das-fontes
+99,Spreewald Therme,Thermal bath,Burg (Spreewald),Germany,DE,51.8381,14.1357,https://worthajourney.com/saunas-baths/#spreewald-therme
+100,Funaoka Onsen,Bathhouse,Kyoto,Japan,JP,35.0370,135.7447,https://worthajourney.com/saunas-baths/#funaoka-onsen

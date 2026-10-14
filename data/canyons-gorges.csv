@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Antelope Canyon,Slot canyon,Page,United States,US,36.8619,-111.3743,https://worthajourney.com/canyons-gorges/#antelope-canyon
+2,Grand Canyon,Rim canyon,Arizona,United States,US,36.2679,-112.3535,https://worthajourney.com/canyons-gorges/#grand-canyon
+3,Höllentalklamm,Gorge walk,Grainau,Germany,DE,47.4489,11.0434,https://worthajourney.com/canyons-gorges/#hollentalklamm
+4,Cares Gorge,Gorge walk,Picos de Europa,Spain,ES,43.2134,-4.9056,https://worthajourney.com/canyons-gorges/#cares-gorge
+5,Seisenbergklamm,Gorge walk,Weißbach bei Lofer,Austria,AT,47.5238,12.7564,https://worthajourney.com/canyons-gorges/#seisenbergklamm
+6,Vikos Gorge,Rim canyon,Zagori,Greece,GR,39.9183,20.7479,https://worthajourney.com/canyons-gorges/#vikos-gorge
+7,Horma Canyon,Gorge walk,Pınarbaşı,Turkey,TR,41.6340,33.1433,https://worthajourney.com/canyons-gorges/#horma-canyon
+8,Watkins Glen Gorge,Gorge walk,Watkins Glen,United States,US,42.3672,-76.9016,https://worthajourney.com/canyons-gorges/#watkins-glen-gorge
+9,Gorges du Durnand,Gorge walk,Bovernier,Switzerland,CH,46.0697,7.0714,https://worthajourney.com/canyons-gorges/#gorges-du-durnand
+10,Kanarra Creek Canyon,Slot canyon,Kanarraville,United States,US,37.5371,-113.1755,https://worthajourney.com/canyons-gorges/#kanarra-creek-canyon
+11,Blyde River Canyon,Rim canyon,Mpumalanga,South Africa,ZA,-24.5912,30.8129,https://worthajourney.com/canyons-gorges/#blyde-river-canyon
+12,Karanlık Canyon,River canyon,Kemaliye,Turkey,TR,39.3102,38.4554,https://worthajourney.com/canyons-gorges/#karanlk-canyon
+13,Buckskin Gulch,Slot canyon,Kanab,United States,US,37.0017,-111.8660,https://worthajourney.com/canyons-gorges/#buckskin-gulch
+14,Rosenlaui Glacier Gorge,Gorge walk,Rosenlaui,Switzerland,CH,46.6785,8.1555,https://worthajourney.com/canyons-gorges/#rosenlaui-glacier-gorge
+15,Spooky Gulch,Slot canyon,Escalante,United States,US,37.4817,-111.2088,https://worthajourney.com/canyons-gorges/#spooky-gulch
+16,Verdon Gorge,Rim canyon,Provence,France,FR,43.7614,6.3788,https://worthajourney.com/canyons-gorges/#verdon-gorge
+17,Güejar Canyon,River canyon,Mesetas,Colombia,CO,3.3454,-74.0029,https://worthajourney.com/canyons-gorges/#guejar-canyon
+18,Acheron Gorge,River canyon,Glyki,Greece,GR,39.3277,20.6226,https://worthajourney.com/canyons-gorges/#acheron-gorge
+19,Garnitzenklamm,Gorge walk,Hermagor,Austria,AT,46.6007,13.3632,https://worthajourney.com/canyons-gorges/#garnitzenklamm
+20,Sumidero Canyon,River canyon,Chiapa de Corzo,Mexico,MX,16.8338,-93.0665,https://worthajourney.com/canyons-gorges/#sumidero-canyon
+21,Liechtensteinklamm,Gorge walk,St. Johann im Pongau,Austria,AT,47.3134,13.1897,https://worthajourney.com/canyons-gorges/#liechtensteinklamm
+22,Chahkooh Canyon,Gorge walk,Qeshm,Iran,IR,26.6833,55.5374,https://worthajourney.com/canyons-gorges/#chahkooh-canyon
+23,Wadi Shab,Gorge walk,Tiwi,Oman,OM,22.8389,59.2469,https://worthajourney.com/canyons-gorges/#wadi-shab
+24,Urique Canyon,Rim canyon,Cerocahui,Mexico,MX,27.2345,-107.9407,https://worthajourney.com/canyons-gorges/#urique-canyon
+25,Itaimbezinho Canyon,Rim canyon,Cambará do Sul,Brazil,BR,-29.1847,-50.0836,https://worthajourney.com/canyons-gorges/#itaimbezinho-canyon
+26,Peek-a-Boo Gulch,Slot canyon,Escalante,United States,US,37.4818,-111.2167,https://worthajourney.com/canyons-gorges/#peek-a-boo-gulch
+27,Fern Canyon,Gorge walk,Orick,United States,US,41.4016,-124.0650,https://worthajourney.com/canyons-gorges/#fern-canyon
+28,Sunday Gulch,Gorge walk,Custer State Park,United States,US,43.8459,-103.5603,https://worthajourney.com/canyons-gorges/#sunday-gulch
+29,Viana Canyons,Rim canyon,Bom Jesus,Brazil,BR,-9.3729,-44.1621,https://worthajourney.com/canyons-gorges/#viana-canyons
+30,Tiger Leaping Gorge,Gorge walk,Yunnan,China,CN,27.1894,100.1139,https://worthajourney.com/canyons-gorges/#tiger-leaping-gorge
+31,Kourtaliotiko Gorge,River canyon,Crete,Greece,GR,35.1968,24.4663,https://worthajourney.com/canyons-gorges/#kourtaliotiko-gorge
+32,Aare Gorge,Gorge walk,Meiringen,Switzerland,CH,46.7192,8.2122,https://worthajourney.com/canyons-gorges/#aare-gorge
+33,Valla Canyon,Rim canyon,Pınarbaşı,Turkey,TR,41.7200,33.0732,https://worthajourney.com/canyons-gorges/#valla-canyon
+34,Takachiho Gorge,River canyon,Takachiho,Japan,JP,32.7013,131.3007,https://worthajourney.com/canyons-gorges/#takachiho-gorge
+35,Gorropu Gorge,Gorge walk,Sardinia,Italy,IT,40.1848,9.5024,https://worthajourney.com/canyons-gorges/#gorropu-gorge
+36,Waimea Canyon,Rim canyon,Kauai,United States,US,22.0727,-159.6656,https://worthajourney.com/canyons-gorges/#waimea-canyon
+37,Masca Gorge,Gorge walk,Tenerife,Spain,ES,28.2947,-16.8510,https://worthajourney.com/canyons-gorges/#masca-gorge
+38,Sulak Canyon,Rim canyon,Dagestan,Russia,RU,43.0102,46.8261,https://worthajourney.com/canyons-gorges/#sulak-canyon
+39,Black Canyon of the Gunnison,Rim canyon,Montrose,United States,US,38.5754,-107.7416,https://worthajourney.com/canyons-gorges/#black-canyon-of-the-gunnison
+40,Gorges de la Carança,Gorge walk,Thuès-Entre-Valls,France,FR,42.5092,2.2248,https://worthajourney.com/canyons-gorges/#gorges-de-la-caranca
+41,Suchá Belá,Gorge walk,Slovak Paradise,Slovakia,SK,48.9577,20.3827,https://worthajourney.com/canyons-gorges/#sucha-bela
+42,Canyon de Chelly,Rim canyon,Chinle,United States,US,36.1191,-109.3197,https://worthajourney.com/canyons-gorges/#canyon-de-chelly
+43,Panta Vrechi Gorge,Gorge walk,Evrytania,Greece,GR,38.7580,21.7468,https://worthajourney.com/canyons-gorges/#panta-vrechi-gorge
+44,Partnachklamm,Gorge walk,Garmisch-Partenkirchen,Germany,DE,47.4676,11.1200,https://worthajourney.com/canyons-gorges/#partnachklamm
+45,Horseshoe Bend,Rim canyon,Page,United States,US,36.8768,-111.5057,https://worthajourney.com/canyons-gorges/#horseshoe-bend
+46,Fortaleza Canyon,Rim canyon,Cambará do Sul,Brazil,BR,-29.0627,-49.9565,https://worthajourney.com/canyons-gorges/#fortaleza-canyon
+47,Tscheppaschlucht,Gorge walk,Ferlach,Austria,AT,46.4970,14.2837,https://worthajourney.com/canyons-gorges/#tscheppaschlucht
+48,Bílá Opava Valley,Gorge walk,Karlova Studánka,Czechia,CZ,50.0801,17.2656,https://worthajourney.com/canyons-gorges/#bila-opava-valley
+49,Dunajec Gorge,Gorge walk,Pieniny,Slovakia,SK,49.4169,20.4367,https://worthajourney.com/canyons-gorges/#dunajec-gorge
+50,Kitzlochklamm,Gorge walk,Taxenbach,Austria,AT,47.2888,12.9758,https://worthajourney.com/canyons-gorges/#kitzlochklamm
+51,Espraiado Canyon,Rim canyon,Santa Catarina,Brazil,BR,-27.9937,-49.3342,https://worthajourney.com/canyons-gorges/#espraiado-canyon
+52,Gorges de Galamus,Rim canyon,Saint-Paul-de-Fenouillet,France,FR,42.8366,2.4799,https://worthajourney.com/canyons-gorges/#gorges-de-galamus
+53,Atuel Canyon,Rim canyon,San Rafael,Argentina,AR,-34.8463,-68.5112,https://worthajourney.com/canyons-gorges/#atuel-canyon
+54,Red Canyon,Rim canyon,Colorado National Monument,United States,US,39.0308,-108.6863,https://worthajourney.com/canyons-gorges/#red-canyon
+55,Zion Canyon,Rim canyon,Springdale,United States,US,37.1650,-113.0119,https://worthajourney.com/canyons-gorges/#zion-canyon
+56,Colca Canyon,Rim canyon,Arequipa,Peru,PE,-15.6574,-72.1771,https://worthajourney.com/canyons-gorges/#colca-canyon
+57,Wolfsklamm,Gorge walk,Stans,Austria,AT,47.3725,11.7108,https://worthajourney.com/canyons-gorges/#wolfsklamm
+58,Patuna Chasm,Gorge walk,Martinborough,New Zealand,NZ,-41.3387,175.4079,https://worthajourney.com/canyons-gorges/#patuna-chasm
+59,Wadi Nakhr,Rim canyon,Jebel Shams,Oman,OM,23.1934,57.2021,https://worthajourney.com/canyons-gorges/#wadi-nakhr
+60,Valle delle Ferriere,Gorge walk,Amalfi,Italy,IT,40.6481,14.5904,https://worthajourney.com/canyons-gorges/#valle-delle-ferriere
+61,La Hermida Gorge,Rim canyon,Cantabria,Spain,ES,43.2471,-4.5934,https://worthajourney.com/canyons-gorges/#la-hermida-gorge
+62,Ardèche Gorges,Rim canyon,Vallon-Pont-d’Arc,France,FR,44.3650,4.4439,https://worthajourney.com/canyons-gorges/#ardeche-gorges
+63,Nevidio Canyon,Slot canyon,Šavnik,Montenegro,ME,42.9907,19.0677,https://worthajourney.com/canyons-gorges/#nevidio-canyon
+64,Chicamocha Canyon,Rim canyon,Santander,Colombia,CO,6.8159,-72.9897,https://worthajourney.com/canyons-gorges/#chicamocha-canyon
+65,Quebrada de las Conchas,Rim canyon,Cafayate,Argentina,AR,-26.0086,-65.8136,https://worthajourney.com/canyons-gorges/#quebrada-de-las-conchas
+66,Linville Gorge,Rim canyon,North Carolina,United States,US,35.9049,-81.8949,https://worthajourney.com/canyons-gorges/#linville-gorge
+67,Barranco de la Hoz,Rim canyon,Corduente,Spain,ES,40.8297,-2.0001,https://worthajourney.com/canyons-gorges/#barranco-de-la-hoz
+68,Hornád Gorge,Gorge walk,Slovak Paradise,Slovakia,SK,48.9552,20.4149,https://worthajourney.com/canyons-gorges/#hornad-gorge
+69,Flume Gorge,Gorge walk,Lincoln,United States,US,44.0981,-71.6659,https://worthajourney.com/canyons-gorges/#flume-gorge
+70,Fish River Canyon,Rim canyon,Hobas,Namibia,NA,-27.7828,17.6068,https://worthajourney.com/canyons-gorges/#fish-river-canyon
+71,Tazı Canyon,Rim canyon,Manavgat,Turkey,TR,37.2366,31.1766,https://worthajourney.com/canyons-gorges/#taz-canyon
+72,Ehrbachklamm,Gorge walk,Hunsrück,Germany,DE,50.1974,7.4627,https://worthajourney.com/canyons-gorges/#ehrbachklamm
+73,Funil Canyon,Rim canyon,Bom Jardim da Serra,Brazil,BR,-28.3437,-49.5338,https://worthajourney.com/canyons-gorges/#funil-canyon
+74,Zrmanja Canyon,Rim canyon,Obrovac,Croatia,HR,44.1619,15.8488,https://worthajourney.com/canyons-gorges/#zrmanja-canyon
+75,Saklıkent Gorge,Gorge walk,Fethiye,Turkey,TR,36.4743,29.4012,https://worthajourney.com/canyons-gorges/#saklkent-gorge
+76,Eldorado Canyon,Gorge walk,Eldorado Springs,United States,US,39.9290,-105.2941,https://worthajourney.com/canyons-gorges/#eldorado-canyon
+77,Teufelsschlucht,Gorge walk,Ernzen,Germany,DE,49.8470,6.4351,https://worthajourney.com/canyons-gorges/#teufelsschlucht
+78,Garganta de los Infiernos,Gorge walk,Jerte,Spain,ES,40.2117,-5.6900,https://worthajourney.com/canyons-gorges/#garganta-de-los-infiernos
+79,Río Claro Canyon,River canyon,Antioquia,Colombia,CO,5.9010,-74.8569,https://worthajourney.com/canyons-gorges/#rio-claro-canyon
+80,Uvac Canyon,Rim canyon,Sjenica,Serbia,RS,43.4084,19.9443,https://worthajourney.com/canyons-gorges/#uvac-canyon
+81,Big Cottonwood Canyon,Rim canyon,Salt Lake City,United States,US,40.6197,-111.7893,https://worthajourney.com/canyons-gorges/#big-cottonwood-canyon
+82,Indian Canyons,Gorge walk,Palm Springs,United States,US,33.7296,-116.5514,https://worthajourney.com/canyons-gorges/#indian-canyons
+83,Little Wild Horse Canyon,Slot canyon,San Rafael Swell,United States,US,38.5829,-110.8029,https://worthajourney.com/canyons-gorges/#little-wild-horse-canyon
+84,Ausable Chasm,Gorge walk,Keeseville,United States,US,44.5248,-73.4615,https://worthajourney.com/canyons-gorges/#ausable-chasm
+85,Wadi Lajab,Gorge walk,Jazan,Saudi Arabia,SA,17.6048,42.9301,https://worthajourney.com/canyons-gorges/#wadi-lajab
+86,Meiringskloof,Gorge walk,Fouriesburg,South Africa,ZA,-28.6044,28.2244,https://worthajourney.com/canyons-gorges/#meiringskloof
+87,Wadi Al-Disah,River canyon,Tabuk,Saudi Arabia,SA,27.6319,36.5506,https://worthajourney.com/canyons-gorges/#wadi-al-disah
+88,Painted Canyon,Slot canyon,Mecca,United States,US,33.6190,-115.9994,https://worthajourney.com/canyons-gorges/#painted-canyon
+89,Gola dell’Infernaccio,Gorge walk,Montefortino,Italy,IT,42.9210,13.2793,https://worthajourney.com/canyons-gorges/#gola-dellinfernaccio
+90,Wadi El Weshwash,Gorge walk,Nuweiba,Egypt,EG,29.1621,34.6451,https://worthajourney.com/canyons-gorges/#wadi-el-weshwash
+91,Fjaðrárgljúfur,Rim canyon,Kirkjubæjarklaustur,Iceland,IS,63.7713,-18.1718,https://worthajourney.com/canyons-gorges/#fjarargljufur
+92,Vero River Canyon,Gorge walk,Alquézar,Spain,ES,42.1811,0.0310,https://worthajourney.com/canyons-gorges/#vero-river-canyon
+93,Provo Canyon,Rim canyon,Provo,United States,US,40.3281,-111.6339,https://worthajourney.com/canyons-gorges/#provo-canyon
+94,Red Canyon,Rim canyon,Flaming Gorge,United States,US,40.8935,-109.5611,https://worthajourney.com/canyons-gorges/#red-canyon-flaming-gorge
+95,Marafa Hell’s Kitchen,Gorge walk,Marafa,Kenya,KE,-3.0264,39.9639,https://worthajourney.com/canyons-gorges/#marafa-hells-kitchen
+96,Dismals Canyon,Gorge walk,Phil Campbell,United States,US,34.3262,-87.7816,https://worthajourney.com/canyons-gorges/#dismals-canyon
+97,Boynton Canyon,Gorge walk,Sedona,United States,US,34.9074,-111.8485,https://worthajourney.com/canyons-gorges/#boynton-canyon
+98,Enfield Glen,Gorge walk,Ithaca,United States,US,42.3993,-76.5695,https://worthajourney.com/canyons-gorges/#enfield-glen
+99,Hamersley Gorge,Gorge walk,Karijini,Australia,AU,-22.2583,117.9862,https://worthajourney.com/canyons-gorges/#hamersley-gorge
+100,Gole dell’Alcantara,Gorge walk,Sicily,Italy,IT,37.8790,15.1757,https://worthajourney.com/canyons-gorges/#gole-dellalcantara

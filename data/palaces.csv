@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Peleș Castle,Castle,Sinaia,Romania,RO,45.3600,25.5426,https://worthajourney.com/palaces/#peles-castle
+2,Hluboká Castle,Castle,Hluboká nad Vltavou,Czechia,CZ,49.0511,14.4416,https://worthajourney.com/palaces/#hluboka-castle
+3,Mehrangarh Fort,Castle,Jodhpur,India,IN,26.2982,73.0186,https://worthajourney.com/palaces/#mehrangarh-fort
+4,Frederiksborg Castle,Castle,Hillerød,Denmark,DK,55.9350,12.3013,https://worthajourney.com/palaces/#frederiksborg-castle
+5,Alhambra,Palace,Granada,Spain,ES,37.1761,-3.5881,https://worthajourney.com/palaces/#alhambra
+6,Peterhof Palace,Palace,Peterhof,Russia,RU,59.8863,29.9086,https://worthajourney.com/palaces/#peterhof-palace
+7,Château de Chambord,Château,Chambord,France,FR,47.6158,1.5169,https://worthajourney.com/palaces/#chateau-de-chambord
+8,Catherine Palace,Palace,Pushkin,Russia,RU,59.7161,30.3957,https://worthajourney.com/palaces/#catherine-palace
+9,Bojnice Castle,Castle,Bojnice,Slovakia,SK,48.7802,18.5775,https://worthajourney.com/palaces/#bojnice-castle
+10,Cragside,Stately home,Rothbury,United Kingdom,GB,55.3162,-1.8912,https://worthajourney.com/palaces/#cragside
+11,Lednice Castle,Château,Lednice,Czechia,CZ,48.8015,16.8057,https://worthajourney.com/palaces/#lednice-castle
+12,Royal Palace of Caserta,Palace,Caserta,Italy,IT,41.0732,14.3271,https://worthajourney.com/palaces/#royal-palace-of-caserta
+13,Qasr Al Watan,Palace,Abu Dhabi,United Arab Emirates,AE,24.4594,54.3076,https://worthajourney.com/palaces/#qasr-al-watan
+14,Forbidden City,Palace,Beijing,China,CN,39.9163,116.3972,https://worthajourney.com/palaces/#forbidden-city
+15,Mysore Palace,Palace,Mysuru,India,IN,12.3052,76.6552,https://worthajourney.com/palaces/#mysore-palace
+16,Neuschwanstein Castle,Castle,Schwangau,Germany,DE,47.5576,10.7498,https://worthajourney.com/palaces/#neuschwanstein-castle
+17,Palace of Versailles,Palace,Versailles,France,FR,48.8049,2.1204,https://worthajourney.com/palaces/#palace-of-versailles
+18,Schönbrunn Palace,Palace,Vienna,Austria,AT,48.1858,16.3128,https://worthajourney.com/palaces/#schonbrunn-palace
+19,Dolmabahçe Palace,Palace,Istanbul,Turkey,TR,41.0392,29.0005,https://worthajourney.com/palaces/#dolmabahce-palace
+20,De Haar Castle,Castle,Haarzuilens,Netherlands,NL,52.1214,4.9863,https://worthajourney.com/palaces/#de-haar-castle
+21,Schwerin Castle,Castle,Schwerin,Germany,DE,53.6247,11.4182,https://worthajourney.com/palaces/#schwerin-castle
+22,Český Krumlov Castle,Castle,Český Krumlov,Czechia,CZ,48.8128,14.3140,https://worthajourney.com/palaces/#cesky-krumlov-castle
+23,Villa del Balbianello,Villa,Lenno,Italy,IT,45.9653,9.2025,https://worthajourney.com/palaces/#villa-del-balbianello
+24,Topkapı Palace,Palace,Istanbul,Turkey,TR,41.0115,28.9834,https://worthajourney.com/palaces/#topkap-palace
+25,Château de Chenonceau,Château,Chenonceaux,France,FR,47.3249,1.0703,https://worthajourney.com/palaces/#chateau-de-chenonceau
+26,Chapultepec Castle,Castle,Mexico City,Mexico,MX,19.4204,-99.1819,https://worthajourney.com/palaces/#chapultepec-castle
+27,Penrhyn Castle,Stately home,Bangor,United Kingdom,GB,53.2257,-4.0947,https://worthajourney.com/palaces/#penrhyn-castle
+28,Royal Palace of Madrid,Palace,Madrid,Spain,ES,40.4180,-3.7143,https://worthajourney.com/palaces/#royal-palace-of-madrid
+29,City Palace,Palace,Udaipur,India,IN,24.5764,73.6835,https://worthajourney.com/palaces/#city-palace
+30,Windsor Castle,Castle,Windsor,United Kingdom,GB,51.4839,-0.6044,https://worthajourney.com/palaces/#windsor-castle
+31,Linderhof Palace,Palace,Ettal,Germany,DE,47.5716,10.9608,https://worthajourney.com/palaces/#linderhof-palace
+32,Biltmore Estate,Stately home,Asheville,United States,US,35.5528,-82.5637,https://worthajourney.com/palaces/#biltmore-estate
+33,Würzburg Residence,Palace,Würzburg,Germany,DE,49.7927,9.9391,https://worthajourney.com/palaces/#wurzburg-residence
+34,Amber Palace,Castle,Jaipur,India,IN,26.9855,75.8513,https://worthajourney.com/palaces/#amber-palace
+35,Villa d’Este,Villa,Tivoli,Italy,IT,41.9633,12.7958,https://worthajourney.com/palaces/#villa-deste
+36,Łańcut Castle,Castle,Łańcut,Poland,PL,50.0687,22.2346,https://worthajourney.com/palaces/#lancut-castle
+37,Hampton Court Palace,Palace,London,United Kingdom,GB,51.4036,-0.3378,https://worthajourney.com/palaces/#hampton-court-palace
+38,Herrenchiemsee Palace,Palace,Chiemsee,Germany,DE,47.8607,12.4028,https://worthajourney.com/palaces/#herrenchiemsee-palace
+39,Château de Fontainebleau,Château,Fontainebleau,France,FR,48.4021,2.6995,https://worthajourney.com/palaces/#chateau-de-fontainebleau
+40,Pszczyna Castle,Castle,Pszczyna,Poland,PL,49.9782,18.9404,https://worthajourney.com/palaces/#pszczyna-castle
+41,Hohenzollern Castle,Castle,Hechingen,Germany,DE,48.3236,8.9674,https://worthajourney.com/palaces/#hohenzollern-castle
+42,Waddesdon Manor,Stately home,Aylesbury,United Kingdom,GB,51.8423,-0.9376,https://worthajourney.com/palaces/#waddesdon-manor
+43,Doge’s Palace,Palace,Venice,Italy,IT,45.4337,12.3404,https://worthajourney.com/palaces/#doges-palace
+44,Pena Palace,Palace,Sintra,Portugal,PT,38.7876,-9.3906,https://worthajourney.com/palaces/#pena-palace
+45,Summer Palace,Palace,Beijing,China,CN,40.0000,116.2755,https://worthajourney.com/palaces/#summer-palace
+46,Potala Palace,Palace,Lhasa,China,CN,29.6555,91.1186,https://worthajourney.com/palaces/#potala-palace
+47,Miramare Castle,Castle,Trieste,Italy,IT,45.7025,13.7125,https://worthajourney.com/palaces/#miramare-castle
+48,Hearst Castle,Stately home,San Simeon,United States,US,35.6850,-121.1700,https://worthajourney.com/palaces/#hearst-castle
+49,Royal Alcázar of Seville,Palace,Seville,Spain,ES,37.3831,-5.9902,https://worthajourney.com/palaces/#royal-alcazar-of-seville
+50,Wilanów Palace,Palace,Warsaw,Poland,PL,52.1652,21.0905,https://worthajourney.com/palaces/#wilanow-palace
+51,Manial Palace,Palace,Cairo,Egypt,EG,30.0288,31.2299,https://worthajourney.com/palaces/#manial-palace
+52,Grand Palace,Palace,Bangkok,Thailand,TH,13.7499,100.4916,https://worthajourney.com/palaces/#grand-palace
+53,Kronborg Castle,Castle,Helsingør,Denmark,DK,56.0393,12.6218,https://worthajourney.com/palaces/#kronborg-castle
+54,Villa Farnese,Villa,Caprarola,Italy,IT,42.3286,12.2372,https://worthajourney.com/palaces/#villa-farnese
+55,Palazzo Borromeo,Palace,Isola Bella,Italy,IT,45.8962,8.5261,https://worthajourney.com/palaces/#palazzo-borromeo
+56,Drottningholm Palace,Palace,Stockholm,Sweden,SE,59.3217,17.8868,https://worthajourney.com/palaces/#drottningholm-palace
+57,Abdeen Palace,Palace,Cairo,Egypt,EG,30.0432,31.2472,https://worthajourney.com/palaces/#abdeen-palace
+58,Augustusburg Palace,Palace,Brühl,Germany,DE,50.8284,6.9079,https://worthajourney.com/palaces/#augustusburg-palace
+59,Katsura Imperial Villa,Villa,Kyoto,Japan,JP,34.9840,135.7096,https://worthajourney.com/palaces/#katsura-imperial-villa
+60,Golestan Palace,Palace,Tehran,Iran,IR,35.6798,51.4205,https://worthajourney.com/palaces/#golestan-palace
+61,Royal Palace of Olite,Palace,Olite,Spain,ES,42.4817,-1.6494,https://worthajourney.com/palaces/#royal-palace-of-olite
+62,Rundāle Palace,Palace,Pilsrundāle,Latvia,LV,56.4134,24.0245,https://worthajourney.com/palaces/#rundale-palace
+63,Château de Vaux-le-Vicomte,Château,Maincy,France,FR,48.5658,2.7141,https://worthajourney.com/palaces/#chateau-de-vaux-le-vicomte
+64,Château d'Ussé,Château,Rigny-Ussé,France,FR,47.2499,0.2917,https://worthajourney.com/palaces/#chateau-d-usse
+65,Blenheim Palace,Stately home,Woodstock,United Kingdom,GB,51.8414,-1.3610,https://worthajourney.com/palaces/#blenheim-palace
+66,Dunrobin Castle,Castle,Golspie,United Kingdom,GB,57.9818,-3.9455,https://worthajourney.com/palaces/#dunrobin-castle
+67,Palazzo Pitti,Palace,Florence,Italy,IT,43.7652,11.2500,https://worthajourney.com/palaces/#palazzo-pitti
+68,Cesvaine Palace,Stately home,Cesvaine,Latvia,LV,56.9695,26.3127,https://worthajourney.com/palaces/#cesvaine-palace
+69,Changdeokgung,Palace,Seoul,South Korea,KR,37.5794,126.9910,https://worthajourney.com/palaces/#changdeokgung
+70,Catete Palace,Palace,Rio de Janeiro,Brazil,BR,-22.9259,-43.1764,https://worthajourney.com/palaces/#catete-palace
+71,Buckingham Palace,Palace,London,United Kingdom,GB,51.5014,-0.1419,https://worthajourney.com/palaces/#buckingham-palace
+72,Alnwick Castle,Castle,Alnwick,United Kingdom,GB,55.4156,-1.7059,https://worthajourney.com/palaces/#alnwick-castle
+73,Quinta da Regaleira,Stately home,Sintra,Portugal,PT,38.7963,-9.3960,https://worthajourney.com/palaces/#quinta-da-regaleira
+74,Hofburg,Palace,Vienna,Austria,AT,48.2057,16.3648,https://worthajourney.com/palaces/#hofburg
+75,Žleby Chateau,Château,Žleby,Czechia,CZ,49.8883,15.4840,https://worthajourney.com/palaces/#zleby-chateau
+76,Gyeongbokgung Palace,Palace,Seoul,South Korea,KR,37.5796,126.9770,https://worthajourney.com/palaces/#gyeongbokgung-palace
+77,Imperial Palace,Palace,Petrópolis,Brazil,BR,-22.5082,-43.1752,https://worthajourney.com/palaces/#imperial-palace
+78,Trakošćan Castle,Castle,Lepoglava,Croatia,HR,46.2578,15.9451,https://worthajourney.com/palaces/#trakoscan-castle
+79,Arundel Castle,Castle,Arundel,United Kingdom,GB,50.8563,-0.5539,https://worthajourney.com/palaces/#arundel-castle
+80,Nijō Castle,Castle,Kyoto,Japan,JP,35.0140,135.7484,https://worthajourney.com/palaces/#nijo-castle
+81,Royal Palace,Palace,Stockholm,Sweden,SE,59.3268,18.0717,https://worthajourney.com/palaces/#royal-palace
+82,Mount Stuart,Stately home,Rothesay,United Kingdom,GB,55.7917,-5.0192,https://worthajourney.com/palaces/#mount-stuart
+83,Royal Palace of Gödöllő,Palace,Gödöllő,Hungary,HU,47.5960,19.3476,https://worthajourney.com/palaces/#royal-palace-of-godollo
+84,Prague Castle,Castle,Prague,Czechia,CZ,50.0911,14.4016,https://worthajourney.com/palaces/#prague-castle
+85,Chatsworth House,Stately home,Bakewell,United Kingdom,GB,53.2275,-1.6114,https://worthajourney.com/palaces/#chatsworth-house
+86,Royal Castle,Castle,Warsaw,Poland,PL,52.2477,21.0141,https://worthajourney.com/palaces/#royal-castle
+87,Royal Palace of Turin,Palace,Turin,Italy,IT,45.0728,7.6863,https://worthajourney.com/palaces/#royal-palace-of-turin
+88,Sanssouci Palace,Palace,Potsdam,Germany,DE,52.4042,13.0385,https://worthajourney.com/palaces/#sanssouci-palace
+89,Wawel Royal Castle,Castle,Kraków,Poland,PL,50.0541,19.9354,https://worthajourney.com/palaces/#wawel-royal-castle
+90,Ajuda National Palace,Palace,Lisbon,Portugal,PT,38.7076,-9.1980,https://worthajourney.com/palaces/#ajuda-national-palace
+91,Yusupov Palace,Palace,St Petersburg,Russia,RU,59.9279,30.3003,https://worthajourney.com/palaces/#yusupov-palace
+92,Rosenborg Castle,Castle,Copenhagen,Denmark,DK,55.6858,12.5773,https://worthajourney.com/palaces/#rosenborg-castle
+93,Château Royal d'Amboise,Château,Amboise,France,FR,47.4137,0.9861,https://worthajourney.com/palaces/#chateau-royal-d-amboise
+94,Festetics Palace,Stately home,Keszthely,Hungary,HU,46.7706,17.2421,https://worthajourney.com/palaces/#festetics-palace
+95,Książ Castle,Castle,Wałbrzych,Poland,PL,50.8423,16.2916,https://worthajourney.com/palaces/#ksiaz-castle
+96,Palazzo Te,Palace,Mantua,Italy,IT,45.1475,10.7866,https://worthajourney.com/palaces/#palazzo-te
+97,Château de Chantilly,Château,Chantilly,France,FR,49.1937,2.4855,https://worthajourney.com/palaces/#chateau-de-chantilly
+98,Alcázar de Segovia,Castle,Segovia,Spain,ES,40.9526,-4.1325,https://worthajourney.com/palaces/#alcazar-de-segovia
+99,Palazzina di Caccia di Stupinigi,Villa,Nichelino,Italy,IT,44.9953,7.6046,https://worthajourney.com/palaces/#palazzina-di-caccia-di-stupinigi
+100,Ducal Palace,Palace,Mantua,Italy,IT,45.1603,10.7978,https://worthajourney.com/palaces/#ducal-palace

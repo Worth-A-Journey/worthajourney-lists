@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Krasnodar Park,City park,Krasnodar,Russia,RU,45.0416,39.0318,https://worthajourney.com/parks/#krasnodar-park
+2,Gorky Park,City park,Kharkiv,Ukraine,UA,50.0163,36.2467,https://worthajourney.com/parks/#gorky-park
+3,Golden Gate Park,City park,San Francisco,United States,US,37.7689,-122.4830,https://worthajourney.com/parks/#golden-gate-park
+4,Peterhof,Palace park,Peterhof,Russia,RU,59.8863,29.9086,https://worthajourney.com/parks/#peterhof
+5,Stanley Park,City park,Vancouver,Canada,CA,49.3043,-123.1443,https://worthajourney.com/parks/#stanley-park
+6,Gathering Place,City park,Tulsa,United States,US,36.1252,-95.9840,https://worthajourney.com/parks/#gathering-place
+7,El Retiro,City park,Madrid,Spain,ES,40.4153,-3.6835,https://worthajourney.com/parks/#el-retiro
+8,Gardens of Versailles,Palace park,Versailles,France,FR,48.8059,2.1163,https://worthajourney.com/parks/#gardens-of-versailles
+9,Sofiyivka Park,Landscape park,Uman,Ukraine,UA,48.7635,30.2360,https://worthajourney.com/parks/#sofiyivka-park
+10,Catherine Park,Palace park,Pushkin,Russia,RU,59.7132,30.3935,https://worthajourney.com/parks/#catherine-park
+11,Forest Park,City park,St. Louis,United States,US,38.6372,-90.2858,https://worthajourney.com/parks/#forest-park
+12,Central Park,City park,New York,United States,US,40.7826,-73.9656,https://worthajourney.com/parks/#central-park
+13,Schönbrunn Palace Park,Palace park,Vienna,Austria,AT,48.1803,16.3098,https://worthajourney.com/parks/#schonbrunn-palace-park
+14,Parc des Buttes-Chaumont,City park,Paris,France,FR,48.8809,2.3828,https://worthajourney.com/parks/#parc-des-buttes-chaumont
+15,Pavlovsk Park,Landscape park,Pavlovsk,Russia,RU,59.6945,30.4662,https://worthajourney.com/parks/#pavlovsk-park
+16,Park Sonsbeek,City park,Arnhem,Netherlands,NL,51.9914,5.9041,https://worthajourney.com/parks/#park-sonsbeek
+17,Stourhead,Landscape park,Stourton,United Kingdom,GB,51.1051,-2.3179,https://worthajourney.com/parks/#stourhead
+18,Gardens of Villandry,Palace park,Villandry,France,FR,47.3402,0.5148,https://worthajourney.com/parks/#gardens-of-villandry
+19,Englischer Garten,City park,Munich,Germany,DE,48.1642,11.6056,https://worthajourney.com/parks/#englischer-garten
+20,Vondelpark,City park,Amsterdam,Netherlands,NL,52.3580,4.8686,https://worthajourney.com/parks/#vondelpark
+21,Nicolae Romanescu Park,City park,Craiova,Romania,RO,44.3019,23.7992,https://worthajourney.com/parks/#nicolae-romanescu-park
+22,Hyde Park,City park,London,United Kingdom,GB,51.5074,-0.1641,https://worthajourney.com/parks/#hyde-park
+23,Frogner Park,City park,Oslo,Norway,NO,59.9270,10.7009,https://worthajourney.com/parks/#frogner-park
+24,Łazienki Park,Palace park,Warsaw,Poland,PL,52.2147,21.0329,https://worthajourney.com/parks/#lazienki-park
+25,Jardin du Luxembourg,City park,Paris,France,FR,48.8466,2.3363,https://worthajourney.com/parks/#jardin-du-luxembourg
+26,Villa d'Este,Palace park,Tivoli,Italy,IT,41.9633,12.7958,https://worthajourney.com/parks/#villa-d-este
+27,Balboa Park,City park,San Diego,United States,US,32.7341,-117.1446,https://worthajourney.com/parks/#balboa-park
+28,Phoenix Park,City park,Dublin,Ireland,IE,53.3559,-6.3298,https://worthajourney.com/parks/#phoenix-park
+29,Bosque de Chapultepec,City park,Mexico City,Mexico,MX,19.4195,-99.1895,https://worthajourney.com/parks/#bosque-de-chapultepec
+30,Tiergarten,City park,Berlin,Germany,DE,52.5142,13.3592,https://worthajourney.com/parks/#tiergarten
+31,Parque de María Luisa,City park,Seville,Spain,ES,37.3742,-5.9872,https://worthajourney.com/parks/#parque-de-maria-luisa
+32,Lumphini Park,City park,Bangkok,Thailand,TH,13.7314,100.5417,https://worthajourney.com/parks/#lumphini-park
+33,Studley Royal,Landscape park,Ripon,United Kingdom,GB,54.1095,-1.5819,https://worthajourney.com/parks/#studley-royal
+34,Jardín del Príncipe,Palace park,Aranjuez,Spain,ES,40.0392,-3.5967,https://worthajourney.com/parks/#jardin-del-principe
+35,Bergpark Wilhelmshöhe,Landscape park,Kassel,Germany,DE,51.3151,9.4155,https://worthajourney.com/parks/#bergpark-wilhelmshohe
+36,Sveti Vrach Park,City park,Sandanski,Bulgaria,BG,41.5700,23.2835,https://worthajourney.com/parks/#sveti-vrach-park
+37,Regent's Park,City park,London,United Kingdom,GB,51.5333,-0.1558,https://worthajourney.com/parks/#regent-s-park
+38,Parc de la Tête d'Or,City park,Lyon,France,FR,45.7756,4.8505,https://worthajourney.com/parks/#parc-de-la-tete-d-or
+39,Wörlitzer Park,Landscape park,Wörlitz,Germany,DE,51.8460,12.4207,https://worthajourney.com/parks/#worlitzer-park
+40,East Coast Park,City park,Singapore,Singapore,SG,1.3008,103.9122,https://worthajourney.com/parks/#east-coast-park
+41,Parque Ibirapuera,City park,São Paulo,Brazil,BR,-23.5860,-46.6584,https://worthajourney.com/parks/#parque-ibirapuera
+42,Lednice Castle Park,Palace park,Lednice,Czechia,CZ,48.8016,16.8057,https://worthajourney.com/parks/#lednice-castle-park
+43,Pena Park,Palace park,Sintra,Portugal,PT,38.7884,-9.3886,https://worthajourney.com/parks/#pena-park
+44,Parc du Thabor,City park,Rennes,France,FR,48.1144,-1.6695,https://worthajourney.com/parks/#parc-du-thabor
+45,Sea Garden,City park,Varna,Bulgaria,BG,43.2079,27.9316,https://worthajourney.com/parks/#sea-garden
+46,Mount Royal Park,City park,Montreal,Canada,CA,45.5016,-73.5932,https://worthajourney.com/parks/#mount-royal-park
+47,Villa Borghese,City park,Rome,Italy,IT,41.9139,12.4854,https://worthajourney.com/parks/#villa-borghese
+48,Al-Azhar Park,City park,Cairo,Egypt,EG,30.0414,31.2656,https://worthajourney.com/parks/#al-azhar-park
+49,Shalimar Gardens,Palace park,Lahore,Pakistan,PK,31.5843,74.3828,https://worthajourney.com/parks/#shalimar-gardens
+50,Oliwa Park,City park,Gdańsk,Poland,PL,54.4112,18.5621,https://worthajourney.com/parks/#oliwa-park
+51,Griffith Park,City park,Los Angeles,United States,US,34.1366,-118.2942,https://worthajourney.com/parks/#griffith-park
+52,Bois de la Cambre,City park,Brussels,Belgium,BE,50.8008,4.3828,https://worthajourney.com/parks/#bois-de-la-cambre
+53,Park of the Royal Palace of Caserta,Palace park,Caserta,Italy,IT,41.0774,14.3275,https://worthajourney.com/parks/#park-of-the-royal-palace-of-caserta
+54,Aterro do Flamengo,City park,Rio de Janeiro,Brazil,BR,-22.9300,-43.1724,https://worthajourney.com/parks/#aterro-do-flamengo
+55,The High Line,City park,New York,United States,US,40.7480,-74.0048,https://worthajourney.com/parks/#the-high-line
+56,Mirabell Gardens,Palace park,Salzburg,Austria,AT,47.8046,13.0423,https://worthajourney.com/parks/#mirabell-gardens
+57,Muskau Park,Landscape park,Bad Muskau,Germany,DE,51.5507,14.7231,https://worthajourney.com/parks/#muskau-park
+58,Benjakitti Park,City park,Bangkok,Thailand,TH,13.7292,100.5587,https://worthajourney.com/parks/#benjakitti-park
+59,Parco di Monza,City park,Monza,Italy,IT,45.6052,9.2797,https://worthajourney.com/parks/#parco-di-monza
+60,Zaryadye Park,City park,Moscow,Russia,RU,55.7515,37.6288,https://worthajourney.com/parks/#zaryadye-park
+61,Városliget,City park,Budapest,Hungary,HU,47.5158,19.0821,https://worthajourney.com/parks/#varosliget
+62,Pukekura Park,City park,New Plymouth,New Zealand,NZ,-39.0635,174.0801,https://worthajourney.com/parks/#pukekura-park
+63,Ramat Hanadiv,Landscape park,Zikhron Ya'akov,Israel,IL,32.5524,34.9455,https://worthajourney.com/parks/#ramat-hanadiv
+64,Jardín del Turia,City park,Valencia,Spain,ES,39.4769,-0.3697,https://worthajourney.com/parks/#jardin-del-turia
+65,Parque Tangamanga,City park,San Luis Potosí,Mexico,MX,22.1271,-101.0017,https://worthajourney.com/parks/#parque-tangamanga
+66,Park Śląski,City park,Chorzów,Poland,PL,50.2827,18.9796,https://worthajourney.com/parks/#park-slaski
+67,Yarkon Park,City park,Tel Aviv,Israel,IL,32.1007,34.8070,https://worthajourney.com/parks/#yarkon-park
+68,Frederiksborg Castle Gardens,Palace park,Hillerød,Denmark,DK,55.9385,12.3050,https://worthajourney.com/parks/#frederiksborg-castle-gardens
+69,Djurgården,City park,Stockholm,Sweden,SE,59.3263,18.1132,https://worthajourney.com/parks/#djurgarden
+70,Yıldız Park,City park,Istanbul,Turkey,TR,41.0491,29.0153,https://worthajourney.com/parks/#yldz-park
+71,Parque Barigui,City park,Curitiba,Brazil,BR,-25.4263,-49.3072,https://worthajourney.com/parks/#parque-barigui
+72,Hirosaki Park,City park,Hirosaki,Japan,JP,40.6077,140.4644,https://worthajourney.com/parks/#hirosaki-park
+73,Maksimir Park,City park,Zagreb,Croatia,HR,45.8244,16.0176,https://worthajourney.com/parks/#maksimir-park
+74,Parque Fundidora,City park,Monterrey,Mexico,MX,25.6787,-100.2842,https://worthajourney.com/parks/#parque-fundidora
+75,Nara Park,City park,Nara,Japan,JP,34.6850,135.8430,https://worthajourney.com/parks/#nara-park
+76,Frederiksberg Have,City park,Copenhagen,Denmark,DK,55.6748,12.5255,https://worthajourney.com/parks/#frederiksberg-have
+77,Parco Ciani,City park,Lugano,Switzerland,CH,46.0049,8.9586,https://worthajourney.com/parks/#parco-ciani
+78,Parco del Valentino,City park,Turin,Italy,IT,45.0514,7.6851,https://worthajourney.com/parks/#parco-del-valentino
+79,Boston Public Garden,City park,Boston,United States,US,42.3541,-71.0701,https://worthajourney.com/parks/#boston-public-garden
+80,Summer Garden,City park,Saint Petersburg,Russia,RU,59.9449,30.3355,https://worthajourney.com/parks/#summer-garden
+81,Parc de l'Orangerie,City park,Strasbourg,France,FR,48.5926,7.7748,https://worthajourney.com/parks/#parc-de-l-orangerie
+82,El Capricho,Landscape park,Madrid,Spain,ES,40.4559,-3.5992,https://worthajourney.com/parks/#el-capricho
+83,Kadriorg Park,Palace park,Tallinn,Estonia,EE,59.4389,24.7930,https://worthajourney.com/parks/#kadriorg-park
+84,Olympiapark,City park,Munich,Germany,DE,48.1754,11.5520,https://worthajourney.com/parks/#olympiapark
+85,Tsaritsyno,Palace park,Moscow,Russia,RU,55.6117,37.6861,https://worthajourney.com/parks/#tsaritsyno
+86,High Park,City park,Toronto,Canada,CA,43.6465,-79.4637,https://worthajourney.com/parks/#high-park
+87,Holyrood Park,City park,Edinburgh,United Kingdom,GB,55.9460,-3.1596,https://worthajourney.com/parks/#holyrood-park
+88,Monserrate Park,Palace park,Sintra,Portugal,PT,38.7942,-9.4206,https://worthajourney.com/parks/#monserrate-park
+89,Babelsberg Park,Landscape park,Potsdam,Germany,DE,52.4047,13.0942,https://worthajourney.com/parks/#babelsberg-park
+90,Hagley Park,City park,Christchurch,New Zealand,NZ,-43.5259,172.6206,https://worthajourney.com/parks/#hagley-park
+91,Schwetzingen Palace Gardens,Palace park,Schwetzingen,Germany,DE,49.3840,8.5708,https://worthajourney.com/parks/#schwetzingen-palace-gardens
+92,Bastejkalns,City park,Riga,Latvia,LV,56.9520,24.1105,https://worthajourney.com/parks/#bastejkalns
+93,Parc de Sceaux,Palace park,Sceaux,France,FR,48.7675,2.2965,https://worthajourney.com/parks/#parc-de-sceaux
+94,Parc de la Ciutadella,City park,Barcelona,Spain,ES,41.3881,2.1860,https://worthajourney.com/parks/#parc-de-la-ciutadella
+95,Parque do Sabiá,City park,Uberlândia,Brazil,BR,-18.9083,-48.2411,https://worthajourney.com/parks/#parque-do-sabia
+96,Windsor Great Park,Landscape park,Windsor,United Kingdom,GB,51.4241,-0.6176,https://worthajourney.com/parks/#windsor-great-park
+97,Discovery Park,City park,Seattle,United States,US,47.6613,-122.4171,https://worthajourney.com/parks/#discovery-park
+98,City Park,City park,New Orleans,United States,US,30.0034,-90.0924,https://worthajourney.com/parks/#city-park
+99,Jardins do Palácio de Cristal,City park,Porto,Portugal,PT,41.1483,-8.6255,https://worthajourney.com/parks/#jardins-do-palacio-de-cristal
+100,Lodhi Garden,City park,New Delhi,India,IN,28.5931,77.2197,https://worthajourney.com/parks/#lodhi-garden
