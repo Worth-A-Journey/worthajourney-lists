@@ -44,6 +44,11 @@ Worth a Journey publishes ranked lists of places worth travelling for, 100 of on
 
 `lists.csv` holds one row per list: slug, title, edition, venues, countries, url.
 
+## Country Guides & German Edition
+
+- Country Guides: [https://worthajourney.com/countries/](https://worthajourney.com/countries/) (80 national guides across 142 countries)
+- German Edition: [https://worthajourney.com/de/](https://worthajourney.com/de/) ([Die 50 besten Thermen Deutschlands](https://worthajourney.com/de/thermen/), [Länderübersicht](https://worthajourney.com/de/laender/))
+
 ## Columns
 
 | Column | Content |
