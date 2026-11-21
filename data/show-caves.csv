@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Postojna Cave,Dripstone cave,Postojna,Slovenia,SI,45.7830,14.2038,https://worthajourney.com/show-caves/#postojna-cave
-2,Cueva de Valporquero,Dripstone cave,Vegacervera,Spain,ES,42.9062,-5.5592,https://worthajourney.com/show-caves/#cueva-de-valporquero
-3,Javoříčské jeskyně,Dripstone cave,Javoříčko,Czechia,CZ,49.6703,16.9139,https://worthajourney.com/show-caves/#javoricske-jeskyne
-4,Paradise Cave,Dripstone cave,Phong Nha,Vietnam,VN,17.5195,106.2233,https://worthajourney.com/show-caves/#paradise-cave
-5,Domica,Dripstone cave,Dlhá Ves,Slovakia,SK,48.4777,20.4693,https://worthajourney.com/show-caves/#domica
-6,Gruta de las Maravillas,Dripstone cave,Aracena,Spain,ES,37.8911,-6.5659,https://worthajourney.com/show-caves/#gruta-de-las-maravillas
-7,Demänovská Cave of Liberty,Dripstone cave,Demänovská Dolina,Slovakia,SK,48.9984,19.5836,https://worthajourney.com/show-caves/#demanovska-cave-of-liberty
-8,Rajkova pećina,Dripstone cave,Majdanpek,Serbia,RS,44.4414,21.9530,https://worthajourney.com/show-caves/#rajkova-pecina
-9,Peștera Urșilor,Dripstone cave,Chișcău,Romania,RO,46.5540,22.5691,https://worthajourney.com/show-caves/#pestera-ursilor
-10,Aven Armand,Dripstone cave,Hures-la-Parade,France,FR,44.2213,3.3570,https://worthajourney.com/show-caves/#aven-armand
-11,Luray Caverns,Dripstone cave,Luray,United States,US,38.6645,-78.4832,https://worthajourney.com/show-caves/#luray-caverns
-12,Carlsbad Caverns,Dripstone cave,Carlsbad,United States,US,32.1370,-104.5438,https://worthajourney.com/show-caves/#carlsbad-caverns
-13,Škocjan Caves,River cave,Divača,Slovenia,SI,45.6631,13.9892,https://worthajourney.com/show-caves/#skocjan-caves
-14,Uhlovitsa Cave,Dripstone cave,Mogilitsa,Bulgaria,BG,41.5148,24.6588,https://worthajourney.com/show-caves/#uhlovitsa-cave
-15,Grottes de Bétharram,River cave,Saint-Pé-de-Bigorre,France,FR,43.1020,-0.1881,https://worthajourney.com/show-caves/#grottes-de-betharram
-16,Kong Lor Cave,River cave,Ban Kong Lor,Laos,LA,17.9586,104.7559,https://worthajourney.com/show-caves/#kong-lor-cave
-17,Gilindire Cave,Dripstone cave,Aydıncık,Turkey,TR,36.1304,33.4020,https://worthajourney.com/show-caves/#gilindire-cave
-18,Grotte de Choranche,Dripstone cave,Choranche,France,FR,45.0724,5.3977,https://worthajourney.com/show-caves/#grotte-de-choranche
-19,Ali Sadr Cave,River cave,Ali Sadr,Iran,IR,35.3051,48.3010,https://worthajourney.com/show-caves/#ali-sadr-cave
-20,Grotte des Demoiselles,Dripstone cave,Saint-Bauzille-de-Putois,France,FR,43.9075,3.7448,https://worthajourney.com/show-caves/#grotte-des-demoiselles
-21,Peștera Meziad,Dripstone cave,Meziad,Romania,RO,46.7629,22.4787,https://worthajourney.com/show-caves/#pestera-meziad
-22,Hoshino Cave,Dripstone cave,Minamidaito,Japan,JP,25.8578,131.2243,https://worthajourney.com/show-caves/#hoshino-cave
-23,Kastania Cave,Dripstone cave,Neapoli,Greece,GR,36.5460,23.1246,https://worthajourney.com/show-caves/#kastania-cave
-24,Caverns of Sonora,Dripstone cave,Sonora,United States,US,30.5551,-100.8122,https://worthajourney.com/show-caves/#caverns-of-sonora
-25,Alistrati Cave,Dripstone cave,Alistrati,Greece,GR,41.0264,24.0111,https://worthajourney.com/show-caves/#alistrati-cave
-26,Resavska pećina,Dripstone cave,Despotovac,Serbia,RS,44.0726,21.6296,https://worthajourney.com/show-caves/#resavska-pecina
-27,Saeva Dupka,Dripstone cave,Brestnitsa,Bulgaria,BG,43.0468,24.1858,https://worthajourney.com/show-caves/#saeva-dupka
-28,Actun Tunichil Muknal,River cave,San Ignacio,Belize,BZ,17.1285,-88.8512,https://worthajourney.com/show-caves/#actun-tunichil-muknal
-29,Gouffre de Padirac,River cave,Padirac,France,FR,44.8582,1.7504,https://worthajourney.com/show-caves/#gouffre-de-padirac
-30,Jeita Grotto,River cave,Jeita,Lebanon,LB,33.9437,35.6409,https://worthajourney.com/show-caves/#jeita-grotto
-31,Venetsa Cave,Dripstone cave,Oreshets,Bulgaria,BG,43.6300,22.7363,https://worthajourney.com/show-caves/#venetsa-cave
-32,Mulu Caves,River cave,Mulu,Malaysia,MY,4.0921,114.8958,https://worthajourney.com/show-caves/#mulu-caves
-33,Jewel Cave,Dripstone cave,Augusta,Australia,AU,-34.2738,115.0984,https://worthajourney.com/show-caves/#jewel-cave
-34,Grotte di Frasassi,Dripstone cave,Genga,Italy,IT,43.4027,12.9696,https://worthajourney.com/show-caves/#grotte-di-frasassi
-35,Prometheus Cave,Dripstone cave,Kumistavi,Georgia,GE,42.3769,42.6005,https://worthajourney.com/show-caves/#prometheus-cave
-36,Blanchard Springs Caverns,Dripstone cave,Fifty-Six,United States,US,35.9639,-92.1793,https://worthajourney.com/show-caves/#blanchard-springs-caverns
-37,Grotte de la Salamandre,Dripstone cave,Méjannes-le-Clap,France,FR,44.2587,4.3357,https://worthajourney.com/show-caves/#grotte-de-la-salamandre
-38,Baradla Cave,Dripstone cave,Jósvafő,Hungary,HU,48.4842,20.5396,https://worthajourney.com/show-caves/#baradla-cave
-39,Aggitis Cave,River cave,Prosotsani,Greece,GR,41.2198,23.8947,https://worthajourney.com/show-caves/#aggitis-cave
-40,Grottes de Vallorbe,River cave,Vallorbe,Switzerland,CH,46.6983,6.3458,https://worthajourney.com/show-caves/#grottes-de-vallorbe
-41,Katale Khor Cave,Dripstone cave,Garmab,Iran,IR,35.8360,48.1621,https://worthajourney.com/show-caves/#katale-khor-cave
-42,Cueva de la Pileta,Painted cave,Benaoján,Spain,ES,36.6913,-5.2698,https://worthajourney.com/show-caves/#cueva-de-la-pileta
-43,Grotte di Castellana,Dripstone cave,Castellana Grotte,Italy,IT,40.8762,17.1490,https://worthajourney.com/show-caves/#grotte-di-castellana
-44,Down to Earth Waitomo,Glowworm cave,Waitomo,New Zealand,NZ,-38.3633,175.0498,https://worthajourney.com/show-caves/#down-to-earth-waitomo
-45,Onondaga Cave,Dripstone cave,Leasburg,United States,US,38.0620,-91.2367,https://worthajourney.com/show-caves/#onondaga-cave
-46,Atta-Höhle,Dripstone cave,Attendorn,Germany,DE,51.1254,7.9149,https://worthajourney.com/show-caves/#atta-hohle
-47,Phong Nha Cave,River cave,Phong Nha,Vietnam,VN,17.5817,106.2835,https://worthajourney.com/show-caves/#phong-nha-cave
-48,Grotte de Clamouse,Dripstone cave,Saint-Jean-de-Fos,France,FR,43.7097,3.5525,https://worthajourney.com/show-caves/#grotte-de-clamouse
-49,Puerto Princesa Underground River,River cave,Puerto Princesa,Philippines,PH,10.1926,118.9266,https://worthajourney.com/show-caves/#puerto-princesa-underground-river
-50,Phu Pha Phet Cave,Dripstone cave,Manang,Thailand,TH,7.1247,99.9982,https://worthajourney.com/show-caves/#phu-pha-phet-cave
-51,Grutas de Santo António,Dripstone cave,Alvados,Portugal,PT,39.5370,-8.7422,https://worthajourney.com/show-caves/#grutas-de-santo-antonio
-52,Grutas de Mira de Aire,Dripstone cave,Mira de Aire,Portugal,PT,39.5402,-8.7040,https://worthajourney.com/show-caves/#grutas-de-mira-de-aire
-53,Gökgöl Cave,Dripstone cave,Zonguldak,Turkey,TR,41.4406,31.8332,https://worthajourney.com/show-caves/#gokgol-cave
-54,Squire Boone Caverns,Dripstone cave,Mauckport,United States,US,38.0655,-86.1339,https://worthajourney.com/show-caves/#squire-boone-caverns
-55,Gua Tempurung,Dripstone cave,Gopeng,Malaysia,MY,4.4160,101.1877,https://worthajourney.com/show-caves/#gua-tempurung
-56,Kartchner Caverns,Dripstone cave,Benson,United States,US,31.8359,-110.3491,https://worthajourney.com/show-caves/#kartchner-caverns
-57,Cueva de Nerja,Dripstone cave,Nerja,Spain,ES,36.7620,-3.8449,https://worthajourney.com/show-caves/#cueva-de-nerja
-58,Appalachian Caverns,Dripstone cave,Blountville,United States,US,36.5028,-82.3175,https://worthajourney.com/show-caves/#appalachian-caverns
-59,Magura Cave,Dripstone cave,Rabisha,Bulgaria,BG,43.7278,22.5827,https://worthajourney.com/show-caves/#magura-cave
-60,Sarıkaya Cave,Dripstone cave,Yığılca,Turkey,TR,40.9350,31.3988,https://worthajourney.com/show-caves/#sarkaya-cave
-61,Cueva El Soplao,Dripstone cave,Celis,Spain,ES,43.2965,-4.4101,https://worthajourney.com/show-caves/#cueva-el-soplao
-62,Mammoth Cave,Dripstone cave,Mammoth Cave,United States,US,37.1990,-86.1156,https://worthajourney.com/show-caves/#mammoth-cave
-63,Kapsia Cave,Dripstone cave,Kapsia,Greece,GR,37.6239,22.3539,https://worthajourney.com/show-caves/#kapsia-cave
-64,Crystal Onyx Cave,Dripstone cave,Cave City,United States,US,37.1106,-85.9741,https://worthajourney.com/show-caves/#crystal-onyx-cave
-65,Grotta di Su Mannau,Dripstone cave,Fluminimaggiore,Italy,IT,39.4076,8.4939,https://worthajourney.com/show-caves/#grotta-di-su-mannau
-66,Aven d’Orgnac,Dripstone cave,Orgnac-l’Aven,France,FR,44.3185,4.4125,https://worthajourney.com/show-caves/#aven-dorgnac
-67,Belianska Cave,Dripstone cave,Tatranská Kotlina,Slovakia,SK,49.2289,20.3113,https://worthajourney.com/show-caves/#belianska-cave
-68,Mitchelstown Cave,Dripstone cave,Burncourt,Ireland,IE,52.3058,-8.1087,https://worthajourney.com/show-caves/#mitchelstown-cave
-69,Cuevas del Águila,Dripstone cave,Ramacastañas,Spain,ES,40.1543,-5.0723,https://worthajourney.com/show-caves/#cuevas-del-aguila
-70,Cavernas de Venado,River cave,Venado,Costa Rica,CR,10.5537,-84.7685,https://worthajourney.com/show-caves/#cavernas-de-venado
-71,Cosmic Cavern,Dripstone cave,Berryville,United States,US,36.4358,-93.4973,https://worthajourney.com/show-caves/#cosmic-cavern
-72,Cathedral Caverns,Dripstone cave,Woodville,United States,US,34.5750,-86.2292,https://worthajourney.com/show-caves/#cathedral-caverns
-73,Waitomo Glowworm Caves,Glowworm cave,Waitomo,New Zealand,NZ,-38.2607,175.1036,https://worthajourney.com/show-caves/#waitomo-glowworm-caves
-74,Jenolan Caves,Dripstone cave,Jenolan,Australia,AU,-33.8188,150.0226,https://worthajourney.com/show-caves/#jenolan-caves
-75,Dachstein Giant Ice Cave,Ice cave,Obertraun,Austria,AT,47.5349,13.7186,https://worthajourney.com/show-caves/#dachstein-giant-ice-cave
-76,Tuckaleechee Caverns,Dripstone cave,Townsend,United States,US,35.6580,-83.7740,https://worthajourney.com/show-caves/#tuckaleechee-caverns
-77,Dobšinská Ice Cave,Ice cave,Dobšiná,Slovakia,SK,48.8681,20.3041,https://worthajourney.com/show-caves/#dobsinska-ice-cave
-78,Cueva de Pozalagua,Dripstone cave,Ranero,Spain,ES,43.2606,-3.3858,https://worthajourney.com/show-caves/#cueva-de-pozalagua
-79,Eisriesenwelt,Ice cave,Werfen,Austria,AT,47.4966,13.1944,https://worthajourney.com/show-caves/#eisriesenwelt
-80,Grutas de Cacahuamilpa,Dripstone cave,Cacahuamilpa,Mexico,MX,18.6697,-99.5099,https://worthajourney.com/show-caves/#grutas-de-cacahuamilpa
-81,Modrič Cave,Dripstone cave,Rovanjska,Croatia,HR,44.2512,15.5408,https://worthajourney.com/show-caves/#modric-cave
-82,Gunns Plains Caves,Dripstone cave,Gunns Plains,Australia,AU,-41.2959,146.0055,https://worthajourney.com/show-caves/#gunns-plains-caves
-83,Bluff Dwellers Cave,Dripstone cave,Noel,United States,US,36.5188,-94.4871,https://worthajourney.com/show-caves/#bluff-dwellers-cave
-84,Tham Lod,River cave,Pang Mapha,Thailand,TH,19.5654,98.2792,https://worthajourney.com/show-caves/#tham-lod
-85,Bridal Cave,Dripstone cave,Camdenton,United States,US,38.0234,-92.7919,https://worthajourney.com/show-caves/#bridal-cave
-86,Río Secreto,River cave,Playa del Carmen,Mexico,MX,20.5882,-87.1339,https://worthajourney.com/show-caves/#rio-secreto
-87,Grotta di Bossea,River cave,Frabosa Soprana,Italy,IT,44.2420,7.8411,https://worthajourney.com/show-caves/#grotta-di-bossea
-88,Grotte de la Cocalière,Dripstone cave,Courry,France,FR,44.3100,4.1678,https://worthajourney.com/show-caves/#grotte-de-la-cocaliere
-89,Diros Caves,River cave,Pyrgos Dirou,Greece,GR,36.6383,22.3807,https://worthajourney.com/show-caves/#diros-caves
-90,Sloupsko-šošůvské jeskyně,Dripstone cave,Sloup,Czechia,CZ,49.4106,16.7385,https://worthajourney.com/show-caves/#sloupsko-sosuvske-jeskyne
-91,Balcarka Cave,Dripstone cave,Ostrov u Macochy,Czechia,CZ,49.3769,16.7571,https://worthajourney.com/show-caves/#balcarka-cave
-92,Katerloch,Dripstone cave,Weiz,Austria,AT,47.2526,15.5498,https://worthajourney.com/show-caves/#katerloch
-93,Ryūsendō,Dripstone cave,Iwaizumi,Japan,JP,39.8601,141.7970,https://worthajourney.com/show-caves/#ryusendo
-94,Borra Caves,Dripstone cave,Borra,India,IN,18.2807,83.0397,https://worthajourney.com/show-caves/#borra-caves
-95,Grotte de Dargilan,Dripstone cave,Meyrueis,France,FR,44.1963,3.3781,https://worthajourney.com/show-caves/#grotte-de-dargilan
-96,Underworld Adventures,Glowworm cave,Charleston,New Zealand,NZ,-41.9060,171.4392,https://worthajourney.com/show-caves/#underworld-adventures
-97,Tham Klang,Dripstone cave,Ao Luek,Thailand,TH,8.3380,98.7456,https://worthajourney.com/show-caves/#tham-klang
-98,Jaskinia Niedźwiedzia,Dripstone cave,Kletno,Poland,PL,50.2345,16.8429,https://worthajourney.com/show-caves/#jaskinia-niedzwiedzia
-99,Chal Nakhjir Cave,Dripstone cave,Delijan,Iran,IR,34.0374,50.7654,https://worthajourney.com/show-caves/#chal-nakhjir-cave
-100,Cango Caves,Dripstone cave,Oudtshoorn,South Africa,ZA,-33.3922,22.2144,https://worthajourney.com/show-caves/#cango-caves
+1,Postojna Cave,Dripstone cave,Postojna,Slovenia,SI,45.7830,14.2038,https://worthajourney.com/show-caves/postojna-cave/
+2,Cueva de Valporquero,Dripstone cave,Vegacervera,Spain,ES,42.9062,-5.5592,https://worthajourney.com/show-caves/cueva-de-valporquero/
+3,Javoříčské jeskyně,Dripstone cave,Javoříčko,Czechia,CZ,49.6703,16.9139,https://worthajourney.com/show-caves/javoricske-jeskyne/
+4,Paradise Cave,Dripstone cave,Phong Nha,Vietnam,VN,17.5195,106.2233,https://worthajourney.com/show-caves/paradise-cave/
+5,Domica,Dripstone cave,Dlhá Ves,Slovakia,SK,48.4777,20.4693,https://worthajourney.com/show-caves/domica/
+6,Gruta de las Maravillas,Dripstone cave,Aracena,Spain,ES,37.8911,-6.5659,https://worthajourney.com/show-caves/gruta-de-las-maravillas/
+7,Demänovská Cave of Liberty,Dripstone cave,Demänovská Dolina,Slovakia,SK,48.9984,19.5836,https://worthajourney.com/show-caves/demanovska-cave-of-liberty/
+8,Rajkova pećina,Dripstone cave,Majdanpek,Serbia,RS,44.4414,21.9530,https://worthajourney.com/show-caves/rajkova-pecina/
+9,Peștera Urșilor,Dripstone cave,Chișcău,Romania,RO,46.5540,22.5691,https://worthajourney.com/show-caves/pestera-ursilor/
+10,Aven Armand,Dripstone cave,Hures-la-Parade,France,FR,44.2213,3.3570,https://worthajourney.com/show-caves/aven-armand/
+11,Luray Caverns,Dripstone cave,Luray,United States,US,38.6645,-78.4832,https://worthajourney.com/show-caves/luray-caverns/
+12,Carlsbad Caverns,Dripstone cave,Carlsbad,United States,US,32.1370,-104.5438,https://worthajourney.com/show-caves/carlsbad-caverns/
+13,Škocjan Caves,River cave,Divača,Slovenia,SI,45.6631,13.9892,https://worthajourney.com/show-caves/skocjan-caves/
+14,Uhlovitsa Cave,Dripstone cave,Mogilitsa,Bulgaria,BG,41.5148,24.6588,https://worthajourney.com/show-caves/uhlovitsa-cave/
+15,Grottes de Bétharram,River cave,Saint-Pé-de-Bigorre,France,FR,43.1020,-0.1881,https://worthajourney.com/show-caves/grottes-de-betharram/
+16,Kong Lor Cave,River cave,Ban Kong Lor,Laos,LA,17.9586,104.7559,https://worthajourney.com/show-caves/kong-lor-cave/
+17,Gilindire Cave,Dripstone cave,Aydıncık,Turkey,TR,36.1304,33.4020,https://worthajourney.com/show-caves/gilindire-cave/
+18,Grotte de Choranche,Dripstone cave,Choranche,France,FR,45.0724,5.3977,https://worthajourney.com/show-caves/grotte-de-choranche/
+19,Ali Sadr Cave,River cave,Ali Sadr,Iran,IR,35.3051,48.3010,https://worthajourney.com/show-caves/ali-sadr-cave/
+20,Grotte des Demoiselles,Dripstone cave,Saint-Bauzille-de-Putois,France,FR,43.9075,3.7448,https://worthajourney.com/show-caves/grotte-des-demoiselles/
+21,Peștera Meziad,Dripstone cave,Meziad,Romania,RO,46.7629,22.4787,https://worthajourney.com/show-caves/pestera-meziad/
+22,Hoshino Cave,Dripstone cave,Minamidaito,Japan,JP,25.8578,131.2243,https://worthajourney.com/show-caves/hoshino-cave/
+23,Kastania Cave,Dripstone cave,Neapoli,Greece,GR,36.5460,23.1246,https://worthajourney.com/show-caves/kastania-cave/
+24,Caverns of Sonora,Dripstone cave,Sonora,United States,US,30.5551,-100.8122,https://worthajourney.com/show-caves/caverns-of-sonora/
+25,Alistrati Cave,Dripstone cave,Alistrati,Greece,GR,41.0264,24.0111,https://worthajourney.com/show-caves/alistrati-cave/
+26,Resavska pećina,Dripstone cave,Despotovac,Serbia,RS,44.0726,21.6296,https://worthajourney.com/show-caves/resavska-pecina/
+27,Saeva Dupka,Dripstone cave,Brestnitsa,Bulgaria,BG,43.0468,24.1858,https://worthajourney.com/show-caves/saeva-dupka/
+28,Actun Tunichil Muknal,River cave,San Ignacio,Belize,BZ,17.1285,-88.8512,https://worthajourney.com/show-caves/actun-tunichil-muknal/
+29,Gouffre de Padirac,River cave,Padirac,France,FR,44.8582,1.7504,https://worthajourney.com/show-caves/gouffre-de-padirac/
+30,Jeita Grotto,River cave,Jeita,Lebanon,LB,33.9437,35.6409,https://worthajourney.com/show-caves/jeita-grotto/
+31,Venetsa Cave,Dripstone cave,Oreshets,Bulgaria,BG,43.6300,22.7363,https://worthajourney.com/show-caves/venetsa-cave/
+32,Mulu Caves,River cave,Mulu,Malaysia,MY,4.0921,114.8958,https://worthajourney.com/show-caves/mulu-caves/
+33,Jewel Cave,Dripstone cave,Augusta,Australia,AU,-34.2738,115.0984,https://worthajourney.com/show-caves/jewel-cave/
+34,Grotte di Frasassi,Dripstone cave,Genga,Italy,IT,43.4027,12.9696,https://worthajourney.com/show-caves/grotte-di-frasassi/
+35,Prometheus Cave,Dripstone cave,Kumistavi,Georgia,GE,42.3769,42.6005,https://worthajourney.com/show-caves/prometheus-cave/
+36,Grotte de la Salamandre,Dripstone cave,Méjannes-le-Clap,France,FR,44.2587,4.3357,https://worthajourney.com/show-caves/grotte-de-la-salamandre/
+37,Baradla Cave,Dripstone cave,Jósvafő,Hungary,HU,48.4842,20.5396,https://worthajourney.com/show-caves/baradla-cave/
+38,Aggitis Cave,River cave,Prosotsani,Greece,GR,41.2198,23.8947,https://worthajourney.com/show-caves/aggitis-cave/
+39,Grottes de Vallorbe,River cave,Vallorbe,Switzerland,CH,46.6983,6.3458,https://worthajourney.com/show-caves/grottes-de-vallorbe/
+40,Katale Khor Cave,Dripstone cave,Garmab,Iran,IR,35.8360,48.1621,https://worthajourney.com/show-caves/katale-khor-cave/
+41,Cueva de la Pileta,Painted cave,Benaoján,Spain,ES,36.6913,-5.2698,https://worthajourney.com/show-caves/cueva-de-la-pileta/
+42,Grotte di Castellana,Dripstone cave,Castellana Grotte,Italy,IT,40.8762,17.1490,https://worthajourney.com/show-caves/grotte-di-castellana/
+43,Down to Earth Waitomo,Glowworm cave,Waitomo,New Zealand,NZ,-38.3633,175.0498,https://worthajourney.com/show-caves/down-to-earth-waitomo/
+44,Onondaga Cave,Dripstone cave,Leasburg,United States,US,38.0620,-91.2367,https://worthajourney.com/show-caves/onondaga-cave/
+45,Atta-Höhle,Dripstone cave,Attendorn,Germany,DE,51.1254,7.9149,https://worthajourney.com/show-caves/atta-hohle/
+46,Phong Nha Cave,River cave,Phong Nha,Vietnam,VN,17.5817,106.2835,https://worthajourney.com/show-caves/phong-nha-cave/
+47,Grotte de Clamouse,Dripstone cave,Saint-Jean-de-Fos,France,FR,43.7097,3.5525,https://worthajourney.com/show-caves/grotte-de-clamouse/
+48,Puerto Princesa Underground River,River cave,Puerto Princesa,Philippines,PH,10.1926,118.9266,https://worthajourney.com/show-caves/puerto-princesa-underground-river/
+49,Phu Pha Phet Cave,Dripstone cave,Manang,Thailand,TH,7.1247,99.9982,https://worthajourney.com/show-caves/phu-pha-phet-cave/
+50,Grutas de Santo António,Dripstone cave,Alvados,Portugal,PT,39.5370,-8.7422,https://worthajourney.com/show-caves/grutas-de-santo-antonio/
+51,Grutas de Mira de Aire,Dripstone cave,Mira de Aire,Portugal,PT,39.5402,-8.7040,https://worthajourney.com/show-caves/grutas-de-mira-de-aire/
+52,Gökgöl Cave,Dripstone cave,Zonguldak,Turkey,TR,41.4406,31.8332,https://worthajourney.com/show-caves/gokgol-cave/
+53,Squire Boone Caverns,Dripstone cave,Mauckport,United States,US,38.0655,-86.1339,https://worthajourney.com/show-caves/squire-boone-caverns/
+54,Gua Tempurung,Dripstone cave,Gopeng,Malaysia,MY,4.4160,101.1877,https://worthajourney.com/show-caves/gua-tempurung/
+55,Kartchner Caverns,Dripstone cave,Benson,United States,US,31.8359,-110.3491,https://worthajourney.com/show-caves/kartchner-caverns/
+56,Cueva de Nerja,Dripstone cave,Nerja,Spain,ES,36.7620,-3.8449,https://worthajourney.com/show-caves/cueva-de-nerja/
+57,Appalachian Caverns,Dripstone cave,Blountville,United States,US,36.5028,-82.3175,https://worthajourney.com/show-caves/appalachian-caverns/
+58,Magura Cave,Dripstone cave,Rabisha,Bulgaria,BG,43.7278,22.5827,https://worthajourney.com/show-caves/magura-cave/
+59,Sarıkaya Cave,Dripstone cave,Yığılca,Turkey,TR,40.9350,31.3988,https://worthajourney.com/show-caves/sarkaya-cave/
+60,Cueva El Soplao,Dripstone cave,Celis,Spain,ES,43.2965,-4.4101,https://worthajourney.com/show-caves/cueva-el-soplao/
+61,Mammoth Cave,Dripstone cave,Mammoth Cave,United States,US,37.1990,-86.1156,https://worthajourney.com/show-caves/mammoth-cave/
+62,Kapsia Cave,Dripstone cave,Kapsia,Greece,GR,37.6239,22.3539,https://worthajourney.com/show-caves/kapsia-cave/
+63,Crystal Onyx Cave,Dripstone cave,Cave City,United States,US,37.1106,-85.9741,https://worthajourney.com/show-caves/crystal-onyx-cave/
+64,Grotta di Su Mannau,Dripstone cave,Fluminimaggiore,Italy,IT,39.4076,8.4939,https://worthajourney.com/show-caves/grotta-di-su-mannau/
+65,Aven d’Orgnac,Dripstone cave,Orgnac-l’Aven,France,FR,44.3185,4.4125,https://worthajourney.com/show-caves/aven-dorgnac/
+66,Belianska Cave,Dripstone cave,Tatranská Kotlina,Slovakia,SK,49.2289,20.3113,https://worthajourney.com/show-caves/belianska-cave/
+67,Mitchelstown Cave,Dripstone cave,Burncourt,Ireland,IE,52.3058,-8.1087,https://worthajourney.com/show-caves/mitchelstown-cave/
+68,Cuevas del Águila,Dripstone cave,Ramacastañas,Spain,ES,40.1543,-5.0723,https://worthajourney.com/show-caves/cuevas-del-aguila/
+69,Cavernas de Venado,River cave,Venado,Costa Rica,CR,10.5537,-84.7685,https://worthajourney.com/show-caves/cavernas-de-venado/
+70,Cosmic Cavern,Dripstone cave,Berryville,United States,US,36.4358,-93.4973,https://worthajourney.com/show-caves/cosmic-cavern/
+71,Cathedral Caverns,Dripstone cave,Woodville,United States,US,34.5750,-86.2292,https://worthajourney.com/show-caves/cathedral-caverns/
+72,Waitomo Glowworm Caves,Glowworm cave,Waitomo,New Zealand,NZ,-38.2607,175.1036,https://worthajourney.com/show-caves/waitomo-glowworm-caves/
+73,Dachstein Giant Ice Cave,Ice cave,Obertraun,Austria,AT,47.5349,13.7186,https://worthajourney.com/show-caves/dachstein-giant-ice-cave/
+74,Tuckaleechee Caverns,Dripstone cave,Townsend,United States,US,35.6580,-83.7740,https://worthajourney.com/show-caves/tuckaleechee-caverns/
+75,Dobšinská Ice Cave,Ice cave,Dobšiná,Slovakia,SK,48.8681,20.3041,https://worthajourney.com/show-caves/dobsinska-ice-cave/
+76,Cueva de Pozalagua,Dripstone cave,Ranero,Spain,ES,43.2606,-3.3858,https://worthajourney.com/show-caves/cueva-de-pozalagua/
+77,Eisriesenwelt,Ice cave,Werfen,Austria,AT,47.4966,13.1944,https://worthajourney.com/show-caves/eisriesenwelt/
+78,Grutas de Cacahuamilpa,Dripstone cave,Cacahuamilpa,Mexico,MX,18.6697,-99.5099,https://worthajourney.com/show-caves/grutas-de-cacahuamilpa/
+79,Modrič Cave,Dripstone cave,Rovanjska,Croatia,HR,44.2512,15.5408,https://worthajourney.com/show-caves/modric-cave/
+80,Gunns Plains Caves,Dripstone cave,Gunns Plains,Australia,AU,-41.2959,146.0055,https://worthajourney.com/show-caves/gunns-plains-caves/
+81,Bluff Dwellers Cave,Dripstone cave,Noel,United States,US,36.5188,-94.4871,https://worthajourney.com/show-caves/bluff-dwellers-cave/
+82,Tham Lod,River cave,Pang Mapha,Thailand,TH,19.5654,98.2792,https://worthajourney.com/show-caves/tham-lod/
+83,Bridal Cave,Dripstone cave,Camdenton,United States,US,38.0234,-92.7919,https://worthajourney.com/show-caves/bridal-cave/
+84,Río Secreto,River cave,Playa del Carmen,Mexico,MX,20.5882,-87.1339,https://worthajourney.com/show-caves/rio-secreto/
+85,Grotta di Bossea,River cave,Frabosa Soprana,Italy,IT,44.2420,7.8411,https://worthajourney.com/show-caves/grotta-di-bossea/
+86,Grotte de la Cocalière,Dripstone cave,Courry,France,FR,44.3100,4.1678,https://worthajourney.com/show-caves/grotte-de-la-cocaliere/
+87,Diros Caves,River cave,Pyrgos Dirou,Greece,GR,36.6383,22.3807,https://worthajourney.com/show-caves/diros-caves/
+88,Sloupsko-šošůvské jeskyně,Dripstone cave,Sloup,Czechia,CZ,49.4106,16.7385,https://worthajourney.com/show-caves/sloupsko-sosuvske-jeskyne/
+89,Balcarka Cave,Dripstone cave,Ostrov u Macochy,Czechia,CZ,49.3769,16.7571,https://worthajourney.com/show-caves/balcarka-cave/
+90,Katerloch,Dripstone cave,Weiz,Austria,AT,47.2526,15.5498,https://worthajourney.com/show-caves/katerloch/
+91,Ryūsendō,Dripstone cave,Iwaizumi,Japan,JP,39.8601,141.7970,https://worthajourney.com/show-caves/ryusendo/
+92,Borra Caves,Dripstone cave,Borra,India,IN,18.2807,83.0397,https://worthajourney.com/show-caves/borra-caves/
+93,Grotte de Dargilan,Dripstone cave,Meyrueis,France,FR,44.1963,3.3781,https://worthajourney.com/show-caves/grotte-de-dargilan/
+94,Underworld Adventures,Glowworm cave,Charleston,New Zealand,NZ,-41.9060,171.4392,https://worthajourney.com/show-caves/underworld-adventures/
+95,Tham Klang,Dripstone cave,Ao Luek,Thailand,TH,8.3380,98.7456,https://worthajourney.com/show-caves/tham-klang/
+96,Jaskinia Niedźwiedzia,Dripstone cave,Kletno,Poland,PL,50.2345,16.8429,https://worthajourney.com/show-caves/jaskinia-niedzwiedzia/
+97,Chal Nakhjir Cave,Dripstone cave,Delijan,Iran,IR,34.0374,50.7654,https://worthajourney.com/show-caves/chal-nakhjir-cave/
+98,Cango Caves,Dripstone cave,Oudtshoorn,South Africa,ZA,-33.3922,22.2144,https://worthajourney.com/show-caves/cango-caves/
+99,Akiyoshidō,Dripstone cave,Mine,Japan,JP,34.2281,131.3035,https://worthajourney.com/show-caves/akiyoshido/
+100,Grottes de Beni Add,Dripstone cave,Aïn Fezza,Algeria,DZ,34.8531,-1.2060,https://worthajourney.com/show-caves/grottes-de-beni-add/

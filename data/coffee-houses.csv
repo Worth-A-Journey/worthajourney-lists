@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,The Source Coffee Roasters,Coffee bar,Edinburgh,United Kingdom,GB,55.9460,-3.2032,https://worthajourney.com/coffee-houses/#the-source-coffee-roasters
-2,Coffee Studio 7Gr,Coffee bar,Milan,Italy,IT,45.4697,9.1997,https://worthajourney.com/coffee-houses/#coffee-studio-7gr
-3,Naji Specialty Coffee,Coffee bar,Madrid,Spain,ES,40.4317,-3.7022,https://worthajourney.com/coffee-houses/#naji-specialty-coffee
-4,Glitch Coffee & Roasters,Coffee bar,Tokyo,Japan,JP,35.6937,139.7613,https://worthajourney.com/coffee-houses/#glitch-coffee-roasters
-5,Remedy Roasters,Coffee bar,Dammam,Saudi Arabia,SA,26.4794,50.1327,https://worthajourney.com/coffee-houses/#remedy-roasters
-6,Komodo,Coffee bar,Brighton,United Kingdom,GB,50.8219,-0.1402,https://worthajourney.com/coffee-houses/#komodo
-7,Friedhats Fuku Cafe,Coffee bar,Amsterdam,Netherlands,NL,52.3813,4.8552,https://worthajourney.com/coffee-houses/#friedhats-fuku-cafe
-8,Goldchild Coffee Roasters,Coffee bar,San Diego,United States,US,32.7159,-117.1624,https://worthajourney.com/coffee-houses/#goldchild-coffee-roasters
-9,Unfiltered Coffee,Coffee bar,Dublin,Ireland,IE,53.3395,-6.3205,https://worthajourney.com/coffee-houses/#unfiltered-coffee
-10,The Coffee Bar Collective,Coffee bar,Birmingham,United Kingdom,GB,52.4815,-1.8966,https://worthajourney.com/coffee-houses/#the-coffee-bar-collective
-11,Saigon Coffee,Coffee bar,San Diego,United States,US,32.7502,-117.1304,https://worthajourney.com/coffee-houses/#saigon-coffee
-12,C.O.C Legacy,Coffee bar,Hanoi,Vietnam,VN,21.0340,105.8518,https://worthajourney.com/coffee-houses/#c-o-c-legacy
-13,Coffeewerk + Press,Coffee bar,Galway,Ireland,IE,53.2713,-9.0540,https://worthajourney.com/coffee-houses/#coffeewerk-press
-14,Opulence Coffee,Coffee bar,Ottawa,Canada,CA,45.4306,-75.6924,https://worthajourney.com/coffee-houses/#opulence-coffee
-15,Makario Coffee Roasters,Coffee bar,Everett,United States,US,47.9827,-122.2083,https://worthajourney.com/coffee-houses/#makario-coffee-roasters
-16,Yaw Farm Coffee Roaster,Coffee bar,Las Vegas,United States,US,36.1593,-115.2517,https://worthajourney.com/coffee-houses/#yaw-farm-coffee-roaster
-17,Dam Khe Specialty Coffee,Coffee bar,"Tam Coc, Ninh Binh",Vietnam,VN,20.2150,105.9357,https://worthajourney.com/coffee-houses/#dam-khe-specialty-coffee
-18,Caffè Couture,Coffee bar,Vienna,Austria,AT,48.2110,16.3656,https://worthajourney.com/coffee-houses/#caffe-couture
-19,Aroma Specialty Coffees,Coffee bar,Bologna,Italy,IT,44.4943,11.3377,https://worthajourney.com/coffee-houses/#aroma-specialty-coffees
-20,One For All Coffee,Coffee bar,Hamilton,Canada,CA,43.2546,-79.8620,https://worthajourney.com/coffee-houses/#one-for-all-coffee
-21,Tim Wendelboe,Coffee bar,Oslo,Norway,NO,59.9234,10.7557,https://worthajourney.com/coffee-houses/#tim-wendelboe
-22,Bugan Coffee Lab,Coffee bar,Bergamo,Italy,IT,45.7047,9.6619,https://worthajourney.com/coffee-houses/#bugan-coffee-lab
-23,Nylon Coffee,Coffee bar,Singapore,Singapore,SG,1.2769,103.8400,https://worthajourney.com/coffee-houses/#nylon-coffee
-24,Nomad Coffee,Coffee bar,Barcelona,Spain,ES,41.3889,2.1770,https://worthajourney.com/coffee-houses/#nomad-coffee
-25,Črno Zrno,Coffee bar,Ljubljana,Slovenia,SI,46.0466,14.5077,https://worthajourney.com/coffee-houses/#crno-zrno
-26,Taste Coffee & More,Coffee bar,Treviso,Italy,IT,45.6663,12.2470,https://worthajourney.com/coffee-houses/#taste-coffee-more
-27,SEY Coffee,Coffee bar,New York,United States,US,40.7053,-73.9324,https://worthajourney.com/coffee-houses/#sey-coffee
-28,Pacopepe Specialty Coffee,Coffee bar,Granada,Spain,ES,37.1718,-3.5991,https://worthajourney.com/coffee-houses/#pacopepe-specialty-coffee
-29,Sansone Coffee,Coffee bar,Naples,Italy,IT,40.8395,14.2403,https://worthajourney.com/coffee-houses/#sansone-coffee
-30,The Beans Coffee Roastery,Coffee bar,Colombo,Sri Lanka,LK,6.9388,79.8572,https://worthajourney.com/coffee-houses/#the-beans-coffee-roastery
-31,Arábiga,Coffee bar,Córdoba,Spain,ES,37.8806,-4.7749,https://worthajourney.com/coffee-houses/#arabiga
-32,Nostos Coffee,Coffee bar,London,United Kingdom,GB,51.4987,-0.1333,https://worthajourney.com/coffee-houses/#nostos-coffee
-33,Mad Priest Coffee Roasters,Coffee bar,Chattanooga,United States,US,35.0391,-85.2840,https://worthajourney.com/coffee-houses/#mad-priest-coffee-roasters
-34,Ammazza Caffé,Coffee bar,Verona,Italy,IT,45.4360,10.9916,https://worthajourney.com/coffee-houses/#ammazza-caffe
-35,Le Maung Coffee Roaster,Coffee bar,Paris,France,FR,48.8653,2.3482,https://worthajourney.com/coffee-houses/#le-maung-coffee-roaster
-36,BLCK Speciality Coffee,Coffee bar,Cairo,Egypt,EG,30.0222,31.2826,https://worthajourney.com/coffee-houses/#blck-speciality-coffee
-37,Goat Coffee Store,Coffee bar,Valencia,Spain,ES,39.4730,-0.3758,https://worthajourney.com/coffee-houses/#goat-coffee-store
-38,The Cobbled Roastery,Coffee bar,Edinburgh,United Kingdom,GB,55.9539,-3.1991,https://worthajourney.com/coffee-houses/#the-cobbled-roastery
-39,Specialty Būn,Coffee bar,Sheikh Zayed City,Egypt,EG,30.0208,31.0040,https://worthajourney.com/coffee-houses/#specialty-bun
-40,Cath Coffee and Tea House,Coffee bar,Indianapolis,United States,US,39.9102,-86.0654,https://worthajourney.com/coffee-houses/#cath-coffee-and-tea-house
-41,Brew Lab,Coffee bar,Dublin,Ireland,IE,53.3382,-6.2662,https://worthajourney.com/coffee-houses/#brew-lab
-42,Espresso Vivace,Coffee bar,Seattle,United States,US,47.6238,-122.3206,https://worthajourney.com/coffee-houses/#espresso-vivace
-43,Ganbaru Coffee,Coffee bar,Málaga,Spain,ES,36.7196,-4.4240,https://worthajourney.com/coffee-houses/#ganbaru-coffee
-44,Koffee Mameya,Coffee bar,Tokyo,Japan,JP,35.6684,139.7109,https://worthajourney.com/coffee-houses/#koffee-mameya
-45,Desnudo Coffee,Coffee bar,Austin,United States,US,30.2631,-97.7138,https://worthajourney.com/coffee-houses/#desnudo-coffee
-46,Corica,Coffee bar,Brussels,Belgium,BE,50.8485,4.3510,https://worthajourney.com/coffee-houses/#corica
-47,Po Cafe,Café,Ho Chi Minh City,Vietnam,VN,10.7741,106.7041,https://worthajourney.com/coffee-houses/#po-cafe
-48,Buddies Coffee,Coffee bar,New York,United States,US,40.7222,-73.9822,https://worthajourney.com/coffee-houses/#buddies-coffee
-49,Lowdown,Coffee bar,Edinburgh,United Kingdom,GB,55.9532,-3.1979,https://worthajourney.com/coffee-houses/#lowdown
-50,Kanso Coffee Lab,Coffee bar,Munich,Germany,DE,48.1404,11.5768,https://worthajourney.com/coffee-houses/#kanso-coffee-lab
-51,The Dude Specialty Coffee,Coffee bar,Skopje,North Macedonia,MK,41.9978,21.4199,https://worthajourney.com/coffee-houses/#the-dude-specialty-coffee
-52,School Specialty Coffee,Coffee bar,Burlington,Canada,CA,43.3250,-79.8192,https://worthajourney.com/coffee-houses/#school-specialty-coffee
-53,Mazelab,Coffee bar,Prague,Czechia,CZ,50.1009,14.3986,https://worthajourney.com/coffee-houses/#mazelab
-54,Lucero Canteen,Café,Kitchener,Canada,CA,43.4507,-80.4903,https://worthajourney.com/coffee-houses/#lucero-canteen
-55,Ça Passe Crème,Coffee bar,Lausanne,Switzerland,CH,46.5164,6.6255,https://worthajourney.com/coffee-houses/#ca-passe-creme
-56,Coffee Nerd,Coffee bar,Heidelberg,Germany,DE,49.4123,8.7092,https://worthajourney.com/coffee-houses/#coffee-nerd
-57,Mame,Coffee bar,Zurich,Switzerland,CH,47.3850,8.5274,https://worthajourney.com/coffee-houses/#mame
-58,Hidden Grounds Coffee,Coffee bar,Wilmington,United States,US,34.2346,-77.9472,https://worthajourney.com/coffee-houses/#hidden-grounds-coffee
-59,Delatribu,Coffee bar,Seville,Spain,ES,37.3858,-5.9904,https://worthajourney.com/coffee-houses/#delatribu
-60,Blue Mountain Coffee House,Coffee bar,West Palm Beach,United States,US,26.7133,-80.0570,https://worthajourney.com/coffee-houses/#blue-mountain-coffee-house
-61,Hoi An Coffee Hub,Coffee bar,Hoi An,Vietnam,VN,15.8764,108.3307,https://worthajourney.com/coffee-houses/#hoi-an-coffee-hub
-62,Onyx Coffee Lab,Coffee bar,Bentonville,United States,US,36.3731,-94.2093,https://worthajourney.com/coffee-houses/#onyx-coffee-lab
-63,CatBa Specialty Coffee,Coffee bar,Cat Ba Island,Vietnam,VN,20.7245,107.0508,https://worthajourney.com/coffee-houses/#catba-specialty-coffee
-64,Dabov Specialty Coffee,Coffee bar,Madrid,Spain,ES,40.4101,-3.6974,https://worthajourney.com/coffee-houses/#dabov-specialty-coffee
-65,Glass Coffee,Coffee bar,London,United Kingdom,GB,51.5401,-0.1433,https://worthajourney.com/coffee-houses/#glass-coffee
-66,Phin Smith Coffee House,Coffee bar,Las Vegas,United States,US,36.0576,-115.2240,https://worthajourney.com/coffee-houses/#phin-smith-coffee-house
-67,Ben Rahim Coffee Company,Coffee house,Tunis,Tunisia,TN,36.8699,10.3441,https://worthajourney.com/coffee-houses/#ben-rahim-coffee-company
-68,Dancing Goat Coffee,Coffee bar,New Cairo,Egypt,EG,30.0485,31.4755,https://worthajourney.com/coffee-houses/#dancing-goat-coffee
-69,Lagacca Cafe,Coffee bar,Poznan,Poland,PL,52.4079,16.9356,https://worthajourney.com/coffee-houses/#lagacca-cafe
-70,La Manière,Café,Vigo,Spain,ES,42.2244,-8.7351,https://worthajourney.com/coffee-houses/#la-maniere
-71,Tob Coffee,Coffee bar,Auckland,New Zealand,NZ,-36.7426,174.7282,https://worthajourney.com/coffee-houses/#tob-coffee
-72,Bean Bank Coffee,Coffee bar,Zurich,Switzerland,CH,47.3779,8.5330,https://worthajourney.com/coffee-houses/#bean-bank-coffee
-73,Tonkin Specialty Coffee,Coffee bar,Ho Chi Minh City,Vietnam,VN,10.7744,106.6979,https://worthajourney.com/coffee-houses/#tonkin-specialty-coffee
-74,Loading T,Coffee bar,Hanoi,Vietnam,VN,21.0305,105.8485,https://worthajourney.com/coffee-houses/#loading-t
-75,Jibbi Coffee Roasters,Coffee bar,Sydney,Australia,AU,-33.8836,151.2100,https://worthajourney.com/coffee-houses/#jibbi-coffee-roasters
-76,Café Raphaël,Café,Ottawa,Canada,CA,45.3992,-75.7112,https://worthajourney.com/coffee-houses/#cafe-raphael
-77,Maxi Coffee Bar,Coffee bar,Singapore,Singapore,SG,1.2814,103.8459,https://worthajourney.com/coffee-houses/#maxi-coffee-bar
-78,Roast Coffee Company,Coffee bar,Milwaukee,United States,US,43.0712,-87.8833,https://worthajourney.com/coffee-houses/#roast-coffee-company
-79,VOG Specialty Coffee,Coffee bar,Giza,Egypt,EG,30.0569,31.2070,https://worthajourney.com/coffee-houses/#vog-specialty-coffee
-80,Gota Coffee Experts,Coffee bar,Vienna,Austria,AT,48.1914,16.3269,https://worthajourney.com/coffee-houses/#gota-coffee-experts
-81,Base by Garage Coffee Bros.,Coffee bar,Verona,Italy,IT,45.4388,10.9871,https://worthajourney.com/coffee-houses/#base-by-garage-coffee-bros
-82,Three Monkeys Coffee,Coffee bar,Cusco,Peru,PE,-13.5178,-71.9748,https://worthajourney.com/coffee-houses/#three-monkeys-coffee
-83,Eco Mapu,Café,Villarrica,Chile,CL,-39.2843,-72.2241,https://worthajourney.com/coffee-houses/#eco-mapu
-84,Caffe Paradiso,Coffee bar,New York,United States,US,40.7220,-73.9943,https://worthajourney.com/coffee-houses/#caffe-paradiso
-85,Holaste! Specialty Coffee,Coffee bar,Puerto Natales,Chile,CL,-51.7261,-72.5076,https://worthajourney.com/coffee-houses/#holaste-specialty-coffee
-86,Stow,Coffee bar,Ljubljana,Slovenia,SI,46.0470,14.5041,https://worthajourney.com/coffee-houses/#stow
-87,Coffee Five,Coffee bar,Rio de Janeiro,Brazil,BR,-22.9026,-43.1768,https://worthajourney.com/coffee-houses/#coffee-five
-88,Formative Coffee,Coffee bar,London,United Kingdom,GB,51.4979,-0.1354,https://worthajourney.com/coffee-houses/#formative-coffee
-89,Moxie Coffee Co.,Coffee bar,Phoenix,United States,US,33.5050,-112.0478,https://worthajourney.com/coffee-houses/#moxie-coffee-co
-90,Swallow,Coffee bar,Alicante,Spain,ES,38.3468,-0.4824,https://worthajourney.com/coffee-houses/#swallow
-91,Coto Coffee + Colmado,Coffee bar,Barcelona,Spain,ES,41.3829,2.1789,https://worthajourney.com/coffee-houses/#coto-coffee-colmado
-92,Patricia Coffee Brewers,Coffee bar,Melbourne,Australia,AU,-37.8147,144.9582,https://worthajourney.com/coffee-houses/#patricia-coffee-brewers
-93,Nón Coffee & More,Café,Nha Trang,Vietnam,VN,12.2423,109.1940,https://worthajourney.com/coffee-houses/#non-coffee-more
-94,Viahe Caphe,Coffee bar,Paris,France,FR,48.8547,2.3709,https://worthajourney.com/coffee-houses/#viahe-caphe
-95,Florencia y Fortunata Specialty Coffee,Coffee bar,Cusco,Peru,PE,-13.5154,-71.9791,https://worthajourney.com/coffee-houses/#florencia-y-fortunata-specialty-coffee
-96,Mala Pražarna,Coffee bar,Ljubljana,Slovenia,SI,46.0451,14.5051,https://worthajourney.com/coffee-houses/#mala-prazarna
-97,Dukes Coffee Roasters,Coffee bar,Melbourne,Australia,AU,-37.8168,144.9662,https://worthajourney.com/coffee-houses/#dukes-coffee-roasters
-98,Despiertoo Specialty Coffee,Coffee bar,Granada,Spain,ES,37.1756,-3.6013,https://worthajourney.com/coffee-houses/#despiertoo-specialty-coffee
-99,Meramanis Coffee Roaster,Coffee bar,Cologne,Germany,DE,50.9498,6.9527,https://worthajourney.com/coffee-houses/#meramanis-coffee-roaster
-100,Muy Coffee,Coffee bar,Seville,Spain,ES,37.3974,-5.9927,https://worthajourney.com/coffee-houses/#muy-coffee
+1,The Source Coffee Roasters,Coffee bar,Edinburgh,United Kingdom,GB,55.9460,-3.2032,https://worthajourney.com/coffee-houses/the-source-coffee-roasters/
+2,Coffee Studio 7Gr,Coffee bar,Milan,Italy,IT,45.4697,9.1997,https://worthajourney.com/coffee-houses/coffee-studio-7gr/
+3,Naji Specialty Coffee,Coffee bar,Madrid,Spain,ES,40.4317,-3.7022,https://worthajourney.com/coffee-houses/naji-specialty-coffee/
+4,Glitch Coffee & Roasters,Coffee bar,Tokyo,Japan,JP,35.6937,139.7613,https://worthajourney.com/coffee-houses/glitch-coffee-roasters/
+5,Remedy Roasters,Coffee bar,Dammam,Saudi Arabia,SA,26.4794,50.1327,https://worthajourney.com/coffee-houses/remedy-roasters/
+6,Komodo,Coffee bar,Brighton,United Kingdom,GB,50.8219,-0.1402,https://worthajourney.com/coffee-houses/komodo/
+7,Friedhats Fuku Cafe,Coffee bar,Amsterdam,Netherlands,NL,52.3813,4.8552,https://worthajourney.com/coffee-houses/friedhats-fuku-cafe/
+8,Goldchild Coffee Roasters,Coffee bar,San Diego,United States,US,32.7159,-117.1624,https://worthajourney.com/coffee-houses/goldchild-coffee-roasters/
+9,Unfiltered Coffee,Coffee bar,Dublin,Ireland,IE,53.3395,-6.3205,https://worthajourney.com/coffee-houses/unfiltered-coffee/
+10,The Coffee Bar Collective,Coffee bar,Birmingham,United Kingdom,GB,52.4815,-1.8966,https://worthajourney.com/coffee-houses/the-coffee-bar-collective/
+11,Saigon Coffee,Coffee bar,San Diego,United States,US,32.7502,-117.1304,https://worthajourney.com/coffee-houses/saigon-coffee/
+12,C.O.C Legacy,Coffee bar,Hanoi,Vietnam,VN,21.0340,105.8518,https://worthajourney.com/coffee-houses/c-o-c-legacy/
+13,Coffeewerk + Press,Coffee bar,Galway,Ireland,IE,53.2713,-9.0540,https://worthajourney.com/coffee-houses/coffeewerk-press/
+14,Opulence Coffee,Coffee bar,Ottawa,Canada,CA,45.4306,-75.6924,https://worthajourney.com/coffee-houses/opulence-coffee/
+15,Makario Coffee Roasters,Coffee bar,Everett,United States,US,47.9827,-122.2083,https://worthajourney.com/coffee-houses/makario-coffee-roasters/
+16,Yaw Farm Coffee Roaster,Coffee bar,Las Vegas,United States,US,36.1593,-115.2517,https://worthajourney.com/coffee-houses/yaw-farm-coffee-roaster/
+17,Dam Khe Specialty Coffee,Coffee bar,"Tam Coc, Ninh Binh",Vietnam,VN,20.2150,105.9357,https://worthajourney.com/coffee-houses/dam-khe-specialty-coffee/
+18,Caffè Couture,Coffee bar,Vienna,Austria,AT,48.2110,16.3656,https://worthajourney.com/coffee-houses/caffe-couture/
+19,Aroma Specialty Coffees,Coffee bar,Bologna,Italy,IT,44.4943,11.3377,https://worthajourney.com/coffee-houses/aroma-specialty-coffees/
+20,One For All Coffee,Coffee bar,Hamilton,Canada,CA,43.2546,-79.8620,https://worthajourney.com/coffee-houses/one-for-all-coffee/
+21,Tim Wendelboe,Coffee bar,Oslo,Norway,NO,59.9234,10.7557,https://worthajourney.com/coffee-houses/tim-wendelboe/
+22,Bugan Coffee Lab,Coffee bar,Bergamo,Italy,IT,45.7047,9.6619,https://worthajourney.com/coffee-houses/bugan-coffee-lab/
+23,Nylon Coffee,Coffee bar,Singapore,Singapore,SG,1.2769,103.8400,https://worthajourney.com/coffee-houses/nylon-coffee/
+24,Nomad Coffee,Coffee bar,Barcelona,Spain,ES,41.3889,2.1770,https://worthajourney.com/coffee-houses/nomad-coffee/
+25,Črno Zrno,Coffee bar,Ljubljana,Slovenia,SI,46.0466,14.5077,https://worthajourney.com/coffee-houses/crno-zrno/
+26,Taste Coffee & More,Coffee bar,Treviso,Italy,IT,45.6663,12.2470,https://worthajourney.com/coffee-houses/taste-coffee-more/
+27,SEY Coffee,Coffee bar,New York,United States,US,40.7053,-73.9324,https://worthajourney.com/coffee-houses/sey-coffee/
+28,Pacopepe Specialty Coffee,Coffee bar,Granada,Spain,ES,37.1718,-3.5991,https://worthajourney.com/coffee-houses/pacopepe-specialty-coffee/
+29,Sansone Coffee,Coffee bar,Naples,Italy,IT,40.8395,14.2403,https://worthajourney.com/coffee-houses/sansone-coffee/
+30,The Beans Coffee Roastery,Coffee bar,Colombo,Sri Lanka,LK,6.9388,79.8572,https://worthajourney.com/coffee-houses/the-beans-coffee-roastery/
+31,Arábiga,Coffee bar,Córdoba,Spain,ES,37.8806,-4.7749,https://worthajourney.com/coffee-houses/arabiga/
+32,Nostos Coffee,Coffee bar,London,United Kingdom,GB,51.4987,-0.1333,https://worthajourney.com/coffee-houses/nostos-coffee/
+33,Mad Priest Coffee Roasters,Coffee bar,Chattanooga,United States,US,35.0391,-85.2840,https://worthajourney.com/coffee-houses/mad-priest-coffee-roasters/
+34,Ammazza Caffé,Coffee bar,Verona,Italy,IT,45.4360,10.9916,https://worthajourney.com/coffee-houses/ammazza-caffe/
+35,Le Maung Coffee Roaster,Coffee bar,Paris,France,FR,48.8653,2.3482,https://worthajourney.com/coffee-houses/le-maung-coffee-roaster/
+36,BLCK Speciality Coffee,Coffee bar,Cairo,Egypt,EG,30.0222,31.2826,https://worthajourney.com/coffee-houses/blck-speciality-coffee/
+37,Goat Coffee Store,Coffee bar,Valencia,Spain,ES,39.4730,-0.3758,https://worthajourney.com/coffee-houses/goat-coffee-store/
+38,The Cobbled Roastery,Coffee bar,Edinburgh,United Kingdom,GB,55.9539,-3.1991,https://worthajourney.com/coffee-houses/the-cobbled-roastery/
+39,Specialty Būn,Coffee bar,Sheikh Zayed City,Egypt,EG,30.0208,31.0040,https://worthajourney.com/coffee-houses/specialty-bun/
+40,Cath Coffee and Tea House,Coffee bar,Indianapolis,United States,US,39.9102,-86.0654,https://worthajourney.com/coffee-houses/cath-coffee-and-tea-house/
+41,Brew Lab,Coffee bar,Dublin,Ireland,IE,53.3382,-6.2662,https://worthajourney.com/coffee-houses/brew-lab/
+42,Espresso Vivace,Coffee bar,Seattle,United States,US,47.6238,-122.3206,https://worthajourney.com/coffee-houses/espresso-vivace/
+43,Ganbaru Coffee,Coffee bar,Málaga,Spain,ES,36.7196,-4.4240,https://worthajourney.com/coffee-houses/ganbaru-coffee/
+44,Koffee Mameya,Coffee bar,Tokyo,Japan,JP,35.6684,139.7109,https://worthajourney.com/coffee-houses/koffee-mameya/
+45,Desnudo Coffee,Coffee bar,Austin,United States,US,30.2631,-97.7138,https://worthajourney.com/coffee-houses/desnudo-coffee/
+46,Corica,Coffee bar,Brussels,Belgium,BE,50.8485,4.3510,https://worthajourney.com/coffee-houses/corica/
+47,Po Cafe,Café,Ho Chi Minh City,Vietnam,VN,10.7741,106.7041,https://worthajourney.com/coffee-houses/po-cafe/
+48,Lowdown,Coffee bar,Edinburgh,United Kingdom,GB,55.9532,-3.1979,https://worthajourney.com/coffee-houses/lowdown/
+49,Kanso Coffee Lab,Coffee bar,Munich,Germany,DE,48.1404,11.5768,https://worthajourney.com/coffee-houses/kanso-coffee-lab/
+50,The Dude Specialty Coffee,Coffee bar,Skopje,North Macedonia,MK,41.9978,21.4199,https://worthajourney.com/coffee-houses/the-dude-specialty-coffee/
+51,School Specialty Coffee,Coffee bar,Burlington,Canada,CA,43.3250,-79.8192,https://worthajourney.com/coffee-houses/school-specialty-coffee/
+52,Mazelab,Coffee bar,Prague,Czechia,CZ,50.1009,14.3986,https://worthajourney.com/coffee-houses/mazelab/
+53,Lucero Canteen,Café,Kitchener,Canada,CA,43.4507,-80.4903,https://worthajourney.com/coffee-houses/lucero-canteen/
+54,Ça Passe Crème,Coffee bar,Lausanne,Switzerland,CH,46.5164,6.6255,https://worthajourney.com/coffee-houses/ca-passe-creme/
+55,Coffee Nerd,Coffee bar,Heidelberg,Germany,DE,49.4123,8.7092,https://worthajourney.com/coffee-houses/coffee-nerd/
+56,Mame,Coffee bar,Zurich,Switzerland,CH,47.3850,8.5274,https://worthajourney.com/coffee-houses/mame/
+57,Hidden Grounds Coffee,Coffee bar,Wilmington,United States,US,34.2346,-77.9472,https://worthajourney.com/coffee-houses/hidden-grounds-coffee/
+58,Delatribu,Coffee bar,Seville,Spain,ES,37.3858,-5.9904,https://worthajourney.com/coffee-houses/delatribu/
+59,Blue Mountain Coffee House,Coffee bar,West Palm Beach,United States,US,26.7133,-80.0570,https://worthajourney.com/coffee-houses/blue-mountain-coffee-house/
+60,Hoi An Coffee Hub,Coffee bar,Hoi An,Vietnam,VN,15.8764,108.3307,https://worthajourney.com/coffee-houses/hoi-an-coffee-hub/
+61,Onyx Coffee Lab,Coffee bar,Bentonville,United States,US,36.3731,-94.2093,https://worthajourney.com/coffee-houses/onyx-coffee-lab/
+62,CatBa Specialty Coffee,Coffee bar,Cat Ba Island,Vietnam,VN,20.7245,107.0508,https://worthajourney.com/coffee-houses/catba-specialty-coffee/
+63,Glass Coffee,Coffee bar,London,United Kingdom,GB,51.5401,-0.1433,https://worthajourney.com/coffee-houses/glass-coffee/
+64,Phin Smith Coffee House,Coffee bar,Las Vegas,United States,US,36.0576,-115.2240,https://worthajourney.com/coffee-houses/phin-smith-coffee-house/
+65,Ben Rahim Coffee Company,Coffee house,Sidi Bou Said,Tunisia,TN,36.8699,10.3441,https://worthajourney.com/coffee-houses/ben-rahim-coffee-company/
+66,Lagacca Cafe,Coffee bar,Poznan,Poland,PL,52.4079,16.9356,https://worthajourney.com/coffee-houses/lagacca-cafe/
+67,La Manière,Café,Vigo,Spain,ES,42.2244,-8.7351,https://worthajourney.com/coffee-houses/la-maniere/
+68,Tob Coffee,Coffee bar,Auckland,New Zealand,NZ,-36.7426,174.7282,https://worthajourney.com/coffee-houses/tob-coffee/
+69,Bean Bank Coffee,Coffee bar,Zurich,Switzerland,CH,47.3779,8.5330,https://worthajourney.com/coffee-houses/bean-bank-coffee/
+70,Tonkin Specialty Coffee,Coffee bar,Ho Chi Minh City,Vietnam,VN,10.7744,106.6979,https://worthajourney.com/coffee-houses/tonkin-specialty-coffee/
+71,Loading T,Coffee bar,Hanoi,Vietnam,VN,21.0305,105.8485,https://worthajourney.com/coffee-houses/loading-t/
+72,Jibbi Coffee Roasters,Coffee bar,Sydney,Australia,AU,-33.8836,151.2100,https://worthajourney.com/coffee-houses/jibbi-coffee-roasters/
+73,Café Raphaël,Café,Ottawa,Canada,CA,45.3992,-75.7112,https://worthajourney.com/coffee-houses/cafe-raphael/
+74,Maxi Coffee Bar,Coffee bar,Singapore,Singapore,SG,1.2814,103.8459,https://worthajourney.com/coffee-houses/maxi-coffee-bar/
+75,Roast Coffee Company,Coffee bar,Milwaukee,United States,US,43.0712,-87.8833,https://worthajourney.com/coffee-houses/roast-coffee-company/
+76,VOG Specialty Coffee,Coffee bar,Giza,Egypt,EG,30.0569,31.2070,https://worthajourney.com/coffee-houses/vog-specialty-coffee/
+77,Gota Coffee Experts,Coffee bar,Vienna,Austria,AT,48.1914,16.3269,https://worthajourney.com/coffee-houses/gota-coffee-experts/
+78,Base by Garage Coffee Bros.,Coffee bar,Verona,Italy,IT,45.4388,10.9871,https://worthajourney.com/coffee-houses/base-by-garage-coffee-bros/
+79,Three Monkeys Coffee,Coffee bar,Cusco,Peru,PE,-13.5178,-71.9748,https://worthajourney.com/coffee-houses/three-monkeys-coffee/
+80,Eco Mapu,Café,Villarrica,Chile,CL,-39.2843,-72.2241,https://worthajourney.com/coffee-houses/eco-mapu/
+81,Caffe Paradiso,Coffee bar,New York,United States,US,40.7220,-73.9943,https://worthajourney.com/coffee-houses/caffe-paradiso/
+82,Holaste! Specialty Coffee,Coffee bar,Puerto Natales,Chile,CL,-51.7261,-72.5076,https://worthajourney.com/coffee-houses/holaste-specialty-coffee/
+83,Stow,Coffee bar,Ljubljana,Slovenia,SI,46.0470,14.5041,https://worthajourney.com/coffee-houses/stow/
+84,Coffee Five,Coffee bar,Rio de Janeiro,Brazil,BR,-22.9026,-43.1768,https://worthajourney.com/coffee-houses/coffee-five/
+85,Formative Coffee,Coffee bar,London,United Kingdom,GB,51.4979,-0.1354,https://worthajourney.com/coffee-houses/formative-coffee/
+86,Moxie Coffee Co.,Coffee bar,Phoenix,United States,US,33.5050,-112.0478,https://worthajourney.com/coffee-houses/moxie-coffee-co/
+87,Swallow,Coffee bar,Alicante,Spain,ES,38.3468,-0.4824,https://worthajourney.com/coffee-houses/swallow/
+88,Coto Coffee + Colmado,Coffee bar,Barcelona,Spain,ES,41.3829,2.1789,https://worthajourney.com/coffee-houses/coto-coffee-colmado/
+89,Patricia Coffee Brewers,Coffee bar,Melbourne,Australia,AU,-37.8147,144.9582,https://worthajourney.com/coffee-houses/patricia-coffee-brewers/
+90,Nón Coffee & More,Café,Nha Trang,Vietnam,VN,12.2423,109.1940,https://worthajourney.com/coffee-houses/non-coffee-more/
+91,Viahe Caphe,Coffee bar,Paris,France,FR,48.8547,2.3709,https://worthajourney.com/coffee-houses/viahe-caphe/
+92,Florencia y Fortunata Specialty Coffee,Coffee bar,Cusco,Peru,PE,-13.5154,-71.9791,https://worthajourney.com/coffee-houses/florencia-y-fortunata-specialty-coffee/
+93,Mala Pražarna,Coffee bar,Ljubljana,Slovenia,SI,46.0451,14.5051,https://worthajourney.com/coffee-houses/mala-prazarna/
+94,Dukes Coffee Roasters,Coffee bar,Melbourne,Australia,AU,-37.8168,144.9662,https://worthajourney.com/coffee-houses/dukes-coffee-roasters/
+95,Despiertoo Specialty Coffee,Coffee bar,Granada,Spain,ES,37.1756,-3.6013,https://worthajourney.com/coffee-houses/despiertoo-specialty-coffee/
+96,Meramanis Coffee Roaster,Coffee bar,Cologne,Germany,DE,50.9498,6.9527,https://worthajourney.com/coffee-houses/meramanis-coffee-roaster/
+97,Muy Coffee,Coffee bar,Seville,Spain,ES,37.3974,-5.9927,https://worthajourney.com/coffee-houses/muy-coffee/
+98,Coterra Coffee Roasters,Coffee bar,Ras Al Khaimah,United Arab Emirates,AE,25.7839,55.9867,https://worthajourney.com/coffee-houses/coterra-coffee-roasters/
+99,Storyville Coffee,Coffee bar,Seattle,United States,US,47.6090,-122.3404,https://worthajourney.com/coffee-houses/storyville-coffee/
+100,Special Guests Coffee,Coffee bar,London,United Kingdom,GB,51.5191,-0.1529,https://worthajourney.com/coffee-houses/special-guests-coffee/

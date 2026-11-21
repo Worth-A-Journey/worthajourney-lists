@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Museo Nacional de Antropología,History museum,Mexico City,Mexico,MX,19.4260,-99.1863,https://worthajourney.com/museums/#museo-nacional-de-antropologia
-2,Museo del Prado,Art museum,Madrid,Spain,ES,40.4138,-3.6921,https://worthajourney.com/museums/#museo-del-prado
-3,Louisiana Museum of Modern Art,Art museum,Humlebæk,Denmark,DK,55.9695,12.5428,https://worthajourney.com/museums/#louisiana-museum-of-modern-art
-4,State Hermitage Museum,Art museum,Saint Petersburg,Russia,RU,59.9398,30.3146,https://worthajourney.com/museums/#state-hermitage-museum
-5,Kunsthistorisches Museum,Art museum,Vienna,Austria,AT,48.2038,16.3618,https://worthajourney.com/museums/#kunsthistorisches-museum
-6,Şanlıurfa Archaeology Museum,History museum,Şanlıurfa,Turkey,TR,37.1543,38.7813,https://worthajourney.com/museums/#sanlurfa-archaeology-museum
-7,Museum of the Second World War,History museum,Gdańsk,Poland,PL,54.3561,18.6600,https://worthajourney.com/museums/#museum-of-the-second-world-war
-8,National WWII Museum,History museum,New Orleans,United States,US,29.9431,-90.0705,https://worthajourney.com/museums/#national-wwii-museum
-9,Bihar Museum,History museum,Patna,India,IN,25.6095,85.1216,https://worthajourney.com/museums/#bihar-museum
-10,Metropolitan Museum of Art,Art museum,New York,United States,US,40.7794,-73.9632,https://worthajourney.com/museums/#metropolitan-museum-of-art
-11,Naturalis,Science museum,Leiden,Netherlands,NL,52.1649,4.4734,https://worthajourney.com/museums/#naturalis
-12,Moesgaard Museum,History museum,Aarhus,Denmark,DK,56.0887,10.2235,https://worthajourney.com/museums/#moesgaard-museum
-13,Art Institute of Chicago,Art museum,Chicago,United States,US,41.8796,-87.6224,https://worthajourney.com/museums/#art-institute-of-chicago
-14,Orava Village Museum,Open-air museum,Zuberec,Slovakia,SK,49.2601,19.6630,https://worthajourney.com/museums/#orava-village-museum
-15,Grand Egyptian Museum,History museum,Giza,Egypt,EG,29.9932,31.1244,https://worthajourney.com/museums/#grand-egyptian-museum
-16,Israel Museum,History museum,Jerusalem,Israel,IL,31.7721,35.2041,https://worthajourney.com/museums/#israel-museum
-17,Naturhistorisches Museum,Science museum,Vienna,Austria,AT,48.2052,16.3598,https://worthajourney.com/museums/#naturhistorisches-museum
-18,Instituto Ricardo Brennand,Art museum,Recife,Brazil,BR,-8.0663,-34.9633,https://worthajourney.com/museums/#instituto-ricardo-brennand
-19,Army Museum Žižkov,History museum,Prague,Czechia,CZ,50.0876,14.4447,https://worthajourney.com/museums/#army-museum-zizkov
-20,Technik Museum Sinsheim,Technology museum,Sinsheim,Germany,DE,49.2388,8.8972,https://worthajourney.com/museums/#technik-museum-sinsheim
-21,Museum of the Royal Tombs of Aigai,History museum,Vergina,Greece,GR,40.4875,22.3194,https://worthajourney.com/museums/#museum-of-the-royal-tombs-of-aigai
-22,Vasa Museum,Technology museum,Stockholm,Sweden,SE,59.3280,18.0914,https://worthajourney.com/museums/#vasa-museum
-23,Museo Tumbas Reales de Sipán,History museum,Lambayeque,Peru,PE,-6.7051,-79.8996,https://worthajourney.com/museums/#museo-tumbas-reales-de-sipan
-24,Fukui Prefectural Dinosaur Museum,Science museum,Katsuyama,Japan,JP,36.0823,136.5067,https://worthajourney.com/museums/#fukui-prefectural-dinosaur-museum
-25,Legacy Museum,History museum,Montgomery,United States,US,32.3824,-86.3085,https://worthajourney.com/museums/#legacy-museum
-26,Museum Voorlinden,Art museum,Wassenaar,Netherlands,NL,52.1191,4.3473,https://worthajourney.com/museums/#museum-voorlinden
-27,Inhotim,Art museum,Brumadinho,Brazil,BR,-20.1242,-44.2196,https://worthajourney.com/museums/#inhotim
-28,Cleveland Museum of Art,Art museum,Cleveland,United States,US,41.5079,-81.6120,https://worthajourney.com/museums/#cleveland-museum-of-art
-29,CosmoCaixa,Science museum,Barcelona,Spain,ES,41.4132,2.1311,https://worthajourney.com/museums/#cosmocaixa
-30,Louwman Museum,Technology museum,The Hague,Netherlands,NL,52.0997,4.3507,https://worthajourney.com/museums/#louwman-museum
-31,Louvre,Art museum,Paris,France,FR,48.8606,2.3376,https://worthajourney.com/museums/#louvre
-32,Museo Stibbert,History museum,Florence,Italy,IT,43.7929,11.2550,https://worthajourney.com/museums/#museo-stibbert
-33,Deutsches Museum,Technology museum,Munich,Germany,DE,48.1299,11.5835,https://worthajourney.com/museums/#deutsches-museum
-34,National Museum of the US Air Force,Technology museum,Dayton,United States,US,39.7808,-84.1094,https://worthajourney.com/museums/#national-museum-of-the-us-air-force
-35,Borneo Cultures Museum,History museum,Kuching,Malaysia,MY,1.5555,110.3424,https://worthajourney.com/museums/#borneo-cultures-museum
-36,Chichu Art Museum,Art museum,Naoshima,Japan,JP,34.4477,133.9847,https://worthajourney.com/museums/#chichu-art-museum
-37,Museo Arqueológico Nacional,History museum,Madrid,Spain,ES,40.4233,-3.6888,https://worthajourney.com/museums/#museo-arqueologico-nacional
-38,Airborne Museum,History museum,Sainte-Mère-Église,France,FR,49.4085,-1.3152,https://worthajourney.com/museums/#airborne-museum
-39,State Museum of Prehistory,History museum,Halle,Germany,DE,51.4981,11.9625,https://worthajourney.com/museums/#state-museum-of-prehistory
-40,Národní muzeum,History museum,Prague,Czechia,CZ,50.0790,14.4309,https://worthajourney.com/museums/#narodni-muzeum
-41,National Museum of Ethnology,History museum,Suita,Japan,JP,34.8128,135.5302,https://worthajourney.com/museums/#national-museum-of-ethnology
-42,Uffizi,Art museum,Florence,Italy,IT,43.7678,11.2553,https://worthajourney.com/museums/#uffizi
-43,Museo Paleontológico Egidio Feruglio,Science museum,Trelew,Argentina,AR,-43.2495,-65.3068,https://worthajourney.com/museums/#museo-paleontologico-egidio-feruglio
-44,MONA,Art museum,Hobart,Australia,AU,-42.8125,147.2615,https://worthajourney.com/museums/#mona
-45,Museum of Anatolian Civilizations,History museum,Ankara,Turkey,TR,39.9382,32.8619,https://worthajourney.com/museums/#museum-of-anatolian-civilizations
-46,Musical Instrument Museum,History museum,Phoenix,United States,US,33.6680,-111.9783,https://worthajourney.com/museums/#musical-instrument-museum
-47,National Museum of Scotland,History museum,Edinburgh,United Kingdom,GB,55.9470,-3.1906,https://worthajourney.com/museums/#national-museum-of-scotland
-48,Oman Across Ages Museum,History museum,Manah,Oman,OM,22.7781,57.5575,https://worthajourney.com/museums/#oman-across-ages-museum
-49,Detroit Institute of Arts,Art museum,Detroit,United States,US,42.3594,-83.0645,https://worthajourney.com/museums/#detroit-institute-of-arts
-50,Galleria Borghese,Art museum,Rome,Italy,IT,41.9142,12.4921,https://worthajourney.com/museums/#galleria-borghese
-51,Toyota Commemorative Museum of Industry and Technology,Technology museum,Nagoya,Japan,JP,35.1826,136.8760,https://worthajourney.com/museums/#toyota-commemorative-museum-of-industry-and-technology
-52,Griffin Museum of Science and Industry,Science museum,Chicago,United States,US,41.7906,-87.5831,https://worthajourney.com/museums/#griffin-museum-of-science-and-industry
-53,European Solidarity Centre,History museum,Gdańsk,Poland,PL,54.3614,18.6491,https://worthajourney.com/museums/#european-solidarity-centre
-54,Museo de La Plata,Science museum,La Plata,Argentina,AR,-34.9089,-57.9353,https://worthajourney.com/museums/#museo-de-la-plata
-55,Kunsthaus Zürich,Art museum,Zürich,Switzerland,CH,47.3711,8.5491,https://worthajourney.com/museums/#kunsthaus-zurich
-56,Victoria and Albert Museum,Art museum,London,United Kingdom,GB,51.4966,-0.1722,https://worthajourney.com/museums/#victoria-and-albert-museum
-57,Bardo National Museum,History museum,Tunis,Tunisia,TN,36.8094,10.1342,https://worthajourney.com/museums/#bardo-national-museum
-58,Adachi Museum of Art,Art museum,Yasugi,Japan,JP,35.3804,133.1947,https://worthajourney.com/museums/#adachi-museum-of-art
-59,Te Papa,History museum,Wellington,New Zealand,NZ,-41.2905,174.7821,https://worthajourney.com/museums/#te-papa
-60,National Gallery,Art museum,London,United Kingdom,GB,51.5089,-0.1283,https://worthajourney.com/museums/#national-gallery
-61,National Archaeological Museum of Taranto,History museum,Taranto,Italy,IT,40.4738,17.2387,https://worthajourney.com/museums/#national-archaeological-museum-of-taranto
-62,Museo Thyssen-Bornemisza,Art museum,Madrid,Spain,ES,40.4160,-3.6949,https://worthajourney.com/museums/#museo-thyssen-bornemisza
-63,Overloon War Museum,History museum,Overloon,Netherlands,NL,51.5700,5.9536,https://worthajourney.com/museums/#overloon-war-museum
-64,Den Gamle By,Open-air museum,Aarhus,Denmark,DK,56.1578,10.1936,https://worthajourney.com/museums/#den-gamle-by
-65,German Emigration Center,History museum,Bremerhaven,Germany,DE,53.5452,8.5740,https://worthajourney.com/museums/#german-emigration-center
-66,Lennusadam Seaplane Harbour,Technology museum,Tallinn,Estonia,EE,59.4517,24.7384,https://worthajourney.com/museums/#lennusadam-seaplane-harbour
-67,Vatican Museums,Art museum,Vatican City,Holy See (Vatican City State),VA,41.9065,12.4536,https://worthajourney.com/museums/#vatican-museums
-68,National Museum of Korea,History museum,Seoul,South Korea,KR,37.5239,126.9805,https://worthajourney.com/museums/#national-museum-of-korea
-69,Rijksmuseum,Art museum,Amsterdam,Netherlands,NL,52.3600,4.8852,https://worthajourney.com/museums/#rijksmuseum
-70,Royal Tyrrell Museum,Science museum,Drumheller,Canada,CA,51.4792,-112.7901,https://worthajourney.com/museums/#royal-tyrrell-museum
-71,Musée d’Orsay,Art museum,Paris,France,FR,48.8600,2.3266,https://worthajourney.com/museums/#musee-dorsay
-72,Henry Ford Museum,Technology museum,Dearborn,United States,US,42.3035,-83.2342,https://worthajourney.com/museums/#henry-ford-museum
-73,Kröller-Müller Museum,Art museum,Otterlo,Netherlands,NL,52.0956,5.8174,https://worthajourney.com/museums/#kroller-muller-museum
-74,Steven F. Udvar-Hazy Center,Technology museum,Chantilly,United States,US,38.9109,-77.4442,https://worthajourney.com/museums/#steven-f-udvar-hazy-center
-75,Mercedes-Benz Museum,Technology museum,Stuttgart,Germany,DE,48.7881,9.2340,https://worthajourney.com/museums/#mercedes-benz-museum
-76,Museo Archeologico Nazionale,History museum,Naples,Italy,IT,40.8536,14.2505,https://worthajourney.com/museums/#museo-archeologico-nazionale
-77,KMSKA,Art museum,Antwerp,Belgium,BE,51.2088,4.3948,https://worthajourney.com/museums/#kmska
-78,Museo del Desierto,Science museum,Saltillo,Mexico,MX,25.4137,-100.9641,https://worthajourney.com/museums/#museo-del-desierto
-79,Philadelphia Museum of Art,Art museum,Philadelphia,United States,US,39.9656,-75.1810,https://worthajourney.com/museums/#philadelphia-museum-of-art
-80,National Gallery of Art,Art museum,Washington,United States,US,38.8913,-77.0200,https://worthajourney.com/museums/#national-gallery-of-art
-81,Nelson-Atkins Museum of Art,Art museum,Kansas City,United States,US,39.0450,-94.5809,https://worthajourney.com/museums/#nelson-atkins-museum-of-art
-82,Museo Amparo,Art museum,Puebla,Mexico,MX,19.0409,-98.1984,https://worthajourney.com/museums/#museo-amparo
-83,La Piscine,Art museum,Roubaix,France,FR,50.6927,3.1676,https://worthajourney.com/museums/#la-piscine
-84,Silesian Museum,History museum,Katowice,Poland,PL,50.2635,19.0341,https://worthajourney.com/museums/#silesian-museum
-85,Ny Carlsberg Glyptotek,Art museum,Copenhagen,Denmark,DK,55.6730,12.5725,https://worthajourney.com/museums/#ny-carlsberg-glyptotek
-86,European Hansemuseum,History museum,Lübeck,Germany,DE,53.8741,10.6895,https://worthajourney.com/museums/#european-hansemuseum
-87,American Museum of Natural History,Science museum,New York,United States,US,40.7813,-73.9740,https://worthajourney.com/museums/#american-museum-of-natural-history
-88,Museo Nacional de Escultura,Art museum,Valladolid,Spain,ES,41.6572,-4.7237,https://worthajourney.com/museums/#museo-nacional-de-escultura
-89,Ullen Sentalu Museum,History museum,Kaliurang,Indonesia,ID,-7.5982,110.4228,https://worthajourney.com/museums/#ullen-sentalu-museum
-90,Calouste Gulbenkian Museum,Art museum,Lisbon,Portugal,PT,38.7378,-9.1535,https://worthajourney.com/museums/#calouste-gulbenkian-museum
-91,British Museum,History museum,London,United Kingdom,GB,51.5194,-0.1270,https://worthajourney.com/museums/#british-museum
-92,Isabella Stewart Gardner Museum,Art museum,Boston,United States,US,42.3381,-71.0991,https://worthajourney.com/museums/#isabella-stewart-gardner-museum
-93,Galata Museo del Mare,Technology museum,Genoa,Italy,IT,44.4143,8.9236,https://worthajourney.com/museums/#galata-museo-del-mare
-94,Netherlands Open Air Museum,Open-air museum,Arnhem,Netherlands,NL,52.0102,5.9067,https://worthajourney.com/museums/#netherlands-open-air-museum
-95,Train World,Technology museum,Brussels,Belgium,BE,50.8778,4.3791,https://worthajourney.com/museums/#train-world
-96,Olsztynek Ethnographic Park,Open-air museum,Olsztynek,Poland,PL,53.5903,20.2895,https://worthajourney.com/museums/#olsztynek-ethnographic-park
-97,"Museum of Fine Arts, Boston",Art museum,Boston,United States,US,42.3394,-71.0940,https://worthajourney.com/museums/#museum-of-fine-arts-boston
-98,Barber Vintage Motorsports Museum,Technology museum,Birmingham,United States,US,33.5334,-86.6141,https://worthajourney.com/museums/#barber-vintage-motorsports-museum
-99,Museum Bank Indonesia,History museum,Jakarta,Indonesia,ID,-6.1372,106.8129,https://worthajourney.com/museums/#museum-bank-indonesia
-100,Museo Nacional de Arte Romano,History museum,Mérida,Spain,ES,38.9169,-6.3395,https://worthajourney.com/museums/#museo-nacional-de-arte-romano
+1,Museo Nacional de Antropología,History museum,Mexico City,Mexico,MX,19.4260,-99.1863,https://worthajourney.com/museums/museo-nacional-de-antropologia/
+2,Museo del Prado,Art museum,Madrid,Spain,ES,40.4138,-3.6921,https://worthajourney.com/museums/museo-del-prado/
+3,Louisiana Museum of Modern Art,Art museum,Humlebæk,Denmark,DK,55.9695,12.5428,https://worthajourney.com/museums/louisiana-museum-of-modern-art/
+4,State Hermitage Museum,Art museum,Saint Petersburg,Russia,RU,59.9398,30.3146,https://worthajourney.com/museums/state-hermitage-museum/
+5,Kunsthistorisches Museum,Art museum,Vienna,Austria,AT,48.2038,16.3618,https://worthajourney.com/museums/kunsthistorisches-museum/
+6,Şanlıurfa Archaeology Museum,History museum,Şanlıurfa,Turkey,TR,37.1543,38.7813,https://worthajourney.com/museums/sanlurfa-archaeology-museum/
+7,Museum of the Second World War,History museum,Gdańsk,Poland,PL,54.3561,18.6600,https://worthajourney.com/museums/museum-of-the-second-world-war/
+8,National WWII Museum,History museum,New Orleans,United States,US,29.9431,-90.0705,https://worthajourney.com/museums/national-wwii-museum/
+9,Bihar Museum,History museum,Patna,India,IN,25.6095,85.1216,https://worthajourney.com/museums/bihar-museum/
+10,Metropolitan Museum of Art,Art museum,New York,United States,US,40.7794,-73.9632,https://worthajourney.com/museums/metropolitan-museum-of-art/
+11,Naturalis,Science museum,Leiden,Netherlands,NL,52.1649,4.4734,https://worthajourney.com/museums/naturalis/
+12,Moesgaard Museum,History museum,Aarhus,Denmark,DK,56.0887,10.2235,https://worthajourney.com/museums/moesgaard-museum/
+13,Art Institute of Chicago,Art museum,Chicago,United States,US,41.8796,-87.6224,https://worthajourney.com/museums/art-institute-of-chicago/
+14,Orava Village Museum,Open-air museum,Zuberec,Slovakia,SK,49.2601,19.6630,https://worthajourney.com/museums/orava-village-museum/
+15,Grand Egyptian Museum,History museum,Giza,Egypt,EG,29.9932,31.1244,https://worthajourney.com/museums/grand-egyptian-museum/
+16,Israel Museum,History museum,Jerusalem,Israel,IL,31.7721,35.2041,https://worthajourney.com/museums/israel-museum/
+17,Naturhistorisches Museum,Science museum,Vienna,Austria,AT,48.2052,16.3598,https://worthajourney.com/museums/naturhistorisches-museum/
+18,Instituto Ricardo Brennand,Art museum,Recife,Brazil,BR,-8.0663,-34.9633,https://worthajourney.com/museums/instituto-ricardo-brennand/
+19,Army Museum Žižkov,History museum,Prague,Czechia,CZ,50.0876,14.4447,https://worthajourney.com/museums/army-museum-zizkov/
+20,Technik Museum Sinsheim,Technology museum,Sinsheim,Germany,DE,49.2388,8.8972,https://worthajourney.com/museums/technik-museum-sinsheim/
+21,Museum of the Royal Tombs of Aigai,History museum,Vergina,Greece,GR,40.4875,22.3194,https://worthajourney.com/museums/museum-of-the-royal-tombs-of-aigai/
+22,Vasa Museum,Technology museum,Stockholm,Sweden,SE,59.3280,18.0914,https://worthajourney.com/museums/vasa-museum/
+23,Museo Tumbas Reales de Sipán,History museum,Lambayeque,Peru,PE,-6.7051,-79.8996,https://worthajourney.com/museums/museo-tumbas-reales-de-sipan/
+24,Fukui Prefectural Dinosaur Museum,Science museum,Katsuyama,Japan,JP,36.0823,136.5067,https://worthajourney.com/museums/fukui-prefectural-dinosaur-museum/
+25,Legacy Museum,History museum,Montgomery,United States,US,32.3824,-86.3085,https://worthajourney.com/museums/legacy-museum/
+26,Museum Voorlinden,Art museum,Wassenaar,Netherlands,NL,52.1191,4.3473,https://worthajourney.com/museums/museum-voorlinden/
+27,Inhotim,Art museum,Brumadinho,Brazil,BR,-20.1242,-44.2196,https://worthajourney.com/museums/inhotim/
+28,Cleveland Museum of Art,Art museum,Cleveland,United States,US,41.5079,-81.6120,https://worthajourney.com/museums/cleveland-museum-of-art/
+29,CosmoCaixa,Science museum,Barcelona,Spain,ES,41.4132,2.1311,https://worthajourney.com/museums/cosmocaixa/
+30,Louwman Museum,Technology museum,The Hague,Netherlands,NL,52.0997,4.3507,https://worthajourney.com/museums/louwman-museum/
+31,Louvre,Art museum,Paris,France,FR,48.8606,2.3376,https://worthajourney.com/museums/louvre/
+32,Museo Stibbert,History museum,Florence,Italy,IT,43.7929,11.2550,https://worthajourney.com/museums/museo-stibbert/
+33,Deutsches Museum,Technology museum,Munich,Germany,DE,48.1299,11.5835,https://worthajourney.com/museums/deutsches-museum/
+34,National Museum of the US Air Force,Technology museum,Dayton,United States,US,39.7808,-84.1094,https://worthajourney.com/museums/national-museum-of-the-us-air-force/
+35,Borneo Cultures Museum,History museum,Kuching,Malaysia,MY,1.5555,110.3424,https://worthajourney.com/museums/borneo-cultures-museum/
+36,Chichu Art Museum,Art museum,Naoshima,Japan,JP,34.4477,133.9847,https://worthajourney.com/museums/chichu-art-museum/
+37,Museo Arqueológico Nacional,History museum,Madrid,Spain,ES,40.4233,-3.6888,https://worthajourney.com/museums/museo-arqueologico-nacional/
+38,Airborne Museum,History museum,Sainte-Mère-Église,France,FR,49.4085,-1.3152,https://worthajourney.com/museums/airborne-museum/
+39,State Museum of Prehistory,History museum,Halle,Germany,DE,51.4981,11.9625,https://worthajourney.com/museums/state-museum-of-prehistory/
+40,Národní muzeum,History museum,Prague,Czechia,CZ,50.0790,14.4309,https://worthajourney.com/museums/narodni-muzeum/
+41,National Museum of Ethnology,History museum,Suita,Japan,JP,34.8128,135.5302,https://worthajourney.com/museums/national-museum-of-ethnology/
+42,Uffizi,Art museum,Florence,Italy,IT,43.7678,11.2553,https://worthajourney.com/museums/uffizi/
+43,Museo Paleontológico Egidio Feruglio,Science museum,Trelew,Argentina,AR,-43.2495,-65.3068,https://worthajourney.com/museums/museo-paleontologico-egidio-feruglio/
+44,MONA,Art museum,Hobart,Australia,AU,-42.8125,147.2615,https://worthajourney.com/museums/mona/
+45,Museum of Anatolian Civilizations,History museum,Ankara,Turkey,TR,39.9382,32.8619,https://worthajourney.com/museums/museum-of-anatolian-civilizations/
+46,Musical Instrument Museum,History museum,Phoenix,United States,US,33.6680,-111.9783,https://worthajourney.com/museums/musical-instrument-museum/
+47,National Museum of Scotland,History museum,Edinburgh,United Kingdom,GB,55.9470,-3.1906,https://worthajourney.com/museums/national-museum-of-scotland/
+48,Oman Across Ages Museum,History museum,Manah,Oman,OM,22.7781,57.5575,https://worthajourney.com/museums/oman-across-ages-museum/
+49,Detroit Institute of Arts,Art museum,Detroit,United States,US,42.3594,-83.0645,https://worthajourney.com/museums/detroit-institute-of-arts/
+50,Galleria Borghese,Art museum,Rome,Italy,IT,41.9142,12.4921,https://worthajourney.com/museums/galleria-borghese/
+51,Toyota Commemorative Museum of Industry and Technology,Technology museum,Nagoya,Japan,JP,35.1826,136.8760,https://worthajourney.com/museums/toyota-commemorative-museum-of-industry-and-technology/
+52,Griffin Museum of Science and Industry,Science museum,Chicago,United States,US,41.7906,-87.5831,https://worthajourney.com/museums/griffin-museum-of-science-and-industry/
+53,European Solidarity Centre,History museum,Gdańsk,Poland,PL,54.3614,18.6491,https://worthajourney.com/museums/european-solidarity-centre/
+54,Museo de La Plata,Science museum,La Plata,Argentina,AR,-34.9089,-57.9353,https://worthajourney.com/museums/museo-de-la-plata/
+55,Kunsthaus Zürich,Art museum,Zürich,Switzerland,CH,47.3711,8.5491,https://worthajourney.com/museums/kunsthaus-zurich/
+56,Victoria and Albert Museum,Art museum,London,United Kingdom,GB,51.4966,-0.1722,https://worthajourney.com/museums/victoria-and-albert-museum/
+57,Bardo National Museum,History museum,Tunis,Tunisia,TN,36.8094,10.1342,https://worthajourney.com/museums/bardo-national-museum/
+58,Adachi Museum of Art,Art museum,Yasugi,Japan,JP,35.3804,133.1947,https://worthajourney.com/museums/adachi-museum-of-art/
+59,Te Papa,History museum,Wellington,New Zealand,NZ,-41.2905,174.7821,https://worthajourney.com/museums/te-papa/
+60,National Gallery,Art museum,London,United Kingdom,GB,51.5089,-0.1283,https://worthajourney.com/museums/national-gallery/
+61,National Archaeological Museum of Taranto,History museum,Taranto,Italy,IT,40.4738,17.2387,https://worthajourney.com/museums/national-archaeological-museum-of-taranto/
+62,Museo Thyssen-Bornemisza,Art museum,Madrid,Spain,ES,40.4160,-3.6949,https://worthajourney.com/museums/museo-thyssen-bornemisza/
+63,Overloon War Museum,History museum,Overloon,Netherlands,NL,51.5700,5.9536,https://worthajourney.com/museums/overloon-war-museum/
+64,Den Gamle By,Open-air museum,Aarhus,Denmark,DK,56.1578,10.1936,https://worthajourney.com/museums/den-gamle-by/
+65,German Emigration Center,History museum,Bremerhaven,Germany,DE,53.5452,8.5740,https://worthajourney.com/museums/german-emigration-center/
+66,Lennusadam Seaplane Harbour,Technology museum,Tallinn,Estonia,EE,59.4517,24.7384,https://worthajourney.com/museums/lennusadam-seaplane-harbour/
+67,Vatican Museums,Art museum,Vatican City,Holy See (Vatican City State),VA,41.9065,12.4536,https://worthajourney.com/museums/vatican-museums/
+68,National Museum of Korea,History museum,Seoul,South Korea,KR,37.5239,126.9805,https://worthajourney.com/museums/national-museum-of-korea/
+69,Rijksmuseum,Art museum,Amsterdam,Netherlands,NL,52.3600,4.8852,https://worthajourney.com/museums/rijksmuseum/
+70,Royal Tyrrell Museum,Science museum,Drumheller,Canada,CA,51.4792,-112.7901,https://worthajourney.com/museums/royal-tyrrell-museum/
+71,Musée d’Orsay,Art museum,Paris,France,FR,48.8600,2.3266,https://worthajourney.com/museums/musee-dorsay/
+72,Henry Ford Museum,Technology museum,Dearborn,United States,US,42.3035,-83.2342,https://worthajourney.com/museums/henry-ford-museum/
+73,Kröller-Müller Museum,Art museum,Otterlo,Netherlands,NL,52.0956,5.8174,https://worthajourney.com/museums/kroller-muller-museum/
+74,Steven F. Udvar-Hazy Center,Technology museum,Chantilly,United States,US,38.9109,-77.4442,https://worthajourney.com/museums/steven-f-udvar-hazy-center/
+75,Mercedes-Benz Museum,Technology museum,Stuttgart,Germany,DE,48.7881,9.2340,https://worthajourney.com/museums/mercedes-benz-museum/
+76,Museo Archeologico Nazionale,History museum,Naples,Italy,IT,40.8536,14.2505,https://worthajourney.com/museums/museo-archeologico-nazionale/
+77,KMSKA,Art museum,Antwerp,Belgium,BE,51.2088,4.3948,https://worthajourney.com/museums/kmska/
+78,Museo del Desierto,Science museum,Saltillo,Mexico,MX,25.4137,-100.9641,https://worthajourney.com/museums/museo-del-desierto/
+79,Philadelphia Museum of Art,Art museum,Philadelphia,United States,US,39.9656,-75.1810,https://worthajourney.com/museums/philadelphia-museum-of-art/
+80,National Gallery of Art,Art museum,Washington,United States,US,38.8913,-77.0200,https://worthajourney.com/museums/national-gallery-of-art/
+81,Nelson-Atkins Museum of Art,Art museum,Kansas City,United States,US,39.0450,-94.5809,https://worthajourney.com/museums/nelson-atkins-museum-of-art/
+82,Museo Amparo,Art museum,Puebla,Mexico,MX,19.0409,-98.1984,https://worthajourney.com/museums/museo-amparo/
+83,La Piscine,Art museum,Roubaix,France,FR,50.6927,3.1676,https://worthajourney.com/museums/la-piscine/
+84,Silesian Museum,History museum,Katowice,Poland,PL,50.2635,19.0341,https://worthajourney.com/museums/silesian-museum/
+85,Ny Carlsberg Glyptotek,Art museum,Copenhagen,Denmark,DK,55.6730,12.5725,https://worthajourney.com/museums/ny-carlsberg-glyptotek/
+86,European Hansemuseum,History museum,Lübeck,Germany,DE,53.8741,10.6895,https://worthajourney.com/museums/european-hansemuseum/
+87,American Museum of Natural History,Science museum,New York,United States,US,40.7813,-73.9740,https://worthajourney.com/museums/american-museum-of-natural-history/
+88,Museo Nacional de Escultura,Art museum,Valladolid,Spain,ES,41.6572,-4.7237,https://worthajourney.com/museums/museo-nacional-de-escultura/
+89,Ullen Sentalu Museum,History museum,Kaliurang,Indonesia,ID,-7.5982,110.4228,https://worthajourney.com/museums/ullen-sentalu-museum/
+90,Calouste Gulbenkian Museum,Art museum,Lisbon,Portugal,PT,38.7378,-9.1535,https://worthajourney.com/museums/calouste-gulbenkian-museum/
+91,British Museum,History museum,London,United Kingdom,GB,51.5194,-0.1270,https://worthajourney.com/museums/british-museum/
+92,Isabella Stewart Gardner Museum,Art museum,Boston,United States,US,42.3381,-71.0991,https://worthajourney.com/museums/isabella-stewart-gardner-museum/
+93,Galata Museo del Mare,Technology museum,Genoa,Italy,IT,44.4143,8.9236,https://worthajourney.com/museums/galata-museo-del-mare/
+94,Netherlands Open Air Museum,Open-air museum,Arnhem,Netherlands,NL,52.0102,5.9067,https://worthajourney.com/museums/netherlands-open-air-museum/
+95,Train World,Technology museum,Brussels,Belgium,BE,50.8778,4.3791,https://worthajourney.com/museums/train-world/
+96,Olsztynek Ethnographic Park,Open-air museum,Olsztynek,Poland,PL,53.5903,20.2895,https://worthajourney.com/museums/olsztynek-ethnographic-park/
+97,"Museum of Fine Arts, Boston",Art museum,Boston,United States,US,42.3394,-71.0940,https://worthajourney.com/museums/museum-of-fine-arts-boston/
+98,Barber Vintage Motorsports Museum,Technology museum,Birmingham,United States,US,33.5334,-86.6141,https://worthajourney.com/museums/barber-vintage-motorsports-museum/
+99,Museum Bank Indonesia,History museum,Jakarta,Indonesia,ID,-6.1372,106.8129,https://worthajourney.com/museums/museum-bank-indonesia/
+100,Museo Nacional de Arte Romano,History museum,Mérida,Spain,ES,38.9169,-6.3395,https://worthajourney.com/museums/museo-nacional-de-arte-romano/

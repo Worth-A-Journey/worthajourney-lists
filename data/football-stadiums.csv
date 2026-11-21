@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Signal Iduna Park,Club ground,Dortmund,Germany,DE,51.4926,7.4519,https://worthajourney.com/football-stadiums/signal-iduna-park/
+2,Estadio Monumental,Club ground,Buenos Aires,Argentina,AR,-34.5455,-58.4497,https://worthajourney.com/football-stadiums/estadio-monumental/
+3,Beira-Rio,Club ground,Porto Alegre,Brazil,BR,-30.0656,-51.2359,https://worthajourney.com/football-stadiums/beira-rio/
+4,Estadio Libertadores de América,Club ground,Avellaneda,Argentina,AR,-34.6702,-58.3710,https://worthajourney.com/football-stadiums/estadio-libertadores-de-america/
+5,Estadio Presidente Perón,Club ground,Avellaneda,Argentina,AR,-34.6675,-58.3686,https://worthajourney.com/football-stadiums/estadio-presidente-peron/
+6,San Mamés,Club ground,Bilbao,Spain,ES,43.2642,-2.9494,https://worthajourney.com/football-stadiums/san-mames/
+7,Estádio da Luz,Club ground,Lisbon,Portugal,PT,38.7527,-9.1847,https://worthajourney.com/football-stadiums/estadio-da-luz/
+8,Estadio Monumental,Club ground,Lima,Peru,PE,-12.0546,-76.9358,https://worthajourney.com/football-stadiums/estadio-monumental-lima/
+9,Sammy Ofer Stadium,Club ground,Haifa,Israel,IL,32.7843,34.9651,https://worthajourney.com/football-stadiums/sammy-ofer-stadium/
+10,Estádio do Dragão,Club ground,Porto,Portugal,PT,41.1618,-8.5836,https://worthajourney.com/football-stadiums/estadio-do-dragao/
+11,Anfield,Club ground,Liverpool,United Kingdom,GB,53.4308,-2.9608,https://worthajourney.com/football-stadiums/anfield/
+12,Tottenham Hotspur Stadium,Club ground,London,United Kingdom,GB,51.6043,-0.0662,https://worthajourney.com/football-stadiums/tottenham-hotspur-stadium/
+13,Estadio Rodrigo Paz Delgado,Club ground,Quito,Ecuador,EC,-0.1077,-78.4891,https://worthajourney.com/football-stadiums/estadio-rodrigo-paz-delgado/
+14,Tüpraş Stadyumu,Club ground,Istanbul,Turkey,TR,41.0390,28.9945,https://worthajourney.com/football-stadiums/tupras-stadyumu/
+15,Krasnodar Stadium,Club ground,Krasnodar,Russia,RU,45.0450,39.0287,https://worthajourney.com/football-stadiums/krasnodar-stadium/
+16,Allianz Arena,Club ground,Munich,Germany,DE,48.2186,11.6249,https://worthajourney.com/football-stadiums/allianz-arena/
+17,Neo Química Arena,Club ground,São Paulo,Brazil,BR,-23.5453,-46.4742,https://worthajourney.com/football-stadiums/neo-quimica-arena/
+18,Estadio Monumental Banco Pichincha,Club ground,Guayaquil,Ecuador,EC,-2.1859,-79.9253,https://worthajourney.com/football-stadiums/estadio-monumental-banco-pichincha/
+19,Estadio BBVA,Club ground,Monterrey,Mexico,MX,25.6692,-100.2444,https://worthajourney.com/football-stadiums/estadio-bbva/
+20,Estadio Campeón del Siglo,Club ground,Montevideo,Uruguay,UY,-34.7969,-56.0672,https://worthajourney.com/football-stadiums/estadio-campeon-del-siglo/
+21,São Januário,Club ground,Rio de Janeiro,Brazil,BR,-22.8909,-43.2281,https://worthajourney.com/football-stadiums/sao-januario/
+22,Gazprom Arena,Club ground,Saint Petersburg,Russia,RU,59.9727,30.2214,https://worthajourney.com/football-stadiums/gazprom-arena/
+23,Ibrox Stadium,Club ground,Glasgow,United Kingdom,GB,55.8532,-4.3093,https://worthajourney.com/football-stadiums/ibrox-stadium/
+24,Stade Vélodrome,Club ground,Marseille,France,FR,43.2699,5.3959,https://worthajourney.com/football-stadiums/stade-velodrome/
+25,Lusail Stadium,National stadium,Lusail,Qatar,QA,25.4209,51.4908,https://worthajourney.com/football-stadiums/lusail-stadium/
+26,Arena da Baixada,Club ground,Curitiba,Brazil,BR,-25.4485,-49.2765,https://worthajourney.com/football-stadiums/arena-da-baixada/
+27,De Kuip,Club ground,Rotterdam,Netherlands,NL,51.8939,4.5232,https://worthajourney.com/football-stadiums/de-kuip/
+28,Estadio Gigante de Arroyito,Club ground,Rosario,Argentina,AR,-32.9140,-60.6746,https://worthajourney.com/football-stadiums/estadio-gigante-de-arroyito/
+29,Nubank Parque,Club ground,São Paulo,Brazil,BR,-23.5276,-46.6785,https://worthajourney.com/football-stadiums/nubank-parque/
+30,San Siro,Club ground,Milan,Italy,IT,45.4781,9.1240,https://worthajourney.com/football-stadiums/san-siro/
+31,Wembley Stadium,National stadium,London,United Kingdom,GB,51.5560,-0.2796,https://worthajourney.com/football-stadiums/wembley-stadium/
+32,Parc des Princes,Club ground,Paris,France,FR,48.8414,2.2531,https://worthajourney.com/football-stadiums/parc-des-princes/
+33,Santiago Bernabéu,Club ground,Madrid,Spain,ES,40.4530,-3.6884,https://worthajourney.com/football-stadiums/santiago-bernabeu/
+34,La Bombonera,Club ground,Buenos Aires,Argentina,AR,-34.6356,-58.3648,https://worthajourney.com/football-stadiums/la-bombonera/
+35,Estadio Monumental David Arellano,Club ground,Santiago,Chile,CL,-33.5067,-70.6071,https://worthajourney.com/football-stadiums/estadio-monumental-david-arellano/
+36,Stadion Wojska Polskiego,Club ground,Warsaw,Poland,PL,52.2204,21.0414,https://worthajourney.com/football-stadiums/stadion-wojska-polskiego/
+37,Maracanã,Multi-sport stadium,Rio de Janeiro,Brazil,BR,-22.9122,-43.2303,https://worthajourney.com/football-stadiums/maracana/
+38,Panasonic Stadium Suita,Club ground,Suita,Japan,JP,34.8027,135.5382,https://worthajourney.com/football-stadiums/panasonic-stadium-suita/
+39,Chang Arena,Club ground,Buriram,Thailand,TH,14.9659,103.0944,https://worthajourney.com/football-stadiums/chang-arena/
+40,Allwyn Arena,Club ground,Athens,Greece,GR,38.0367,23.7416,https://worthajourney.com/football-stadiums/allwyn-arena/
+41,Celtic Park,Club ground,Glasgow,United Kingdom,GB,55.8497,-4.2056,https://worthajourney.com/football-stadiums/celtic-park/
+42,Elland Road,Club ground,Leeds,United Kingdom,GB,53.7778,-1.5721,https://worthajourney.com/football-stadiums/elland-road/
+43,RAMS Park,Club ground,Istanbul,Turkey,TR,41.1034,28.9910,https://worthajourney.com/football-stadiums/rams-park/
+44,Arena do Grêmio,Club ground,Porto Alegre,Brazil,BR,-29.9740,-51.1948,https://worthajourney.com/football-stadiums/arena-do-gremio/
+45,Johan Cruijff ArenA,Club ground,Amsterdam,Netherlands,NL,52.3144,4.9418,https://worthajourney.com/football-stadiums/johan-cruijff-arena/
+46,Estadio Akron,Club ground,Guadalajara,Mexico,MX,20.6818,-103.4626,https://worthajourney.com/football-stadiums/estadio-akron/
+47,Al Bayt Stadium,National stadium,Al Khor,Qatar,QA,25.6523,51.4878,https://worthajourney.com/football-stadiums/al-bayt-stadium/
+48,Barradão,Club ground,Salvador,Brazil,BR,-12.9195,-38.4282,https://worthajourney.com/football-stadiums/barradao/
+49,Puskás Aréna,National stadium,Budapest,Hungary,HU,47.5031,19.0979,https://worthajourney.com/football-stadiums/puskas-arena/
+50,Stade Maurice Dufrasne,Club ground,Liège,Belgium,BE,50.6099,5.5435,https://worthajourney.com/football-stadiums/stade-maurice-dufrasne/
+51,Villa Park,Club ground,Birmingham,United Kingdom,GB,52.5091,-1.8848,https://worthajourney.com/football-stadiums/villa-park/
+52,Groupama Stadium,Club ground,Lyon,France,FR,45.7652,4.9820,https://worthajourney.com/football-stadiums/groupama-stadium/
+53,Emirates Stadium,Club ground,London,United Kingdom,GB,51.5551,-0.1084,https://worthajourney.com/football-stadiums/emirates-stadium/
+54,Weser-Stadion,Club ground,Bremen,Germany,DE,53.0668,8.8379,https://worthajourney.com/football-stadiums/weser-stadion/
+55,Estadio Azteca,Multi-sport stadium,Mexico City,Mexico,MX,19.3029,-99.1505,https://worthajourney.com/football-stadiums/estadio-azteca/
+56,Sultan Ibrahim Stadium,Club ground,Johor Bahru,Malaysia,MY,1.4817,103.6192,https://worthajourney.com/football-stadiums/sultan-ibrahim-stadium/
+57,Old Trafford,Club ground,Manchester,United Kingdom,GB,53.4631,-2.2913,https://worthajourney.com/football-stadiums/old-trafford/
+58,Veltins-Arena,Club ground,Gelsenkirchen,Germany,DE,51.5543,7.0685,https://worthajourney.com/football-stadiums/veltins-arena/
+59,St James' Park,Club ground,Newcastle upon Tyne,United Kingdom,GB,54.9756,-1.6216,https://worthajourney.com/football-stadiums/st-james-park/
+60,Estadio Deportivo Cali,Club ground,Cali,Colombia,CO,3.5218,-76.4170,https://worthajourney.com/football-stadiums/estadio-deportivo-cali/
+61,Stadion Miejski Szczecin,Club ground,Szczecin,Poland,PL,53.4365,14.5188,https://worthajourney.com/football-stadiums/stadion-miejski-szczecin/
+62,Camp Nou,Club ground,Barcelona,Spain,ES,41.3809,2.1228,https://worthajourney.com/football-stadiums/camp-nou/
+63,Fortuna Arena,Club ground,Prague,Czechia,CZ,50.0675,14.4709,https://worthajourney.com/football-stadiums/fortuna-arena/
+64,Estadio George Capwell,Club ground,Guayaquil,Ecuador,EC,-2.2068,-79.8942,https://worthajourney.com/football-stadiums/estadio-george-capwell/
+65,Vila Belmiro,Club ground,Santos,Brazil,BR,-23.9512,-46.3388,https://worthajourney.com/football-stadiums/vila-belmiro/
+66,Georgios Karaiskakis Stadium,Club ground,Piraeus,Greece,GR,37.9464,23.6644,https://worthajourney.com/football-stadiums/georgios-karaiskakis-stadium/
+67,Estadio Pedro Bidegain,Club ground,Buenos Aires,Argentina,AR,-34.6545,-58.4395,https://worthajourney.com/football-stadiums/estadio-pedro-bidegain/
+68,Şükrü Saracoğlu Stadium,Club ground,Istanbul,Turkey,TR,40.9877,29.0369,https://worthajourney.com/football-stadiums/sukru-saracoglu-stadium/
+69,Estádio José Alvalade,Club ground,Lisbon,Portugal,PT,38.7612,-9.1618,https://worthajourney.com/football-stadiums/estadio-jose-alvalade/
+70,Stade de France,National stadium,Saint-Denis,France,FR,48.9245,2.3601,https://worthajourney.com/football-stadiums/stade-de-france/
+71,Ramón Sánchez-Pizjuán,Club ground,Sevilla,Spain,ES,37.3841,-5.9710,https://worthajourney.com/football-stadiums/ramon-sanchez-pizjuan/
+72,MHP Arena,Club ground,Stuttgart,Germany,DE,48.7923,9.2321,https://worthajourney.com/football-stadiums/mhp-arena/
+73,Metropolitano,Club ground,Madrid,Spain,ES,40.4362,-3.5995,https://worthajourney.com/football-stadiums/metropolitano/
+74,Polsat Plus Arena Gdańsk,Club ground,Gdańsk,Poland,PL,54.3899,18.6403,https://worthajourney.com/football-stadiums/polsat-plus-arena-gdansk/
+75,Gran Parque Central,Club ground,Montevideo,Uruguay,UY,-34.8844,-56.1588,https://worthajourney.com/football-stadiums/gran-parque-central/
+76,Deutsche Bank Park,Club ground,Frankfurt,Germany,DE,50.0686,8.6455,https://worthajourney.com/football-stadiums/deutsche-bank-park/
+77,Couto Pereira,Club ground,Curitiba,Brazil,BR,-25.4210,-49.2595,https://worthajourney.com/football-stadiums/couto-pereira/
+78,Stade Geoffroy-Guichard,Club ground,Saint-Étienne,France,FR,45.4605,4.3894,https://worthajourney.com/football-stadiums/stade-geoffroy-guichard/
+79,Arena Națională,National stadium,Bucharest,Romania,RO,44.4373,26.1525,https://worthajourney.com/football-stadiums/arena-nationala/
+80,Estadio Julio César Villagra,Club ground,Córdoba,Argentina,AR,-31.4035,-64.2063,https://worthajourney.com/football-stadiums/estadio-julio-cesar-villagra/
+81,Estadio Metropolitano Roberto Meléndez,National stadium,Barranquilla,Colombia,CO,10.9270,-74.8005,https://worthajourney.com/football-stadiums/estadio-metropolitano-roberto-melendez/
+82,Estadio Centenario,National stadium,Montevideo,Uruguay,UY,-34.8948,-56.1535,https://worthajourney.com/football-stadiums/estadio-centenario/
+83,RheinEnergieStadion,Club ground,Cologne,Germany,DE,50.9335,6.8752,https://worthajourney.com/football-stadiums/rheinenergiestadion/
+84,Philips Stadion,Club ground,Eindhoven,Netherlands,NL,51.4417,5.4674,https://worthajourney.com/football-stadiums/philips-stadion/
+85,Estadio Alejandro Villanueva,Club ground,Lima,Peru,PE,-12.0685,-77.0229,https://worthajourney.com/football-stadiums/estadio-alejandro-villanueva/
+86,National Stadium,National stadium,Singapore,Singapore,SG,1.3044,103.8743,https://worthajourney.com/football-stadiums/national-stadium/
+87,Stadion Grbavica,Club ground,Sarajevo,Bosnia and Herzegovina,BA,43.8466,18.3873,https://worthajourney.com/football-stadiums/stadion-grbavica/
+88,Fritz-Walter-Stadion,Club ground,Kaiserslautern,Germany,DE,49.4342,7.7768,https://worthajourney.com/football-stadiums/fritz-walter-stadion/
+89,Etihad Stadium,Club ground,Manchester,United Kingdom,GB,53.4832,-2.2004,https://worthajourney.com/football-stadiums/etihad-stadium/
+90,Goodison Park,Club ground,Liverpool,United Kingdom,GB,53.4389,-2.9663,https://worthajourney.com/football-stadiums/goodison-park/
+91,Ahmad bin Ali Stadium,Club ground,Al-Rayyan,Qatar,QA,25.3296,51.3423,https://worthajourney.com/football-stadiums/ahmad-bin-ali-stadium/
+92,La Nueva Olla,Club ground,Asunción,Paraguay,PY,-25.2999,-57.6374,https://worthajourney.com/football-stadiums/la-nueva-olla/
+93,King Abdullah Sports City Stadium,National stadium,Jeddah,Saudi Arabia,SA,21.7635,39.1641,https://worthajourney.com/football-stadiums/king-abdullah-sports-city-stadium/
+94,Estádio do Morumbi,Club ground,São Paulo,Brazil,BR,-23.6010,-46.7200,https://worthajourney.com/football-stadiums/estadio-do-morumbi/
+95,Estádio Nilton Santos,Club ground,Rio de Janeiro,Brazil,BR,-22.8933,-43.2923,https://worthajourney.com/football-stadiums/estadio-nilton-santos/
+96,Hill Dickinson Stadium,Club ground,Liverpool,United Kingdom,GB,53.4250,-3.0027,https://worthajourney.com/football-stadiums/hill-dickinson-stadium/
+97,Khalifa International Stadium,National stadium,Doha,Qatar,QA,25.2636,51.4481,https://worthajourney.com/football-stadiums/khalifa-international-stadium/
+98,Estadio Juan Carmelo Zerillo,Club ground,La Plata,Argentina,AR,-34.9110,-57.9324,https://worthajourney.com/football-stadiums/estadio-juan-carmelo-zerillo/
+99,Stadion An der Alten Försterei,Club ground,Berlin,Germany,DE,52.4574,13.5681,https://worthajourney.com/football-stadiums/stadion-an-der-alten-forsterei/
+100,Rajko Mitić Stadium,Club ground,Belgrade,Serbia,RS,44.7832,20.4649,https://worthajourney.com/football-stadiums/rajko-mitic-stadium/

@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Dubai Mall,Luxury mall,Dubai,United Arab Emirates,AE,25.1972,55.2797,https://worthajourney.com/shopping-malls/dubai-mall/
+2,The Avenues,Luxury mall,Kuwait,Kuwait,KW,29.3047,47.9437,https://worthajourney.com/shopping-malls/the-avenues/
+3,Place Vendôme Mall,Luxury mall,Lusail,Qatar,QA,25.4045,51.5182,https://worthajourney.com/shopping-malls/place-vendome-mall/
+4,The Avenues Mall,Luxury mall,Manama,Bahrain,BH,26.2457,50.5854,https://worthajourney.com/shopping-malls/the-avenues-mall/
+5,Doha Festival City,Shopping mall,Doha,Qatar,QA,25.3864,51.4431,https://worthajourney.com/shopping-malls/doha-festival-city/
+6,Somerset Collection,Luxury mall,Troy,United States,US,42.5598,-83.1839,https://worthajourney.com/shopping-malls/somerset-collection/
+7,City Centre Bahrain,Shopping mall,Manama,Bahrain,BH,26.2333,50.5533,https://worthajourney.com/shopping-malls/city-centre-bahrain/
+8,Marassi Galleria Mall,Luxury mall,Muharraq,Bahrain,BH,26.3017,50.6428,https://worthajourney.com/shopping-malls/marassi-galleria-mall/
+9,Sofia Ring Mall,Shopping mall,Sofia,Bulgaria,BG,42.6245,23.3521,https://worthajourney.com/shopping-malls/sofia-ring-mall/
+10,NorthPark Center,Luxury mall,Dallas,United States,US,32.8686,-96.7739,https://worthajourney.com/shopping-malls/northpark-center/
+11,Jewel Changi Airport,Airport mall,Singapore,Singapore,SG,1.3602,103.9898,https://worthajourney.com/shopping-malls/jewel-changi-airport/
+12,Unicenter Shopping,Shopping mall,Martínez,Argentina,AR,-34.5082,-58.5271,https://worthajourney.com/shopping-malls/unicenter-shopping/
+13,360 Mall,Luxury mall,Kuwait,Kuwait,KW,29.2676,47.9929,https://worthajourney.com/shopping-malls/360-mall/
+14,Ambarrukmo Plaza,Shopping mall,Yogyakarta,Indonesia,ID,-7.7826,110.4014,https://worthajourney.com/shopping-malls/ambarrukmo-plaza/
+15,ICONSIAM,Luxury mall,Bangkok,Thailand,TH,13.7268,100.5104,https://worthajourney.com/shopping-malls/iconsiam/
+16,Woodfield Mall,Shopping mall,Schaumburg,United States,US,42.0464,-88.0371,https://worthajourney.com/shopping-malls/woodfield-mall/
+17,Delta City,Shopping mall,Belgrade,Serbia,RS,44.8055,20.4055,https://worthajourney.com/shopping-malls/delta-city/
+18,South Coast Plaza,Luxury mall,Costa Mesa,United States,US,33.6910,-117.8890,https://worthajourney.com/shopping-malls/south-coast-plaza/
+19,City Centre Mirdif,Shopping mall,Dubai,United Arab Emirates,AE,25.2161,55.4081,https://worthajourney.com/shopping-malls/city-centre-mirdif/
+20,Aventura Mall,Luxury mall,Aventura,United States,US,25.9571,-80.1427,https://worthajourney.com/shopping-malls/aventura-mall/
+21,Park Meadows,Shopping mall,Lone Tree,United States,US,39.5626,-104.8766,https://worthajourney.com/shopping-malls/park-meadows/
+22,Arkadia,Shopping mall,Warsaw,Poland,PL,52.2565,20.9842,https://worthajourney.com/shopping-malls/arkadia/
+23,Stars Center,Luxury mall,Cairo,Egypt,EG,30.0743,31.3468,https://worthajourney.com/shopping-malls/stars-center/
+24,Paradise Center,Shopping mall,Sofia,Bulgaria,BG,42.6576,23.3150,https://worthajourney.com/shopping-malls/paradise-center/
+25,Rødovre Centrum,Shopping mall,Rødovre,Denmark,DK,55.6802,12.4572,https://worthajourney.com/shopping-malls/rodovre-centrum/
+26,Ágora Mall,Shopping mall,Santo Domingo,Dominican Republic,DO,18.4836,-69.9393,https://worthajourney.com/shopping-malls/agora-mall/
+27,LuLu International Shopping Mall,Shopping mall,Kochi,India,IN,10.0272,76.3082,https://worthajourney.com/shopping-malls/lulu-international-shopping-mall/
+28,SouthPark,Luxury mall,Charlotte,United States,US,35.1509,-80.8316,https://worthajourney.com/shopping-malls/southpark/
+29,Multiplaza Panamá,Luxury mall,Panama City,Panama,PA,8.9863,-79.5112,https://worthajourney.com/shopping-malls/multiplaza-panama/
+30,Mal Ciputra Semarang,Shopping mall,Semarang,Indonesia,ID,-6.9888,110.4239,https://worthajourney.com/shopping-malls/mal-ciputra-semarang/
+31,V&A Waterfront,Open-air centre,Cape Town,South Africa,ZA,-33.9080,18.4202,https://worthajourney.com/shopping-malls/v-a-waterfront/
+32,Ofer Kiryon,Shopping mall,Kiryat Bialik,Israel,IL,32.8442,35.0911,https://worthajourney.com/shopping-malls/ofer-kiryon/
+33,Westfield Topanga,Luxury mall,Los Angeles,United States,US,34.1902,-118.6031,https://worthajourney.com/shopping-malls/westfield-topanga/
+34,Mall of America,Shopping mall,Bloomington,United States,US,44.8549,-93.2422,https://worthajourney.com/shopping-malls/mall-of-america/
+35,Westfield Old Orchard,Open-air centre,Skokie,United States,US,42.0591,-87.7495,https://worthajourney.com/shopping-malls/westfield-old-orchard/
+36,Mall of Egypt,Luxury mall,6th of October City,Egypt,EG,29.9723,31.0171,https://worthajourney.com/shopping-malls/mall-of-egypt/
+37,Multiplaza Escazú,Luxury mall,Escazú,Costa Rica,CR,9.9450,-84.1521,https://worthajourney.com/shopping-malls/multiplaza-escazu/
+38,Scottsdale Fashion Square,Luxury mall,Scottsdale,United States,US,33.5027,-111.9293,https://worthajourney.com/shopping-malls/scottsdale-fashion-square/
+39,Roosevelt Field,Shopping mall,Garden City,United States,US,40.7382,-73.6128,https://worthajourney.com/shopping-malls/roosevelt-field/
+40,Punta Carretas Shopping,Shopping mall,Montevideo,Uruguay,UY,-34.9240,-56.1587,https://worthajourney.com/shopping-malls/punta-carretas-shopping/
+41,City Creek Center,Luxury mall,Salt Lake City,United States,US,40.7684,-111.8917,https://worthajourney.com/shopping-malls/city-creek-center/
+42,King of Prussia,Shopping mall,King of Prussia,United States,US,40.0885,-75.3909,https://worthajourney.com/shopping-malls/king-of-prussia/
+43,Panorama Mall,Luxury mall,Riyadh,Saudi Arabia,SA,24.6916,46.6708,https://worthajourney.com/shopping-malls/panorama-mall/
+44,Sunway Pyramid Shopping Mall,Shopping mall,Petaling Jaya,Malaysia,MY,3.0732,101.6076,https://worthajourney.com/shopping-malls/sunway-pyramid-shopping-mall/
+45,Bashundhara City Shopping Complex,Shopping mall,Dhaka,Bangladesh,BD,23.7507,90.3905,https://worthajourney.com/shopping-malls/bashundhara-city-shopping-complex/
+46,Bellevue Square,Luxury mall,Bellevue,United States,US,47.6158,-122.2037,https://worthajourney.com/shopping-malls/bellevue-square/
+47,Tržni centar Ušće,Shopping mall,Belgrade,Serbia,RS,44.8150,20.4364,https://worthajourney.com/shopping-malls/trzni-centar-usce/
+48,Oakland Place Guatemala,Luxury mall,Guatemala City,Guatemala,GT,14.5987,-90.5076,https://worthajourney.com/shopping-malls/oakland-place-guatemala/
+49,Tunjungan Plaza,Shopping mall,Surabaya,Indonesia,ID,-7.2632,112.7401,https://worthajourney.com/shopping-malls/tunjungan-plaza/
+50,Summarecon Mall Kelapa Gading,Shopping mall,Jakarta,Indonesia,ID,-6.1574,106.9085,https://worthajourney.com/shopping-malls/summarecon-mall-kelapa-gading/
+51,Gotemba Premium Outlets,Outlet,Gotemba,Japan,JP,35.3073,138.9656,https://worthajourney.com/shopping-malls/gotemba-premium-outlets/
+52,Canal Walk Shopping Centre,Shopping mall,Cape Town,South Africa,ZA,-33.8932,18.5119,https://worthajourney.com/shopping-malls/canal-walk-shopping-centre/
+53,Primavera Urbana,Shopping mall,Villavicencio,Colombia,CO,4.1347,-73.6405,https://worthajourney.com/shopping-malls/primavera-urbana/
+54,Plaza Las Américas,Shopping mall,San Juan,Puerto Rico,PR,18.4212,-66.0733,https://worthajourney.com/shopping-malls/plaza-las-americas/
+55,Policentro Mall,Shopping mall,Guayaquil,Ecuador,EC,-2.1710,-79.8997,https://worthajourney.com/shopping-malls/policentro-mall/
+56,City Centre Almaza,Shopping mall,Cairo,Egypt,EG,30.0816,31.3651,https://worthajourney.com/shopping-malls/city-centre-almaza/
+57,Siam Paragon,Luxury mall,Bangkok,Thailand,TH,13.7461,100.5348,https://worthajourney.com/shopping-malls/siam-paragon/
+58,One Galle Face Mall,Luxury mall,Colombo,Sri Lanka,LK,6.9272,79.8447,https://worthajourney.com/shopping-malls/one-galle-face-mall/
+59,Great Lakes Crossing Outlets,Outlet,Auburn Hills,United States,US,42.7026,-83.2992,https://worthajourney.com/shopping-malls/great-lakes-crossing-outlets/
+60,Forum Gdańsk,Shopping mall,Gdańsk,Poland,PL,54.3494,18.6434,https://worthajourney.com/shopping-malls/forum-gdansk/
+61,Woodbury Common Premium Outlets,Outlet,Central Valley,United States,US,41.3177,-74.1257,https://worthajourney.com/shopping-malls/woodbury-common-premium-outlets/
+62,Galería 360,Shopping mall,Santo Domingo,Dominican Republic,DO,18.4851,-69.9360,https://worthajourney.com/shopping-malls/galeria-360/
+63,Grapevine Mills,Outlet,Grapevine,United States,US,32.9660,-97.0428,https://worthajourney.com/shopping-malls/grapevine-mills/
+64,Galaxy,Shopping mall,Barnaul,Russia,RU,53.3416,83.7498,https://worthajourney.com/shopping-malls/galaxy/
+65,Dalma Mall,Shopping mall,Abu Dhabi,United Arab Emirates,AE,24.3330,54.5244,https://worthajourney.com/shopping-malls/dalma-mall/
+66,Desert Hills Premium Outlets,Outlet,Cabazon,United States,US,33.9288,-116.8155,https://worthajourney.com/shopping-malls/desert-hills-premium-outlets/
+67,Parndorf Fashion Outlet,Outlet,Parndorf,Austria,AT,47.9793,16.8502,https://worthajourney.com/shopping-malls/parndorf-fashion-outlet/
+68,The Mall at Short Hills,Luxury mall,Short Hills,United States,US,40.7403,-74.3641,https://worthajourney.com/shopping-malls/the-mall-at-short-hills/
+69,Roma Est,Shopping mall,Rome,Italy,IT,41.9139,12.6610,https://worthajourney.com/shopping-malls/roma-est/
+70,Kota Kasablanka,Luxury mall,Jakarta,Indonesia,ID,-6.2240,106.8425,https://worthajourney.com/shopping-malls/kota-kasablanka/
+71,Stary Browar,Luxury mall,Poznań,Poland,PL,52.4012,16.9280,https://worthajourney.com/shopping-malls/stary-browar/
+72,Flamboyant Shopping Center,Luxury mall,Goiânia,Brazil,BR,-16.7103,-49.2370,https://worthajourney.com/shopping-malls/flamboyant-shopping-center/
+73,Galleria Shopping,Luxury mall,Campinas,Brazil,BR,-22.8635,-47.0233,https://worthajourney.com/shopping-malls/galleria-shopping/
+74,Roshn Front,Open-air centre,Riyadh,Saudi Arabia,SA,24.8414,46.7333,https://worthajourney.com/shopping-malls/roshn-front/
+75,Al Khiran Mall,Open-air centre,Al Khiran,Kuwait,KW,28.6726,48.3481,https://worthajourney.com/shopping-malls/al-khiran-mall/
+76,City Centre Al Zahia,Shopping mall,Sharjah,United Arab Emirates,AE,25.3164,55.4563,https://worthajourney.com/shopping-malls/city-centre-al-zahia/
+77,Sandton City,Luxury mall,Johannesburg,South Africa,ZA,-26.1088,28.0527,https://worthajourney.com/shopping-malls/sandton-city/
+78,Westfield Garden State Plaza,Shopping mall,Paramus,United States,US,40.9182,-74.0763,https://worthajourney.com/shopping-malls/westfield-garden-state-plaza/
+79,Green City,Shopping mall,Minsk,Belarus,BY,53.9085,27.4325,https://worthajourney.com/shopping-malls/green-city/
+80,Westfarms,Shopping mall,West Hartford,United States,US,41.7229,-72.7632,https://worthajourney.com/shopping-malls/westfarms/
+81,Galleria Dallas,Luxury mall,Dallas,United States,US,32.9298,-96.8199,https://worthajourney.com/shopping-malls/galleria-dallas/
+82,Yasmin Mall,Shopping mall,Jeddah,Saudi Arabia,SA,21.5937,39.2291,https://worthajourney.com/shopping-malls/yasmin-mall/
+83,Mega Adygeya,Shopping mall,Novaya Adygeya,Russia,RU,45.0131,38.9291,https://worthajourney.com/shopping-malls/mega-adygeya/
+84,Centrum Handlowe Libero,Shopping mall,Katowice,Poland,PL,50.2239,18.9871,https://worthajourney.com/shopping-malls/centrum-handlowe-libero/
+85,Westfield Galleria at Roseville,Shopping mall,Roseville,United States,US,38.7735,-121.2692,https://worthajourney.com/shopping-malls/westfield-galleria-at-roseville/
+86,CF Sherway Gardens,Shopping mall,Toronto,Canada,CA,43.6119,-79.5571,https://worthajourney.com/shopping-malls/cf-sherway-gardens/
+87,Memorial City Mall,Shopping mall,Houston,United States,US,29.7807,-95.5379,https://worthajourney.com/shopping-malls/memorial-city-mall/
+88,Park House,Shopping mall,Kazan,Russia,RU,55.8291,49.1168,https://worthajourney.com/shopping-malls/park-house/
+89,Golden Hall,Luxury mall,Athens,Greece,GR,38.0335,23.7937,https://worthajourney.com/shopping-malls/golden-hall/
+90,VivoCity,Shopping mall,Singapore,Singapore,SG,1.2647,103.8232,https://worthajourney.com/shopping-malls/vivocity/
+91,San Patricio Plaza,Shopping mall,Guaynabo,Puerto Rico,PR,18.4091,-66.1054,https://worthajourney.com/shopping-malls/san-patricio-plaza/
+92,AltaPlaza Mall,Shopping mall,Panama City,Panama,PA,9.0291,-79.5345,https://worthajourney.com/shopping-malls/altaplaza-mall/
+93,Ala Moana Center,Open-air centre,Honolulu,United States,US,21.2911,-157.8435,https://worthajourney.com/shopping-malls/ala-moana-center/
+94,Westfield Century City,Luxury mall,Los Angeles,United States,US,34.0587,-118.4190,https://worthajourney.com/shopping-malls/westfield-century-city/
+95,Wrentham Village Premium Outlets,Outlet,Wrentham,United States,US,42.0397,-71.3515,https://worthajourney.com/shopping-malls/wrentham-village-premium-outlets/
+96,Pacific Fair Shopping Centre,Luxury mall,Gold Coast,Australia,AU,-28.0362,153.4270,https://worthajourney.com/shopping-malls/pacific-fair-shopping-centre/
+97,Mall of Arabia,Shopping mall,6th of October City,Egypt,EG,30.0066,30.9754,https://worthajourney.com/shopping-malls/mall-of-arabia/
+98,Madrid Xanadú,Shopping mall,Arroyomolinos,Spain,ES,40.2992,-3.9263,https://worthajourney.com/shopping-malls/madrid-xanadu/
+99,Puerto Venecia,Open-air centre,Zaragoza,Spain,ES,41.6090,-0.8858,https://worthajourney.com/shopping-malls/puerto-venecia/
+100,Oakbrook Center,Open-air centre,Oak Brook,United States,US,41.8488,-87.9530,https://worthajourney.com/shopping-malls/oakbrook-center/

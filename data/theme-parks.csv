@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Europa-Park,Theme park,Rust,Germany,DE,48.2660,7.7220,https://worthajourney.com/theme-parks/europa-park/
+2,Cedar Point,Amusement park,Sandusky,United States,US,41.4822,-82.6835,https://worthajourney.com/theme-parks/cedar-point/
+3,Efteling,Theme park,Kaatsheuvel,Netherlands,NL,51.6503,5.0470,https://worthajourney.com/theme-parks/efteling/
+4,Phantasialand,Theme park,Brühl,Germany,DE,50.7990,6.8793,https://worthajourney.com/theme-parks/phantasialand/
+5,Tokyo DisneySea,Theme park,Urayasu,Japan,JP,35.6267,139.8851,https://worthajourney.com/theme-parks/tokyo-disneysea/
+6,Energylandia,Amusement park,Zator,Poland,PL,49.9995,19.4112,https://worthajourney.com/theme-parks/energylandia/
+7,Puy du Fou,Theme park,Les Epesses,France,FR,46.8934,-0.9320,https://worthajourney.com/theme-parks/puy-du-fou/
+8,Paultons Park,Theme park,Romsey,United Kingdom,GB,50.9483,-1.5519,https://worthajourney.com/theme-parks/paultons-park/
+9,Magic Kingdom,Theme park,Orlando,United States,US,28.4188,-81.5818,https://worthajourney.com/theme-parks/magic-kingdom/
+10,Knoebels,Amusement park,Elysburg,United States,US,40.8800,-76.5021,https://worthajourney.com/theme-parks/knoebels/
+11,Disneyland,Theme park,Anaheim,United States,US,33.8121,-117.9190,https://worthajourney.com/theme-parks/disneyland/
+12,Universal Islands of Adventure,Theme park,Orlando,United States,US,28.4717,-81.4702,https://worthajourney.com/theme-parks/universal-islands-of-adventure/
+13,Dollywood,Theme park,Pigeon Forge,United States,US,35.7951,-83.5312,https://worthajourney.com/theme-parks/dollywood/
+14,Silver Dollar City,Theme park,Branson,United States,US,36.6665,-93.3382,https://worthajourney.com/theme-parks/silver-dollar-city/
+15,Holiday World & Splashin' Safari,Amusement park,Santa Claus,United States,US,38.1218,-86.9111,https://worthajourney.com/theme-parks/holiday-world-splashin-safari/
+16,Djurs Sommerland,Amusement park,Nimtofte,Denmark,DK,56.4260,10.5507,https://worthajourney.com/theme-parks/djurs-sommerland/
+17,Shanghai Disneyland,Theme park,Shanghai,China,CN,31.1434,121.6579,https://worthajourney.com/theme-parks/shanghai-disneyland/
+18,Six Flags Magic Mountain,Amusement park,Valencia,United States,US,34.4249,-118.5958,https://worthajourney.com/theme-parks/six-flags-magic-mountain/
+19,Liseberg,Amusement park,Gothenburg,Sweden,SE,57.6970,11.9910,https://worthajourney.com/theme-parks/liseberg/
+20,Fårup Sommerland,Amusement park,Blokhus,Denmark,DK,57.2705,9.6493,https://worthajourney.com/theme-parks/farup-sommerland/
+21,Park Mirakulum,Amusement park,Milovice,Czechia,CZ,50.2394,14.8603,https://worthajourney.com/theme-parks/park-mirakulum/
+22,Disneyland Paris,Theme park,Marne-la-Vallée,France,FR,48.8674,2.7836,https://worthajourney.com/theme-parks/disneyland-paris/
+23,Heide Park,Theme park,Soltau,Germany,DE,53.0237,9.8782,https://worthajourney.com/theme-parks/heide-park/
+24,Parc Asterix,Theme park,Plailly,France,FR,49.1342,2.5713,https://worthajourney.com/theme-parks/parc-asterix/
+25,Beto Carrero World,Theme park,Penha,Brazil,BR,-26.7999,-48.6136,https://worthajourney.com/theme-parks/beto-carrero-world/
+26,Alton Towers,Theme park,Alton,United Kingdom,GB,52.9859,-1.8850,https://worthajourney.com/theme-parks/alton-towers/
+27,HANSA-PARK,Amusement park,Sierksdorf,Germany,DE,54.0748,10.7779,https://worthajourney.com/theme-parks/hansa-park/
+28,Hong Kong Disneyland,Theme park,Hong Kong,Hong Kong,HK,22.3130,114.0413,https://worthajourney.com/theme-parks/hong-kong-disneyland/
+29,Silverwood,Theme park,Athol,United States,US,47.9051,-116.7032,https://worthajourney.com/theme-parks/silverwood/
+30,Gyeongju World,Amusement park,Gyeongju,South Korea,KR,35.8364,129.2821,https://worthajourney.com/theme-parks/gyeongju-world/
+31,Disney California Adventure,Theme park,Anaheim,United States,US,33.8062,-117.9199,https://worthajourney.com/theme-parks/disney-california-adventure/
+32,Gardaland,Theme park,Castelnuovo del Garda,Italy,IT,45.4563,10.7133,https://worthajourney.com/theme-parks/gardaland/
+33,Nigloland,Theme park,Dolancourt,France,FR,48.2597,4.6095,https://worthajourney.com/theme-parks/nigloland/
+34,Universal Studios Singapore,Theme park,Singapore,Singapore,SG,1.2540,103.8238,https://worthajourney.com/theme-parks/universal-studios-singapore/
+35,Linnanmäki,Amusement park,Helsinki,Finland,FI,60.1883,24.9404,https://worthajourney.com/theme-parks/linnanmaki/
+36,Movieland Studios,Theme park,Lazise,Italy,IT,45.4765,10.7257,https://worthajourney.com/theme-parks/movieland-studios/
+37,Kings Island,Amusement park,Mason,United States,US,39.3430,-84.2674,https://worthajourney.com/theme-parks/kings-island/
+38,Tokyo Disneyland,Theme park,Urayasu,Japan,JP,35.6329,139.8804,https://worthajourney.com/theme-parks/tokyo-disneyland/
+39,Carowinds,Amusement park,Charlotte,United States,US,35.1024,-80.9413,https://worthajourney.com/theme-parks/carowinds/
+40,Sunway Lagoon,Theme park,Subang Jaya,Malaysia,MY,3.0694,101.6068,https://worthajourney.com/theme-parks/sunway-lagoon/
+41,Universal Studios Japan,Theme park,Osaka,Japan,JP,34.6657,135.4323,https://worthajourney.com/theme-parks/universal-studios-japan/
+42,Familienpark Sottrum,Amusement park,Sottrum,Germany,DE,52.0729,10.1399,https://worthajourney.com/theme-parks/familienpark-sottrum/
+43,Parque del Café,Theme park,Montenegro,Colombia,CO,4.5403,-75.7706,https://worthajourney.com/theme-parks/parque-del-cafe/
+44,Saurierpark,Theme park,Bautzen,Germany,DE,51.2060,14.3846,https://worthajourney.com/theme-parks/saurierpark/
+45,Busch Gardens Williamsburg,Theme park,Williamsburg,United States,US,37.2337,-76.6440,https://worthajourney.com/theme-parks/busch-gardens-williamsburg/
+46,Santa's Village,Amusement park,Jefferson,United States,US,44.4263,-71.4951,https://worthajourney.com/theme-parks/santa-s-village/
+47,Dino Land,Theme park,Zwolle,Netherlands,NL,52.5049,6.0768,https://worthajourney.com/theme-parks/dino-land/
+48,Lagoon,Amusement park,Farmington,United States,US,40.9856,-111.8949,https://worthajourney.com/theme-parks/lagoon/
+49,Oakwood Theme Park,Theme park,Narberth,United Kingdom,GB,51.7775,-4.8001,https://worthajourney.com/theme-parks/oakwood-theme-park/
+50,Xetulul,Theme park,San Martin Zapotitlan,Guatemala,GT,14.5959,-91.6113,https://worthajourney.com/theme-parks/xetulul/
+51,DinoPark Ostrava,Theme park,Ostrava,Czechia,CZ,49.8524,18.4557,https://worthajourney.com/theme-parks/dinopark-ostrava/
+52,Irrland,Amusement park,Kevelaer,Germany,DE,51.5563,6.2052,https://worthajourney.com/theme-parks/irrland/
+53,Ketteler Hof,Amusement park,Haltern am See,Germany,DE,51.7796,7.1313,https://worthajourney.com/theme-parks/ketteler-hof/
+54,Freizeitpark Ruhpolding,Amusement park,Ruhpolding,Germany,DE,47.7406,12.6131,https://worthajourney.com/theme-parks/freizeitpark-ruhpolding/
+55,Knott's Berry Farm,Theme park,Buena Park,United States,US,33.8443,-118.0002,https://worthajourney.com/theme-parks/knott-s-berry-farm/
+56,Gold Reef City,Amusement park,Johannesburg,South Africa,ZA,-26.2360,28.0132,https://worthajourney.com/theme-parks/gold-reef-city/
+57,Sochi Park,Theme park,Sochi,Russia,RU,43.4045,39.9644,https://worthajourney.com/theme-parks/sochi-park/
+58,Warner Bros. World,Theme park,Abu Dhabi,United Arab Emirates,AE,24.4909,54.5992,https://worthajourney.com/theme-parks/warner-bros-world/
+59,Enchanted Forest,Theme park,Turner,United States,US,44.8313,-123.0090,https://worthajourney.com/theme-parks/enchanted-forest/
+60,Dreamworld,Theme park,Coomera,Australia,AU,-27.8635,153.3153,https://worthajourney.com/theme-parks/dreamworld/
+61,Freizeitpark Plohn,Amusement park,Lengenfeld,Germany,DE,50.5666,12.3971,https://worthajourney.com/theme-parks/freizeitpark-plohn/
+62,Fantasilandia,Amusement park,Santiago,Chile,CL,-33.4602,-70.6618,https://worthajourney.com/theme-parks/fantasilandia/
+63,Astrid Lindgrens Värld,Theme park,Vimmerby,Sweden,SE,57.6741,15.8425,https://worthajourney.com/theme-parks/astrid-lindgrens-varld/
+64,Trans Studio Bali,Theme park,Denpasar,Indonesia,ID,-8.7020,115.1831,https://worthajourney.com/theme-parks/trans-studio-bali/
+65,Parque Guanabara,Amusement park,Belo Horizonte,Brazil,BR,-19.8597,-43.9785,https://worthajourney.com/theme-parks/parque-guanabara/
+66,The Land of Legends,Theme park,Belek,Turkey,TR,36.8836,31.0035,https://worthajourney.com/theme-parks/the-land-of-legends/
+67,Tivoli Gardens,Amusement park,Copenhagen,Denmark,DK,55.6737,12.5682,https://worthajourney.com/theme-parks/tivoli-gardens/
+68,Sai Teerth,Theme park,Shirdi,India,IN,19.7741,74.4767,https://worthajourney.com/theme-parks/sai-teerth/
+69,Foldvik Family Park,Amusement park,Stavern,Norway,NO,59.0015,9.9718,https://worthajourney.com/theme-parks/foldvik-family-park/
+70,Divo-Ostrov,Amusement park,St Petersburg,Russia,RU,59.9722,30.2549,https://worthajourney.com/theme-parks/divo-ostrov/
+71,Puy du Fou España,Theme park,Toledo,Spain,ES,39.8386,-4.0918,https://worthajourney.com/theme-parks/puy-du-fou-espana/
+72,Fraispertuis City,Amusement park,Jeanménil,France,FR,48.3248,6.7263,https://worthajourney.com/theme-parks/fraispertuis-city/
+73,Cidade da Criança,Amusement park,São Bernardo do Campo,Brazil,BR,-23.6881,-46.5567,https://worthajourney.com/theme-parks/cidade-da-crianca/
+74,Santa's Village,Theme park,Bracebridge,Canada,CA,45.0244,-79.3633,https://worthajourney.com/theme-parks/santa-s-village-bracebridge/
+75,Motiongate Dubai,Theme park,Dubai,United Arab Emirates,AE,24.9216,55.0031,https://worthajourney.com/theme-parks/motiongate-dubai/
+76,Universal Studios Hollywood,Theme park,Universal City,United States,US,34.1371,-118.3533,https://worthajourney.com/theme-parks/universal-studios-hollywood/
+77,LEGOLAND Florida,Theme park,Winter Haven,United States,US,27.9899,-81.6914,https://worthajourney.com/theme-parks/legoland-florida/
+78,Nickelodeon Universe,Theme park,East Rutherford,United States,US,40.8065,-74.0709,https://worthajourney.com/theme-parks/nickelodeon-universe/
+79,Kyqa Mhuysqa,Theme park,Facatativá,Colombia,CO,4.8132,-74.3450,https://worthajourney.com/theme-parks/kyqa-mhuysqa/
+80,Ururu Park Rozvah,Amusement park,Stare Selo,Ukraine,UA,49.6956,24.2249,https://worthajourney.com/theme-parks/ururu-park-rozvah/
+81,Canobie Lake Park,Amusement park,Salem,United States,US,42.7935,-71.2480,https://worthajourney.com/theme-parks/canobie-lake-park/
+82,Santa Cruz Beach Boardwalk,Amusement park,Santa Cruz,United States,US,36.9645,-122.0167,https://worthajourney.com/theme-parks/santa-cruz-beach-boardwalk/
+83,Adventure World,Theme park,Bibra Lake,Australia,AU,-32.0957,115.8195,https://worthajourney.com/theme-parks/adventure-world/
+84,Karls Erlebnis-Dorf,Theme park,Döbeln,Germany,DE,51.1536,13.1244,https://worthajourney.com/theme-parks/karls-erlebnis-dorf/
+85,Dinosaur Land,Theme park,Glowe,Germany,DE,54.5638,13.5260,https://worthajourney.com/theme-parks/dinosaur-land/
+86,Six Flags Great Adventure,Amusement park,Jackson,United States,US,40.1361,-74.4362,https://worthajourney.com/theme-parks/six-flags-great-adventure/
+87,Ferrari World,Theme park,Abu Dhabi,United Arab Emirates,AE,24.4844,54.6077,https://worthajourney.com/theme-parks/ferrari-world/
+88,Tomteland,Theme park,Mora,Sweden,SE,60.8794,14.5178,https://worthajourney.com/theme-parks/tomteland/
+89,Sundown Adventureland,Theme park,Retford,United Kingdom,GB,53.3015,-0.8115,https://worthajourney.com/theme-parks/sundown-adventureland/
+90,Sprookjeswonderland,Theme park,Enkhuizen,Netherlands,NL,52.7135,5.2881,https://worthajourney.com/theme-parks/sprookjeswonderland/
+91,Fantasiana,Amusement park,Strasswalchen,Austria,AT,47.9854,13.2748,https://worthajourney.com/theme-parks/fantasiana/
+92,Dorney Park & Wildwater Kingdom,Amusement park,Allentown,United States,US,40.5785,-75.5326,https://worthajourney.com/theme-parks/dorney-park-wildwater-kingdom/
+93,GreenWood Family Park,Theme park,Y Felinheli,United Kingdom,GB,53.1798,-4.1971,https://worthajourney.com/theme-parks/greenwood-family-park/
+94,Santa's Workshop North Pole,Amusement park,Cascade,United States,US,38.9049,-104.9773,https://worthajourney.com/theme-parks/santa-s-workshop-north-pole/
+95,The Dinosaur Park,Theme park,Tenby,United Kingdom,GB,51.6844,-4.7514,https://worthajourney.com/theme-parks/the-dinosaur-park/
+96,Pomerania Fun Park,Amusement park,Pyszka,Poland,PL,54.1217,15.7558,https://worthajourney.com/theme-parks/pomerania-fun-park/
+97,Blackgang Chine,Theme park,Ventnor,United Kingdom,GB,50.5884,-1.3128,https://worthajourney.com/theme-parks/blackgang-chine/
+98,Playland's Castaway Cove,Amusement park,Ocean City,United States,US,39.2741,-74.5743,https://worthajourney.com/theme-parks/playland-s-castaway-cove/
+99,Stricker's Grove,Amusement park,Hamilton,United States,US,39.2955,-84.6699,https://worthajourney.com/theme-parks/stricker-s-grove/
+100,Gulliver's Valley,Theme park,Rotherham,United Kingdom,GB,53.3465,-1.3114,https://worthajourney.com/theme-parks/gulliver-s-valley/

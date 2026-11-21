@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Jardin d’Essai du Hamma,Botanical garden,Algiers,Algeria,DZ,36.7484,3.0758,https://worthajourney.com/botanical-gardens/#jardin-dessai-du-hamma
-2,The Butchart Gardens,Garden,Brentwood Bay,Canada,CA,48.5636,-123.4706,https://worthajourney.com/botanical-gardens/#the-butchart-gardens
-3,Kirstenbosch National Botanical Garden,Botanical garden,Cape Town,South Africa,ZA,-33.9875,18.4327,https://worthajourney.com/botanical-gardens/#kirstenbosch-national-botanical-garden
-4,Hawai‘i Tropical Botanical Garden,Botanical garden,Papaikou,United States,US,19.8109,-155.0961,https://worthajourney.com/botanical-gardens/#hawaii-tropical-botanical-garden
-5,Bodnant Garden,Garden,Tal-y-Cafn,United Kingdom,GB,53.2344,-3.7950,https://worthajourney.com/botanical-gardens/#bodnant-garden
-6,"Royal Botanic Gardens, Peradeniya",Botanical garden,Kandy,Sri Lanka,LK,7.2682,80.5966,https://worthajourney.com/botanical-gardens/#royal-botanic-gardens-peradeniya
-7,Nong Nooch Tropical Garden,Botanical garden,Pattaya,Thailand,TH,12.7655,100.9351,https://worthajourney.com/botanical-gardens/#nong-nooch-tropical-garden
-8,Gothenburg Botanical Garden,Botanical garden,Gothenburg,Sweden,SE,57.6829,11.9504,https://worthajourney.com/botanical-gardens/#gothenburg-botanical-garden
-9,Longwood Gardens,Garden,Kennett Square,United States,US,39.8735,-75.6734,https://worthajourney.com/botanical-gardens/#longwood-gardens
-10,Singapore Botanic Gardens,Botanical garden,Singapore,Singapore,SG,1.3138,103.8159,https://worthajourney.com/botanical-gardens/#singapore-botanic-gardens
-11,Jardin botanique de Montréal,Botanical garden,Montreal,Canada,CA,45.5592,-73.5577,https://worthajourney.com/botanical-gardens/#jardin-botanique-de-montreal
-12,Kenroku-en,Classical garden,Kanazawa,Japan,JP,36.5621,136.6627,https://worthajourney.com/botanical-gardens/#kenroku-en
-13,Dubai Miracle Garden,Garden,Dubai,United Arab Emirates,AE,25.0599,55.2445,https://worthajourney.com/botanical-gardens/#dubai-miracle-garden
-14,Missouri Botanical Garden,Botanical garden,St. Louis,United States,US,38.6128,-90.2594,https://worthajourney.com/botanical-gardens/#missouri-botanical-garden
-15,Royal Botanic Gardens Melbourne,Botanical garden,Melbourne,Australia,AU,-37.8302,144.9801,https://worthajourney.com/botanical-gardens/#royal-botanic-gardens-melbourne
-16,Monte Palace Tropical Garden,Garden,Funchal,Portugal,PT,32.6756,-16.9005,https://worthajourney.com/botanical-gardens/#monte-palace-tropical-garden
-17,Hunte’s Gardens,Garden,Saint Joseph,Barbados,BB,13.1935,-59.5511,https://worthajourney.com/botanical-gardens/#huntes-gardens
-18,Hamilton Gardens,Garden,Hamilton,New Zealand,NZ,-37.8057,175.3049,https://worthajourney.com/botanical-gardens/#hamilton-gardens
-19,The Gardens of Trauttmansdorff Castle,Botanical garden,Merano,Italy,IT,46.6607,11.1851,https://worthajourney.com/botanical-gardens/#the-gardens-of-trauttmansdorff-castle
-20,East Ruston Old Vicarage Garden,Garden,East Ruston,United Kingdom,GB,52.8059,1.5117,https://worthajourney.com/botanical-gardens/#east-ruston-old-vicarage-garden
-21,"Royal Botanic Gardens, Kew",Botanical garden,London,United Kingdom,GB,51.4787,-0.2956,https://worthajourney.com/botanical-gardens/#royal-botanic-gardens-kew
-22,Jardin botanique de Genève,Botanical garden,Geneva,Switzerland,CH,46.2276,6.1468,https://worthajourney.com/botanical-gardens/#jardin-botanique-de-geneve
-23,Parque Terra Nostra,Garden,Furnas,Portugal,PT,37.7724,-25.3156,https://worthajourney.com/botanical-gardens/#parque-terra-nostra
-24,Botanischer Garten München-Nymphenburg,Botanical garden,Munich,Germany,DE,48.1644,11.5016,https://worthajourney.com/botanical-gardens/#botanischer-garten-munchen-nymphenburg
-25,The Huntington,Botanical garden,San Marino,United States,US,34.1290,-118.1145,https://worthajourney.com/botanical-gardens/#the-huntington
-26,Botanischer Garten Berlin,Botanical garden,Berlin,Germany,DE,52.4542,13.3056,https://worthajourney.com/botanical-gardens/#botanischer-garten-berlin
-27,Okayama Korakuen,Classical garden,Okayama,Japan,JP,34.6673,133.9362,https://worthajourney.com/botanical-gardens/#okayama-korakuen
-28,Jardim Botânico do Rio de Janeiro,Botanical garden,Rio de Janeiro,Brazil,BR,-22.9707,-43.2235,https://worthajourney.com/botanical-gardens/#jardim-botanico-do-rio-de-janeiro
-29,Estufa Fria,Glasshouse,Lisbon,Portugal,PT,38.7287,-9.1551,https://worthajourney.com/botanical-gardens/#estufa-fria
-30,Denver Botanic Gardens,Botanical garden,Denver,United States,US,39.7321,-104.9613,https://worthajourney.com/botanical-gardens/#denver-botanic-gardens
-31,Royal Botanic Garden Edinburgh,Botanical garden,Edinburgh,United Kingdom,GB,55.9650,-3.2091,https://worthajourney.com/botanical-gardens/#royal-botanic-garden-edinburgh
-32,Shukkeien,Classical garden,Hiroshima,Japan,JP,34.4005,132.4677,https://worthajourney.com/botanical-gardens/#shukkeien
-33,Ritsurin Garden,Classical garden,Takamatsu,Japan,JP,34.3299,134.0458,https://worthajourney.com/botanical-gardens/#ritsurin-garden
-34,Tropical Dream Center,Glasshouse,Motobu,Japan,JP,26.6873,127.8761,https://worthajourney.com/botanical-gardens/#tropical-dream-center
-35,Coastal Maine Botanical Gardens,Botanical garden,Boothbay,United States,US,43.8721,-69.6590,https://worthajourney.com/botanical-gardens/#coastal-maine-botanical-gardens
-36,Botanical Garden of the University of Wrocław,Botanical garden,Wrocław,Poland,PL,51.1168,17.0476,https://worthajourney.com/botanical-gardens/#botanical-garden-of-the-university-of-wrocaw
-37,Powerscourt Gardens,Garden,Enniskerry,Ireland,IE,53.1843,-6.1867,https://worthajourney.com/botanical-gardens/#powerscourt-gardens
-38,Giardini La Mortella,Garden,Forio,Italy,IT,40.7515,13.8728,https://worthajourney.com/botanical-gardens/#giardini-la-mortella
-39,Botanical Park & Gardens of Crete,Botanical garden,Fournes,Greece,GR,35.4185,23.9396,https://worthajourney.com/botanical-gardens/#botanical-park-gardens-of-crete
-40,Jardín Botánico Atlántico,Botanical garden,Gijón,Spain,ES,43.5215,-5.6159,https://worthajourney.com/botanical-gardens/#jardin-botanico-atlantico
-41,Atlanta Botanical Garden,Botanical garden,Atlanta,United States,US,33.7900,-84.3726,https://worthajourney.com/botanical-gardens/#atlanta-botanical-garden
-42,Giardini Botanici Hanbury,Botanical garden,Ventimiglia,Italy,IT,43.7847,7.5544,https://worthajourney.com/botanical-gardens/#giardini-botanici-hanbury
-43,Ashikaga Flower Park,Garden,Ashikaga,Japan,JP,36.3142,139.5200,https://worthajourney.com/botanical-gardens/#ashikaga-flower-park
-44,Gardens by the Bay,Garden,Singapore,Singapore,SG,1.2816,103.8636,https://worthajourney.com/botanical-gardens/#gardens-by-the-bay
-45,Jardin Botanique de Deshaies,Botanical garden,Deshaies,Guadeloupe,GP,16.2991,-61.7985,https://worthajourney.com/botanical-gardens/#jardin-botanique-de-deshaies
-46,Portland Japanese Garden,Classical garden,Portland,United States,US,45.5189,-122.7080,https://worthajourney.com/botanical-gardens/#portland-japanese-garden
-47,VanDusen Botanical Garden,Botanical garden,Vancouver,Canada,CA,49.2396,-123.1325,https://worthajourney.com/botanical-gardens/#vandusen-botanical-garden
-48,Giardino di Ninfa,Garden,Cisterna di Latina,Italy,IT,41.5831,12.9527,https://worthajourney.com/botanical-gardens/#giardino-di-ninfa
-49,Shinjuku Gyoen,Garden,Tokyo,Japan,JP,35.6852,139.7101,https://worthajourney.com/botanical-gardens/#shinjuku-gyoen
-50,Queen Sirikit Botanic Garden,Botanical garden,Mae Rim,Thailand,TH,18.8880,98.8619,https://worthajourney.com/botanical-gardens/#queen-sirikit-botanic-garden
-51,National Botanic Gardens,Botanical garden,Dublin,Ireland,IE,53.3725,-6.2719,https://worthajourney.com/botanical-gardens/#national-botanic-gardens
-52,Arboretum Wojsławice,Arboretum,Niemcza,Poland,PL,50.7127,16.8562,https://worthajourney.com/botanical-gardens/#arboretum-wojsawice
-53,Christchurch Botanic Gardens,Botanical garden,Christchurch,New Zealand,NZ,-43.5307,172.6232,https://worthajourney.com/botanical-gardens/#christchurch-botanic-gardens
-54,Parc Floral d’Apremont,Garden,Apremont-sur-Allier,France,FR,46.9062,3.0477,https://worthajourney.com/botanical-gardens/#parc-floral-dapremont
-55,Arctic-Alpine Botanic Garden,Botanical garden,Tromsø,Norway,NO,69.6769,18.9766,https://worthajourney.com/botanical-gardens/#arctic-alpine-botanic-garden
-56,Batumi Botanical Garden,Botanical garden,Batumi,Georgia,GE,41.6944,41.7075,https://worthajourney.com/botanical-gardens/#batumi-botanical-garden
-57,Chicago Botanic Garden,Botanical garden,Glencoe,United States,US,42.1464,-87.7898,https://worthajourney.com/botanical-gardens/#chicago-botanic-garden
-58,Royal Botanic Garden Sydney,Botanical garden,Sydney,Australia,AU,-33.8642,151.2166,https://worthajourney.com/botanical-gardens/#royal-botanic-garden-sydney
-59,Botanická zahrada Liberec,Botanical garden,Liberec,Czechia,CZ,50.7781,15.0733,https://worthajourney.com/botanical-gardens/#botanicka-zahrada-liberec
-60,Makino Botanical Garden,Botanical garden,Kochi,Japan,JP,33.5479,133.5792,https://worthajourney.com/botanical-gardens/#makino-botanical-garden
-61,Gibbs Gardens,Garden,Ball Ground,United States,US,34.3787,-84.2803,https://worthajourney.com/botanical-gardens/#gibbs-gardens
-62,Kings Park and Botanic Garden,Botanical garden,Perth,Australia,AU,-31.9609,115.8322,https://worthajourney.com/botanical-gardens/#kings-park-and-botanic-garden
-63,Fairchild Tropical Botanic Garden,Botanical garden,Coral Gables,United States,US,25.6768,-80.2720,https://worthajourney.com/botanical-gardens/#fairchild-tropical-botanic-garden
-64,Jardí Botànic Marimurtra,Botanical garden,Blanes,Spain,ES,41.6767,2.8019,https://worthajourney.com/botanical-gardens/#jardi-botanic-marimurtra
-65,Indira Gandhi Memorial Tulip Garden,Garden,Srinagar,India,IN,34.0960,74.8784,https://worthajourney.com/botanical-gardens/#indira-gandhi-memorial-tulip-garden
-66,Kyoto Botanical Gardens,Botanical garden,Kyoto,Japan,JP,35.0486,135.7630,https://worthajourney.com/botanical-gardens/#kyoto-botanical-gardens
-67,Phipps Conservatory and Botanical Gardens,Glasshouse,Pittsburgh,United States,US,40.4390,-79.9480,https://worthajourney.com/botanical-gardens/#phipps-conservatory-and-botanical-gardens
-68,Giardini Botanici di Villa Taranto,Botanical garden,Verbania,Italy,IT,45.9259,8.5653,https://worthajourney.com/botanical-gardens/#giardini-botanici-di-villa-taranto
-69,Jardín Botánico La Concepción,Botanical garden,Málaga,Spain,ES,36.7601,-4.4263,https://worthajourney.com/botanical-gardens/#jardin-botanico-la-concepcion
-70,Royal Tasmanian Botanical Gardens,Botanical garden,Hobart,Australia,AU,-42.8657,147.3311,https://worthajourney.com/botanical-gardens/#royal-tasmanian-botanical-gardens
-71,Frederik Meijer Gardens & Sculpture Park,Botanical garden,Grand Rapids,United States,US,42.9801,-85.5864,https://worthajourney.com/botanical-gardens/#frederik-meijer-gardens-sculpture-park
-72,Parco Giardino Sigurtà,Garden,Valeggio sul Mincio,Italy,IT,45.3578,10.7348,https://worthajourney.com/botanical-gardens/#parco-giardino-sigurta
-73,Giardini di Villa Melzi,Garden,Bellagio,Italy,IT,45.9797,9.2540,https://worthajourney.com/botanical-gardens/#giardini-di-villa-melzi
-74,Ho‘omaluhia Botanical Garden,Botanical garden,Kaneohe,United States,US,21.3872,-157.8038,https://worthajourney.com/botanical-gardens/#hoomaluhia-botanical-garden
-75,Orto Botanico di Padova,Botanical garden,Padua,Italy,IT,45.3983,11.8804,https://worthajourney.com/botanical-gardens/#orto-botanico-di-padova
-76,Parc Botanique de Haute Bretagne,Botanical garden,Le Châtellier,France,FR,48.4290,-1.2603,https://worthajourney.com/botanical-gardens/#parc-botanique-de-haute-bretagne
-77,Hortus Botanicus Leiden,Botanical garden,Leiden,Netherlands,NL,52.1570,4.4848,https://worthajourney.com/botanical-gardens/#hortus-botanicus-leiden
-78,Trebah Garden,Garden,Mawnan Smith,United Kingdom,GB,50.1042,-5.1222,https://worthajourney.com/botanical-gardens/#trebah-garden
-79,Botanic Garden of the Jagiellonian University,Botanical garden,Kraków,Poland,PL,50.0636,19.9555,https://worthajourney.com/botanical-gardens/#botanic-garden-of-the-jagiellonian-university
-80,Palmengarten,Botanical garden,Frankfurt,Germany,DE,50.1232,8.6578,https://worthajourney.com/botanical-gardens/#palmengarten
-81,Prague Botanical Garden,Botanical garden,Prague,Czechia,CZ,50.1214,14.4132,https://worthajourney.com/botanical-gardens/#prague-botanical-garden
-82,Naples Botanical Garden,Botanical garden,Naples,United States,US,26.1068,-81.7711,https://worthajourney.com/botanical-gardens/#naples-botanical-garden
-83,Dallas Arboretum and Botanical Garden,Botanical garden,Dallas,United States,US,32.8236,-96.7166,https://worthajourney.com/botanical-gardens/#dallas-arboretum-and-botanical-garden
-84,Jardin de Balata,Botanical garden,Fort-de-France,Martinique,MQ,14.6721,-61.0914,https://worthajourney.com/botanical-gardens/#jardin-de-balata
-85,Atatürk Arboretum,Arboretum,Istanbul,Turkey,TR,41.1766,28.9854,https://worthajourney.com/botanical-gardens/#ataturk-arboretum
-86,Parque Amantikir,Garden,Campos do Jordão,Brazil,BR,-22.7836,-45.6028,https://worthajourney.com/botanical-gardens/#parque-amantikir
-87,RHS Garden Wisley,Garden,Wisley,United Kingdom,GB,51.3145,-0.4730,https://worthajourney.com/botanical-gardens/#rhs-garden-wisley
-88,Jardin Exotique d’Èze,Botanical garden,Èze,France,FR,43.7283,7.3612,https://worthajourney.com/botanical-gardens/#jardin-exotique-deze
-89,Huerto del Cura,Botanical garden,Elche,Spain,ES,38.2641,-0.6914,https://worthajourney.com/botanical-gardens/#huerto-del-cura
-90,Jardín de Aclimatación de La Orotava,Botanical garden,Puerto de la Cruz,Spain,ES,28.4116,-16.5358,https://worthajourney.com/botanical-gardens/#jardin-de-aclimatacion-de-la-orotava
-91,Folly Arboretum,Arboretum,Badacsonyörs,Hungary,HU,46.8101,17.5454,https://worthajourney.com/botanical-gardens/#folly-arboretum
-92,Koko-en,Classical garden,Himeji,Japan,JP,34.8371,134.6904,https://worthajourney.com/botanical-gardens/#koko-en
-93,Fort Worth Botanic Garden,Botanical garden,Fort Worth,United States,US,32.7403,-97.3638,https://worthajourney.com/botanical-gardens/#fort-worth-botanic-garden
-94,Desert Botanical Garden,Botanical garden,Phoenix,United States,US,33.4617,-111.9449,https://worthajourney.com/botanical-gardens/#desert-botanical-garden
-95,Kasteeltuinen Arcen,Garden,Arcen,Netherlands,NL,51.4719,6.1843,https://worthajourney.com/botanical-gardens/#kasteeltuinen-arcen
-96,Parc Oriental de Maulévrier,Classical garden,Maulévrier,France,FR,47.0065,-0.7449,https://worthajourney.com/botanical-gardens/#parc-oriental-de-maulevrier
-97,Les Jardins d’Eau,Garden,Carsac-Aillac,France,FR,44.8273,1.2736,https://worthajourney.com/botanical-gardens/#les-jardins-deau
-98,Perdana Botanical Garden,Botanical garden,Kuala Lumpur,Malaysia,MY,3.1424,101.6842,https://worthajourney.com/botanical-gardens/#perdana-botanical-garden
-99,New York Botanical Garden,Botanical garden,New York,United States,US,40.8623,-73.8774,https://worthajourney.com/botanical-gardens/#new-york-botanical-garden
-100,Bogor Botanical Gardens,Botanical garden,Bogor,Indonesia,ID,-6.5976,106.7996,https://worthajourney.com/botanical-gardens/#bogor-botanical-gardens
+1,Jardin d’Essai du Hamma,Botanical garden,Algiers,Algeria,DZ,36.7484,3.0758,https://worthajourney.com/botanical-gardens/jardin-dessai-du-hamma/
+2,The Butchart Gardens,Garden,Brentwood Bay,Canada,CA,48.5636,-123.4706,https://worthajourney.com/botanical-gardens/the-butchart-gardens/
+3,Kirstenbosch National Botanical Garden,Botanical garden,Cape Town,South Africa,ZA,-33.9875,18.4327,https://worthajourney.com/botanical-gardens/kirstenbosch-national-botanical-garden/
+4,Hawai‘i Tropical Botanical Garden,Botanical garden,Papaikou,United States,US,19.8109,-155.0961,https://worthajourney.com/botanical-gardens/hawaii-tropical-botanical-garden/
+5,Bodnant Garden,Garden,Tal-y-Cafn,United Kingdom,GB,53.2344,-3.7950,https://worthajourney.com/botanical-gardens/bodnant-garden/
+6,"Royal Botanic Gardens, Peradeniya",Botanical garden,Kandy,Sri Lanka,LK,7.2682,80.5966,https://worthajourney.com/botanical-gardens/royal-botanic-gardens-peradeniya/
+7,Nong Nooch Tropical Garden,Botanical garden,Pattaya,Thailand,TH,12.7655,100.9351,https://worthajourney.com/botanical-gardens/nong-nooch-tropical-garden/
+8,Gothenburg Botanical Garden,Botanical garden,Gothenburg,Sweden,SE,57.6829,11.9504,https://worthajourney.com/botanical-gardens/gothenburg-botanical-garden/
+9,Longwood Gardens,Garden,Kennett Square,United States,US,39.8735,-75.6734,https://worthajourney.com/botanical-gardens/longwood-gardens/
+10,Singapore Botanic Gardens,Botanical garden,Singapore,Singapore,SG,1.3138,103.8159,https://worthajourney.com/botanical-gardens/singapore-botanic-gardens/
+11,Jardin botanique de Montréal,Botanical garden,Montreal,Canada,CA,45.5592,-73.5577,https://worthajourney.com/botanical-gardens/jardin-botanique-de-montreal/
+12,Kenroku-en,Classical garden,Kanazawa,Japan,JP,36.5621,136.6627,https://worthajourney.com/botanical-gardens/kenroku-en/
+13,Dubai Miracle Garden,Garden,Dubai,United Arab Emirates,AE,25.0599,55.2445,https://worthajourney.com/botanical-gardens/dubai-miracle-garden/
+14,Missouri Botanical Garden,Botanical garden,St. Louis,United States,US,38.6128,-90.2594,https://worthajourney.com/botanical-gardens/missouri-botanical-garden/
+15,Royal Botanic Gardens Melbourne,Botanical garden,Melbourne,Australia,AU,-37.8302,144.9801,https://worthajourney.com/botanical-gardens/royal-botanic-gardens-melbourne/
+16,Monte Palace Tropical Garden,Garden,Funchal,Portugal,PT,32.6756,-16.9005,https://worthajourney.com/botanical-gardens/monte-palace-tropical-garden/
+17,Hunte’s Gardens,Garden,Saint Joseph,Barbados,BB,13.1935,-59.5511,https://worthajourney.com/botanical-gardens/huntes-gardens/
+18,Hamilton Gardens,Garden,Hamilton,New Zealand,NZ,-37.8057,175.3049,https://worthajourney.com/botanical-gardens/hamilton-gardens/
+19,The Gardens of Trauttmansdorff Castle,Botanical garden,Merano,Italy,IT,46.6607,11.1851,https://worthajourney.com/botanical-gardens/the-gardens-of-trauttmansdorff-castle/
+20,East Ruston Old Vicarage Garden,Garden,East Ruston,United Kingdom,GB,52.8059,1.5117,https://worthajourney.com/botanical-gardens/east-ruston-old-vicarage-garden/
+21,"Royal Botanic Gardens, Kew",Botanical garden,London,United Kingdom,GB,51.4787,-0.2956,https://worthajourney.com/botanical-gardens/royal-botanic-gardens-kew/
+22,Jardin botanique de Genève,Botanical garden,Geneva,Switzerland,CH,46.2276,6.1468,https://worthajourney.com/botanical-gardens/jardin-botanique-de-geneve/
+23,Parque Terra Nostra,Garden,Furnas,Portugal,PT,37.7724,-25.3156,https://worthajourney.com/botanical-gardens/parque-terra-nostra/
+24,Botanischer Garten München-Nymphenburg,Botanical garden,Munich,Germany,DE,48.1644,11.5016,https://worthajourney.com/botanical-gardens/botanischer-garten-munchen-nymphenburg/
+25,The Huntington,Botanical garden,San Marino,United States,US,34.1290,-118.1145,https://worthajourney.com/botanical-gardens/the-huntington/
+26,Botanischer Garten Berlin,Botanical garden,Berlin,Germany,DE,52.4542,13.3056,https://worthajourney.com/botanical-gardens/botanischer-garten-berlin/
+27,Okayama Korakuen,Classical garden,Okayama,Japan,JP,34.6673,133.9362,https://worthajourney.com/botanical-gardens/okayama-korakuen/
+28,Jardim Botânico do Rio de Janeiro,Botanical garden,Rio de Janeiro,Brazil,BR,-22.9707,-43.2235,https://worthajourney.com/botanical-gardens/jardim-botanico-do-rio-de-janeiro/
+29,Estufa Fria,Glasshouse,Lisbon,Portugal,PT,38.7287,-9.1551,https://worthajourney.com/botanical-gardens/estufa-fria/
+30,Denver Botanic Gardens,Botanical garden,Denver,United States,US,39.7321,-104.9613,https://worthajourney.com/botanical-gardens/denver-botanic-gardens/
+31,Royal Botanic Garden Edinburgh,Botanical garden,Edinburgh,United Kingdom,GB,55.9650,-3.2091,https://worthajourney.com/botanical-gardens/royal-botanic-garden-edinburgh/
+32,Shukkeien,Classical garden,Hiroshima,Japan,JP,34.4005,132.4677,https://worthajourney.com/botanical-gardens/shukkeien/
+33,Ritsurin Garden,Classical garden,Takamatsu,Japan,JP,34.3299,134.0458,https://worthajourney.com/botanical-gardens/ritsurin-garden/
+34,Tropical Dream Center,Glasshouse,Motobu,Japan,JP,26.6873,127.8761,https://worthajourney.com/botanical-gardens/tropical-dream-center/
+35,Coastal Maine Botanical Gardens,Botanical garden,Boothbay,United States,US,43.8721,-69.6590,https://worthajourney.com/botanical-gardens/coastal-maine-botanical-gardens/
+36,Botanical Garden of the University of Wrocław,Botanical garden,Wrocław,Poland,PL,51.1168,17.0476,https://worthajourney.com/botanical-gardens/botanical-garden-of-the-university-of-wrocaw/
+37,Powerscourt Gardens,Garden,Enniskerry,Ireland,IE,53.1843,-6.1867,https://worthajourney.com/botanical-gardens/powerscourt-gardens/
+38,Giardini La Mortella,Garden,Forio,Italy,IT,40.7515,13.8728,https://worthajourney.com/botanical-gardens/giardini-la-mortella/
+39,Botanical Park & Gardens of Crete,Botanical garden,Fournes,Greece,GR,35.4185,23.9396,https://worthajourney.com/botanical-gardens/botanical-park-gardens-of-crete/
+40,Jardín Botánico Atlántico,Botanical garden,Gijón,Spain,ES,43.5215,-5.6159,https://worthajourney.com/botanical-gardens/jardin-botanico-atlantico/
+41,Atlanta Botanical Garden,Botanical garden,Atlanta,United States,US,33.7900,-84.3726,https://worthajourney.com/botanical-gardens/atlanta-botanical-garden/
+42,Giardini Botanici Hanbury,Botanical garden,Ventimiglia,Italy,IT,43.7847,7.5544,https://worthajourney.com/botanical-gardens/giardini-botanici-hanbury/
+43,Ashikaga Flower Park,Garden,Ashikaga,Japan,JP,36.3142,139.5200,https://worthajourney.com/botanical-gardens/ashikaga-flower-park/
+44,Gardens by the Bay,Garden,Singapore,Singapore,SG,1.2816,103.8636,https://worthajourney.com/botanical-gardens/gardens-by-the-bay/
+45,Jardin Botanique de Deshaies,Botanical garden,Deshaies,Guadeloupe,GP,16.2991,-61.7985,https://worthajourney.com/botanical-gardens/jardin-botanique-de-deshaies/
+46,Portland Japanese Garden,Classical garden,Portland,United States,US,45.5189,-122.7080,https://worthajourney.com/botanical-gardens/portland-japanese-garden/
+47,VanDusen Botanical Garden,Botanical garden,Vancouver,Canada,CA,49.2396,-123.1325,https://worthajourney.com/botanical-gardens/vandusen-botanical-garden/
+48,Giardino di Ninfa,Garden,Cisterna di Latina,Italy,IT,41.5831,12.9527,https://worthajourney.com/botanical-gardens/giardino-di-ninfa/
+49,Shinjuku Gyoen,Garden,Tokyo,Japan,JP,35.6852,139.7101,https://worthajourney.com/botanical-gardens/shinjuku-gyoen/
+50,Queen Sirikit Botanic Garden,Botanical garden,Mae Rim,Thailand,TH,18.8880,98.8619,https://worthajourney.com/botanical-gardens/queen-sirikit-botanic-garden/
+51,National Botanic Gardens,Botanical garden,Dublin,Ireland,IE,53.3725,-6.2719,https://worthajourney.com/botanical-gardens/national-botanic-gardens/
+52,Arboretum Wojsławice,Arboretum,Niemcza,Poland,PL,50.7127,16.8562,https://worthajourney.com/botanical-gardens/arboretum-wojsawice/
+53,Christchurch Botanic Gardens,Botanical garden,Christchurch,New Zealand,NZ,-43.5307,172.6232,https://worthajourney.com/botanical-gardens/christchurch-botanic-gardens/
+54,Parc Floral d’Apremont,Garden,Apremont-sur-Allier,France,FR,46.9062,3.0477,https://worthajourney.com/botanical-gardens/parc-floral-dapremont/
+55,Arctic-Alpine Botanic Garden,Botanical garden,Tromsø,Norway,NO,69.6769,18.9766,https://worthajourney.com/botanical-gardens/arctic-alpine-botanic-garden/
+56,Batumi Botanical Garden,Botanical garden,Batumi,Georgia,GE,41.6944,41.7075,https://worthajourney.com/botanical-gardens/batumi-botanical-garden/
+57,Chicago Botanic Garden,Botanical garden,Glencoe,United States,US,42.1464,-87.7898,https://worthajourney.com/botanical-gardens/chicago-botanic-garden/
+58,Royal Botanic Garden Sydney,Botanical garden,Sydney,Australia,AU,-33.8642,151.2166,https://worthajourney.com/botanical-gardens/royal-botanic-garden-sydney/
+59,Botanická zahrada Liberec,Botanical garden,Liberec,Czechia,CZ,50.7781,15.0733,https://worthajourney.com/botanical-gardens/botanicka-zahrada-liberec/
+60,Makino Botanical Garden,Botanical garden,Kochi,Japan,JP,33.5479,133.5792,https://worthajourney.com/botanical-gardens/makino-botanical-garden/
+61,Gibbs Gardens,Garden,Ball Ground,United States,US,34.3787,-84.2803,https://worthajourney.com/botanical-gardens/gibbs-gardens/
+62,Kings Park and Botanic Garden,Botanical garden,Perth,Australia,AU,-31.9609,115.8322,https://worthajourney.com/botanical-gardens/kings-park-and-botanic-garden/
+63,Fairchild Tropical Botanic Garden,Botanical garden,Coral Gables,United States,US,25.6768,-80.2720,https://worthajourney.com/botanical-gardens/fairchild-tropical-botanic-garden/
+64,Jardí Botànic Marimurtra,Botanical garden,Blanes,Spain,ES,41.6767,2.8019,https://worthajourney.com/botanical-gardens/jardi-botanic-marimurtra/
+65,Indira Gandhi Memorial Tulip Garden,Garden,Srinagar,India,IN,34.0960,74.8784,https://worthajourney.com/botanical-gardens/indira-gandhi-memorial-tulip-garden/
+66,Kyoto Botanical Gardens,Botanical garden,Kyoto,Japan,JP,35.0486,135.7630,https://worthajourney.com/botanical-gardens/kyoto-botanical-gardens/
+67,Phipps Conservatory and Botanical Gardens,Glasshouse,Pittsburgh,United States,US,40.4390,-79.9480,https://worthajourney.com/botanical-gardens/phipps-conservatory-and-botanical-gardens/
+68,Giardini Botanici di Villa Taranto,Botanical garden,Verbania,Italy,IT,45.9259,8.5653,https://worthajourney.com/botanical-gardens/giardini-botanici-di-villa-taranto/
+69,Jardín Botánico La Concepción,Botanical garden,Málaga,Spain,ES,36.7601,-4.4263,https://worthajourney.com/botanical-gardens/jardin-botanico-la-concepcion/
+70,Royal Tasmanian Botanical Gardens,Botanical garden,Hobart,Australia,AU,-42.8657,147.3311,https://worthajourney.com/botanical-gardens/royal-tasmanian-botanical-gardens/
+71,Frederik Meijer Gardens & Sculpture Park,Botanical garden,Grand Rapids,United States,US,42.9801,-85.5864,https://worthajourney.com/botanical-gardens/frederik-meijer-gardens-sculpture-park/
+72,Parco Giardino Sigurtà,Garden,Valeggio sul Mincio,Italy,IT,45.3578,10.7348,https://worthajourney.com/botanical-gardens/parco-giardino-sigurta/
+73,Giardini di Villa Melzi,Garden,Bellagio,Italy,IT,45.9797,9.2540,https://worthajourney.com/botanical-gardens/giardini-di-villa-melzi/
+74,Ho‘omaluhia Botanical Garden,Botanical garden,Kaneohe,United States,US,21.3872,-157.8038,https://worthajourney.com/botanical-gardens/hoomaluhia-botanical-garden/
+75,Orto Botanico di Padova,Botanical garden,Padua,Italy,IT,45.3983,11.8804,https://worthajourney.com/botanical-gardens/orto-botanico-di-padova/
+76,Parc Botanique de Haute Bretagne,Botanical garden,Le Châtellier,France,FR,48.4290,-1.2603,https://worthajourney.com/botanical-gardens/parc-botanique-de-haute-bretagne/
+77,Hortus Botanicus Leiden,Botanical garden,Leiden,Netherlands,NL,52.1570,4.4848,https://worthajourney.com/botanical-gardens/hortus-botanicus-leiden/
+78,Trebah Garden,Garden,Mawnan Smith,United Kingdom,GB,50.1042,-5.1222,https://worthajourney.com/botanical-gardens/trebah-garden/
+79,Botanic Garden of the Jagiellonian University,Botanical garden,Kraków,Poland,PL,50.0636,19.9555,https://worthajourney.com/botanical-gardens/botanic-garden-of-the-jagiellonian-university/
+80,Palmengarten,Botanical garden,Frankfurt,Germany,DE,50.1232,8.6578,https://worthajourney.com/botanical-gardens/palmengarten/
+81,Prague Botanical Garden,Botanical garden,Prague,Czechia,CZ,50.1214,14.4132,https://worthajourney.com/botanical-gardens/prague-botanical-garden/
+82,Naples Botanical Garden,Botanical garden,Naples,United States,US,26.1068,-81.7711,https://worthajourney.com/botanical-gardens/naples-botanical-garden/
+83,Dallas Arboretum and Botanical Garden,Botanical garden,Dallas,United States,US,32.8236,-96.7166,https://worthajourney.com/botanical-gardens/dallas-arboretum-and-botanical-garden/
+84,Jardin de Balata,Botanical garden,Fort-de-France,Martinique,MQ,14.6721,-61.0914,https://worthajourney.com/botanical-gardens/jardin-de-balata/
+85,Atatürk Arboretum,Arboretum,Istanbul,Turkey,TR,41.1766,28.9854,https://worthajourney.com/botanical-gardens/ataturk-arboretum/
+86,Parque Amantikir,Garden,Campos do Jordão,Brazil,BR,-22.7836,-45.6028,https://worthajourney.com/botanical-gardens/parque-amantikir/
+87,RHS Garden Wisley,Garden,Wisley,United Kingdom,GB,51.3145,-0.4730,https://worthajourney.com/botanical-gardens/rhs-garden-wisley/
+88,Jardin Exotique d’Èze,Botanical garden,Èze,France,FR,43.7283,7.3612,https://worthajourney.com/botanical-gardens/jardin-exotique-deze/
+89,Huerto del Cura,Botanical garden,Elche,Spain,ES,38.2641,-0.6914,https://worthajourney.com/botanical-gardens/huerto-del-cura/
+90,Jardín de Aclimatación de La Orotava,Botanical garden,Puerto de la Cruz,Spain,ES,28.4116,-16.5358,https://worthajourney.com/botanical-gardens/jardin-de-aclimatacion-de-la-orotava/
+91,Folly Arboretum,Arboretum,Badacsonyörs,Hungary,HU,46.8101,17.5454,https://worthajourney.com/botanical-gardens/folly-arboretum/
+92,Koko-en,Classical garden,Himeji,Japan,JP,34.8371,134.6904,https://worthajourney.com/botanical-gardens/koko-en/
+93,Fort Worth Botanic Garden,Botanical garden,Fort Worth,United States,US,32.7403,-97.3638,https://worthajourney.com/botanical-gardens/fort-worth-botanic-garden/
+94,Desert Botanical Garden,Botanical garden,Phoenix,United States,US,33.4617,-111.9449,https://worthajourney.com/botanical-gardens/desert-botanical-garden/
+95,Kasteeltuinen Arcen,Garden,Arcen,Netherlands,NL,51.4719,6.1843,https://worthajourney.com/botanical-gardens/kasteeltuinen-arcen/
+96,Parc Oriental de Maulévrier,Classical garden,Maulévrier,France,FR,47.0065,-0.7449,https://worthajourney.com/botanical-gardens/parc-oriental-de-maulevrier/
+97,Les Jardins d’Eau,Garden,Carsac-Aillac,France,FR,44.8273,1.2736,https://worthajourney.com/botanical-gardens/les-jardins-deau/
+98,Perdana Botanical Garden,Botanical garden,Kuala Lumpur,Malaysia,MY,3.1424,101.6842,https://worthajourney.com/botanical-gardens/perdana-botanical-garden/
+99,New York Botanical Garden,Botanical garden,New York,United States,US,40.8623,-73.8774,https://worthajourney.com/botanical-gardens/new-york-botanical-garden/
+100,Bogor Botanical Gardens,Botanical garden,Bogor,Indonesia,ID,-6.5976,106.7996,https://worthajourney.com/botanical-gardens/bogor-botanical-gardens/

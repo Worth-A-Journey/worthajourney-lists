@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Múlagljúfur,Canyon,South Iceland,Iceland,IS,63.9891,-16.4639,https://worthajourney.com/hikes/#mulagljufur
-2,Quiraing,Ridge,Isle of Skye,United Kingdom,GB,57.6436,-6.2653,https://worthajourney.com/hikes/#quiraing
-3,Robberg Peninsula,Coast,"Plettenberg Bay, Garden Route",South Africa,ZA,-34.1005,23.3774,https://worthajourney.com/hikes/#robberg-peninsula
-4,Levada Nova and Levada do Moinho,Waterfall,Madeira,Portugal,PT,32.7134,-17.0839,https://worthajourney.com/hikes/#levada-nova-and-levada-do-moinho
-5,Pico do Areeiro to Pico Ruivo,Ridge,Madeira,Portugal,PT,32.7355,-16.9288,https://worthajourney.com/hikes/#pico-do-areeiro-to-pico-ruivo
-6,Vereda do Larano,Coast,Madeira,Portugal,PT,32.7633,-16.7935,https://worthajourney.com/hikes/#vereda-do-larano
-7,Angels Landing,Summit,Zion National Park,United States,US,37.2690,-112.9469,https://worthajourney.com/hikes/#angels-landing
-8,Panorama Ridge,Ridge,Garibaldi Provincial Park,Canada,CA,49.9533,-123.0174,https://worthajourney.com/hikes/#panorama-ridge
-9,Laguna de los Tres,Lake,"El Chaltén, Patagonia",Argentina,AR,-49.2804,-72.9860,https://worthajourney.com/hikes/#laguna-de-los-tres
-10,Grinnell Glacier,Glacier,Glacier National Park,United States,US,48.7971,-113.6686,https://worthajourney.com/hikes/#grinnell-glacier
-11,Kaʻau Crater,Volcano,Oʻahu,United States,US,21.3109,-157.7819,https://worthajourney.com/hikes/#kaau-crater
-12,Trolltunga,Mountain,Hardanger,Norway,NO,60.1242,6.7400,https://worthajourney.com/hikes/#trolltunga
-13,Kalalau Trail,Coast,"Nā Pali Coast, Kauaʻi",United States,US,22.2204,-159.5826,https://worthajourney.com/hikes/#kalalau-trail
-14,Skerwink Trail,Coast,"Bonavista Peninsula, Newfoundland",Canada,CA,48.3792,-53.3403,https://worthajourney.com/hikes/#skerwink-trail
-15,Adam's Peak,Summit,Central Highlands,Sri Lanka,LK,6.8096,80.4994,https://worthajourney.com/hikes/#adam-s-peak
-16,Waiheʻe Ridge,Ridge,Maui,United States,US,20.9529,-156.5316,https://worthajourney.com/hikes/#waihee-ridge
-17,Glymur,Waterfall,Hvalfjörður,Iceland,IS,64.3911,-21.2517,https://worthajourney.com/hikes/#glymur
-18,Augstmatthorn,Ridge,Bernese Oberland,Switzerland,CH,46.7422,7.9286,https://worthajourney.com/hikes/#augstmatthorn
-19,The Narrows,Canyon,Zion National Park,United States,US,37.3050,-112.9491,https://worthajourney.com/hikes/#the-narrows
-20,Ruta de los Volcanes,Volcano,La Palma,Spain,ES,28.5538,-17.8386,https://worthajourney.com/hikes/#ruta-de-los-volcanes
-21,Klingenstock–Fronalpstock Ridge,Ridge,"Stoos, Central Switzerland",Switzerland,CH,46.9682,8.6373,https://worthajourney.com/hikes/#klingenstockfronalpstock-ridge
-22,Tryfan North Ridge,Summit,Snowdonia,United Kingdom,GB,53.1184,-3.9958,https://worthajourney.com/hikes/#tryfan-north-ridge
-23,Gertrude Saddle,Mountain,Fiordland National Park,New Zealand,NZ,-44.7416,168.0123,https://worthajourney.com/hikes/#gertrude-saddle
-24,Grand Canyon Track,Canyon,Blue Mountains,Australia,AU,-33.6494,150.3214,https://worthajourney.com/hikes/#grand-canyon-track
-25,Half Dome,Summit,Yosemite National Park,United States,US,37.7459,-119.5332,https://worthajourney.com/hikes/#half-dome
-26,Mistérios Negros,Volcano,"Terceira, Azores",Portugal,PT,38.7372,-27.2693,https://worthajourney.com/hikes/#misterios-negros
-27,Mueller Hut Route,Mountain,Aoraki/Mount Cook National Park,New Zealand,NZ,-43.7160,170.0684,https://worthajourney.com/hikes/#mueller-hut-route
-28,Tongariro Alpine Crossing,Volcano,Tongariro National Park,New Zealand,NZ,-39.1444,175.5810,https://worthajourney.com/hikes/#tongariro-alpine-crossing
-29,Awaʻawapuhi Trail,Ridge,"Kōkeʻe State Park, Kauaʻi",United States,US,22.1536,-159.6804,https://worthajourney.com/hikes/#awaawapuhi-trail
-30,Roys Peak,Summit,Wānaka,New Zealand,NZ,-44.7000,169.0500,https://worthajourney.com/hikes/#roys-peak
-31,World's End,Mountain,Horton Plains National Park,Sri Lanka,LK,6.8094,80.8023,https://worthajourney.com/hikes/#world-s-end
-32,Mount Sinai,Summit,South Sinai,Egypt,EG,28.5393,33.9749,https://worthajourney.com/hikes/#mount-sinai
-33,Fimmvörðuháls,Volcano,South Iceland,Iceland,IS,63.5326,-19.5092,https://worthajourney.com/hikes/#fimmvoruhals
-34,Fira to Oia,Coast,Santorini,Greece,GR,36.4374,25.4226,https://worthajourney.com/hikes/#fira-to-oia
-35,Salto do Prego,Waterfall,"São Miguel, Azores",Portugal,PT,37.7610,-25.1967,https://worthajourney.com/hikes/#salto-do-prego
-36,Maple Pass Loop,Ridge,North Cascades,United States,US,48.5151,-120.7358,https://worthajourney.com/hikes/#maple-pass-loop
-37,Reinebringen,Summit,Lofoten,Norway,NO,67.9269,13.0778,https://worthajourney.com/hikes/#reinebringen
-38,Samaria Gorge,Canyon,Crete,Greece,GR,35.2401,23.9612,https://worthajourney.com/hikes/#samaria-gorge
-39,Old Rag Mountain,Summit,Shenandoah National Park,United States,US,38.5517,-78.3158,https://worthajourney.com/hikes/#old-rag-mountain
-40,Seven Rila Lakes,Lake,Rila Mountains,Bulgaria,BG,42.2028,23.3200,https://worthajourney.com/hikes/#seven-rila-lakes
-41,Caldera Blanca,Volcano,Lanzarote,Spain,ES,29.0403,-13.7294,https://worthajourney.com/hikes/#caldera-blanca
-42,Romsdalseggen,Ridge,"Åndalsnes, Romsdal",Norway,NO,62.5475,7.7493,https://worthajourney.com/hikes/#romsdalseggen
-43,Besseggen,Ridge,Jotunheimen,Norway,NO,61.5005,8.7140,https://worthajourney.com/hikes/#besseggen
-44,Cascade Pass,Mountain,North Cascades National Park,United States,US,48.4756,-121.0751,https://worthajourney.com/hikes/#cascade-pass
-45,The Wave,Canyon,"Vermilion Cliffs, Arizona",United States,US,36.9959,-112.0063,https://worthajourney.com/hikes/#the-wave
-46,Tent Ridge Horseshoe,Ridge,Kananaskis,Canada,CA,50.8467,-115.3565,https://worthajourney.com/hikes/#tent-ridge-horseshoe
-47,The Enchantments,Lake,Alpine Lakes Wilderness,United States,US,47.4785,-120.8192,https://worthajourney.com/hikes/#the-enchantments
-48,Tugela Falls,Waterfall,Drakensberg,South Africa,ZA,-28.7522,28.8942,https://worthajourney.com/hikes/#tugela-falls
-49,Big Pine Lakes,Lake,"Eastern Sierra, California",United States,US,37.1304,-118.5072,https://worthajourney.com/hikes/#big-pine-lakes
-50,Rob Roy Glacier Track,Glacier,Mount Aspiring National Park,New Zealand,NZ,-44.4783,168.7282,https://worthajourney.com/hikes/#rob-roy-glacier-track
-51,Pizol Five Lakes Hike,Lake,"Heidiland, St. Gallen",Switzerland,CH,47.0288,9.4322,https://worthajourney.com/hikes/#pizol-five-lakes-hike
-52,Joffre Lakes,Lake,"Pemberton, British Columbia",Canada,CA,50.3413,-122.4762,https://worthajourney.com/hikes/#joffre-lakes
-53,Patsos Gorge,Canyon,Crete,Greece,GR,35.2549,24.5700,https://worthajourney.com/hikes/#patsos-gorge
-54,Old Man of Storr,Summit,Isle of Skye,United Kingdom,GB,57.5071,-6.1831,https://worthajourney.com/hikes/#old-man-of-storr
-55,Dragon's Back,Ridge,Hong Kong Island,Hong Kong,HK,22.2369,114.2432,https://worthajourney.com/hikes/#dragon-s-back
-56,Little Lakes Valley,Lake,"Eastern Sierra, California",United States,US,37.4348,-118.7476,https://worthajourney.com/hikes/#little-lakes-valley
-57,Triund,Ridge,"McLeod Ganj, Himachal Pradesh",India,IN,32.2596,76.3565,https://worthajourney.com/hikes/#triund
-58,West Fork Trail,Canyon,"Sedona, Arizona",United States,US,34.9906,-111.7431,https://worthajourney.com/hikes/#west-fork-trail
-59,Mount Agung,Volcano,Bali,Indonesia,ID,-8.3433,115.5071,https://worthajourney.com/hikes/#mount-agung
-60,Kjeragbolten,Mountain,Lysefjord,Norway,NO,59.0337,6.5933,https://worthajourney.com/hikes/#kjeragbolten
-61,Mount Pulag,Summit,"Benguet, Luzon",Philippines,PH,16.5975,120.8992,https://worthajourney.com/hikes/#mount-pulag
-62,Le Morne Brabant,Summit,Mauritius,Mauritius,MU,-20.4500,57.3167,https://worthajourney.com/hikes/#le-morne-brabant
-63,Kvalvika Beach,Coast,Lofoten,Norway,NO,68.0774,13.0983,https://worthajourney.com/hikes/#kvalvika-beach
-64,Boiling Lake,Volcano,"Morne Trois Pitons, Dominica",Dominica,DM,15.3184,-61.2941,https://worthajourney.com/hikes/#boiling-lake
-65,Seven Sisters,Coast,South Downs,United Kingdom,GB,50.7477,0.1898,https://worthajourney.com/hikes/#seven-sisters
-66,Kings Canyon Rim Walk,Canyon,Watarrka National Park,Australia,AU,-24.2553,131.5700,https://worthajourney.com/hikes/#kings-canyon-rim-walk
-67,Mirador Base Las Torres,Mountain,Torres del Paine,Chile,CL,-50.9428,-72.9495,https://worthajourney.com/hikes/#mirador-base-las-torres
-68,Laguna 69,Lake,Cordillera Blanca,Peru,PE,-9.0103,-77.6124,https://worthajourney.com/hikes/#laguna-69
-69,Mahaʻulepu Heritage Trail,Coast,Kauai,United States,US,21.8750,-159.4369,https://worthajourney.com/hikes/#mahaulepu-heritage-trail
-70,Catarata San Fernando,Waterfall,Alajuela,Costa Rica,CR,10.2168,-84.1680,https://worthajourney.com/hikes/#catarata-san-fernando
-71,Robert's Point Track,Glacier,Westland Tai Poutini,New Zealand,NZ,-43.4185,170.1810,https://worthajourney.com/hikes/#robert-s-point-track
-72,Cup and Saucer Trail,Forest,Manitoulin Island,Canada,CA,45.8533,-82.1142,https://worthajourney.com/hikes/#cup-and-saucer-trail
-73,Trælanípa,Coast,"Vágar, Faroe Islands",Faroe Islands,FO,62.0212,-7.2299,https://worthajourney.com/hikes/#traelanipa
-74,Saxer Lücke,Ridge,"Alpstein, Appenzell",Switzerland,CH,47.2473,9.4248,https://worthajourney.com/hikes/#saxer-lucke
-75,The Subway,Canyon,Zion National Park,United States,US,37.2849,-113.0957,https://worthajourney.com/hikes/#the-subway
-76,Olpererhütte,Mountain,Zillertal Alps,Austria,AT,47.0431,11.6890,https://worthajourney.com/hikes/#olpererhutte
-77,Hesten,Summit,Senja,Norway,NO,69.5139,17.5845,https://worthajourney.com/hikes/#hesten
-78,Raven Cliff Falls,Waterfall,"Chattahoochee National Forest, Georgia",United States,US,34.7096,-83.7893,https://worthajourney.com/hikes/#raven-cliff-falls
-79,Volcán Barú,Volcano,Chiriquí,Panama,PA,8.8088,-82.5423,https://worthajourney.com/hikes/#volcan-baru
-80,Mist Trail,Waterfall,Yosemite National Park,United States,US,37.7261,-119.5490,https://worthajourney.com/hikes/#mist-trail
-81,Blue Falls of Costa Rica,Waterfall,Bajos del Toro,Costa Rica,CR,10.2542,-84.2716,https://worthajourney.com/hikes/#blue-falls-of-costa-rica
-82,Lion's Head,Summit,Cape Town,South Africa,ZA,-33.9350,18.3890,https://worthajourney.com/hikes/#lion-s-head
-83,Chandrashila,Summit,"Chopta, Uttarakhand",India,IN,30.4863,79.2212,https://worthajourney.com/hikes/#chandrashila
-84,Highline Trail,Ridge,Glacier National Park,United States,US,48.6966,-113.7181,https://worthajourney.com/hikes/#highline-trail
-85,Lake O'Hara Alpine Circuit,Lake,Yoho National Park,Canada,CA,51.3560,-116.3303,https://worthajourney.com/hikes/#lake-o-hara-alpine-circuit
-86,Mount Whitney,Summit,Sierra Nevada,United States,US,36.5785,-118.2923,https://worthajourney.com/hikes/#mount-whitney
-87,Skyline Trail,Mountain,Mount Rainier National Park,United States,US,46.8022,-121.7287,https://worthajourney.com/hikes/#skyline-trail
-88,Jánošíkove diery,Canyon,Malá Fatra,Slovakia,SK,49.2319,19.0986,https://worthajourney.com/hikes/#janosikove-diery
-89,Mount Amos,Summit,Freycinet National Park,Australia,AU,-42.1500,148.3000,https://worthajourney.com/hikes/#mount-amos
-90,Piton des Neiges,Volcano,Réunion,Réunion,RE,-21.0993,55.4803,https://worthajourney.com/hikes/#piton-des-neiges
-91,Trail of Ten Falls,Waterfall,Silver Falls State Park,United States,US,44.8697,-122.6370,https://worthajourney.com/hikes/#trail-of-ten-falls
-92,Carrauntoohil,Summit,"MacGillycuddy's Reeks, Kerry",Ireland,IE,51.9990,-9.7432,https://worthajourney.com/hikes/#carrauntoohil
-93,Preikestolen,Mountain,Lysefjord,Norway,NO,58.9864,6.1904,https://worthajourney.com/hikes/#preikestolen
-94,Lake Serene,Lake,"Cascades, Washington",United States,US,47.8090,-121.5738,https://worthajourney.com/hikes/#lake-serene
-95,Congost de Mont-rebei,Canyon,"Montsec, Catalonia",Spain,ES,42.0827,0.6830,https://worthajourney.com/hikes/#congost-de-mont-rebei
-96,Mount Batur,Volcano,"Kintamani, Bali",Indonesia,ID,-8.2401,115.3775,https://worthajourney.com/hikes/#mount-batur
-97,Janela do Inferno,Waterfall,"São Miguel, Azores",Portugal,PT,37.7467,-25.5370,https://worthajourney.com/hikes/#janela-do-inferno
-98,Sentinel Pass,Mountain,Banff National Park,Canada,CA,51.3406,-116.2217,https://worthajourney.com/hikes/#sentinel-pass
-99,Pipiwai Trail,Waterfall,"Haleakalā National Park, Maui",United States,US,20.6788,-156.0566,https://worthajourney.com/hikes/#pipiwai-trail
-100,La Jonction,Glacier,"Chamonix, Mont Blanc",France,FR,45.8765,6.8569,https://worthajourney.com/hikes/#la-jonction
+1,Múlagljúfur,Canyon,South Iceland,Iceland,IS,63.9891,-16.4639,https://worthajourney.com/hikes/mulagljufur/
+2,Quiraing,Ridge,Isle of Skye,United Kingdom,GB,57.6436,-6.2653,https://worthajourney.com/hikes/quiraing/
+3,Robberg Peninsula,Coast,"Plettenberg Bay, Garden Route",South Africa,ZA,-34.1005,23.3774,https://worthajourney.com/hikes/robberg-peninsula/
+4,Levada Nova and Levada do Moinho,Waterfall,Madeira,Portugal,PT,32.7134,-17.0839,https://worthajourney.com/hikes/levada-nova-and-levada-do-moinho/
+5,Pico do Areeiro to Pico Ruivo,Ridge,Madeira,Portugal,PT,32.7355,-16.9288,https://worthajourney.com/hikes/pico-do-areeiro-to-pico-ruivo/
+6,Vereda do Larano,Coast,Madeira,Portugal,PT,32.7633,-16.7935,https://worthajourney.com/hikes/vereda-do-larano/
+7,Angels Landing,Summit,Zion National Park,United States,US,37.2690,-112.9469,https://worthajourney.com/hikes/angels-landing/
+8,Panorama Ridge,Ridge,Garibaldi Provincial Park,Canada,CA,49.9533,-123.0174,https://worthajourney.com/hikes/panorama-ridge/
+9,Laguna de los Tres,Lake,"El Chaltén, Patagonia",Argentina,AR,-49.2804,-72.9860,https://worthajourney.com/hikes/laguna-de-los-tres/
+10,Grinnell Glacier,Glacier,Glacier National Park,United States,US,48.7971,-113.6686,https://worthajourney.com/hikes/grinnell-glacier/
+11,Kaʻau Crater,Volcano,Oʻahu,United States,US,21.3109,-157.7819,https://worthajourney.com/hikes/kaau-crater/
+12,Trolltunga,Mountain,Hardanger,Norway,NO,60.1242,6.7400,https://worthajourney.com/hikes/trolltunga/
+13,Kalalau Trail,Coast,"Nā Pali Coast, Kauaʻi",United States,US,22.2204,-159.5826,https://worthajourney.com/hikes/kalalau-trail/
+14,Skerwink Trail,Coast,"Bonavista Peninsula, Newfoundland",Canada,CA,48.3792,-53.3403,https://worthajourney.com/hikes/skerwink-trail/
+15,Adam's Peak,Summit,Central Highlands,Sri Lanka,LK,6.8096,80.4994,https://worthajourney.com/hikes/adam-s-peak/
+16,Waiheʻe Ridge,Ridge,Maui,United States,US,20.9529,-156.5316,https://worthajourney.com/hikes/waihee-ridge/
+17,Glymur,Waterfall,Hvalfjörður,Iceland,IS,64.3911,-21.2517,https://worthajourney.com/hikes/glymur/
+18,Augstmatthorn,Ridge,Bernese Oberland,Switzerland,CH,46.7422,7.9286,https://worthajourney.com/hikes/augstmatthorn/
+19,The Narrows,Canyon,Zion National Park,United States,US,37.3050,-112.9491,https://worthajourney.com/hikes/the-narrows/
+20,Ruta de los Volcanes,Volcano,La Palma,Spain,ES,28.5538,-17.8386,https://worthajourney.com/hikes/ruta-de-los-volcanes/
+21,Klingenstock-Fronalpstock Ridge,Ridge,"Stoos, Central Switzerland",Switzerland,CH,46.9682,8.6373,https://worthajourney.com/hikes/klingenstock-fronalpstock-ridge/
+22,Tryfan North Ridge,Summit,Snowdonia,United Kingdom,GB,53.1184,-3.9958,https://worthajourney.com/hikes/tryfan-north-ridge/
+23,Gertrude Saddle,Mountain,Fiordland National Park,New Zealand,NZ,-44.7416,168.0123,https://worthajourney.com/hikes/gertrude-saddle/
+24,Grand Canyon Track,Canyon,Blue Mountains,Australia,AU,-33.6494,150.3214,https://worthajourney.com/hikes/grand-canyon-track/
+25,Half Dome,Summit,Yosemite National Park,United States,US,37.7459,-119.5332,https://worthajourney.com/hikes/half-dome/
+26,Mistérios Negros,Volcano,"Terceira, Azores",Portugal,PT,38.7372,-27.2693,https://worthajourney.com/hikes/misterios-negros/
+27,Mueller Hut Route,Mountain,Aoraki/Mount Cook National Park,New Zealand,NZ,-43.7160,170.0684,https://worthajourney.com/hikes/mueller-hut-route/
+28,Tongariro Alpine Crossing,Volcano,Tongariro National Park,New Zealand,NZ,-39.1444,175.5810,https://worthajourney.com/hikes/tongariro-alpine-crossing/
+29,Awaʻawapuhi Trail,Ridge,"Kōkeʻe State Park, Kauaʻi",United States,US,22.1536,-159.6804,https://worthajourney.com/hikes/awaawapuhi-trail/
+30,Roys Peak,Summit,Wānaka,New Zealand,NZ,-44.7000,169.0500,https://worthajourney.com/hikes/roys-peak/
+31,World's End,Mountain,Horton Plains National Park,Sri Lanka,LK,6.8094,80.8023,https://worthajourney.com/hikes/world-s-end/
+32,Mount Sinai,Summit,South Sinai,Egypt,EG,28.5393,33.9749,https://worthajourney.com/hikes/mount-sinai/
+33,Fimmvörðuháls,Volcano,South Iceland,Iceland,IS,63.5326,-19.5092,https://worthajourney.com/hikes/fimmvoruhals/
+34,Fira to Oia,Coast,Santorini,Greece,GR,36.4374,25.4226,https://worthajourney.com/hikes/fira-to-oia/
+35,Salto do Prego,Waterfall,"São Miguel, Azores",Portugal,PT,37.7610,-25.1967,https://worthajourney.com/hikes/salto-do-prego/
+36,Maple Pass Loop,Ridge,North Cascades,United States,US,48.5151,-120.7358,https://worthajourney.com/hikes/maple-pass-loop/
+37,Reinebringen,Summit,Lofoten,Norway,NO,67.9269,13.0778,https://worthajourney.com/hikes/reinebringen/
+38,Samaria Gorge,Canyon,Crete,Greece,GR,35.2401,23.9612,https://worthajourney.com/hikes/samaria-gorge/
+39,Old Rag Mountain,Summit,Shenandoah National Park,United States,US,38.5517,-78.3158,https://worthajourney.com/hikes/old-rag-mountain/
+40,Seven Rila Lakes,Lake,Rila Mountains,Bulgaria,BG,42.2028,23.3200,https://worthajourney.com/hikes/seven-rila-lakes/
+41,Caldera Blanca,Volcano,Lanzarote,Spain,ES,29.0403,-13.7294,https://worthajourney.com/hikes/caldera-blanca/
+42,Romsdalseggen,Ridge,"Åndalsnes, Romsdal",Norway,NO,62.5475,7.7493,https://worthajourney.com/hikes/romsdalseggen/
+43,Besseggen,Ridge,Jotunheimen,Norway,NO,61.5005,8.7140,https://worthajourney.com/hikes/besseggen/
+44,Cascade Pass,Mountain,North Cascades National Park,United States,US,48.4756,-121.0751,https://worthajourney.com/hikes/cascade-pass/
+45,The Wave,Canyon,"Vermilion Cliffs, Arizona",United States,US,36.9959,-112.0063,https://worthajourney.com/hikes/the-wave/
+46,Tent Ridge Horseshoe,Ridge,Kananaskis,Canada,CA,50.8467,-115.3565,https://worthajourney.com/hikes/tent-ridge-horseshoe/
+47,The Enchantments,Lake,Alpine Lakes Wilderness,United States,US,47.4785,-120.8192,https://worthajourney.com/hikes/the-enchantments/
+48,Tugela Falls,Waterfall,Drakensberg,South Africa,ZA,-28.7522,28.8942,https://worthajourney.com/hikes/tugela-falls/
+49,Big Pine Lakes,Lake,"Eastern Sierra, California",United States,US,37.1304,-118.5072,https://worthajourney.com/hikes/big-pine-lakes/
+50,Rob Roy Glacier Track,Glacier,Mount Aspiring National Park,New Zealand,NZ,-44.4783,168.7282,https://worthajourney.com/hikes/rob-roy-glacier-track/
+51,5-Seen-Wanderung Pizol,Lake,"Heidiland, St. Gallen",Switzerland,CH,47.0288,9.4322,https://worthajourney.com/hikes/5-seen-wanderung-pizol/
+52,Joffre Lakes,Lake,"Pemberton, British Columbia",Canada,CA,50.3413,-122.4762,https://worthajourney.com/hikes/joffre-lakes/
+53,Patsos Gorge,Canyon,Crete,Greece,GR,35.2549,24.5700,https://worthajourney.com/hikes/patsos-gorge/
+54,Old Man of Storr,Summit,Isle of Skye,United Kingdom,GB,57.5071,-6.1831,https://worthajourney.com/hikes/old-man-of-storr/
+55,Dragon's Back,Ridge,Hong Kong Island,Hong Kong,HK,22.2369,114.2432,https://worthajourney.com/hikes/dragon-s-back/
+56,Little Lakes Valley,Lake,"Eastern Sierra, California",United States,US,37.4348,-118.7476,https://worthajourney.com/hikes/little-lakes-valley/
+57,Triund,Ridge,"McLeod Ganj, Himachal Pradesh",India,IN,32.2596,76.3565,https://worthajourney.com/hikes/triund/
+58,West Fork Trail,Canyon,"Sedona, Arizona",United States,US,34.9906,-111.7431,https://worthajourney.com/hikes/west-fork-trail/
+59,Mount Agung,Volcano,Bali,Indonesia,ID,-8.3433,115.5071,https://worthajourney.com/hikes/mount-agung/
+60,Kjeragbolten,Mountain,Lysefjord,Norway,NO,59.0337,6.5933,https://worthajourney.com/hikes/kjeragbolten/
+61,Mount Pulag,Summit,"Benguet, Luzon",Philippines,PH,16.5975,120.8992,https://worthajourney.com/hikes/mount-pulag/
+62,Le Morne Brabant,Summit,Mauritius,Mauritius,MU,-20.4500,57.3167,https://worthajourney.com/hikes/le-morne-brabant/
+63,Kvalvika Beach,Coast,Lofoten,Norway,NO,68.0774,13.0983,https://worthajourney.com/hikes/kvalvika-beach/
+64,Boiling Lake,Volcano,Morne Trois Pitons,Dominica,DM,15.3184,-61.2941,https://worthajourney.com/hikes/boiling-lake/
+65,Seven Sisters,Coast,South Downs,United Kingdom,GB,50.7477,0.1898,https://worthajourney.com/hikes/seven-sisters/
+66,Kings Canyon Rim Walk,Canyon,Watarrka National Park,Australia,AU,-24.2553,131.5700,https://worthajourney.com/hikes/kings-canyon-rim-walk/
+67,Mirador Base Las Torres,Mountain,Torres del Paine,Chile,CL,-50.9428,-72.9495,https://worthajourney.com/hikes/mirador-base-las-torres/
+68,Laguna 69,Lake,Cordillera Blanca,Peru,PE,-9.0103,-77.6124,https://worthajourney.com/hikes/laguna-69/
+69,Mahaʻulepu Heritage Trail,Coast,Kauai,United States,US,21.8750,-159.4369,https://worthajourney.com/hikes/mahaulepu-heritage-trail/
+70,Catarata San Fernando,Waterfall,Alajuela,Costa Rica,CR,10.2168,-84.1680,https://worthajourney.com/hikes/catarata-san-fernando/
+71,Robert's Point Track,Glacier,Westland Tai Poutini,New Zealand,NZ,-43.4185,170.1810,https://worthajourney.com/hikes/robert-s-point-track/
+72,Cup and Saucer Trail,Forest,Manitoulin Island,Canada,CA,45.8533,-82.1142,https://worthajourney.com/hikes/cup-and-saucer-trail/
+73,Trælanípa,Coast,"Vágar, Faroe Islands",Faroe Islands,FO,62.0212,-7.2299,https://worthajourney.com/hikes/traelanipa/
+74,Saxer Lücke,Ridge,"Alpstein, Appenzell",Switzerland,CH,47.2473,9.4248,https://worthajourney.com/hikes/saxer-lucke/
+75,The Subway,Canyon,Zion National Park,United States,US,37.2849,-113.0957,https://worthajourney.com/hikes/the-subway/
+76,Olpererhütte,Mountain,Zillertal Alps,Austria,AT,47.0431,11.6890,https://worthajourney.com/hikes/olpererhutte/
+77,Hesten,Summit,Senja,Norway,NO,69.5139,17.5845,https://worthajourney.com/hikes/hesten/
+78,Raven Cliff Falls,Waterfall,"Chattahoochee National Forest, Georgia",United States,US,34.7096,-83.7893,https://worthajourney.com/hikes/raven-cliff-falls/
+79,Volcán Barú,Volcano,Chiriquí,Panama,PA,8.8088,-82.5423,https://worthajourney.com/hikes/volcan-baru/
+80,Mist Trail,Waterfall,Yosemite National Park,United States,US,37.7261,-119.5490,https://worthajourney.com/hikes/mist-trail/
+81,Blue Falls of Costa Rica,Waterfall,Bajos del Toro,Costa Rica,CR,10.2542,-84.2716,https://worthajourney.com/hikes/blue-falls-of-costa-rica/
+82,Lion's Head,Summit,Cape Town,South Africa,ZA,-33.9350,18.3890,https://worthajourney.com/hikes/lion-s-head/
+83,Chandrashila,Summit,"Chopta, Uttarakhand",India,IN,30.4863,79.2212,https://worthajourney.com/hikes/chandrashila/
+84,Highline Trail,Ridge,Glacier National Park,United States,US,48.6966,-113.7181,https://worthajourney.com/hikes/highline-trail/
+85,Lake O'Hara Alpine Circuit,Lake,Yoho National Park,Canada,CA,51.3560,-116.3303,https://worthajourney.com/hikes/lake-o-hara-alpine-circuit/
+86,Mount Whitney,Summit,Sierra Nevada,United States,US,36.5785,-118.2923,https://worthajourney.com/hikes/mount-whitney/
+87,Skyline Trail,Mountain,Mount Rainier National Park,United States,US,46.8022,-121.7287,https://worthajourney.com/hikes/skyline-trail/
+88,Jánošíkove diery,Canyon,Malá Fatra,Slovakia,SK,49.2319,19.0986,https://worthajourney.com/hikes/janosikove-diery/
+89,Mount Amos,Summit,Freycinet National Park,Australia,AU,-42.1500,148.3000,https://worthajourney.com/hikes/mount-amos/
+90,Piton des Neiges,Volcano,Réunion,Réunion,RE,-21.0993,55.4803,https://worthajourney.com/hikes/piton-des-neiges/
+91,Trail of Ten Falls,Waterfall,Silver Falls State Park,United States,US,44.8697,-122.6370,https://worthajourney.com/hikes/trail-of-ten-falls/
+92,Carrauntoohil,Summit,"MacGillycuddy's Reeks, Kerry",Ireland,IE,51.9990,-9.7432,https://worthajourney.com/hikes/carrauntoohil/
+93,Preikestolen,Mountain,Lysefjord,Norway,NO,58.9864,6.1904,https://worthajourney.com/hikes/preikestolen/
+94,Lake Serene,Lake,"Cascades, Washington",United States,US,47.8090,-121.5738,https://worthajourney.com/hikes/lake-serene/
+95,Congost de Mont-rebei,Canyon,"Montsec, Catalonia",Spain,ES,42.0827,0.6830,https://worthajourney.com/hikes/congost-de-mont-rebei/
+96,Mount Batur,Volcano,"Kintamani, Bali",Indonesia,ID,-8.2401,115.3775,https://worthajourney.com/hikes/mount-batur/
+97,Janela do Inferno,Waterfall,"São Miguel, Azores",Portugal,PT,37.7467,-25.5370,https://worthajourney.com/hikes/janela-do-inferno/
+98,Sentinel Pass,Mountain,Banff National Park,Canada,CA,51.3406,-116.2217,https://worthajourney.com/hikes/sentinel-pass/
+99,Pipiwai Trail,Waterfall,"Haleakalā National Park, Maui",United States,US,20.6788,-156.0566,https://worthajourney.com/hikes/pipiwai-trail/
+100,La Jonction,Glacier,"Chamonix, Mont Blanc",France,FR,45.8765,6.8569,https://worthajourney.com/hikes/la-jonction/

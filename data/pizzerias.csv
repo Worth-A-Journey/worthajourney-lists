@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Monellis,Pizzeria,Hastings,United Kingdom,GB,50.8556,0.5879,https://worthajourney.com/pizzerias/#monellis
-2,Plant A Pizza,Pizzeria,Ghent,Belgium,BE,51.0582,3.7209,https://worthajourney.com/pizzerias/#plant-a-pizza
-3,Savoy Kaminarimon,Pizzeria,Tokyo,Japan,JP,35.7114,139.7966,https://worthajourney.com/pizzerias/#savoy-kaminarimon
-4,La Pizza Napoletana Regalo,Pizzeria,Osaka,Japan,JP,34.6952,135.4887,https://worthajourney.com/pizzerias/#la-pizza-napoletana-regalo
-5,Doctor Drooly,Pizzeria,Munich,Germany,DE,48.1284,11.5586,https://worthajourney.com/pizzerias/#doctor-drooly
-6,Ceres,Pizzeria,New York,United States,US,40.7198,-73.9961,https://worthajourney.com/pizzerias/#ceres
-7,Boxcar Pizza,Pizzeria,Portland,United States,US,45.5290,-122.6382,https://worthajourney.com/pizzerias/#boxcar-pizza
-8,Anima di Grano Pizzeria Napoletana,Pizzeria,Pisa,Italy,IT,43.7171,10.4011,https://worthajourney.com/pizzerias/#anima-di-grano-pizzeria-napoletana
-9,Little Woodfire,Pizzeria,Edinburgh,United Kingdom,GB,55.9447,-3.2001,https://worthajourney.com/pizzerias/#little-woodfire
-10,KL Pizzeria Hammarby,Pizzeria,Västerås,Sweden,SE,59.6028,16.5131,https://worthajourney.com/pizzerias/#kl-pizzeria-hammarby
-11,Constantino,Pizzeria,Berlin,Germany,DE,52.4216,13.3341,https://worthajourney.com/pizzerias/#constantino
-12,Pizzeria Giardino Del Botanico,Pizzeria,Belgrade,Serbia,RS,44.8126,20.4699,https://worthajourney.com/pizzerias/#pizzeria-giardino-del-botanico
-13,Raices,Pizzeria,Valencia,Spain,ES,39.4768,-0.3758,https://worthajourney.com/pizzerias/#raices
-14,Gigis Pizza Shop,Pizzeria,Bristol,United Kingdom,GB,51.4565,-2.5804,https://worthajourney.com/pizzerias/#gigis-pizza-shop
-15,Pizza Plain,Pizzeria,Thessaloniki,Greece,GR,40.6013,22.9700,https://worthajourney.com/pizzerias/#pizza-plain
-16,Pizza Pizzini Boutique,Pizzeria,Jerusalem,Israel,IL,31.7854,35.2120,https://worthajourney.com/pizzerias/#pizza-pizzini-boutique
-17,Ventisei Pizzeria Napoletana,Pizzeria,Brighton,United Kingdom,GB,50.8233,-0.1513,https://worthajourney.com/pizzerias/#ventisei-pizzeria-napoletana
-18,Pizzería La Focacceria,Pizzeria,Toledo,Spain,ES,39.8586,-4.0221,https://worthajourney.com/pizzerias/#pizzeria-la-focacceria
-19,Pizzeria La Storia,Pizzeria,Vetralla,Italy,IT,42.3081,12.0786,https://worthajourney.com/pizzerias/#pizzeria-la-storia
-20,Il Colmo Del Pizzaiolo,Pizzeria,Naples,Italy,IT,40.8428,14.2218,https://worthajourney.com/pizzerias/#il-colmo-del-pizzaiolo
-21,Pizzeria da Ciro,Pizzeria,Kyoto,Japan,JP,35.0279,135.7906,https://worthajourney.com/pizzerias/#pizzeria-da-ciro
-22,Top Pizza,Pizzeria,Ljubljana,Slovenia,SI,46.0480,14.4995,https://worthajourney.com/pizzerias/#top-pizza
-23,Pizzaria Patagônica,Pizzeria,Chapecó,Brazil,BR,-27.0981,-52.6118,https://worthajourney.com/pizzerias/#pizzaria-patagonica
-24,U Wood Love,Pizzeria,Tamraght,Morocco,MA,30.5052,-9.6742,https://worthajourney.com/pizzerias/#u-wood-love
-25,Pizza Romarin,Pizzeria,Eskişehir,Turkey,TR,39.7737,30.4995,https://worthajourney.com/pizzerias/#pizza-romarin
-26,Marcus Pizze Amore,Pizzeria,Paris,France,FR,48.8698,2.3692,https://worthajourney.com/pizzerias/#marcus-pizze-amore
-27,Man.Gia,Pizzeria,Cagliari,Italy,IT,39.2208,9.1215,https://worthajourney.com/pizzerias/#man-gia
-28,Pizzaria São Paulo,Pizzeria,Ubatuba,Brazil,BR,-23.4329,-45.0700,https://worthajourney.com/pizzerias/#pizzaria-sao-paulo
-29,Dough Eyed,Pizzeria,York,United Kingdom,GB,53.9594,-1.0811,https://worthajourney.com/pizzerias/#dough-eyed
-30,Otto e Mezzo Pizza Verace,Pizzeria,Bento Gonçalves,Brazil,BR,-29.1796,-51.5136,https://worthajourney.com/pizzerias/#otto-e-mezzo-pizza-verace
-31,La Mezzetta,Pizzeria,Buenos Aires,Argentina,AR,-34.5781,-58.4608,https://worthajourney.com/pizzerias/#la-mezzetta
-32,Pizzeria Verde Rosso,Pizzeria,Izmir,Turkey,TR,38.4721,27.0919,https://worthajourney.com/pizzerias/#pizzeria-verde-rosso
-33,La Bella Donna Pizzeria,Pizzeria,São José,Brazil,BR,-27.5925,-48.6154,https://worthajourney.com/pizzerias/#la-bella-donna-pizzeria
-34,NeoPolitan,Pizzeria,Haifa,Israel,IL,32.8192,35.0003,https://worthajourney.com/pizzerias/#neopolitan
-35,Vegazzi Specialty Pizzeria,Pizzeria,Budapest,Hungary,HU,47.5065,19.0603,https://worthajourney.com/pizzerias/#vegazzi-specialty-pizzeria
-36,Pizza da Peppe Originale,Pizzeria,Füssen,Germany,DE,47.5729,10.6822,https://worthajourney.com/pizzerias/#pizza-da-peppe-originale
-37,Doma Pizza,Pizzeria,Nice,France,FR,43.7061,7.2686,https://worthajourney.com/pizzerias/#doma-pizza
-38,Dante & Gentucca,Pizzeria,Lucca,Italy,IT,43.8428,10.5040,https://worthajourney.com/pizzerias/#dante-gentucca
-39,Il Rusticone,Pizzeria,Matera,Italy,IT,40.6672,16.6071,https://worthajourney.com/pizzerias/#il-rusticone
-40,Port’Alba,Pizzeria,São Roque,Brazil,BR,-23.5532,-47.1229,https://worthajourney.com/pizzerias/#portalba
-41,Bara Vedugnspizza,Pizzeria,Stockholm,Sweden,SE,59.2798,18.0341,https://worthajourney.com/pizzerias/#bara-vedugnspizza
-42,Sitári,Pizzeria,Agrigento,Italy,IT,37.2710,13.6264,https://worthajourney.com/pizzerias/#sitari
-43,Tartufo Forneria Italiana,Pizzeria,Chania,Greece,GR,35.5153,24.0217,https://worthajourney.com/pizzerias/#tartufo-forneria-italiana
-44,Piccolo Forno,Pizzeria,Haarlem,Netherlands,NL,52.3845,4.6348,https://worthajourney.com/pizzerias/#piccolo-forno
-45,Russopizza,Pizzeria,La Louvière,Belgium,BE,50.4835,4.1637,https://worthajourney.com/pizzerias/#russopizza
-46,Les Amoureux,Pizzeria,Nice,France,FR,43.7009,7.2856,https://worthajourney.com/pizzerias/#les-amoureux
-47,Savoy Tomato & Cheese,Pizzeria,Tokyo,Japan,JP,35.6537,139.7353,https://worthajourney.com/pizzerias/#savoy-tomato-cheese
-48,Vinci's Pizza,Pizzeria,Napier,New Zealand,NZ,-39.4890,176.9178,https://worthajourney.com/pizzerias/#vinci-s-pizza
-49,À Janela,Pizzeria,Óbidos,Portugal,PT,39.3589,-9.1577,https://worthajourney.com/pizzerias/#a-janela
-50,Pizzaci Altan,Pizzeria,Ankara,Turkey,TR,39.9093,32.8612,https://worthajourney.com/pizzerias/#pizzaci-altan
-51,Neapolska Pizzeria,Pizzeria,Częstochowa,Poland,PL,50.8118,19.1118,https://worthajourney.com/pizzerias/#neapolska-pizzeria
-52,John's of Bleecker Street,Pizzeria,New York,United States,US,40.7316,-74.0034,https://worthajourney.com/pizzerias/#john-s-of-bleecker-street
-53,Bravo Pizzeria,Pizzeria,Da Nang,Vietnam,VN,16.0527,108.2417,https://worthajourney.com/pizzerias/#bravo-pizzeria
-54,Pizzaria Don Diovani,Pizzeria,Penha,Brazil,BR,-26.7933,-48.6058,https://worthajourney.com/pizzerias/#pizzaria-don-diovani
-55,Ciao Mare,Pizzeria,Puerto del Rosario,Spain,ES,28.4961,-13.8608,https://worthajourney.com/pizzerias/#ciao-mare
-56,I Masanielli di Francesco Martucci,Pizzeria,Caserta,Italy,IT,41.0723,14.3191,https://worthajourney.com/pizzerias/#i-masanielli-di-francesco-martucci
-57,Forno Antico Pizzeria,Pizzeria,Perth,Australia,AU,-32.0797,115.7616,https://worthajourney.com/pizzerias/#forno-antico-pizzeria
-58,Sorrento Pizzeria,Pizzeria,Empire Bay,Australia,AU,-33.4938,151.3633,https://worthajourney.com/pizzerias/#sorrento-pizzeria
-59,Pizzeria Napoletana Furore,Pizzeria,Buenos Aires,Argentina,AR,-34.6029,-58.3780,https://worthajourney.com/pizzerias/#pizzeria-napoletana-furore
-60,Castelões Cantina & Pizzaria,Pizzeria,São Paulo,Brazil,BR,-23.5444,-46.6215,https://worthajourney.com/pizzerias/#casteloes-cantina-pizzaria
-61,Roby Pizza Italiana,Pizzeria,Kuta,Indonesia,ID,-8.7904,115.2259,https://worthajourney.com/pizzerias/#roby-pizza-italiana
-62,The Crust Pizza,Pizzeria,Gujranwala,Pakistan,PK,32.0985,74.1842,https://worthajourney.com/pizzerias/#the-crust-pizza
-63,Pizzeria La Vespa,Pizzeria,Motril,Spain,ES,36.7444,-3.5182,https://worthajourney.com/pizzerias/#pizzeria-la-vespa
-64,Da Gennaro,Pizzeria,Fréjus,France,FR,43.4306,6.7360,https://worthajourney.com/pizzerias/#da-gennaro
-65,The Spot Pixxa,Pizzeria,Phu Quoc,Vietnam,VN,10.2563,103.9441,https://worthajourney.com/pizzerias/#the-spot-pixxa
-66,Napoletana,Pizzeria,Prague,Czechia,CZ,50.0846,14.4826,https://worthajourney.com/pizzerias/#napoletana
-67,Pizzeria Aria,Pizzeria,Pisa,Italy,IT,43.7200,10.3990,https://worthajourney.com/pizzerias/#pizzeria-aria
-68,Stile Napoletano,Pizzeria,Chester,United Kingdom,GB,53.1898,-2.8936,https://worthajourney.com/pizzerias/#stile-napoletano
-69,Goodslice,Pizzeria,Maroochydore,Australia,AU,-26.6607,153.1005,https://worthajourney.com/pizzerias/#goodslice
-70,Pizzeria Tarricone,Pizzeria,Tarragona,Spain,ES,41.1185,1.2572,https://worthajourney.com/pizzerias/#pizzeria-tarricone
-71,Demaio,Pizzeria,Bilbao,Spain,ES,43.2553,-2.9260,https://worthajourney.com/pizzerias/#demaio
-72,Bricco Gourmet,Pizzeria,Madrid,Spain,ES,40.4190,-3.7023,https://worthajourney.com/pizzerias/#bricco-gourmet
-73,Sarv's Slice,Pizzeria,London,United Kingdom,GB,51.5122,-0.3068,https://worthajourney.com/pizzerias/#sarv-s-slice
-74,Johnny's Pizzeria,Pizzeria,Mount Vernon,United States,US,40.9176,-73.8394,https://worthajourney.com/pizzerias/#johnny-s-pizzeria
-75,Prima Volta,Pizzeria,Nice,France,FR,43.7011,7.2835,https://worthajourney.com/pizzerias/#prima-volta
-76,Papa Gino's Pizza,Pizzeria,Ramat Gan,Israel,IL,32.0463,34.8345,https://worthajourney.com/pizzerias/#papa-gino-s-pizza
-77,Pontocom Pizza,Pizzeria,Balneário Camboriú,Brazil,BR,-26.9753,-48.6386,https://worthajourney.com/pizzerias/#pontocom-pizza
-78,Mister O1 Extraordinary Pizza,Pizzeria,Miami Beach,United States,US,25.7916,-80.1393,https://worthajourney.com/pizzerias/#mister-o1-extraordinary-pizza
-79,Tran Pizza,Pizzeria,Ho Chi Minh City,Vietnam,VN,10.7654,106.6883,https://worthajourney.com/pizzerias/#tran-pizza
-80,Pizzeria Délices De Capoue,Pizzeria,Aix-en-Provence,France,FR,43.5281,5.4442,https://worthajourney.com/pizzerias/#pizzeria-delices-de-capoue
-81,Pizzamisú,Pizzeria,Nottingham,United Kingdom,GB,52.9511,-1.1451,https://worthajourney.com/pizzerias/#pizzamisu
-82,Sally's Apizza,Pizzeria,New Haven,United States,US,41.3031,-72.9201,https://worthajourney.com/pizzerias/#sally-s-apizza
-83,Piccolo Buco,Pizzeria,Rome,Italy,IT,41.9013,12.4846,https://worthajourney.com/pizzerias/#piccolo-buco
-84,Pizzería Bella Ciao,Pizzeria,La Paz,Bolivia,BO,-16.4970,-68.1390,https://worthajourney.com/pizzerias/#pizzeria-bella-ciao
-85,Meow Pizzeria Verde,Pizzeria,Innsbruck,Austria,AT,47.2655,11.3824,https://worthajourney.com/pizzerias/#meow-pizzeria-verde
-86,Era Ora Ortigia,Pizzeria,Syracuse,Italy,IT,37.0635,15.2907,https://worthajourney.com/pizzerias/#era-ora-ortigia
-87,Kesté Pizza e Vino,Pizzeria,New York,United States,US,40.7093,-74.0049,https://worthajourney.com/pizzerias/#keste-pizza-e-vino
-88,Lupita Pizzaria,Pizzeria,Lisbon,Portugal,PT,38.7083,-9.1461,https://worthajourney.com/pizzerias/#lupita-pizzaria
-89,Fredi The PizzaMan,Pizzeria,Melvindale,United States,US,42.2853,-83.1844,https://worthajourney.com/pizzerias/#fredi-the-pizzaman
-90,Otto Pizza Napoletana,Pizzeria,Casablanca,Morocco,MA,33.5729,-7.6454,https://worthajourney.com/pizzerias/#otto-pizza-napoletana
-91,Pizza Marumo,Pizzeria,Tokyo,Japan,JP,35.6453,139.7085,https://worthajourney.com/pizzerias/#pizza-marumo
-92,Paulinho Restaurante e Pizzaria,Pizzeria,Ubatuba,Brazil,BR,-23.4581,-45.0609,https://worthajourney.com/pizzerias/#paulinho-restaurante-e-pizzaria
-93,Pizzeria Brown Blossom,Pizzeria,Kyoto,Japan,JP,35.0025,135.7659,https://worthajourney.com/pizzerias/#pizzeria-brown-blossom
-94,Fimmina,Pizzeria,Paris,France,FR,48.8752,2.3384,https://worthajourney.com/pizzerias/#fimmina
-95,Pizzeria Zac,Pizzeria,Montreal,Canada,CA,45.5172,-73.5791,https://worthajourney.com/pizzerias/#pizzeria-zac
-96,Pizzeria Amadeo Di Napoli,Pizzeria,Madrid,Spain,ES,40.4444,-3.6974,https://worthajourney.com/pizzerias/#pizzeria-amadeo-di-napoli
-97,Izzy's Pizza,Pizzeria,Omaha,United States,US,41.2551,-95.9471,https://worthajourney.com/pizzerias/#izzy-s-pizza
-98,The Pizza Bar On 38th,Pizzeria,Tokyo,Japan,JP,35.6870,139.7730,https://worthajourney.com/pizzerias/#the-pizza-bar-on-38th
-99,Bocconcino Pizza Bar,Pizzeria,Osijek,Croatia,HR,45.5581,18.6790,https://worthajourney.com/pizzerias/#bocconcino-pizza-bar
-100,Il Maradona Della Pizza,Pizzeria,Pompeii,Italy,IT,40.7369,14.4839,https://worthajourney.com/pizzerias/#il-maradona-della-pizza
+1,Monellis,Pizzeria,Hastings,United Kingdom,GB,50.8556,0.5879,https://worthajourney.com/pizzerias/monellis/
+2,Savoy Kaminarimon,Pizzeria,Tokyo,Japan,JP,35.7114,139.7966,https://worthajourney.com/pizzerias/savoy-kaminarimon/
+3,La Pizza Napoletana Regalo,Pizzeria,Osaka,Japan,JP,34.6952,135.4887,https://worthajourney.com/pizzerias/la-pizza-napoletana-regalo/
+4,Ceres,Pizzeria,New York,United States,US,40.7198,-73.9961,https://worthajourney.com/pizzerias/ceres/
+5,Anima di Grano Pizzeria Napoletana,Pizzeria,Pisa,Italy,IT,43.7171,10.4011,https://worthajourney.com/pizzerias/anima-di-grano-pizzeria-napoletana/
+6,Mr Woodfire,Pizzeria,Edinburgh,United Kingdom,GB,55.9447,-3.2001,https://worthajourney.com/pizzerias/mr-woodfire/
+7,KL Pizzeria Hammarby,Pizzeria,Västerås,Sweden,SE,59.6028,16.5131,https://worthajourney.com/pizzerias/kl-pizzeria-hammarby/
+8,Constantino,Pizzeria,Berlin,Germany,DE,52.4216,13.3341,https://worthajourney.com/pizzerias/constantino/
+9,Pizzeria Giardino Del Botanico,Pizzeria,Belgrade,Serbia,RS,44.8126,20.4699,https://worthajourney.com/pizzerias/pizzeria-giardino-del-botanico/
+10,Raíces,Pizzeria,Valencia,Spain,ES,39.4768,-0.3758,https://worthajourney.com/pizzerias/raices/
+11,Gigis Pizza Shop,Pizzeria,Bristol,United Kingdom,GB,51.4565,-2.5804,https://worthajourney.com/pizzerias/gigis-pizza-shop/
+12,Pizza Plain,Pizzeria,Thessaloniki,Greece,GR,40.6013,22.9700,https://worthajourney.com/pizzerias/pizza-plain/
+13,Pizza Pizzini Boutique,Pizzeria,Jerusalem,Israel,IL,31.7854,35.2120,https://worthajourney.com/pizzerias/pizza-pizzini-boutique/
+14,Pizzeria La Storia,Pizzeria,Vetralla,Italy,IT,42.3081,12.0786,https://worthajourney.com/pizzerias/pizzeria-la-storia/
+15,Pizzeria da Ciro,Pizzeria,Kyoto,Japan,JP,35.0279,135.7906,https://worthajourney.com/pizzerias/pizzeria-da-ciro/
+16,Ventisei Pizzeria Napoletana,Pizzeria,Brighton,United Kingdom,GB,50.8233,-0.1513,https://worthajourney.com/pizzerias/ventisei-pizzeria-napoletana/
+17,Pizzaria Patagônica,Pizzeria,Chapecó,Brazil,BR,-27.0981,-52.6118,https://worthajourney.com/pizzerias/pizzaria-patagonica/
+18,U Wood Love,Pizzeria,Tamraght,Morocco,MA,30.5052,-9.6742,https://worthajourney.com/pizzerias/u-wood-love/
+19,Pizzería La Focacceria,Pizzeria,Toledo,Spain,ES,39.8586,-4.0221,https://worthajourney.com/pizzerias/pizzeria-la-focacceria/
+20,Pizza Romarin,Pizzeria,Eskişehir,Turkey,TR,39.7737,30.4995,https://worthajourney.com/pizzerias/pizza-romarin/
+21,Plant A Pizza,Pizzeria,Ghent,Belgium,BE,51.0582,3.7209,https://worthajourney.com/pizzerias/plant-a-pizza/
+22,Pizzaria São Paulo,Pizzeria,Ubatuba,Brazil,BR,-23.4329,-45.0700,https://worthajourney.com/pizzerias/pizzaria-sao-paulo/
+23,Otto e Mezzo Pizza Verace,Pizzeria,Bento Gonçalves,Brazil,BR,-29.1796,-51.5136,https://worthajourney.com/pizzerias/otto-e-mezzo-pizza-verace/
+24,La Mezzetta,Pizzeria,Buenos Aires,Argentina,AR,-34.5781,-58.4608,https://worthajourney.com/pizzerias/la-mezzetta/
+25,Pizzeria Verde Rosso,Pizzeria,Izmir,Turkey,TR,38.4721,27.0919,https://worthajourney.com/pizzerias/pizzeria-verde-rosso/
+26,La Bella Donna Pizzeria,Pizzeria,São José,Brazil,BR,-27.5925,-48.6154,https://worthajourney.com/pizzerias/la-bella-donna-pizzeria/
+27,NeoPolitan,Pizzeria,Haifa,Israel,IL,32.8192,35.0003,https://worthajourney.com/pizzerias/neopolitan/
+28,Pizza da Peppe Originale,Pizzeria,Füssen,Germany,DE,47.5729,10.6822,https://worthajourney.com/pizzerias/pizza-da-peppe-originale/
+29,Dough Eyed,Pizzeria,York,United Kingdom,GB,53.9594,-1.0811,https://worthajourney.com/pizzerias/dough-eyed/
+30,Doma Pizza,Pizzeria,Nice,France,FR,43.7061,7.2686,https://worthajourney.com/pizzerias/doma-pizza/
+31,Dante & Gentucca,Pizzeria,Lucca,Italy,IT,43.8428,10.5040,https://worthajourney.com/pizzerias/dante-gentucca/
+32,Il Rusticone,Pizzeria,Matera,Italy,IT,40.6672,16.6071,https://worthajourney.com/pizzerias/il-rusticone/
+33,Port’Alba,Pizzeria,São Roque,Brazil,BR,-23.5532,-47.1229,https://worthajourney.com/pizzerias/portalba/
+34,Tartufo Forneria Italiana,Pizzeria,Chania,Greece,GR,35.5153,24.0217,https://worthajourney.com/pizzerias/tartufo-forneria-italiana/
+35,Top Pizza,Pizzeria,Ljubljana,Slovenia,SI,46.0480,14.4995,https://worthajourney.com/pizzerias/top-pizza/
+36,Bara Vedugnspizza,Pizzeria,Stockholm,Sweden,SE,59.2798,18.0341,https://worthajourney.com/pizzerias/bara-vedugnspizza/
+37,Piccolo Forno,Pizzeria,Haarlem,Netherlands,NL,52.3845,4.6348,https://worthajourney.com/pizzerias/piccolo-forno/
+38,Russopizza,Pizzeria,La Louvière,Belgium,BE,50.4835,4.1637,https://worthajourney.com/pizzerias/russopizza/
+39,Les Amoureux,Pizzeria,Nice,France,FR,43.7009,7.2856,https://worthajourney.com/pizzerias/les-amoureux/
+40,Sitári,Pizzeria,Agrigento,Italy,IT,37.2710,13.6264,https://worthajourney.com/pizzerias/sitari/
+41,Vinci's Pizza,Pizzeria,Napier,New Zealand,NZ,-39.4890,176.9178,https://worthajourney.com/pizzerias/vinci-s-pizza/
+42,À Janela,Pizzeria,Óbidos,Portugal,PT,39.3589,-9.1577,https://worthajourney.com/pizzerias/a-janela/
+43,Neapolska Pizzeria,Pizzeria,Częstochowa,Poland,PL,50.8118,19.1118,https://worthajourney.com/pizzerias/neapolska-pizzeria/
+44,John's of Bleecker Street,Pizzeria,New York,United States,US,40.7316,-74.0034,https://worthajourney.com/pizzerias/john-s-of-bleecker-street/
+45,Bravo Pizzeria,Pizzeria,Da Nang,Vietnam,VN,16.0527,108.2417,https://worthajourney.com/pizzerias/bravo-pizzeria/
+46,I Masanielli di Francesco Martucci,Pizzeria,Caserta,Italy,IT,41.0723,14.3191,https://worthajourney.com/pizzerias/i-masanielli-di-francesco-martucci/
+47,Pizzeria Napoletana Furore,Pizzeria,Buenos Aires,Argentina,AR,-34.6029,-58.3780,https://worthajourney.com/pizzerias/pizzeria-napoletana-furore/
+48,Castelões Cantina & Pizzaria,Pizzeria,São Paulo,Brazil,BR,-23.5444,-46.6215,https://worthajourney.com/pizzerias/casteloes-cantina-pizzaria/
+49,Roby Pizza Italiana,Pizzeria,Kuta,Indonesia,ID,-8.7904,115.2259,https://worthajourney.com/pizzerias/roby-pizza-italiana/
+50,Boxcar Pizza,Pizzeria,Portland,United States,US,45.5290,-122.6382,https://worthajourney.com/pizzerias/boxcar-pizza/
+51,Doctor Drooly,Pizzeria,Munich,Germany,DE,48.1284,11.5586,https://worthajourney.com/pizzerias/doctor-drooly/
+52,The Crust Pizza,Pizzeria,Gujranwala,Pakistan,PK,32.0985,74.1842,https://worthajourney.com/pizzerias/the-crust-pizza/
+53,Pizzeria La Vespa,Pizzeria,Motril,Spain,ES,36.7444,-3.5182,https://worthajourney.com/pizzerias/pizzeria-la-vespa/
+54,Pizzaria Don Diovani,Pizzeria,Penha,Brazil,BR,-26.7933,-48.6058,https://worthajourney.com/pizzerias/pizzaria-don-diovani/
+55,Ciao Mare,Pizzeria,Puerto del Rosario,Spain,ES,28.4961,-13.8608,https://worthajourney.com/pizzerias/ciao-mare/
+56,Da Gennaro,Pizzeria,Fréjus,France,FR,43.4306,6.7360,https://worthajourney.com/pizzerias/da-gennaro/
+57,The Spot Pixxa,Pizzeria,Phu Quoc,Vietnam,VN,10.2563,103.9441,https://worthajourney.com/pizzerias/the-spot-pixxa/
+58,Napoletana,Pizzeria,Prague,Czechia,CZ,50.0846,14.4826,https://worthajourney.com/pizzerias/napoletana/
+59,Pizzeria Aria,Pizzeria,Pisa,Italy,IT,43.7200,10.3990,https://worthajourney.com/pizzerias/pizzeria-aria/
+60,Stile Napoletano,Pizzeria,Chester,United Kingdom,GB,53.1898,-2.8936,https://worthajourney.com/pizzerias/stile-napoletano/
+61,Forno Antico Pizzeria,Pizzeria,Perth,Australia,AU,-32.0797,115.7616,https://worthajourney.com/pizzerias/forno-antico-pizzeria/
+62,Pizzeria Tarricone,Pizzeria,Tarragona,Spain,ES,41.1185,1.2572,https://worthajourney.com/pizzerias/pizzeria-tarricone/
+63,Demaio,Pizzeria,Bilbao,Spain,ES,43.2553,-2.9260,https://worthajourney.com/pizzerias/demaio/
+64,Johnny's Pizzeria,Pizzeria,Mount Vernon,United States,US,40.9176,-73.8394,https://worthajourney.com/pizzerias/johnny-s-pizzeria/
+65,Prima Volta,Pizzeria,Nice,France,FR,43.7011,7.2835,https://worthajourney.com/pizzerias/prima-volta/
+66,Pontocom Pizza,Pizzeria,Balneário Camboriú,Brazil,BR,-26.9753,-48.6386,https://worthajourney.com/pizzerias/pontocom-pizza/
+67,Tran Pizza,Pizzeria,Ho Chi Minh City,Vietnam,VN,10.7654,106.6883,https://worthajourney.com/pizzerias/tran-pizza/
+68,Sarv's Slice,Pizzeria,London,United Kingdom,GB,51.5122,-0.3068,https://worthajourney.com/pizzerias/sarv-s-slice/
+69,Pizzeria Délices De Capoue,Pizzeria,Aix-en-Provence,France,FR,43.5281,5.4442,https://worthajourney.com/pizzerias/pizzeria-delices-de-capoue/
+70,Sally's Apizza,Pizzeria,New Haven,United States,US,41.3031,-72.9201,https://worthajourney.com/pizzerias/sally-s-apizza/
+71,Piccolo Buco,Pizzeria,Rome,Italy,IT,41.9013,12.4846,https://worthajourney.com/pizzerias/piccolo-buco/
+72,Sorrento Pizzeria,Pizzeria,Empire Bay,Australia,AU,-33.4938,151.3633,https://worthajourney.com/pizzerias/sorrento-pizzeria/
+73,Pizzería Bella Ciao,Pizzeria,La Paz,Bolivia,BO,-16.4970,-68.1390,https://worthajourney.com/pizzerias/pizzeria-bella-ciao/
+74,Mister O1 Extraordinary Pizza,Pizzeria,Miami Beach,United States,US,25.7916,-80.1393,https://worthajourney.com/pizzerias/mister-o1-extraordinary-pizza/
+75,Papa Gino's Pizza,Pizzeria,Ramat Gan,Israel,IL,32.0463,34.8345,https://worthajourney.com/pizzerias/papa-gino-s-pizza/
+76,Lupita Pizzaria,Pizzeria,Lisbon,Portugal,PT,38.7083,-9.1461,https://worthajourney.com/pizzerias/lupita-pizzaria/
+77,Fredi The PizzaMan,Pizzeria,Melvindale,United States,US,42.2853,-83.1844,https://worthajourney.com/pizzerias/fredi-the-pizzaman/
+78,Otto Pizza Napoletana,Pizzeria,Casablanca,Morocco,MA,33.5729,-7.6454,https://worthajourney.com/pizzerias/otto-pizza-napoletana/
+79,Era Ora Ortigia,Pizzeria,Syracuse,Italy,IT,37.0635,15.2907,https://worthajourney.com/pizzerias/era-ora-ortigia/
+80,Paulinho Restaurante e Pizzaria,Pizzeria,Ubatuba,Brazil,BR,-23.4581,-45.0609,https://worthajourney.com/pizzerias/paulinho-restaurante-e-pizzaria/
+81,Pizzeria Brown Blossom,Pizzeria,Kyoto,Japan,JP,35.0025,135.7659,https://worthajourney.com/pizzerias/pizzeria-brown-blossom/
+82,Fimmina,Pizzeria,Paris,France,FR,48.8752,2.3384,https://worthajourney.com/pizzerias/fimmina/
+83,Goodslice,Pizzeria,Maroochydore,Australia,AU,-26.6607,153.1005,https://worthajourney.com/pizzerias/goodslice/
+84,Pizzeria Amadeo Di Napoli,Pizzeria,Madrid,Spain,ES,40.4444,-3.6974,https://worthajourney.com/pizzerias/pizzeria-amadeo-di-napoli/
+85,Izzy's Pizza,Pizzeria,Omaha,United States,US,41.2551,-95.9471,https://worthajourney.com/pizzerias/izzy-s-pizza/
+86,The Pizza Bar On 38th,Pizzeria,Tokyo,Japan,JP,35.6870,139.7730,https://worthajourney.com/pizzerias/the-pizza-bar-on-38th/
+87,Il Maradona Della Pizza,Pizzeria,Pompeii,Italy,IT,40.7369,14.4839,https://worthajourney.com/pizzerias/il-maradona-della-pizza/
+88,EVO Pizza-Café,Pizzeria,The Hague,Netherlands,NL,52.1060,4.2792,https://worthajourney.com/pizzerias/evo-pizza-cafe/
+89,Pizzamisú,Pizzeria,Nottingham,United Kingdom,GB,52.9511,-1.1451,https://worthajourney.com/pizzerias/pizzamisu/
+90,Pizza Marumo,Pizzeria,Tokyo,Japan,JP,35.6453,139.7085,https://worthajourney.com/pizzerias/pizza-marumo/
+91,Quonset Pizza,Pizzeria,Waukegan,United States,US,42.3707,-87.8657,https://worthajourney.com/pizzerias/quonset-pizza/
+92,Padre Pizza,Pizzeria,Reykjavik,Iceland,IS,64.1453,-21.9275,https://worthajourney.com/pizzerias/padre-pizza/
+93,Casa Manco,Pizzeria,Rome,Italy,IT,41.8778,12.4737,https://worthajourney.com/pizzerias/casa-manco/
+94,Semolino Pizzaria e Sapori,Pizzeria,Ubatuba,Brazil,BR,-23.5014,-45.1309,https://worthajourney.com/pizzerias/semolino-pizzaria-e-sapori/
+95,El Rincón Siciliano,Pizzeria,O Milladoiro,Spain,ES,42.8466,-8.5769,https://worthajourney.com/pizzerias/el-rincon-siciliano/
+96,Di Fara Pizza,Pizzeria,New York,United States,US,40.6250,-73.9615,https://worthajourney.com/pizzerias/di-fara-pizza/
+97,Farina Pizzaria Artesanal,Pizzeria,Curitiba,Brazil,BR,-25.4046,-49.3271,https://worthajourney.com/pizzerias/farina-pizzaria-artesanal/
+98,Pizzeria Fortuna,Pizzeria,Split,Croatia,HR,43.5084,16.4395,https://worthajourney.com/pizzerias/pizzeria-fortuna/
+99,Oleum Ortigia,Pizzeria,Syracuse,Italy,IT,37.0618,15.2924,https://worthajourney.com/pizzerias/oleum-ortigia/
+100,Pizza&Co.,Pizzeria,Lecce,Italy,IT,40.3520,18.1676,https://worthajourney.com/pizzerias/pizza-co/

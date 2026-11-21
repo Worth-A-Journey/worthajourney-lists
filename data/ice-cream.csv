@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Mack’s Finest Gelato,Gelateria,Park City,United States,US,40.6615,-111.4995,https://worthajourney.com/ice-cream/#macks-finest-gelato
-2,Heladería Real,Ice cream parlour,Campana,Argentina,AR,-34.1605,-58.9591,https://worthajourney.com/ice-cream/#heladeria-real
-3,Gelateria Portogallo,Gelateria,Padua,Italy,IT,45.4007,11.8760,https://worthajourney.com/ice-cream/#gelateria-portogallo
-4,Gelateria Villi,Gelateria,Olbia,Italy,IT,40.9238,9.5026,https://worthajourney.com/ice-cream/#gelateria-villi
-5,Gelateria Deliri,Gelateria,Ciutadella,Spain,ES,40.0016,3.8398,https://worthajourney.com/ice-cream/#gelateria-deliri
-6,Tagg Lane Dairy,Ice cream parlour,Youlgreave,United Kingdom,GB,53.1905,-1.8001,https://worthajourney.com/ice-cream/#tagg-lane-dairy
-7,Allora Gelato,Gelateria,Scottsdale,United States,US,33.5828,-111.9307,https://worthajourney.com/ice-cream/#allora-gelato
-8,Ombra Laboratorio del Gelato,Gelateria,Rovinj,Croatia,HR,45.0821,13.6333,https://worthajourney.com/ice-cream/#ombra-laboratorio-del-gelato
-9,Panunzio's Kitchen Gelati Italiani,Gelateria,Bristol,United Kingdom,GB,51.4640,-2.6078,https://worthajourney.com/ice-cream/#panunzio-s-kitchen-gelati-italiani
-10,(Thisis)Palato,Gelateria,Sorrento,Italy,IT,40.6259,14.3721,https://worthajourney.com/ice-cream/#thisis-palato
-11,Django Gelato,Gelateria,"Ermoupoli, Syros",Greece,GR,37.4445,24.9440,https://worthajourney.com/ice-cream/#django-gelato
-12,Gelato D’Amore,Gelateria,Nice,France,FR,43.6970,7.2743,https://worthajourney.com/ice-cream/#gelato-damore
-13,Sablè Gelato,Gelateria,Bologna,Italy,IT,44.5014,11.3441,https://worthajourney.com/ice-cream/#sable-gelato
-14,Cremeria Santo Stefano,Gelateria,Bologna,Italy,IT,44.4882,11.3522,https://worthajourney.com/ice-cream/#cremeria-santo-stefano
-15,Doppo Gelataria,Gelateria,Coimbra,Portugal,PT,40.2086,-8.4294,https://worthajourney.com/ice-cream/#doppo-gelataria
-16,SAÓ Mediterráneo,Ice cream parlour,Jávea,Spain,ES,38.7930,0.1808,https://worthajourney.com/ice-cream/#sao-mediterraneo
-17,Claudio Gelato con Passione,Gelateria,Palma,Spain,ES,39.5713,2.6534,https://worthajourney.com/ice-cream/#claudio-gelato-con-passione
-18,Cajú Gelato,Gelateria,Barcelona,Spain,ES,41.3838,2.1837,https://worthajourney.com/ice-cream/#caju-gelato
-19,Picchio Gelateria Naturale,Gelateria,Bracciano,Italy,IT,42.1039,12.1776,https://worthajourney.com/ice-cream/#picchio-gelateria-naturale
-20,Cremeria Cavour,Gelateria,Bologna,Italy,IT,44.4912,11.3442,https://worthajourney.com/ice-cream/#cremeria-cavour
-21,L’Etoile Givrée,Ice cream parlour,Moustiers-Sainte-Marie,France,FR,43.8473,6.2225,https://worthajourney.com/ice-cream/#letoile-givree
-22,Lorenzo’s Gem,Gelateria,Eumundi,Australia,AU,-26.4756,152.9504,https://worthajourney.com/ice-cream/#lorenzos-gem
-23,Gelati di Roma,Gelateria,Cocoa Beach,United States,US,28.3584,-80.6092,https://worthajourney.com/ice-cream/#gelati-di-roma
-24,Mokambo,Gelateria,Ruvo di Puglia,Italy,IT,41.1185,16.4834,https://worthajourney.com/ice-cream/#mokambo
-25,Timasù Gelateria Artigianale,Gelateria,Baunei,Italy,IT,40.0311,9.6642,https://worthajourney.com/ice-cream/#timasu-gelateria-artigianale
-26,Amma Gelato,Gelateria,Barcelona,Spain,ES,41.4051,2.1574,https://worthajourney.com/ice-cream/#amma-gelato
-27,Duci Gelato of Sicily,Gelateria,Delray Beach,United States,US,26.4807,-80.0892,https://worthajourney.com/ice-cream/#duci-gelato-of-sicily
-28,Gladiators Ice Cream,Ice cream parlour,Key West,United States,US,24.5596,-81.8066,https://worthajourney.com/ice-cream/#gladiators-ice-cream
-29,Dolce Capo,Gelateria,Palermo,Italy,IT,38.1166,13.3583,https://worthajourney.com/ice-cream/#dolce-capo
-30,Buongusto Gelateria,Gelateria,Pienza,Italy,IT,43.0769,11.6807,https://worthajourney.com/ice-cream/#buongusto-gelateria
-31,Nivà Gelato,Gelateria,Lisbon,Portugal,PT,38.7173,-9.1501,https://worthajourney.com/ice-cream/#niva-gelato
-32,Gelateria il Castello,Gelateria,Rimini,Italy,IT,44.0591,12.5629,https://worthajourney.com/ice-cream/#gelateria-il-castello
-33,Gelateria Gallonetto,Gelateria,Venice,Italy,IT,45.4373,12.3393,https://worthajourney.com/ice-cream/#gelateria-gallonetto
-34,Neve,Gelateria,Rovinj,Croatia,HR,45.0838,13.6323,https://worthajourney.com/ice-cream/#neve
-35,Dai Gelato,Gelateria,Madrid,Spain,ES,40.3763,-3.7683,https://worthajourney.com/ice-cream/#dai-gelato
-36,Flavio Soppelsa,Ice cream parlour,Mendoza,Argentina,AR,-32.8885,-68.8383,https://worthajourney.com/ice-cream/#flavio-soppelsa
-37,L'isola del Gusto Gelateria,Gelateria,Volterra,Italy,IT,43.4021,10.8612,https://worthajourney.com/ice-cream/#l-isola-del-gusto-gelateria
-38,Gelataria Così,Gelateria,Coimbra,Portugal,PT,40.2088,-8.4285,https://worthajourney.com/ice-cream/#gelataria-cosi
-39,Gelato Lab,Gelateria,Madrid,Spain,ES,40.4113,-3.7102,https://worthajourney.com/ice-cream/#gelato-lab
-40,Gelateria Verona,Gelateria,Verona,Italy,IT,45.4419,10.9935,https://worthajourney.com/ice-cream/#gelateria-verona
-41,São Gelados,Ice cream parlour,Olhão,Portugal,PT,37.0243,-7.8417,https://worthajourney.com/ice-cream/#sao-gelados
-42,Marshall's Gelato,Gelateria,Kotor,Montenegro,ME,42.4249,18.7708,https://worthajourney.com/ice-cream/#marshall-s-gelato
-43,Gelateria Autentica,Gelateria,Castelletto Sopra Ticino,Italy,IT,45.7196,8.6182,https://worthajourney.com/ice-cream/#gelateria-autentica
-44,Quattro-Si,Ice cream parlour,Pruszków,Poland,PL,52.1572,20.7890,https://worthajourney.com/ice-cream/#quattro-si
-45,Vrebac Gelato,Gelateria,Corralejo,Spain,ES,28.7379,-13.8684,https://worthajourney.com/ice-cream/#vrebac-gelato
-46,Gelateria Toldo,Gelateria,Lecco,Italy,IT,45.8544,9.3911,https://worthajourney.com/ice-cream/#gelateria-toldo
-47,Timberline Ice Cream,Ice cream parlour,Flagstaff,United States,US,35.2121,-111.6058,https://worthajourney.com/ice-cream/#timberline-ice-cream
-48,La’Creamian,Ice cream parlour,Fort Worth,United States,US,32.7513,-97.3308,https://worthajourney.com/ice-cream/#lacreamian
-49,1022 Cafe & Gelateria,Gelateria,Oceanside,United States,US,33.1966,-117.3787,https://worthajourney.com/ice-cream/#1022-cafe-gelateria
-50,Campo a Través,Ice cream parlour,San Lorenzo de El Escorial,Spain,ES,40.5928,-4.1441,https://worthajourney.com/ice-cream/#campo-a-traves
-51,Fat Batter Ice Cream,Ice cream parlour,Denver,United States,US,39.6718,-104.9878,https://worthajourney.com/ice-cream/#fat-batter-ice-cream
-52,La Cremería Gelato Italiano,Gelateria,Cadiz,Spain,ES,36.4997,-6.2735,https://worthajourney.com/ice-cream/#la-cremeria-gelato-italiano
-53,Twin Peaks Creamery,Ice cream parlour,Warman,Canada,CA,52.2781,-106.5749,https://worthajourney.com/ice-cream/#twin-peaks-creamery
-54,Fifty Acres Gelato,Gelateria,Caloundra,Australia,AU,-26.8056,153.1296,https://worthajourney.com/ice-cream/#fifty-acres-gelato
-55,Country Creamery,Ice cream parlour,Reno,United States,US,39.5033,-119.7991,https://worthajourney.com/ice-cream/#country-creamery
-56,Mamoo's Creamery,Ice cream parlour,Hot Springs,United States,US,34.5166,-93.0528,https://worthajourney.com/ice-cream/#mamoo-s-creamery
-57,Piacerino,Ice cream parlour,Córdoba,Spain,ES,37.8853,-4.7807,https://worthajourney.com/ice-cream/#piacerino
-58,Casa del Gelato,Gelateria,Albenga,Italy,IT,44.0469,8.2200,https://worthajourney.com/ice-cream/#casa-del-gelato
-59,Gelateria Liparoti,Gelateria,Erice,Italy,IT,38.0365,12.5843,https://worthajourney.com/ice-cream/#gelateria-liparoti
-60,Super Secret Ice Cream,Ice cream parlour,Bethlehem,United States,US,44.2807,-71.6842,https://worthajourney.com/ice-cream/#super-secret-ice-cream
-61,Vivi's,Ice cream parlour,Ibiza,Spain,ES,38.9093,1.4373,https://worthajourney.com/ice-cream/#vivi-s
-62,Mister McCoy's Island Ices,Ice cream parlour,Sóller,Spain,ES,39.7655,2.7148,https://worthajourney.com/ice-cream/#mister-mccoy-s-island-ices
-63,Scoops N Sliders,Ice cream parlour,Pocatello,United States,US,42.8815,-112.4519,https://worthajourney.com/ice-cream/#scoops-n-sliders
-64,Gelateria Degli Angeli,Gelateria,Sarasota,United States,US,27.2616,-82.5157,https://worthajourney.com/ice-cream/#gelateria-degli-angeli
-65,Gelateria Giò Ice,Gelateria,Nola,Italy,IT,40.9228,14.5326,https://worthajourney.com/ice-cream/#gelateria-gio-ice
-66,Gelateria Del Porto,Gelateria,Antibes,France,FR,43.5817,7.1279,https://worthajourney.com/ice-cream/#gelateria-del-porto
-67,Pappus Gelateria Artigianale,Gelateria,Noli,Italy,IT,44.2058,8.4156,https://worthajourney.com/ice-cream/#pappus-gelateria-artigianale
-68,Made In Rome Organic Gelato,Gelateria,Siesta Key,United States,US,27.2759,-82.5646,https://worthajourney.com/ice-cream/#made-in-rome-organic-gelato
-69,Gelateria ai 3 Scalini,Gelateria,San Salvo Marina,Italy,IT,42.0722,14.7655,https://worthajourney.com/ice-cream/#gelateria-ai-3-scalini
-70,Donna Heladería,Ice cream parlour,Coronel Brandsen,Argentina,AR,-35.1720,-58.2337,https://worthajourney.com/ice-cream/#donna-heladeria
-71,Gelateria Emiliana,Gelateria,Split,Croatia,HR,43.5098,16.4383,https://worthajourney.com/ice-cream/#gelateria-emiliana
-72,BM&V Gelateria Artigianale,Gelateria,Olbia,Italy,IT,40.9235,9.5005,https://worthajourney.com/ice-cream/#bm-v-gelateria-artigianale
-73,Giola Gelato,Gelateria,Lisbon,Portugal,PT,38.7150,-9.1513,https://worthajourney.com/ice-cream/#giola-gelato
-74,Gelateria Cantonati,Gelateria,Torbole,Italy,IT,45.8692,10.8763,https://worthajourney.com/ice-cream/#gelateria-cantonati
-75,Surf’Ice,Ice cream parlour,Tamraght,Morocco,MA,30.5129,-9.6813,https://worthajourney.com/ice-cream/#surfice
-76,Germano’s Premium Gelato,Gelateria,Pompton Plains,United States,US,40.9560,-74.2807,https://worthajourney.com/ice-cream/#germanos-premium-gelato
-77,Gelateria Della Passera,Gelateria,Florence,Italy,IT,43.7672,11.2506,https://worthajourney.com/ice-cream/#gelateria-della-passera
-78,Gelateria Del Bianco,Gelateria,Cartagena,Spain,ES,37.5999,-0.9865,https://worthajourney.com/ice-cream/#gelateria-del-bianco
-79,Honey’s Ice Cream,Ice cream parlour,Toronto,Canada,CA,43.6497,-79.4304,https://worthajourney.com/ice-cream/#honeys-ice-cream
-80,Heladería Punto Dulce,Ice cream parlour,Estepona,Spain,ES,36.4263,-5.1423,https://worthajourney.com/ice-cream/#heladeria-punto-dulce
-81,Ciao Amore Gelati,Gelateria,Marseille,France,FR,43.2945,5.3753,https://worthajourney.com/ice-cream/#ciao-amore-gelati
-82,ArteSana Gelat La Fusta,Gelateria,Valencia,Spain,ES,39.4678,-0.3368,https://worthajourney.com/ice-cream/#artesana-gelat-la-fusta
-83,Dua Gelato & Coffee,Gelateria,Lighthouse Point,United States,US,26.2624,-80.0984,https://worthajourney.com/ice-cream/#dua-gelato-coffee
-84,Mucca da Latte,Gelateria,Cambrils,Spain,ES,41.0654,1.0604,https://worthajourney.com/ice-cream/#mucca-da-latte
-85,Cadore Gelato Artigianale,Gelateria,Buenos Aires,Argentina,AR,-34.6041,-58.3906,https://worthajourney.com/ice-cream/#cadore-gelato-artigianale
-86,Insieme,Gelateria,Le Pouliguen,France,FR,47.2776,-2.4283,https://worthajourney.com/ice-cream/#insieme
-87,Blacksmith Ice Cream Co.,Ice cream parlour,Millcreek,United States,US,40.7033,-111.8546,https://worthajourney.com/ice-cream/#blacksmith-ice-cream-co
-88,Gelateria Da Brivido,Gelateria,Olbia,Italy,IT,40.9226,9.4999,https://worthajourney.com/ice-cream/#gelateria-da-brivido
-89,Primitivus Gelato,Gelateria,Badajoz,Spain,ES,38.8791,-6.9721,https://worthajourney.com/ice-cream/#primitivus-gelato
-90,Glacier Alessandro,Ice cream parlour,La Ciotat,France,FR,43.1751,5.6072,https://worthajourney.com/ice-cream/#glacier-alessandro
-91,Gelateria Dondoli,Gelateria,San Gimignano,Italy,IT,43.4674,11.0434,https://worthajourney.com/ice-cream/#gelateria-dondoli
-92,Dolce Mondo Gelato,Gelateria,Hamilton,Canada,CA,43.2585,-79.8783,https://worthajourney.com/ice-cream/#dolce-mondo-gelato
-93,Gelaaati di Marco,Gelateria,Barcelona,Spain,ES,41.3832,2.1773,https://worthajourney.com/ice-cream/#gelaaati-di-marco
-94,JJ Gelato,Gelateria,Treviso,Italy,IT,45.6636,12.2419,https://worthajourney.com/ice-cream/#jj-gelato
-95,V Gelato & Cafe,Gelateria,Miami,United States,US,25.8009,-80.2016,https://worthajourney.com/ice-cream/#v-gelato-cafe
-96,Donna Maria Gelateria Artigianale,Gelateria,Tropea,Italy,IT,38.6771,15.8978,https://worthajourney.com/ice-cream/#donna-maria-gelateria-artigianale
-97,Raddens Eis,Ice cream parlour,Fehmarn,Germany,DE,54.4337,11.1981,https://worthajourney.com/ice-cream/#raddens-eis
-98,Vashti Rose,Ice cream parlour,Port Moody,Canada,CA,49.2764,-122.8577,https://worthajourney.com/ice-cream/#vashti-rose
-99,Notarianni Ices,Ice cream parlour,Blackpool,United Kingdom,GB,53.7985,-3.0550,https://worthajourney.com/ice-cream/#notarianni-ices
-100,Ribera,Gelateria,Brescia,Italy,IT,45.5330,10.2201,https://worthajourney.com/ice-cream/#ribera
+1,Mack’s Finest Gelato,Gelateria,Park City,United States,US,40.6615,-111.4995,https://worthajourney.com/ice-cream/macks-finest-gelato/
+2,Heladería Real,Ice cream parlour,Campana,Argentina,AR,-34.1605,-58.9591,https://worthajourney.com/ice-cream/heladeria-real/
+3,Gelateria Portogallo,Gelateria,Padua,Italy,IT,45.4007,11.8760,https://worthajourney.com/ice-cream/gelateria-portogallo/
+4,Gelateria Villi,Gelateria,Olbia,Italy,IT,40.9238,9.5026,https://worthajourney.com/ice-cream/gelateria-villi/
+5,Gelateria Deliri,Gelateria,Ciutadella,Spain,ES,40.0016,3.8398,https://worthajourney.com/ice-cream/gelateria-deliri/
+6,Tagg Lane Dairy,Ice cream parlour,Monyash,United Kingdom,GB,53.1905,-1.8001,https://worthajourney.com/ice-cream/tagg-lane-dairy/
+7,Allora Gelato,Gelateria,Scottsdale,United States,US,33.5828,-111.9307,https://worthajourney.com/ice-cream/allora-gelato/
+8,Ombra Laboratorio del Gelato,Gelateria,Rovinj,Croatia,HR,45.0821,13.6333,https://worthajourney.com/ice-cream/ombra-laboratorio-del-gelato/
+9,Panunzio's Kitchen Gelati Italiani,Gelateria,Bristol,United Kingdom,GB,51.4640,-2.6078,https://worthajourney.com/ice-cream/panunzio-s-kitchen-gelati-italiani/
+10,(Thisis)Palato,Gelateria,Sorrento,Italy,IT,40.6259,14.3721,https://worthajourney.com/ice-cream/thisis-palato/
+11,Django Gelato,Gelateria,"Ermoupoli, Syros",Greece,GR,37.4445,24.9440,https://worthajourney.com/ice-cream/django-gelato/
+12,Gelato D’Amore,Gelateria,Nice,France,FR,43.6970,7.2743,https://worthajourney.com/ice-cream/gelato-damore/
+13,Sablè Gelato,Gelateria,Bologna,Italy,IT,44.5014,11.3441,https://worthajourney.com/ice-cream/sable-gelato/
+14,Cremeria Santo Stefano,Gelateria,Bologna,Italy,IT,44.4882,11.3522,https://worthajourney.com/ice-cream/cremeria-santo-stefano/
+15,Doppo Gelataria,Gelateria,Coimbra,Portugal,PT,40.2086,-8.4294,https://worthajourney.com/ice-cream/doppo-gelataria/
+16,SAÓ Mediterráneo,Ice cream parlour,Jávea,Spain,ES,38.7930,0.1808,https://worthajourney.com/ice-cream/sao-mediterraneo/
+17,Claudio Gelato con Passione,Gelateria,Palma,Spain,ES,39.5713,2.6534,https://worthajourney.com/ice-cream/claudio-gelato-con-passione/
+18,Cajú Gelato,Gelateria,Barcelona,Spain,ES,41.3838,2.1837,https://worthajourney.com/ice-cream/caju-gelato/
+19,Picchio Gelateria Naturale,Gelateria,Bracciano,Italy,IT,42.1039,12.1776,https://worthajourney.com/ice-cream/picchio-gelateria-naturale/
+20,Cremeria Cavour,Gelateria,Bologna,Italy,IT,44.4912,11.3442,https://worthajourney.com/ice-cream/cremeria-cavour/
+21,L’Etoile Givrée,Ice cream parlour,Moustiers-Sainte-Marie,France,FR,43.8473,6.2225,https://worthajourney.com/ice-cream/letoile-givree/
+22,Lorenzo’s Gem,Gelateria,Eumundi,Australia,AU,-26.4756,152.9504,https://worthajourney.com/ice-cream/lorenzos-gem/
+23,Gelati di Roma,Gelateria,Cocoa Beach,United States,US,28.3584,-80.6092,https://worthajourney.com/ice-cream/gelati-di-roma/
+24,Mokambo,Gelateria,Ruvo di Puglia,Italy,IT,41.1185,16.4834,https://worthajourney.com/ice-cream/mokambo/
+25,Timasù Gelateria Artigianale,Gelateria,Baunei,Italy,IT,40.0311,9.6642,https://worthajourney.com/ice-cream/timasu-gelateria-artigianale/
+26,Amma Gelato,Gelateria,Barcelona,Spain,ES,41.4051,2.1574,https://worthajourney.com/ice-cream/amma-gelato/
+27,Duci Gelato of Sicily,Gelateria,Delray Beach,United States,US,26.4807,-80.0892,https://worthajourney.com/ice-cream/duci-gelato-of-sicily/
+28,Gladiators Ice Cream,Ice cream parlour,Key West,United States,US,24.5596,-81.8066,https://worthajourney.com/ice-cream/gladiators-ice-cream/
+29,Dolce Capo,Gelateria,Palermo,Italy,IT,38.1166,13.3583,https://worthajourney.com/ice-cream/dolce-capo/
+30,Buongusto Gelateria,Gelateria,Pienza,Italy,IT,43.0769,11.6807,https://worthajourney.com/ice-cream/buongusto-gelateria/
+31,Nivà Gelato,Gelateria,Lisbon,Portugal,PT,38.7173,-9.1501,https://worthajourney.com/ice-cream/niva-gelato/
+32,Gelateria il Castello,Gelateria,Rimini,Italy,IT,44.0591,12.5629,https://worthajourney.com/ice-cream/gelateria-il-castello/
+33,Gelateria Gallonetto,Gelateria,Venice,Italy,IT,45.4373,12.3393,https://worthajourney.com/ice-cream/gelateria-gallonetto/
+34,Neve,Gelateria,Rovinj,Croatia,HR,45.0838,13.6323,https://worthajourney.com/ice-cream/neve/
+35,Dai Gelato,Gelateria,Madrid,Spain,ES,40.3763,-3.7683,https://worthajourney.com/ice-cream/dai-gelato/
+36,Flavio Soppelsa,Ice cream parlour,Mendoza,Argentina,AR,-32.8885,-68.8383,https://worthajourney.com/ice-cream/flavio-soppelsa/
+37,L'isola del Gusto Gelateria,Gelateria,Volterra,Italy,IT,43.4021,10.8612,https://worthajourney.com/ice-cream/l-isola-del-gusto-gelateria/
+38,Gelataria Così,Gelateria,Coimbra,Portugal,PT,40.2088,-8.4285,https://worthajourney.com/ice-cream/gelataria-cosi/
+39,Gelato Lab,Gelateria,Madrid,Spain,ES,40.4113,-3.7102,https://worthajourney.com/ice-cream/gelato-lab/
+40,Gelateria Verona,Gelateria,Verona,Italy,IT,45.4419,10.9935,https://worthajourney.com/ice-cream/gelateria-verona/
+41,São Gelados,Ice cream parlour,Olhão,Portugal,PT,37.0243,-7.8417,https://worthajourney.com/ice-cream/sao-gelados/
+42,Marshall's Gelato,Gelateria,Kotor,Montenegro,ME,42.4249,18.7708,https://worthajourney.com/ice-cream/marshall-s-gelato/
+43,Gelateria Autentica,Gelateria,Castelletto Sopra Ticino,Italy,IT,45.7196,8.6182,https://worthajourney.com/ice-cream/gelateria-autentica/
+44,Quattro-Si,Ice cream parlour,Pruszków,Poland,PL,52.1572,20.7890,https://worthajourney.com/ice-cream/quattro-si/
+45,Vrebac Gelato,Gelateria,Corralejo,Spain,ES,28.7379,-13.8684,https://worthajourney.com/ice-cream/vrebac-gelato/
+46,Gelateria Toldo,Gelateria,Lecco,Italy,IT,45.8544,9.3911,https://worthajourney.com/ice-cream/gelateria-toldo/
+47,Timberline Ice Cream,Ice cream parlour,Flagstaff,United States,US,35.2121,-111.6058,https://worthajourney.com/ice-cream/timberline-ice-cream/
+48,La’Creamian,Ice cream parlour,Fort Worth,United States,US,32.7513,-97.3308,https://worthajourney.com/ice-cream/lacreamian/
+49,1022 Cafe & Gelateria,Gelateria,Oceanside,United States,US,33.1966,-117.3787,https://worthajourney.com/ice-cream/1022-cafe-gelateria/
+50,Campo a Través,Ice cream parlour,San Lorenzo de El Escorial,Spain,ES,40.5928,-4.1441,https://worthajourney.com/ice-cream/campo-a-traves/
+51,Fat Batter Ice Cream,Ice cream parlour,Denver,United States,US,39.6718,-104.9878,https://worthajourney.com/ice-cream/fat-batter-ice-cream/
+52,La Cremería Gelato Italiano,Gelateria,Cadiz,Spain,ES,36.4997,-6.2735,https://worthajourney.com/ice-cream/la-cremeria-gelato-italiano/
+53,Twin Peaks Creamery,Ice cream parlour,Warman,Canada,CA,52.2781,-106.5749,https://worthajourney.com/ice-cream/twin-peaks-creamery/
+54,Fifty Acres Gelato,Gelateria,Caloundra,Australia,AU,-26.8056,153.1296,https://worthajourney.com/ice-cream/fifty-acres-gelato/
+55,Country Creamery,Ice cream parlour,Reno,United States,US,39.5033,-119.7991,https://worthajourney.com/ice-cream/country-creamery/
+56,Mamoo's Creamery,Ice cream parlour,Hot Springs,United States,US,34.5166,-93.0528,https://worthajourney.com/ice-cream/mamoo-s-creamery/
+57,Piacerino,Ice cream parlour,Córdoba,Spain,ES,37.8853,-4.7807,https://worthajourney.com/ice-cream/piacerino/
+58,Casa del Gelato,Gelateria,Albenga,Italy,IT,44.0469,8.2200,https://worthajourney.com/ice-cream/casa-del-gelato/
+59,Gelateria Liparoti,Gelateria,Erice,Italy,IT,38.0365,12.5843,https://worthajourney.com/ice-cream/gelateria-liparoti/
+60,Super Secret Ice Cream,Ice cream parlour,Bethlehem,United States,US,44.2807,-71.6842,https://worthajourney.com/ice-cream/super-secret-ice-cream/
+61,Vivi's,Ice cream parlour,Ibiza,Spain,ES,38.9093,1.4373,https://worthajourney.com/ice-cream/vivi-s/
+62,Mister McCoy's Island Ices,Ice cream parlour,Sóller,Spain,ES,39.7655,2.7148,https://worthajourney.com/ice-cream/mister-mccoy-s-island-ices/
+63,Scoops N Sliders,Ice cream parlour,Pocatello,United States,US,42.8815,-112.4519,https://worthajourney.com/ice-cream/scoops-n-sliders/
+64,Gelateria Degli Angeli,Gelateria,Sarasota,United States,US,27.2616,-82.5157,https://worthajourney.com/ice-cream/gelateria-degli-angeli/
+65,Gelateria Giò Ice,Gelateria,Nola,Italy,IT,40.9228,14.5326,https://worthajourney.com/ice-cream/gelateria-gio-ice/
+66,Gelateria Del Porto,Gelateria,Antibes,France,FR,43.5817,7.1279,https://worthajourney.com/ice-cream/gelateria-del-porto/
+67,Pappus Gelateria Artigianale,Gelateria,Noli,Italy,IT,44.2058,8.4156,https://worthajourney.com/ice-cream/pappus-gelateria-artigianale/
+68,Made In Rome Organic Gelato,Gelateria,Siesta Key,United States,US,27.2759,-82.5646,https://worthajourney.com/ice-cream/made-in-rome-organic-gelato/
+69,Gelateria ai 3 Scalini,Gelateria,San Salvo Marina,Italy,IT,42.0722,14.7655,https://worthajourney.com/ice-cream/gelateria-ai-3-scalini/
+70,Donna Heladería,Ice cream parlour,Coronel Brandsen,Argentina,AR,-35.1720,-58.2337,https://worthajourney.com/ice-cream/donna-heladeria/
+71,Gelateria Emiliana,Gelateria,Split,Croatia,HR,43.5098,16.4383,https://worthajourney.com/ice-cream/gelateria-emiliana/
+72,BM&V Gelateria Artigianale,Gelateria,Olbia,Italy,IT,40.9235,9.5005,https://worthajourney.com/ice-cream/bm-v-gelateria-artigianale/
+73,Giola Gelato,Gelateria,Lisbon,Portugal,PT,38.7150,-9.1513,https://worthajourney.com/ice-cream/giola-gelato/
+74,Gelateria Cantonati,Gelateria,Torbole,Italy,IT,45.8692,10.8763,https://worthajourney.com/ice-cream/gelateria-cantonati/
+75,Surf’Ice,Ice cream parlour,Tamraght,Morocco,MA,30.5129,-9.6813,https://worthajourney.com/ice-cream/surfice/
+76,Germano’s Premium Gelato,Gelateria,Pompton Plains,United States,US,40.9560,-74.2807,https://worthajourney.com/ice-cream/germanos-premium-gelato/
+77,Gelateria Della Passera,Gelateria,Florence,Italy,IT,43.7672,11.2506,https://worthajourney.com/ice-cream/gelateria-della-passera/
+78,Gelateria Del Bianco,Gelateria,Cartagena,Spain,ES,37.5999,-0.9865,https://worthajourney.com/ice-cream/gelateria-del-bianco/
+79,Honey’s Ice Cream,Ice cream parlour,Toronto,Canada,CA,43.6497,-79.4304,https://worthajourney.com/ice-cream/honeys-ice-cream/
+80,Heladería Punto Dulce,Ice cream parlour,Estepona,Spain,ES,36.4263,-5.1423,https://worthajourney.com/ice-cream/heladeria-punto-dulce/
+81,Ciao Amore Gelati,Gelateria,Marseille,France,FR,43.2945,5.3753,https://worthajourney.com/ice-cream/ciao-amore-gelati/
+82,ArteSana Gelat La Fusta,Gelateria,Valencia,Spain,ES,39.4678,-0.3368,https://worthajourney.com/ice-cream/artesana-gelat-la-fusta/
+83,Dua Gelato & Coffee,Gelateria,Lighthouse Point,United States,US,26.2624,-80.0984,https://worthajourney.com/ice-cream/dua-gelato-coffee/
+84,Mucca da Latte,Gelateria,Cambrils,Spain,ES,41.0654,1.0604,https://worthajourney.com/ice-cream/mucca-da-latte/
+85,Cadore Gelato Artigianale,Gelateria,Buenos Aires,Argentina,AR,-34.6041,-58.3906,https://worthajourney.com/ice-cream/cadore-gelato-artigianale/
+86,Insieme,Gelateria,Le Pouliguen,France,FR,47.2776,-2.4283,https://worthajourney.com/ice-cream/insieme/
+87,Blacksmith Ice Cream Co.,Ice cream parlour,Millcreek,United States,US,40.7033,-111.8546,https://worthajourney.com/ice-cream/blacksmith-ice-cream-co/
+88,Gelateria Da Brivido,Gelateria,Olbia,Italy,IT,40.9226,9.4999,https://worthajourney.com/ice-cream/gelateria-da-brivido/
+89,Primitivus Gelato,Gelateria,Badajoz,Spain,ES,38.8791,-6.9721,https://worthajourney.com/ice-cream/primitivus-gelato/
+90,Glacier Alessandro,Ice cream parlour,La Ciotat,France,FR,43.1751,5.6072,https://worthajourney.com/ice-cream/glacier-alessandro/
+91,Gelateria Dondoli,Gelateria,San Gimignano,Italy,IT,43.4674,11.0434,https://worthajourney.com/ice-cream/gelateria-dondoli/
+92,Dolce Mondo Gelato,Gelateria,Hamilton,Canada,CA,43.2585,-79.8783,https://worthajourney.com/ice-cream/dolce-mondo-gelato/
+93,Gelaaati di Marco,Gelateria,Barcelona,Spain,ES,41.3832,2.1773,https://worthajourney.com/ice-cream/gelaaati-di-marco/
+94,JJ Gelato,Gelateria,Treviso,Italy,IT,45.6636,12.2419,https://worthajourney.com/ice-cream/jj-gelato/
+95,V Gelato & Cafe,Gelateria,Miami,United States,US,25.8009,-80.2016,https://worthajourney.com/ice-cream/v-gelato-cafe/
+96,Donna Maria Gelateria Artigianale,Gelateria,Tropea,Italy,IT,38.6771,15.8978,https://worthajourney.com/ice-cream/donna-maria-gelateria-artigianale/
+97,Raddens Eis,Ice cream parlour,Fehmarn,Germany,DE,54.4337,11.1981,https://worthajourney.com/ice-cream/raddens-eis/
+98,Vashti Rose,Ice cream parlour,Port Moody,Canada,CA,49.2764,-122.8577,https://worthajourney.com/ice-cream/vashti-rose/
+99,Notarianni Ices,Ice cream parlour,Blackpool,United Kingdom,GB,53.7985,-3.0550,https://worthajourney.com/ice-cream/notarianni-ices/
+100,Ribera,Gelateria,Brescia,Italy,IT,45.5330,10.2201,https://worthajourney.com/ice-cream/ribera/

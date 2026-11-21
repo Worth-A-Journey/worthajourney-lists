@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Orava Castle,Castle,Oravský Podzámok,Slovakia,SK,49.2616,19.3588,https://worthajourney.com/castles/#orava-castle
-2,Himeji Castle,Japanese castle,Himeji,Japan,JP,34.8394,134.6939,https://worthajourney.com/castles/#himeji-castle
-3,Corvin Castle,Castle,Hunedoara,Romania,RO,45.7494,22.8883,https://worthajourney.com/castles/#corvin-castle
-4,Château du Haut-Kœnigsbourg,Castle,Orschwiller,France,FR,48.2496,7.3460,https://worthajourney.com/castles/#chateau-du-haut-knigsbourg
-5,Mamure Castle,Fortress,Anamur,Turkey,TR,36.0812,32.8946,https://worthajourney.com/castles/#mamure-castle
-6,Caernarfon Castle,Castle,Caernarfon,United Kingdom,GB,53.1391,-4.2769,https://worthajourney.com/castles/#caernarfon-castle
-7,Dunnottar Castle,Castle ruin,Stonehaven,United Kingdom,GB,56.9461,-2.1971,https://worthajourney.com/castles/#dunnottar-castle
-8,Marvão Castle,Castle,Marvão,Portugal,PT,39.3969,-7.3799,https://worthajourney.com/castles/#marvao-castle
-9,Aleppo Citadel,Fortress,Aleppo,Syria,SY,36.1995,37.1629,https://worthajourney.com/castles/#aleppo-citadel
-10,Hoensbroek Castle,Castle,Hoensbroek,Netherlands,NL,50.9166,5.9182,https://worthajourney.com/castles/#hoensbroek-castle
-11,Conwy Castle,Castle,Conwy,United Kingdom,GB,53.2801,-3.8256,https://worthajourney.com/castles/#conwy-castle
-12,Krzyżtopór Castle,Castle ruin,Ujazd,Poland,PL,50.7141,21.3105,https://worthajourney.com/castles/#krzyztopor-castle
-13,Siklós Castle,Castle,Siklós,Hungary,HU,45.8526,18.2956,https://worthajourney.com/castles/#siklos-castle
-14,Kriebstein Castle,Castle,Kriebstein,Germany,DE,51.0425,13.0175,https://worthajourney.com/castles/#kriebstein-castle
-15,Chillon Castle,Castle,Veytaux,Switzerland,CH,46.4142,6.9275,https://worthajourney.com/castles/#chillon-castle
-16,Stirling Castle,Castle,Stirling,United Kingdom,GB,56.1229,-3.9456,https://worthajourney.com/castles/#stirling-castle
-17,Bardi Castle,Castle,Bardi,Italy,IT,44.6291,9.7311,https://worthajourney.com/castles/#bardi-castle
-18,Pernštejn Castle,Castle,Nedvědice,Czechia,CZ,49.4511,16.3181,https://worthajourney.com/castles/#pernstejn-castle
-19,Almodóvar del Río Castle,Castle,Almodóvar del Río,Spain,ES,37.8074,-5.0238,https://worthajourney.com/castles/#almodovar-del-rio-castle
-20,Matsuyama Castle,Japanese castle,Matsuyama,Japan,JP,33.8456,132.7655,https://worthajourney.com/castles/#matsuyama-castle
-21,Palanok Castle,Fortress,Mukachevo,Ukraine,UA,48.4318,22.6876,https://worthajourney.com/castles/#palanok-castle
-22,Kamianets-Podilskyi Castle,Fortress,Kamianets-Podilskyi,Ukraine,UA,48.6735,26.5626,https://worthajourney.com/castles/#kamianets-podilskyi-castle
-23,Gwalior Fort,Fortress,Gwalior,India,IN,26.2313,78.1695,https://worthajourney.com/castles/#gwalior-fort
-24,Khotyn Fortress,Fortress,Khotyn,Ukraine,UA,48.5220,26.4984,https://worthajourney.com/castles/#khotyn-fortress
-25,Château de Fougères,Castle,Fougères,France,FR,48.3542,-1.2085,https://worthajourney.com/castles/#chateau-de-fougeres
-26,Raglan Castle,Castle ruin,Raglan,United Kingdom,GB,51.7704,-2.8499,https://worthajourney.com/castles/#raglan-castle
-27,Rajgad Fort,Fortress,Gunjavane,India,IN,18.2466,73.6822,https://worthajourney.com/castles/#rajgad-fort
-28,Karlštejn Castle,Castle,Karlštejn,Czechia,CZ,49.9397,14.1881,https://worthajourney.com/castles/#karlstejn-castle
-29,Ponferrada Castle,Castle,Ponferrada,Spain,ES,42.5434,-6.5938,https://worthajourney.com/castles/#ponferrada-castle
-30,Raigad Fort,Fortress,Raigad,India,IN,18.2335,73.4407,https://worthajourney.com/castles/#raigad-fort
-31,Füzér Castle,Castle,Füzér,Hungary,HU,48.5423,21.4594,https://worthajourney.com/castles/#fuzer-castle
-32,Belmonte Castle,Castle,Belmonte,Spain,ES,39.5579,-2.6967,https://worthajourney.com/castles/#belmonte-castle
-33,Loarre Castle,Castle,Loarre,Spain,ES,42.3257,-0.6124,https://worthajourney.com/castles/#loarre-castle
-34,Nimrod Fortress,Fortress,Nimrod,Israel,IL,33.2524,35.7126,https://worthajourney.com/castles/#nimrod-fortress
-35,Vianden Castle,Castle,Vianden,Luxembourg,LU,49.9350,6.2027,https://worthajourney.com/castles/#vianden-castle
-36,Castel del Monte,Castle,Andria,Italy,IT,41.0848,16.2709,https://worthajourney.com/castles/#castel-del-monte
-37,Bamburgh Castle,Castle,Bamburgh,United Kingdom,GB,55.6090,-1.7099,https://worthajourney.com/castles/#bamburgh-castle
-38,Beaumaris Castle,Castle,Beaumaris,United Kingdom,GB,53.2648,-4.0897,https://worthajourney.com/castles/#beaumaris-castle
-39,Coca Castle,Castle,Coca,Spain,ES,41.2152,-4.5255,https://worthajourney.com/castles/#coca-castle
-40,Sümeg Castle,Castle,Sümeg,Hungary,HU,46.9823,17.2824,https://worthajourney.com/castles/#sumeg-castle
-41,Eltz Castle,Castle,Wierschem,Germany,DE,50.2052,7.3365,https://worthajourney.com/castles/#eltz-castle
-42,Hanstein Castle,Castle ruin,Bornhagen,Germany,DE,51.3393,9.9402,https://worthajourney.com/castles/#hanstein-castle
-43,Königstein Fortress,Fortress,Königstein,Germany,DE,50.9191,14.0573,https://worthajourney.com/castles/#konigstein-fortress
-44,Château de Beynac,Castle,Beynac-et-Cazenac,France,FR,44.8405,1.1460,https://worthajourney.com/castles/#chateau-de-beynac
-45,Mont Orgueil Castle,Castle,Gorey,Jersey,JE,49.1995,-2.0191,https://worthajourney.com/castles/#mont-orgueil-castle
-46,Caerphilly Castle,Castle,Caerphilly,United Kingdom,GB,51.5761,-3.2202,https://worthajourney.com/castles/#caerphilly-castle
-47,Kidwelly Castle,Castle,Kidwelly,United Kingdom,GB,51.7395,-4.3057,https://worthajourney.com/castles/#kidwelly-castle
-48,Eilean Donan Castle,Castle,Dornie,United Kingdom,GB,57.2739,-5.5162,https://worthajourney.com/castles/#eilean-donan-castle
-49,Krak des Chevaliers,Castle,Al-Husn,Syria,SY,34.7568,36.2947,https://worthajourney.com/castles/#krak-des-chevaliers
-50,Ľubovňa Castle,Castle,Stará Ľubovňa,Slovakia,SK,49.3150,20.6997,https://worthajourney.com/castles/#lubovna-castle
-51,Hochosterwitz Castle,Castle,Launsdorf,Austria,AT,46.7558,14.4517,https://worthajourney.com/castles/#hochosterwitz-castle
-52,Malbork Castle,Castle,Malbork,Poland,PL,54.0398,19.0280,https://worthajourney.com/castles/#malbork-castle
-53,Château de Suscinio,Castle,Sarzeau,France,FR,47.5128,-2.7295,https://worthajourney.com/castles/#chateau-de-suscinio
-54,Château de Quéribus,Castle ruin,Cucugnan,France,FR,42.8368,2.6215,https://worthajourney.com/castles/#chateau-de-queribus
-55,Sedan Castle,Fortress,Sedan,France,FR,49.7018,4.9494,https://worthajourney.com/castles/#sedan-castle
-56,Babak Fort,Fortress,Kaleybar,Iran,IR,38.8372,46.9809,https://worthajourney.com/castles/#babak-fort
-57,Peracense Castle,Castle,Peracense,Spain,ES,40.6368,-1.4804,https://worthajourney.com/castles/#peracense-castle
-58,Trenčín Castle,Castle,Trenčín,Slovakia,SK,48.8941,18.0447,https://worthajourney.com/castles/#trencin-castle
-59,Golubac Fortress,Fortress,Golubac,Serbia,RS,44.6608,21.6778,https://worthajourney.com/castles/#golubac-fortress
-60,Orsini-Odescalchi Castle,Castle,Bracciano,Italy,IT,42.1042,12.1777,https://worthajourney.com/castles/#orsini-odescalchi-castle
-61,Hardenburg Castle,Castle ruin,Bad Dürkheim,Germany,DE,49.4622,8.1218,https://worthajourney.com/castles/#hardenburg-castle
-62,Daulatabad Fort,Fortress,Daulatabad,India,IN,19.9437,75.2205,https://worthajourney.com/castles/#daulatabad-fort
-63,Chillingham Castle,Castle,Chillingham,United Kingdom,GB,55.5260,-1.9043,https://worthajourney.com/castles/#chillingham-castle
-64,Kumbhalgarh Fort,Fortress,Kumbhalgarh,India,IN,25.1528,73.5870,https://worthajourney.com/castles/#kumbhalgarh-fort
-65,Český Šternberk Castle,Castle,Český Šternberk,Czechia,CZ,49.8089,14.9264,https://worthajourney.com/castles/#cesky-sternberk-castle
-66,Nizhny Novgorod Kremlin,Fortress,Nizhny Novgorod,Russia,RU,56.3264,44.0036,https://worthajourney.com/castles/#nizhny-novgorod-kremlin
-67,Castel Beseno,Fortress,Besenello,Italy,IT,45.9310,11.1097,https://worthajourney.com/castles/#castel-beseno
-68,Pembroke Castle,Castle,Pembroke,United Kingdom,GB,51.6769,-4.9205,https://worthajourney.com/castles/#pembroke-castle
-69,Château de Castelnaud,Castle,Castelnaud-la-Chapelle,France,FR,44.8160,1.1485,https://worthajourney.com/castles/#chateau-de-castelnaud
-70,Cēsis Castle,Castle,Cēsis,Latvia,LV,57.3132,25.2715,https://worthajourney.com/castles/#cesis-castle
-71,Castel Thun,Castle,Vigo di Ton,Italy,IT,46.2731,11.0901,https://worthajourney.com/castles/#castel-thun
-72,Citadelle Laferrière,Fortress,Milot,Haiti,HT,19.5728,-72.2436,https://worthajourney.com/castles/#citadelle-laferriere
-73,Eger Castle,Fortress,Eger,Hungary,HU,47.9045,20.3799,https://worthajourney.com/castles/#eger-castle
-74,Akkerman Fortress,Fortress,Bilhorod-Dnistrovskyi,Ukraine,UA,46.2005,30.3507,https://worthajourney.com/castles/#akkerman-fortress
-75,Byblos Citadel,Fortress,Byblos,Lebanon,LB,34.1198,35.6465,https://worthajourney.com/castles/#byblos-citadel
-76,Nizwa Fort,Fortress,Nizwa,Oman,OM,22.9332,57.5302,https://worthajourney.com/castles/#nizwa-fort
-77,Château de Bonaguil,Castle,Saint-Front-sur-Lémance,France,FR,44.5384,1.0141,https://worthajourney.com/castles/#chateau-de-bonaguil
-78,Thurant Castle,Castle,Alken,Germany,DE,50.2484,7.4528,https://worthajourney.com/castles/#thurant-castle
-79,Bahla Fort,Fortress,Bahla,Oman,OM,22.9644,57.3002,https://worthajourney.com/castles/#bahla-fort
-80,Bodrum Castle,Fortress,Bodrum,Turkey,TR,37.0318,27.4292,https://worthajourney.com/castles/#bodrum-castle
-81,Alba Carolina Citadel,Fortress,Alba Iulia,Romania,RO,46.0686,23.5717,https://worthajourney.com/castles/#alba-carolina-citadel
-82,Chitradurga Fort,Fortress,Chitradurga,India,IN,14.2160,76.3989,https://worthajourney.com/castles/#chitradurga-fort
-83,Fortaleza de la Mota,Fortress,Alcalá la Real,Spain,ES,37.4606,-3.9296,https://worthajourney.com/castles/#fortaleza-de-la-mota
-84,Kilitbahir Castle,Fortress,Kilitbahir,Turkey,TR,40.1477,26.3795,https://worthajourney.com/castles/#kilitbahir-castle
-85,Jaisalmer Fort,Fortress,Jaisalmer,India,IN,26.9125,70.9126,https://worthajourney.com/castles/#jaisalmer-fort
-86,Huis Bergh Castle,Castle,'s-Heerenberg,Netherlands,NL,51.8741,6.2414,https://worthajourney.com/castles/#huis-bergh-castle
-87,Harihar Fort,Fortress,Harshewadi,India,IN,19.9048,73.4719,https://worthajourney.com/castles/#harihar-fort
-88,Predjama Castle,Castle,Predjama,Slovenia,SI,45.8158,14.1269,https://worthajourney.com/castles/#predjama-castle
-89,Acrocorinth,Fortress,Corinth,Greece,GR,37.8910,22.8704,https://worthajourney.com/castles/#acrocorinth
-90,Mir Castle,Castle,Mir,Belarus,BY,53.4512,26.4729,https://worthajourney.com/castles/#mir-castle
-91,Rudkhan Castle,Fortress,Fuman,Iran,IR,37.0644,49.2393,https://worthajourney.com/castles/#rudkhan-castle
-92,Kasbah Amridil,Fortress,Skoura,Morocco,MA,31.0463,-6.5813,https://worthajourney.com/castles/#kasbah-amridil
-93,Heidelberg Castle,Castle ruin,Heidelberg,Germany,DE,49.4106,8.7153,https://worthajourney.com/castles/#heidelberg-castle
-94,Bunratty Castle,Castle,Bunratty,Ireland,IE,52.7004,-8.8122,https://worthajourney.com/castles/#bunratty-castle
-95,Lipnice Castle,Castle,Lipnice nad Sázavou,Czechia,CZ,49.6140,15.4130,https://worthajourney.com/castles/#lipnice-castle
-96,Matsumoto Castle,Japanese castle,Matsumoto,Japan,JP,36.2387,137.9689,https://worthajourney.com/castles/#matsumoto-castle
-97,Château de Pierrefonds,Castle,Pierrefonds,France,FR,49.3470,2.9802,https://worthajourney.com/castles/#chateau-de-pierrefonds
-98,Reifenstein Castle,Castle,Campo di Trens,Italy,IT,46.8779,11.4444,https://worthajourney.com/castles/#reifenstein-castle
-99,Tantallon Castle,Castle ruin,North Berwick,United Kingdom,GB,56.0564,-2.6506,https://worthajourney.com/castles/#tantallon-castle
-100,Al Hazm Fort,Fortress,Al Hazm,Oman,OM,23.5507,57.4728,https://worthajourney.com/castles/#al-hazm-fort
+1,Orava Castle,Castle,Oravský Podzámok,Slovakia,SK,49.2616,19.3588,https://worthajourney.com/castles/orava-castle/
+2,Himeji Castle,Japanese castle,Himeji,Japan,JP,34.8394,134.6939,https://worthajourney.com/castles/himeji-castle/
+3,Corvin Castle,Castle,Hunedoara,Romania,RO,45.7494,22.8883,https://worthajourney.com/castles/corvin-castle/
+4,Château du Haut-Kœnigsbourg,Castle,Orschwiller,France,FR,48.2496,7.3460,https://worthajourney.com/castles/chateau-du-haut-knigsbourg/
+5,Mamure Castle,Fortress,Anamur,Turkey,TR,36.0812,32.8946,https://worthajourney.com/castles/mamure-castle/
+6,Caernarfon Castle,Castle,Caernarfon,United Kingdom,GB,53.1391,-4.2769,https://worthajourney.com/castles/caernarfon-castle/
+7,Dunnottar Castle,Castle ruin,Stonehaven,United Kingdom,GB,56.9461,-2.1971,https://worthajourney.com/castles/dunnottar-castle/
+8,Marvão Castle,Castle,Marvão,Portugal,PT,39.3969,-7.3799,https://worthajourney.com/castles/marvao-castle/
+9,Aleppo Citadel,Fortress,Aleppo,Syria,SY,36.1995,37.1629,https://worthajourney.com/castles/aleppo-citadel/
+10,Hoensbroek Castle,Castle,Hoensbroek,Netherlands,NL,50.9166,5.9182,https://worthajourney.com/castles/hoensbroek-castle/
+11,Conwy Castle,Castle,Conwy,United Kingdom,GB,53.2801,-3.8256,https://worthajourney.com/castles/conwy-castle/
+12,Krzyżtopór Castle,Castle ruin,Ujazd,Poland,PL,50.7141,21.3105,https://worthajourney.com/castles/krzyztopor-castle/
+13,Siklós Castle,Castle,Siklós,Hungary,HU,45.8526,18.2956,https://worthajourney.com/castles/siklos-castle/
+14,Kriebstein Castle,Castle,Kriebstein,Germany,DE,51.0425,13.0175,https://worthajourney.com/castles/kriebstein-castle/
+15,Chillon Castle,Castle,Veytaux,Switzerland,CH,46.4142,6.9275,https://worthajourney.com/castles/chillon-castle/
+16,Stirling Castle,Castle,Stirling,United Kingdom,GB,56.1229,-3.9456,https://worthajourney.com/castles/stirling-castle/
+17,Bardi Castle,Castle,Bardi,Italy,IT,44.6291,9.7311,https://worthajourney.com/castles/bardi-castle/
+18,Pernštejn Castle,Castle,Nedvědice,Czechia,CZ,49.4511,16.3181,https://worthajourney.com/castles/pernstejn-castle/
+19,Almodóvar del Río Castle,Castle,Almodóvar del Río,Spain,ES,37.8074,-5.0238,https://worthajourney.com/castles/almodovar-del-rio-castle/
+20,Matsuyama Castle,Japanese castle,Matsuyama,Japan,JP,33.8456,132.7655,https://worthajourney.com/castles/matsuyama-castle/
+21,Palanok Castle,Fortress,Mukachevo,Ukraine,UA,48.4318,22.6876,https://worthajourney.com/castles/palanok-castle/
+22,Kamianets-Podilskyi Castle,Fortress,Kamianets-Podilskyi,Ukraine,UA,48.6735,26.5626,https://worthajourney.com/castles/kamianets-podilskyi-castle/
+23,Gwalior Fort,Fortress,Gwalior,India,IN,26.2313,78.1695,https://worthajourney.com/castles/gwalior-fort/
+24,Khotyn Fortress,Fortress,Khotyn,Ukraine,UA,48.5220,26.4984,https://worthajourney.com/castles/khotyn-fortress/
+25,Château de Fougères,Castle,Fougères,France,FR,48.3542,-1.2085,https://worthajourney.com/castles/chateau-de-fougeres/
+26,Raglan Castle,Castle ruin,Raglan,United Kingdom,GB,51.7704,-2.8499,https://worthajourney.com/castles/raglan-castle/
+27,Rajgad Fort,Fortress,Gunjavane,India,IN,18.2466,73.6822,https://worthajourney.com/castles/rajgad-fort/
+28,Karlštejn Castle,Castle,Karlštejn,Czechia,CZ,49.9397,14.1881,https://worthajourney.com/castles/karlstejn-castle/
+29,Ponferrada Castle,Castle,Ponferrada,Spain,ES,42.5434,-6.5938,https://worthajourney.com/castles/ponferrada-castle/
+30,Raigad Fort,Fortress,Raigad,India,IN,18.2335,73.4407,https://worthajourney.com/castles/raigad-fort/
+31,Füzér Castle,Castle,Füzér,Hungary,HU,48.5423,21.4594,https://worthajourney.com/castles/fuzer-castle/
+32,Belmonte Castle,Castle,Belmonte,Spain,ES,39.5579,-2.6967,https://worthajourney.com/castles/belmonte-castle/
+33,Loarre Castle,Castle,Loarre,Spain,ES,42.3257,-0.6124,https://worthajourney.com/castles/loarre-castle/
+34,Nimrod Fortress,Fortress,Nimrod,Israel,IL,33.2524,35.7126,https://worthajourney.com/castles/nimrod-fortress/
+35,Vianden Castle,Castle,Vianden,Luxembourg,LU,49.9350,6.2027,https://worthajourney.com/castles/vianden-castle/
+36,Castel del Monte,Castle,Andria,Italy,IT,41.0848,16.2709,https://worthajourney.com/castles/castel-del-monte/
+37,Bamburgh Castle,Castle,Bamburgh,United Kingdom,GB,55.6090,-1.7099,https://worthajourney.com/castles/bamburgh-castle/
+38,Beaumaris Castle,Castle,Beaumaris,United Kingdom,GB,53.2648,-4.0897,https://worthajourney.com/castles/beaumaris-castle/
+39,Coca Castle,Castle,Coca,Spain,ES,41.2152,-4.5255,https://worthajourney.com/castles/coca-castle/
+40,Sümeg Castle,Castle,Sümeg,Hungary,HU,46.9823,17.2824,https://worthajourney.com/castles/sumeg-castle/
+41,Eltz Castle,Castle,Wierschem,Germany,DE,50.2052,7.3365,https://worthajourney.com/castles/eltz-castle/
+42,Hanstein Castle,Castle ruin,Bornhagen,Germany,DE,51.3393,9.9402,https://worthajourney.com/castles/hanstein-castle/
+43,Königstein Fortress,Fortress,Königstein,Germany,DE,50.9191,14.0573,https://worthajourney.com/castles/konigstein-fortress/
+44,Château de Beynac,Castle,Beynac-et-Cazenac,France,FR,44.8405,1.1460,https://worthajourney.com/castles/chateau-de-beynac/
+45,Mont Orgueil Castle,Castle,Gorey,Jersey,JE,49.1995,-2.0191,https://worthajourney.com/castles/mont-orgueil-castle/
+46,Caerphilly Castle,Castle,Caerphilly,United Kingdom,GB,51.5761,-3.2202,https://worthajourney.com/castles/caerphilly-castle/
+47,Kidwelly Castle,Castle,Kidwelly,United Kingdom,GB,51.7395,-4.3057,https://worthajourney.com/castles/kidwelly-castle/
+48,Eilean Donan Castle,Castle,Dornie,United Kingdom,GB,57.2739,-5.5162,https://worthajourney.com/castles/eilean-donan-castle/
+49,Krak des Chevaliers,Castle,Al-Husn,Syria,SY,34.7568,36.2947,https://worthajourney.com/castles/krak-des-chevaliers/
+50,Ľubovňa Castle,Castle,Stará Ľubovňa,Slovakia,SK,49.3150,20.6997,https://worthajourney.com/castles/lubovna-castle/
+51,Hochosterwitz Castle,Castle,Launsdorf,Austria,AT,46.7558,14.4517,https://worthajourney.com/castles/hochosterwitz-castle/
+52,Malbork Castle,Castle,Malbork,Poland,PL,54.0398,19.0280,https://worthajourney.com/castles/malbork-castle/
+53,Château de Suscinio,Castle,Sarzeau,France,FR,47.5128,-2.7295,https://worthajourney.com/castles/chateau-de-suscinio/
+54,Château de Quéribus,Castle ruin,Cucugnan,France,FR,42.8368,2.6215,https://worthajourney.com/castles/chateau-de-queribus/
+55,Sedan Castle,Fortress,Sedan,France,FR,49.7018,4.9494,https://worthajourney.com/castles/sedan-castle/
+56,Babak Fort,Fortress,Kaleybar,Iran,IR,38.8372,46.9809,https://worthajourney.com/castles/babak-fort/
+57,Peracense Castle,Castle,Peracense,Spain,ES,40.6368,-1.4804,https://worthajourney.com/castles/peracense-castle/
+58,Trenčín Castle,Castle,Trenčín,Slovakia,SK,48.8941,18.0447,https://worthajourney.com/castles/trencin-castle/
+59,Golubac Fortress,Fortress,Golubac,Serbia,RS,44.6608,21.6778,https://worthajourney.com/castles/golubac-fortress/
+60,Orsini-Odescalchi Castle,Castle,Bracciano,Italy,IT,42.1042,12.1777,https://worthajourney.com/castles/orsini-odescalchi-castle/
+61,Hardenburg Castle,Castle ruin,Bad Dürkheim,Germany,DE,49.4622,8.1218,https://worthajourney.com/castles/hardenburg-castle/
+62,Daulatabad Fort,Fortress,Daulatabad,India,IN,19.9437,75.2205,https://worthajourney.com/castles/daulatabad-fort/
+63,Chillingham Castle,Castle,Chillingham,United Kingdom,GB,55.5260,-1.9043,https://worthajourney.com/castles/chillingham-castle/
+64,Kumbhalgarh Fort,Fortress,Kumbhalgarh,India,IN,25.1528,73.5870,https://worthajourney.com/castles/kumbhalgarh-fort/
+65,Český Šternberk Castle,Castle,Český Šternberk,Czechia,CZ,49.8089,14.9264,https://worthajourney.com/castles/cesky-sternberk-castle/
+66,Nizhny Novgorod Kremlin,Fortress,Nizhny Novgorod,Russia,RU,56.3264,44.0036,https://worthajourney.com/castles/nizhny-novgorod-kremlin/
+67,Castel Beseno,Fortress,Besenello,Italy,IT,45.9310,11.1097,https://worthajourney.com/castles/castel-beseno/
+68,Pembroke Castle,Castle,Pembroke,United Kingdom,GB,51.6769,-4.9205,https://worthajourney.com/castles/pembroke-castle/
+69,Château de Castelnaud,Castle,Castelnaud-la-Chapelle,France,FR,44.8160,1.1485,https://worthajourney.com/castles/chateau-de-castelnaud/
+70,Cēsis Castle,Castle,Cēsis,Latvia,LV,57.3132,25.2715,https://worthajourney.com/castles/cesis-castle/
+71,Castel Thun,Castle,Vigo di Ton,Italy,IT,46.2731,11.0901,https://worthajourney.com/castles/castel-thun/
+72,Eger Castle,Fortress,Eger,Hungary,HU,47.9045,20.3799,https://worthajourney.com/castles/eger-castle/
+73,Akkerman Fortress,Fortress,Bilhorod-Dnistrovskyi,Ukraine,UA,46.2005,30.3507,https://worthajourney.com/castles/akkerman-fortress/
+74,Byblos Citadel,Fortress,Byblos,Lebanon,LB,34.1198,35.6465,https://worthajourney.com/castles/byblos-citadel/
+75,Nizwa Fort,Fortress,Nizwa,Oman,OM,22.9332,57.5302,https://worthajourney.com/castles/nizwa-fort/
+76,Château de Bonaguil,Castle,Saint-Front-sur-Lémance,France,FR,44.5384,1.0141,https://worthajourney.com/castles/chateau-de-bonaguil/
+77,Thurant Castle,Castle,Alken,Germany,DE,50.2484,7.4528,https://worthajourney.com/castles/thurant-castle/
+78,Bahla Fort,Fortress,Bahla,Oman,OM,22.9644,57.3002,https://worthajourney.com/castles/bahla-fort/
+79,Bodrum Castle,Fortress,Bodrum,Turkey,TR,37.0318,27.4292,https://worthajourney.com/castles/bodrum-castle/
+80,Alba Carolina Citadel,Fortress,Alba Iulia,Romania,RO,46.0686,23.5717,https://worthajourney.com/castles/alba-carolina-citadel/
+81,Chitradurga Fort,Fortress,Chitradurga,India,IN,14.2160,76.3989,https://worthajourney.com/castles/chitradurga-fort/
+82,Fortaleza de la Mota,Fortress,Alcalá la Real,Spain,ES,37.4606,-3.9296,https://worthajourney.com/castles/fortaleza-de-la-mota/
+83,Kilitbahir Castle,Fortress,Kilitbahir,Turkey,TR,40.1477,26.3795,https://worthajourney.com/castles/kilitbahir-castle/
+84,Jaisalmer Fort,Fortress,Jaisalmer,India,IN,26.9125,70.9126,https://worthajourney.com/castles/jaisalmer-fort/
+85,Huis Bergh Castle,Castle,'s-Heerenberg,Netherlands,NL,51.8741,6.2414,https://worthajourney.com/castles/huis-bergh-castle/
+86,Harihar Fort,Fortress,Harshewadi,India,IN,19.9048,73.4719,https://worthajourney.com/castles/harihar-fort/
+87,Predjama Castle,Castle,Predjama,Slovenia,SI,45.8158,14.1269,https://worthajourney.com/castles/predjama-castle/
+88,Acrocorinth,Fortress,Corinth,Greece,GR,37.8910,22.8704,https://worthajourney.com/castles/acrocorinth/
+89,Mir Castle,Castle,Mir,Belarus,BY,53.4512,26.4729,https://worthajourney.com/castles/mir-castle/
+90,Rudkhan Castle,Fortress,Fuman,Iran,IR,37.0644,49.2393,https://worthajourney.com/castles/rudkhan-castle/
+91,Kasbah Amridil,Fortress,Skoura,Morocco,MA,31.0463,-6.5813,https://worthajourney.com/castles/kasbah-amridil/
+92,Heidelberg Castle,Castle ruin,Heidelberg,Germany,DE,49.4106,8.7153,https://worthajourney.com/castles/heidelberg-castle/
+93,Bunratty Castle,Castle,Bunratty,Ireland,IE,52.7004,-8.8122,https://worthajourney.com/castles/bunratty-castle/
+94,Lipnice Castle,Castle,Lipnice nad Sázavou,Czechia,CZ,49.6140,15.4130,https://worthajourney.com/castles/lipnice-castle/
+95,Matsumoto Castle,Japanese castle,Matsumoto,Japan,JP,36.2387,137.9689,https://worthajourney.com/castles/matsumoto-castle/
+96,Château de Pierrefonds,Castle,Pierrefonds,France,FR,49.3470,2.9802,https://worthajourney.com/castles/chateau-de-pierrefonds/
+97,Reifenstein Castle,Castle,Campo di Trens,Italy,IT,46.8779,11.4444,https://worthajourney.com/castles/reifenstein-castle/
+98,Tantallon Castle,Castle ruin,North Berwick,United Kingdom,GB,56.0564,-2.6506,https://worthajourney.com/castles/tantallon-castle/
+99,Al Hazm Fort,Fortress,Al Hazm,Oman,OM,23.5507,57.4728,https://worthajourney.com/castles/al-hazm-fort/
+100,Rabati Fortress,Fortress,Akhaltsikhe,Georgia,GE,41.6430,42.9781,https://worthajourney.com/castles/rabati-fortress/

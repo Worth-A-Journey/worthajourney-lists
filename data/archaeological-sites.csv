@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Calakmul,Ancient city,Calakmul,Mexico,MX,18.1059,-89.8102,https://worthajourney.com/archaeological-sites/#calakmul
-2,Petra,Ancient city,Wadi Musa,Jordan,JO,30.3285,35.4444,https://worthajourney.com/archaeological-sites/#petra
-3,Machu Picchu,Ancient city,Aguas Calientes,Peru,PE,-13.1632,-72.5453,https://worthajourney.com/archaeological-sites/#machu-picchu
-4,Dendera Temple,Temple site,Qena,Egypt,EG,26.1419,32.6702,https://worthajourney.com/archaeological-sites/#dendera-temple
-5,Dougga,Ancient city,Téboursouk,Tunisia,TN,36.4229,9.2193,https://worthajourney.com/archaeological-sites/#dougga
-6,Ellora Caves,Rock-cut site,Ellora,India,IN,20.0268,75.1771,https://worthajourney.com/archaeological-sites/#ellora-caves
-7,Tikal,Ancient city,Flores,Guatemala,GT,17.2220,-89.6237,https://worthajourney.com/archaeological-sites/#tikal
-8,Nuraghe Santu Antine,Ruin,Torralba,Italy,IT,40.4865,8.7699,https://worthajourney.com/archaeological-sites/#nuraghe-santu-antine
-9,Uxmal,Ancient city,Santa Elena,Mexico,MX,20.3610,-89.7708,https://worthajourney.com/archaeological-sites/#uxmal
-10,Ancient Messene,Ancient city,Mavrommati,Greece,GR,37.1788,21.9184,https://worthajourney.com/archaeological-sites/#ancient-messene
-11,Baalbek,Temple site,Baalbek,Lebanon,LB,34.0074,36.2058,https://worthajourney.com/archaeological-sites/#baalbek
-12,Persepolis,Ancient city,Marvdasht,Iran,IR,29.9356,52.8892,https://worthajourney.com/archaeological-sites/#persepolis
-13,Palenque,Ancient city,Palenque,Mexico,MX,17.4848,-92.0459,https://worthajourney.com/archaeological-sites/#palenque
-14,Abu Simbel,Temple site,Abu Simbel,Egypt,EG,22.3372,31.6258,https://worthajourney.com/archaeological-sites/#abu-simbel
-15,Jerash,Ancient city,Jerash,Jordan,JO,32.2813,35.8915,https://worthajourney.com/archaeological-sites/#jerash
-16,Sagalassos,Ancient city,Ağlasun,Turkey,TR,37.6773,30.5170,https://worthajourney.com/archaeological-sites/#sagalassos
-17,Pyramids of Giza,Pyramid or tomb,Giza,Egypt,EG,29.9773,31.1325,https://worthajourney.com/archaeological-sites/#pyramids-of-giza
-18,Yaxchilán,Ancient city,Frontera Corozal,Mexico,MX,16.8967,-90.9667,https://worthajourney.com/archaeological-sites/#yaxchilan
-19,Karnak,Temple site,Luxor,Egypt,EG,25.7188,32.6573,https://worthajourney.com/archaeological-sites/#karnak
-20,Aphrodisias,Ancient city,Karacasu,Turkey,TR,37.7094,28.7274,https://worthajourney.com/archaeological-sites/#aphrodisias
-21,Serra da Capivara,Rock-cut site,São Raimundo Nonato,Brazil,BR,-9.0096,-42.6932,https://worthajourney.com/archaeological-sites/#serra-da-capivara
-22,Termessos,Ancient city,Antalya,Turkey,TR,36.9826,30.4650,https://worthajourney.com/archaeological-sites/#termessos
-23,Amphitheatre of El Jem,Amphitheatre or theatre,El Jem,Tunisia,TN,35.2964,10.7070,https://worthajourney.com/archaeological-sites/#amphitheatre-of-el-jem
-24,Aspendos Theatre,Amphitheatre or theatre,Serik,Turkey,TR,36.9389,31.1722,https://worthajourney.com/archaeological-sites/#aspendos-theatre
-25,Rani ki Vav,Ruin,Patan,India,IN,23.8589,72.1019,https://worthajourney.com/archaeological-sites/#rani-ki-vav
-26,Ajanta Caves,Rock-cut site,Ajanta,India,IN,20.5513,75.7069,https://worthajourney.com/archaeological-sites/#ajanta-caves
-27,Chand Baori,Ruin,Abhaneri,India,IN,27.0073,76.6065,https://worthajourney.com/archaeological-sites/#chand-baori
-28,Villa Romana del Casale,Ruin,Piazza Armerina,Italy,IT,37.3647,14.3346,https://worthajourney.com/archaeological-sites/#villa-romana-del-casale
-29,Ek Balam,Ancient city,Temozón,Mexico,MX,20.8923,-88.1360,https://worthajourney.com/archaeological-sites/#ek-balam
-30,Delphi,Temple site,Delphi,Greece,GR,38.4823,22.5012,https://worthajourney.com/archaeological-sites/#delphi
-31,Angkor,Temple site,Siem Reap,Cambodia,KH,13.4125,103.8670,https://worthajourney.com/archaeological-sites/#angkor
-32,Sigiriya,Ruin,Sigiriya,Sri Lanka,LK,7.9570,80.7603,https://worthajourney.com/archaeological-sites/#sigiriya
-33,La Olmeda Roman Villa,Ruin,Pedrosa de la Vega,Spain,ES,42.4818,-4.7366,https://worthajourney.com/archaeological-sites/#la-olmeda-roman-villa
-34,Epidaurus,Amphitheatre or theatre,Epidaurus,Greece,GR,37.5961,23.0793,https://worthajourney.com/archaeological-sites/#epidaurus
-35,Saqqara,Pyramid or tomb,Saqqara,Egypt,EG,29.8713,31.2168,https://worthajourney.com/archaeological-sites/#saqqara
-36,Hampi,Ancient city,Hampi,India,IN,15.3423,76.4752,https://worthajourney.com/archaeological-sites/#hampi
-37,Edzná,Ancient city,Campeche,Mexico,MX,19.5971,-90.2306,https://worthajourney.com/archaeological-sites/#edzna
-38,Temple of Hatshepsut,Temple site,Luxor,Egypt,EG,25.7383,32.6065,https://worthajourney.com/archaeological-sites/#temple-of-hatshepsut
-39,Kibyra,Ancient city,Gölhisar,Turkey,TR,37.1586,29.4962,https://worthajourney.com/archaeological-sites/#kibyra
-40,Ephesus,Ancient city,Selçuk,Turkey,TR,37.9409,27.3415,https://worthajourney.com/archaeological-sites/#ephesus
-41,Copán,Ancient city,Copán Ruinas,Honduras,HN,14.8385,-89.1435,https://worthajourney.com/archaeological-sites/#copan
-42,Ancient Theatre of Philippopolis,Amphitheatre or theatre,Plovdiv,Bulgaria,BG,42.1472,24.7512,https://worthajourney.com/archaeological-sites/#ancient-theatre-of-philippopolis
-43,Khajuraho,Temple site,Khajuraho,India,IN,24.8531,79.9216,https://worthajourney.com/archaeological-sites/#khajuraho
-44,Cantona,Ancient city,Tepeyahualco,Mexico,MX,19.5529,-97.4933,https://worthajourney.com/archaeological-sites/#cantona
-45,Leptis Magna,Ancient city,Al Khums,Libya,LY,32.6360,14.2906,https://worthajourney.com/archaeological-sites/#leptis-magna
-46,Nazca Lines,Ruin,Nazca,Peru,PE,-14.7390,-75.1300,https://worthajourney.com/archaeological-sites/#nazca-lines
-47,Hierapolis,Ancient city,Pamukkale,Turkey,TR,37.9249,29.1232,https://worthajourney.com/archaeological-sites/#hierapolis
-48,Perge,Ancient city,Antalya,Turkey,TR,36.9577,30.8526,https://worthajourney.com/archaeological-sites/#perge
-49,Rapa Nui,Megalithic site,Hanga Roa,Chile,CL,-27.0728,-109.3486,https://worthajourney.com/archaeological-sites/#rapa-nui
-50,Pompeii,Ancient city,Pompei,Italy,IT,40.7512,14.4887,https://worthajourney.com/archaeological-sites/#pompeii
-51,Sukhothai Historical Park,Ancient city,Sukhothai,Thailand,TH,17.0188,99.7065,https://worthajourney.com/archaeological-sites/#sukhothai-historical-park
-52,Naqsh-e Rostam,Pyramid or tomb,Marvdasht,Iran,IR,29.9890,52.8745,https://worthajourney.com/archaeological-sites/#naqsh-e-rostam
-53,Sun Temple of Modhera,Temple site,Modhera,India,IN,23.5836,72.1330,https://worthajourney.com/archaeological-sites/#sun-temple-of-modhera
-54,Temple of Khnum,Temple site,Esna,Egypt,EG,25.2934,32.5563,https://worthajourney.com/archaeological-sites/#temple-of-khnum
-55,Umm Qais,Ancient city,Umm Qais,Jordan,JO,32.6556,35.6780,https://worthajourney.com/archaeological-sites/#umm-qais
-56,Temple of Apollo at Didyma,Temple site,Didim,Turkey,TR,37.3853,27.2573,https://worthajourney.com/archaeological-sites/#temple-of-apollo-at-didyma
-57,Masada,Ruin,Arad,Israel,IL,31.3143,35.3556,https://worthajourney.com/archaeological-sites/#masada
-58,Aizanoi,Ancient city,Çavdarhisar,Turkey,TR,39.2012,29.6096,https://worthajourney.com/archaeological-sites/#aizanoi
-59,Dahshur,Pyramid or tomb,Dahshur,Egypt,EG,29.8086,31.2066,https://worthajourney.com/archaeological-sites/#dahshur
-60,Olympos,Ancient city,Kumluca,Turkey,TR,36.3955,30.4723,https://worthajourney.com/archaeological-sites/#olympos
-61,Takht-e Soleyman,Temple site,Takab,Iran,IR,36.6042,47.2343,https://worthajourney.com/archaeological-sites/#takht-e-soleyman
-62,Teotihuacan,Ancient city,San Juan Teotihuacán,Mexico,MX,19.6933,-98.8473,https://worthajourney.com/archaeological-sites/#teotihuacan
-63,Mount Nemrut,Pyramid or tomb,Kahta,Turkey,TR,37.9808,38.7410,https://worthajourney.com/archaeological-sites/#mount-nemrut
-64,Phaselis,Ancient city,Kemer,Turkey,TR,36.5252,30.5520,https://worthajourney.com/archaeological-sites/#phaselis
-65,Selinunte,Ancient city,Castelvetrano,Italy,IT,37.5842,12.8367,https://worthajourney.com/archaeological-sites/#selinunte
-66,Hadrian’s Villa,Ruin,Tivoli,Italy,IT,41.9461,12.7729,https://worthajourney.com/archaeological-sites/#hadrians-villa
-67,Ani,Ancient city,Kars,Turkey,TR,40.5111,43.5726,https://worthajourney.com/archaeological-sites/#ani
-68,El Tajín,Ancient city,Papantla,Mexico,MX,20.4427,-97.3779,https://worthajourney.com/archaeological-sites/#el-tajin
-69,Konark Sun Temple,Temple site,Konark,India,IN,19.8876,86.0945,https://worthajourney.com/archaeological-sites/#konark-sun-temple
-70,Sardis,Ancient city,Salihli,Turkey,TR,38.4883,28.0403,https://worthajourney.com/archaeological-sites/#sardis
-71,Ollantaytambo,Ancient city,Ollantaytambo,Peru,PE,-13.2570,-72.2659,https://worthajourney.com/archaeological-sites/#ollantaytambo
-72,Monte Albán,Ancient city,Oaxaca,Mexico,MX,17.0466,-96.7659,https://worthajourney.com/archaeological-sites/#monte-alban
-73,Beng Mealea,Temple site,Svay Leu,Cambodia,KH,13.4751,104.2288,https://worthajourney.com/archaeological-sites/#beng-mealea
-74,Abydos,Temple site,El Balyana,Egypt,EG,25.7327,32.6282,https://worthajourney.com/archaeological-sites/#abydos
-75,Phanom Rung,Temple site,Buriram,Thailand,TH,14.5319,102.9403,https://worthajourney.com/archaeological-sites/#phanom-rung
-76,Mahabalipuram,Rock-cut site,Mahabalipuram,India,IN,12.6089,80.1896,https://worthajourney.com/archaeological-sites/#mahabalipuram
-77,Paestum,Temple site,Paestum,Italy,IT,40.4195,15.0057,https://worthajourney.com/archaeological-sites/#paestum
-78,Chaco Canyon,Ancient city,Nageezi,United States,US,36.0530,-107.9559,https://worthajourney.com/archaeological-sites/#chaco-canyon
-79,Tlos,Ancient city,Seydikemer,Turkey,TR,36.5542,29.4202,https://worthajourney.com/archaeological-sites/#tlos
-80,Beit She’an,Ancient city,Beit She’an,Israel,IL,32.5010,35.5002,https://worthajourney.com/archaeological-sites/#beit-shean
-81,Temple of Edfu,Temple site,Edfu,Egypt,EG,24.9777,32.8726,https://worthajourney.com/archaeological-sites/#temple-of-edfu
-82,Avebury,Megalithic site,Avebury,United Kingdom,GB,51.4289,-1.8549,https://worthajourney.com/archaeological-sites/#avebury
-83,Patara,Ancient city,Kalkan,Turkey,TR,36.2614,29.3155,https://worthajourney.com/archaeological-sites/#patara
-84,Chichén Itzá,Ancient city,Pisté,Mexico,MX,20.6843,-88.5678,https://worthajourney.com/archaeological-sites/#chichen-itza
-85,Polonnaruwa,Ancient city,Polonnaruwa,Sri Lanka,LK,7.9661,81.0049,https://worthajourney.com/archaeological-sites/#polonnaruwa
-86,Tulum,Ancient city,Tulum,Mexico,MX,20.2150,-87.4294,https://worthajourney.com/archaeological-sites/#tulum
-87,Philae,Temple site,Aswan,Egypt,EG,24.0127,32.8775,https://worthajourney.com/archaeological-sites/#philae
-88,Preah Vihear,Temple site,Sra Em,Cambodia,KH,14.3905,104.6802,https://worthajourney.com/archaeological-sites/#preah-vihear
-89,Acropolis of Athens,Temple site,Athens,Greece,GR,37.9715,23.7257,https://worthajourney.com/archaeological-sites/#acropolis-of-athens
-90,Stonehenge,Megalithic site,Amesbury,United Kingdom,GB,51.1789,-1.8262,https://worthajourney.com/archaeological-sites/#stonehenge
-91,Mesa Verde,Rock-cut site,Cortez,United States,US,37.2309,-108.4618,https://worthajourney.com/archaeological-sites/#mesa-verde
-92,Ancient Theatre of Taormina,Amphitheatre or theatre,Taormina,Italy,IT,37.8523,15.2921,https://worthajourney.com/archaeological-sites/#ancient-theatre-of-taormina
-93,Garni Temple,Temple site,Garni,Armenia,AM,40.1124,44.7303,https://worthajourney.com/archaeological-sites/#garni-temple
-94,Ostia Antica,Ancient city,Ostia,Italy,IT,41.7564,12.2932,https://worthajourney.com/archaeological-sites/#ostia-antica
-95,Priene,Ancient city,Söke,Turkey,TR,37.6597,27.3010,https://worthajourney.com/archaeological-sites/#priene
-96,Terracotta Army,Pyramid or tomb,Xi’an,China,CN,34.3841,109.2785,https://worthajourney.com/archaeological-sites/#terracotta-army
-97,Antiphellos,Amphitheatre or theatre,Kaş,Turkey,TR,36.2000,29.6349,https://worthajourney.com/archaeological-sites/#antiphellos
-98,Nuraghe Arrubiu,Ruin,Orroli,Italy,IT,39.6623,9.2933,https://worthajourney.com/archaeological-sites/#nuraghe-arrubiu
-99,Pula Arena,Amphitheatre or theatre,Pula,Croatia,HR,44.8732,13.8502,https://worthajourney.com/archaeological-sites/#pula-arena
-100,Shushtar Hydraulic System,Ruin,Shushtar,Iran,IR,32.0440,48.8581,https://worthajourney.com/archaeological-sites/#shushtar-hydraulic-system
+1,Calakmul,Ancient city,Calakmul,Mexico,MX,18.1059,-89.8102,https://worthajourney.com/archaeological-sites/calakmul/
+2,Petra,Ancient city,Wadi Musa,Jordan,JO,30.3285,35.4444,https://worthajourney.com/archaeological-sites/petra/
+3,Machu Picchu,Ancient city,Aguas Calientes,Peru,PE,-13.1632,-72.5453,https://worthajourney.com/archaeological-sites/machu-picchu/
+4,Dendera Temple,Temple site,Qena,Egypt,EG,26.1419,32.6702,https://worthajourney.com/archaeological-sites/dendera-temple/
+5,Dougga,Ancient city,Téboursouk,Tunisia,TN,36.4229,9.2193,https://worthajourney.com/archaeological-sites/dougga/
+6,Ellora Caves,Rock-cut site,Ellora,India,IN,20.0268,75.1771,https://worthajourney.com/archaeological-sites/ellora-caves/
+7,Tikal,Ancient city,Flores,Guatemala,GT,17.2220,-89.6237,https://worthajourney.com/archaeological-sites/tikal/
+8,Nuraghe Santu Antine,Ruin,Torralba,Italy,IT,40.4865,8.7699,https://worthajourney.com/archaeological-sites/nuraghe-santu-antine/
+9,Uxmal,Ancient city,Santa Elena,Mexico,MX,20.3610,-89.7708,https://worthajourney.com/archaeological-sites/uxmal/
+10,Ancient Messene,Ancient city,Mavrommati,Greece,GR,37.1788,21.9184,https://worthajourney.com/archaeological-sites/ancient-messene/
+11,Baalbek,Temple site,Baalbek,Lebanon,LB,34.0074,36.2058,https://worthajourney.com/archaeological-sites/baalbek/
+12,Persepolis,Ancient city,Marvdasht,Iran,IR,29.9356,52.8892,https://worthajourney.com/archaeological-sites/persepolis/
+13,Palenque,Ancient city,Palenque,Mexico,MX,17.4848,-92.0459,https://worthajourney.com/archaeological-sites/palenque/
+14,Abu Simbel,Temple site,Abu Simbel,Egypt,EG,22.3372,31.6258,https://worthajourney.com/archaeological-sites/abu-simbel/
+15,Jerash,Ancient city,Jerash,Jordan,JO,32.2813,35.8915,https://worthajourney.com/archaeological-sites/jerash/
+16,Sagalassos,Ancient city,Ağlasun,Turkey,TR,37.6773,30.5170,https://worthajourney.com/archaeological-sites/sagalassos/
+17,Pyramids of Giza,Pyramid or tomb,Giza,Egypt,EG,29.9773,31.1325,https://worthajourney.com/archaeological-sites/pyramids-of-giza/
+18,Yaxchilán,Ancient city,Frontera Corozal,Mexico,MX,16.8967,-90.9667,https://worthajourney.com/archaeological-sites/yaxchilan/
+19,Karnak,Temple site,Luxor,Egypt,EG,25.7188,32.6573,https://worthajourney.com/archaeological-sites/karnak/
+20,Aphrodisias,Ancient city,Karacasu,Turkey,TR,37.7094,28.7274,https://worthajourney.com/archaeological-sites/aphrodisias/
+21,Serra da Capivara,Rock-cut site,São Raimundo Nonato,Brazil,BR,-9.0096,-42.6932,https://worthajourney.com/archaeological-sites/serra-da-capivara/
+22,Termessos,Ancient city,Antalya,Turkey,TR,36.9826,30.4650,https://worthajourney.com/archaeological-sites/termessos/
+23,Amphitheatre of El Jem,Amphitheatre or theatre,El Jem,Tunisia,TN,35.2964,10.7070,https://worthajourney.com/archaeological-sites/amphitheatre-of-el-jem/
+24,Aspendos Theatre,Amphitheatre or theatre,Serik,Turkey,TR,36.9389,31.1722,https://worthajourney.com/archaeological-sites/aspendos-theatre/
+25,Rani ki Vav,Ruin,Patan,India,IN,23.8589,72.1019,https://worthajourney.com/archaeological-sites/rani-ki-vav/
+26,Ajanta Caves,Rock-cut site,Ajanta,India,IN,20.5513,75.7069,https://worthajourney.com/archaeological-sites/ajanta-caves/
+27,Chand Baori,Ruin,Abhaneri,India,IN,27.0073,76.6065,https://worthajourney.com/archaeological-sites/chand-baori/
+28,Villa Romana del Casale,Ruin,Piazza Armerina,Italy,IT,37.3647,14.3346,https://worthajourney.com/archaeological-sites/villa-romana-del-casale/
+29,Ek Balam,Ancient city,Temozón,Mexico,MX,20.8923,-88.1360,https://worthajourney.com/archaeological-sites/ek-balam/
+30,Delphi,Temple site,Delphi,Greece,GR,38.4823,22.5012,https://worthajourney.com/archaeological-sites/delphi/
+31,Angkor,Temple site,Siem Reap,Cambodia,KH,13.4125,103.8670,https://worthajourney.com/archaeological-sites/angkor/
+32,Sigiriya,Ruin,Sigiriya,Sri Lanka,LK,7.9570,80.7603,https://worthajourney.com/archaeological-sites/sigiriya/
+33,La Olmeda Roman Villa,Ruin,Pedrosa de la Vega,Spain,ES,42.4818,-4.7366,https://worthajourney.com/archaeological-sites/la-olmeda-roman-villa/
+34,Epidaurus,Amphitheatre or theatre,Epidaurus,Greece,GR,37.5961,23.0793,https://worthajourney.com/archaeological-sites/epidaurus/
+35,Saqqara,Pyramid or tomb,Saqqara,Egypt,EG,29.8713,31.2168,https://worthajourney.com/archaeological-sites/saqqara/
+36,Hampi,Ancient city,Hampi,India,IN,15.3423,76.4752,https://worthajourney.com/archaeological-sites/hampi/
+37,Edzná,Ancient city,Campeche,Mexico,MX,19.5971,-90.2306,https://worthajourney.com/archaeological-sites/edzna/
+38,Temple of Hatshepsut,Temple site,Luxor,Egypt,EG,25.7383,32.6065,https://worthajourney.com/archaeological-sites/temple-of-hatshepsut/
+39,Kibyra,Ancient city,Gölhisar,Turkey,TR,37.1586,29.4962,https://worthajourney.com/archaeological-sites/kibyra/
+40,Ephesus,Ancient city,Selçuk,Turkey,TR,37.9409,27.3415,https://worthajourney.com/archaeological-sites/ephesus/
+41,Copán,Ancient city,Copán Ruinas,Honduras,HN,14.8385,-89.1435,https://worthajourney.com/archaeological-sites/copan/
+42,Ancient Theatre of Philippopolis,Amphitheatre or theatre,Plovdiv,Bulgaria,BG,42.1472,24.7512,https://worthajourney.com/archaeological-sites/ancient-theatre-of-philippopolis/
+43,Khajuraho,Temple site,Khajuraho,India,IN,24.8531,79.9216,https://worthajourney.com/archaeological-sites/khajuraho/
+44,Cantona,Ancient city,Tepeyahualco,Mexico,MX,19.5529,-97.4933,https://worthajourney.com/archaeological-sites/cantona/
+45,Leptis Magna,Ancient city,Al Khums,Libya,LY,32.6360,14.2906,https://worthajourney.com/archaeological-sites/leptis-magna/
+46,Nazca Lines,Ruin,Nazca,Peru,PE,-14.7390,-75.1300,https://worthajourney.com/archaeological-sites/nazca-lines/
+47,Hierapolis,Ancient city,Pamukkale,Turkey,TR,37.9249,29.1232,https://worthajourney.com/archaeological-sites/hierapolis/
+48,Perge,Ancient city,Antalya,Turkey,TR,36.9577,30.8526,https://worthajourney.com/archaeological-sites/perge/
+49,Rapa Nui,Megalithic site,Hanga Roa,Chile,CL,-27.0728,-109.3486,https://worthajourney.com/archaeological-sites/rapa-nui/
+50,Pompeii,Ancient city,Pompei,Italy,IT,40.7512,14.4887,https://worthajourney.com/archaeological-sites/pompeii/
+51,Sukhothai Historical Park,Ancient city,Sukhothai,Thailand,TH,17.0188,99.7065,https://worthajourney.com/archaeological-sites/sukhothai-historical-park/
+52,Naqsh-e Rostam,Pyramid or tomb,Marvdasht,Iran,IR,29.9890,52.8745,https://worthajourney.com/archaeological-sites/naqsh-e-rostam/
+53,Sun Temple of Modhera,Temple site,Modhera,India,IN,23.5836,72.1330,https://worthajourney.com/archaeological-sites/sun-temple-of-modhera/
+54,Temple of Khnum,Temple site,Esna,Egypt,EG,25.2934,32.5563,https://worthajourney.com/archaeological-sites/temple-of-khnum/
+55,Umm Qais,Ancient city,Umm Qais,Jordan,JO,32.6556,35.6780,https://worthajourney.com/archaeological-sites/umm-qais/
+56,Temple of Apollo at Didyma,Temple site,Didim,Turkey,TR,37.3853,27.2573,https://worthajourney.com/archaeological-sites/temple-of-apollo-at-didyma/
+57,Masada,Ruin,Arad,Israel,IL,31.3143,35.3556,https://worthajourney.com/archaeological-sites/masada/
+58,Aizanoi,Ancient city,Çavdarhisar,Turkey,TR,39.2012,29.6096,https://worthajourney.com/archaeological-sites/aizanoi/
+59,Dahshur,Pyramid or tomb,Dahshur,Egypt,EG,29.8086,31.2066,https://worthajourney.com/archaeological-sites/dahshur/
+60,Olympos,Ancient city,Kumluca,Turkey,TR,36.3955,30.4723,https://worthajourney.com/archaeological-sites/olympos/
+61,Takht-e Soleyman,Temple site,Takab,Iran,IR,36.6042,47.2343,https://worthajourney.com/archaeological-sites/takht-e-soleyman/
+62,Teotihuacan,Ancient city,San Juan Teotihuacán,Mexico,MX,19.6933,-98.8473,https://worthajourney.com/archaeological-sites/teotihuacan/
+63,Mount Nemrut,Pyramid or tomb,Kahta,Turkey,TR,37.9808,38.7410,https://worthajourney.com/archaeological-sites/mount-nemrut/
+64,Phaselis,Ancient city,Kemer,Turkey,TR,36.5252,30.5520,https://worthajourney.com/archaeological-sites/phaselis/
+65,Selinunte,Ancient city,Castelvetrano,Italy,IT,37.5842,12.8367,https://worthajourney.com/archaeological-sites/selinunte/
+66,Hadrian’s Villa,Ruin,Tivoli,Italy,IT,41.9461,12.7729,https://worthajourney.com/archaeological-sites/hadrians-villa/
+67,Ani,Ancient city,Kars,Turkey,TR,40.5111,43.5726,https://worthajourney.com/archaeological-sites/ani/
+68,El Tajín,Ancient city,Papantla,Mexico,MX,20.4427,-97.3779,https://worthajourney.com/archaeological-sites/el-tajin/
+69,Konark Sun Temple,Temple site,Konark,India,IN,19.8876,86.0945,https://worthajourney.com/archaeological-sites/konark-sun-temple/
+70,Sardis,Ancient city,Salihli,Turkey,TR,38.4883,28.0403,https://worthajourney.com/archaeological-sites/sardis/
+71,Ollantaytambo,Ancient city,Ollantaytambo,Peru,PE,-13.2570,-72.2659,https://worthajourney.com/archaeological-sites/ollantaytambo/
+72,Monte Albán,Ancient city,Oaxaca,Mexico,MX,17.0466,-96.7659,https://worthajourney.com/archaeological-sites/monte-alban/
+73,Beng Mealea,Temple site,Svay Leu,Cambodia,KH,13.4751,104.2288,https://worthajourney.com/archaeological-sites/beng-mealea/
+74,Phanom Rung,Temple site,Buriram,Thailand,TH,14.5319,102.9403,https://worthajourney.com/archaeological-sites/phanom-rung/
+75,Mahabalipuram,Rock-cut site,Mahabalipuram,India,IN,12.6089,80.1896,https://worthajourney.com/archaeological-sites/mahabalipuram/
+76,Paestum,Temple site,Paestum,Italy,IT,40.4195,15.0057,https://worthajourney.com/archaeological-sites/paestum/
+77,Chaco Canyon,Ancient city,Nageezi,United States,US,36.0530,-107.9559,https://worthajourney.com/archaeological-sites/chaco-canyon/
+78,Tlos,Ancient city,Seydikemer,Turkey,TR,36.5542,29.4202,https://worthajourney.com/archaeological-sites/tlos/
+79,Beit She’an,Ancient city,Beit She’an,Israel,IL,32.5010,35.5002,https://worthajourney.com/archaeological-sites/beit-shean/
+80,Temple of Edfu,Temple site,Edfu,Egypt,EG,24.9777,32.8726,https://worthajourney.com/archaeological-sites/temple-of-edfu/
+81,Avebury,Megalithic site,Avebury,United Kingdom,GB,51.4289,-1.8549,https://worthajourney.com/archaeological-sites/avebury/
+82,Patara,Ancient city,Kalkan,Turkey,TR,36.2614,29.3155,https://worthajourney.com/archaeological-sites/patara/
+83,Chichén Itzá,Ancient city,Pisté,Mexico,MX,20.6843,-88.5678,https://worthajourney.com/archaeological-sites/chichen-itza/
+84,Polonnaruwa,Ancient city,Polonnaruwa,Sri Lanka,LK,7.9661,81.0049,https://worthajourney.com/archaeological-sites/polonnaruwa/
+85,Tulum,Ancient city,Tulum,Mexico,MX,20.2150,-87.4294,https://worthajourney.com/archaeological-sites/tulum/
+86,Philae,Temple site,Aswan,Egypt,EG,24.0253,32.8839,https://worthajourney.com/archaeological-sites/philae/
+87,Acropolis of Athens,Temple site,Athens,Greece,GR,37.9715,23.7257,https://worthajourney.com/archaeological-sites/acropolis-of-athens/
+88,Stonehenge,Megalithic site,Amesbury,United Kingdom,GB,51.1789,-1.8262,https://worthajourney.com/archaeological-sites/stonehenge/
+89,Mesa Verde,Rock-cut site,Cortez,United States,US,37.2309,-108.4618,https://worthajourney.com/archaeological-sites/mesa-verde/
+90,Ancient Theatre of Taormina,Amphitheatre or theatre,Taormina,Italy,IT,37.8523,15.2921,https://worthajourney.com/archaeological-sites/ancient-theatre-of-taormina/
+91,Garni Temple,Temple site,Garni,Armenia,AM,40.1124,44.7303,https://worthajourney.com/archaeological-sites/garni-temple/
+92,Ostia Antica,Ancient city,Ostia,Italy,IT,41.7564,12.2932,https://worthajourney.com/archaeological-sites/ostia-antica/
+93,Priene,Ancient city,Söke,Turkey,TR,37.6597,27.3010,https://worthajourney.com/archaeological-sites/priene/
+94,Terracotta Army,Pyramid or tomb,Xi’an,China,CN,34.3841,109.2785,https://worthajourney.com/archaeological-sites/terracotta-army/
+95,Antiphellos,Amphitheatre or theatre,Kaş,Turkey,TR,36.2000,29.6349,https://worthajourney.com/archaeological-sites/antiphellos/
+96,Nuraghe Arrubiu,Ruin,Orroli,Italy,IT,39.6623,9.2933,https://worthajourney.com/archaeological-sites/nuraghe-arrubiu/
+97,Pula Arena,Amphitheatre or theatre,Pula,Croatia,HR,44.8732,13.8502,https://worthajourney.com/archaeological-sites/pula-arena/
+98,Shushtar Hydraulic System,Ruin,Shushtar,Iran,IR,32.0440,48.8581,https://worthajourney.com/archaeological-sites/shushtar-hydraulic-system/
+99,Thracian Tomb of Sveshtari,Pyramid or tomb,Sveshtari,Bulgaria,BG,43.7448,26.7670,https://worthajourney.com/archaeological-sites/thracian-tomb-of-sveshtari/
+100,Toniná,Ancient city,Ocosingo,Mexico,MX,16.9022,-92.0096,https://worthajourney.com/archaeological-sites/tonina/

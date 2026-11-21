@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Menemenci Bostancı,Breakfast house,Istanbul,Turkey,TR,40.9637,29.1096,https://worthajourney.com/brunch-breakfast/menemenci-bostanc/
+2,Café Paolo,Pancake house,London,United Kingdom,GB,51.5068,-0.2489,https://worthajourney.com/brunch-breakfast/cafe-paolo/
+3,Les Charlottes,Brunch café,Mont-Tremblant,Canada,CA,46.1298,-74.5906,https://worthajourney.com/brunch-breakfast/les-charlottes/
+4,Madre,Brunch café,Mexico City,Mexico,MX,19.3525,-99.1614,https://worthajourney.com/brunch-breakfast/madre/
+5,Martha On The Fly,Diner,Cleveland,United States,US,41.4824,-81.6873,https://worthajourney.com/brunch-breakfast/martha-on-the-fly/
+6,Le P'tit Rustik,Brunch café,Montreal,Canada,CA,45.5203,-73.5765,https://worthajourney.com/brunch-breakfast/le-p-tit-rustik/
+7,Golden Diner,Diner,New York,United States,US,40.7124,-73.9940,https://worthajourney.com/brunch-breakfast/golden-diner/
+8,The Breakfast House,Pancake house,Sarasota,United States,US,27.3390,-82.5340,https://worthajourney.com/brunch-breakfast/the-breakfast-house/
+9,Tanoa Café,Pancake house,Lisbon,Portugal,PT,38.7116,-9.1455,https://worthajourney.com/brunch-breakfast/tanoa-cafe/
+10,Volta,Brunch café,Victoria,Canada,CA,48.4262,-123.3629,https://worthajourney.com/brunch-breakfast/volta/
+11,Gravy,Pancake house,Portland,United States,US,45.5517,-122.6757,https://worthajourney.com/brunch-breakfast/gravy/
+12,District Biscuit Company,Brunch café,Alexandria,United States,US,38.8358,-77.0604,https://worthajourney.com/brunch-breakfast/district-biscuit-company/
+13,Emma's Country Kitchen,Pancake house,Toronto,Canada,CA,43.6809,-79.4303,https://worthajourney.com/brunch-breakfast/emma-s-country-kitchen/
+14,Watts Cantina,Brunch café,Madrid,Spain,ES,40.4117,-3.7118,https://worthajourney.com/brunch-breakfast/watts-cantina/
+15,Tatler Lane,Brunch café,Launceston,Australia,AU,-41.4380,147.1389,https://worthajourney.com/brunch-breakfast/tatler-lane/
+16,Clinton St. Baking Company,Pancake house,New York,United States,US,40.7213,-73.9838,https://worthajourney.com/brunch-breakfast/clinton-st-baking-company/
+17,ellibesch,Breakfast house,Aachen,Germany,DE,50.7810,6.1616,https://worthajourney.com/brunch-breakfast/ellibesch/
+18,Breakfastdream,Brunch café,Hamburg,Germany,DE,53.5664,9.9790,https://worthajourney.com/brunch-breakfast/breakfastdream/
+19,Wonderffle Cafe,Brunch café,Victoria,Canada,CA,48.4266,-123.3660,https://worthajourney.com/brunch-breakfast/wonderffle-cafe/
+20,The Rooster Food+Drink,Brunch café,Naples,United States,US,26.1551,-81.7905,https://worthajourney.com/brunch-breakfast/the-rooster-food-drink/
+21,Honest Biscuits,Brunch café,Seattle,United States,US,47.6095,-122.3432,https://worthajourney.com/brunch-breakfast/honest-biscuits/
+22,Breakfast Little,Brunch café,San Francisco,United States,US,37.7552,-122.4204,https://worthajourney.com/brunch-breakfast/breakfast-little/
+23,Cracked & Battered,Brunch café,San Francisco,United States,US,37.8005,-122.4401,https://worthajourney.com/brunch-breakfast/cracked-battered/
+24,Half & Half,Brunch café,Reading,United States,US,42.5237,-71.1027,https://worthajourney.com/brunch-breakfast/half-half/
+25,Holybelly,Pancake house,Paris,France,FR,48.8710,2.3597,https://worthajourney.com/brunch-breakfast/holybelly/
+26,Le Praliné,Pancake house,Madrid,Spain,ES,40.4223,-3.7026,https://worthajourney.com/brunch-breakfast/le-praline/
+27,Bread & Butter,Pancake house,Kraków,Poland,PL,50.0712,19.9392,https://worthajourney.com/brunch-breakfast/bread-butter/
+28,Starfish & Coffee,Pancake house,Brighton,United Kingdom,GB,50.8234,-0.1287,https://worthajourney.com/brunch-breakfast/starfish-coffee/
+29,Smoozery,Brunch café,Berlin,Germany,DE,52.5061,13.3093,https://worthajourney.com/brunch-breakfast/smoozery/
+30,Robinsons Cafe,Pancake house,York,United Kingdom,GB,53.9519,-1.0848,https://worthajourney.com/brunch-breakfast/robinsons-cafe/
+31,Mr. Biscuits Bakery,Brunch café,Wheat Ridge,United States,US,39.7691,-105.0769,https://worthajourney.com/brunch-breakfast/mr-biscuits-bakery/
+32,Lucyd,Brunch café,Seoul,South Korea,KR,37.5756,126.9895,https://worthajourney.com/brunch-breakfast/lucyd/
+33,Deins & Meins,Brunch café,Nuremberg,Germany,DE,49.4542,11.0623,https://worthajourney.com/brunch-breakfast/deins-meins/
+34,Cafe Anton,Brunch café,Passau,Germany,DE,48.5751,13.4632,https://worthajourney.com/brunch-breakfast/cafe-anton/
+35,Side Piece Kitchen,Brunch café,Tacoma,United States,US,47.2139,-122.4731,https://worthajourney.com/brunch-breakfast/side-piece-kitchen/
+36,annelies,Pancake house,Berlin,Germany,DE,52.4986,13.4349,https://worthajourney.com/brunch-breakfast/annelies/
+37,Jealous Fork,Pancake house,Miami,United States,US,25.7295,-80.4282,https://worthajourney.com/brunch-breakfast/jealous-fork/
+38,Arthurs Nosh Bar,Brunch café,Montreal,Canada,CA,45.4734,-73.5883,https://worthajourney.com/brunch-breakfast/arthurs-nosh-bar/
+39,boúkkoma,Pancake house,Xyliatos,Cyprus,CY,35.0483,33.0561,https://worthajourney.com/brunch-breakfast/boukkoma/
+40,C'est Belge,Brunch café,Granby,Canada,CA,45.3984,-72.7234,https://worthajourney.com/brunch-breakfast/c-est-belge/
+41,Cheeky Neighbour Diner,Diner,Halifax,Canada,CA,44.6468,-63.5913,https://worthajourney.com/brunch-breakfast/cheeky-neighbour-diner/
+42,Esquina Bajan Chilaquiles,Pancake house,Guadalupe,Mexico,MX,25.6755,-100.2573,https://worthajourney.com/brunch-breakfast/esquina-bajan-chilaquiles/
+43,Breakfast AF,Brunch café,Louisville,United States,US,38.2275,-85.7362,https://worthajourney.com/brunch-breakfast/breakfast-af/
+44,Joe's Cafe,Pancake house,Orem,United States,US,40.2766,-111.6865,https://worthajourney.com/brunch-breakfast/joe-s-cafe/
+45,Olya Café Opéra,Pancake house,Montpellier,France,FR,43.6070,3.8776,https://worthajourney.com/brunch-breakfast/olya-cafe-opera/
+46,Asakara Good Store,Pancake house,Osaka,Japan,JP,34.6784,135.5251,https://worthajourney.com/brunch-breakfast/asakara-good-store/
+47,Ideal Diner,Diner,Minneapolis,United States,US,45.0016,-93.2476,https://worthajourney.com/brunch-breakfast/ideal-diner/
+48,The Butter Milk Ranch,Pancake house,Nashville,United States,US,36.1258,-86.7895,https://worthajourney.com/brunch-breakfast/the-butter-milk-ranch/
+49,Bearcat Cafe,Pancake house,New Orleans,United States,US,29.9357,-90.1040,https://worthajourney.com/brunch-breakfast/bearcat-cafe/
+50,Sedici Bruncheria,Pancake house,Ravenna,Italy,IT,44.4177,12.2019,https://worthajourney.com/brunch-breakfast/sedici-bruncheria/
+51,La Cafetería,Brunch café,Guadalajara,Mexico,MX,20.6722,-103.3626,https://worthajourney.com/brunch-breakfast/la-cafeteria/
+52,Briarpatch Restaurant,Pancake house,Winter Park,United States,US,28.5995,-81.3508,https://worthajourney.com/brunch-breakfast/briarpatch-restaurant/
+53,Egg Mann and Earl,Brunch café,Boise,United States,US,43.5798,-116.1750,https://worthajourney.com/brunch-breakfast/egg-mann-and-earl/
+54,The Griddle Cafe,Pancake house,Los Angeles,United States,US,34.0977,-118.3623,https://worthajourney.com/brunch-breakfast/the-griddle-cafe/
+55,Café Fleur De Lis,Brunch café,New Orleans,United States,US,29.9545,-90.0668,https://worthajourney.com/brunch-breakfast/cafe-fleur-de-lis/
+56,Andy's Flour Power Cafe & Bakery,Brunch café,Panama City,United States,US,30.1562,-85.7514,https://worthajourney.com/brunch-breakfast/andy-s-flour-power-cafe-bakery/
+57,Eggs Benaddicted,Brunch café,Amsterdam,Netherlands,NL,52.3644,4.8849,https://worthajourney.com/brunch-breakfast/eggs-benaddicted/
+58,Breakfast by Salt's Cure,Pancake house,New York,United States,US,40.7312,-74.0045,https://worthajourney.com/brunch-breakfast/breakfast-by-salt-s-cure/
+59,Green Straw,Pancake house,Swords,Ireland,IE,53.4579,-6.2210,https://worthajourney.com/brunch-breakfast/green-straw/
+60,Muhlama Karadeniz Mutfağı,Breakfast house,Istanbul,Turkey,TR,40.9831,29.1243,https://worthajourney.com/brunch-breakfast/muhlama-karadeniz-mutfag/
+61,Cafe Porche & Snowbar,Brunch café,New Orleans,United States,US,29.9394,-90.0791,https://worthajourney.com/brunch-breakfast/cafe-porche-snowbar/
+62,The Breakfast Club,Brunch café,Moscow,United States,US,46.7311,-117.0016,https://worthajourney.com/brunch-breakfast/the-breakfast-club/
+63,Mother's Cupboard,Diner,Syracuse,United States,US,43.0698,-76.0924,https://worthajourney.com/brunch-breakfast/mother-s-cupboard/
+64,NapNapCafe,Brunch café,Kraków,Poland,PL,50.0584,19.9321,https://worthajourney.com/brunch-breakfast/napnapcafe/
+65,Nowhere Man,Pancake house,Brighton,United Kingdom,GB,50.8254,-0.1489,https://worthajourney.com/brunch-breakfast/nowhere-man/
+66,Konvene Coffee,Brunch café,Seattle,United States,US,47.6247,-122.3474,https://worthajourney.com/brunch-breakfast/konvene-coffee/
+67,Abo Shariha Restaurant,Brunch café,Doha,Qatar,QA,25.2860,51.5322,https://worthajourney.com/brunch-breakfast/abo-shariha-restaurant/
+68,French Toast,Brunch café,New Orleans,United States,US,29.9597,-90.0602,https://worthajourney.com/brunch-breakfast/french-toast/
+69,Van Kahvaltı Evi,Breakfast house,Istanbul,Turkey,TR,41.0305,28.9824,https://worthajourney.com/brunch-breakfast/van-kahvalt-evi/
+70,Du-par's,Diner,Los Angeles,United States,US,34.0719,-118.3610,https://worthajourney.com/brunch-breakfast/du-par-s/
+71,Piekarnia Sąsiedzi Wrocławczyka,Brunch café,Wrocław,Poland,PL,51.1117,17.0549,https://worthajourney.com/brunch-breakfast/piekarnia-sasiedzi-wrocawczyka/
+72,The Farm Cafe,Brunch café,Maldon,United Kingdom,GB,51.7422,0.7188,https://worthajourney.com/brunch-breakfast/the-farm-cafe/
+73,Olive's,Brunch café,Norwich,United Kingdom,GB,52.6323,1.2976,https://worthajourney.com/brunch-breakfast/olive-s/
+74,Grill Daddy,Brunch café,Milton,Canada,CA,43.5114,-79.8847,https://worthajourney.com/brunch-breakfast/grill-daddy/
+75,Good Day Coffee,Brunch café,Chatan,Japan,JP,26.3294,127.7493,https://worthajourney.com/brunch-breakfast/good-day-coffee/
+76,La Germaine,Pancake house,Montreal,Canada,CA,45.5455,-73.5602,https://worthajourney.com/brunch-breakfast/la-germaine/
+77,LA Cafe,Pancake house,London,United Kingdom,GB,51.3596,-0.1916,https://worthajourney.com/brunch-breakfast/la-cafe/
+78,Rosewood Foods,Brunch café,Edmonton,Canada,CA,53.5424,-113.4909,https://worthajourney.com/brunch-breakfast/rosewood-foods/
+79,KAVA,Pancake house,Aix-en-Provence,France,FR,43.5309,5.4497,https://worthajourney.com/brunch-breakfast/kava/
+80,The Breakfast Club,Pancake house,Pompano Beach,United States,US,26.2602,-80.1166,https://worthajourney.com/brunch-breakfast/the-breakfast-club-pompano-beach/
+81,Honeycomb Tearoom,Pancake house,Edinburgh,United Kingdom,GB,55.9460,-3.2113,https://worthajourney.com/brunch-breakfast/honeycomb-tearoom/
+82,Moe Joe's,Brunch café,Meridian,United States,US,43.5896,-116.3578,https://worthajourney.com/brunch-breakfast/moe-joe-s/
+83,Neighbourhood Cafe,Brunch café,Belfast,United Kingdom,GB,54.6022,-5.9288,https://worthajourney.com/brunch-breakfast/neighbourhood-cafe/
+84,Mr. Pancake,Pancake house,Munich,Germany,DE,48.1489,11.5638,https://worthajourney.com/brunch-breakfast/mr-pancake/
+85,Butterfield's Pancake House,Pancake house,Scottsdale,United States,US,33.5827,-111.9223,https://worthajourney.com/brunch-breakfast/butterfield-s-pancake-house/
+86,Scratch Biscuit Company,Brunch café,Roanoke,United States,US,37.2658,-79.9752,https://worthajourney.com/brunch-breakfast/scratch-biscuit-company/
+87,Pangea,Brunch café,León,Spain,ES,42.5993,-5.5707,https://worthajourney.com/brunch-breakfast/pangea/
+88,Luella's Southern Kitchen,Brunch café,Chicago,United States,US,41.9562,-87.7083,https://worthajourney.com/brunch-breakfast/luella-s-southern-kitchen/
+89,La Osita,Brunch café,Portland,United States,US,45.5150,-122.5817,https://worthajourney.com/brunch-breakfast/la-osita/
+90,L'Avenue,Brunch café,Montreal,Canada,CA,45.5267,-73.5803,https://worthajourney.com/brunch-breakfast/l-avenue/
+91,Edem's yard,Pancake house,Larnaca,Cyprus,CY,34.9140,33.6368,https://worthajourney.com/brunch-breakfast/edem-s-yard/
+92,The Bake House,Pancake house,Amman,Jordan,JO,31.9663,35.8448,https://worthajourney.com/brunch-breakfast/the-bake-house/
+93,Eggxactly,Brunch café,Memphis,United States,US,35.0344,-90.0223,https://worthajourney.com/brunch-breakfast/eggxactly/
+94,Batter & Berries,Brunch café,Chicago,United States,US,41.9316,-87.6577,https://worthajourney.com/brunch-breakfast/batter-berries/
+95,Chesterfield's Gastro Diner,Diner,Ottawa,Canada,CA,45.3987,-75.7359,https://worthajourney.com/brunch-breakfast/chesterfield-s-gastro-diner/
+96,Eggs Morning,Pancake house,Vaughan,Canada,CA,43.7956,-79.4349,https://worthajourney.com/brunch-breakfast/eggs-morning/
+97,Joya's,Brunch café,Worthington,United States,US,40.0872,-83.0184,https://worthajourney.com/brunch-breakfast/joya-s/
+98,Dandy,Pancake house,Montreal,Canada,CA,45.5033,-73.5584,https://worthajourney.com/brunch-breakfast/dandy/
+99,Beirut Restaurant,Brunch café,Doha,Qatar,QA,25.2849,51.5089,https://worthajourney.com/brunch-breakfast/beirut-restaurant/
+100,Brunch Spot Waikiki,Pancake house,Honolulu,United States,US,21.2757,-157.8224,https://worthajourney.com/brunch-breakfast/brunch-spot-waikiki/

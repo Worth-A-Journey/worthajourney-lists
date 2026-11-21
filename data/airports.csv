@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Singapore Changi Airport,Airport,Singapore,Singapore,SG,1.3586,103.9899,https://worthajourney.com/airports/singapore-changi-airport/
+2,Hamad International Airport,Airport,Doha,Qatar,QA,25.2708,51.6013,https://worthajourney.com/airports/hamad-international-airport/
+3,Samui International Airport,Airport,Koh Samui,Thailand,TH,9.5484,100.0630,https://worthajourney.com/airports/samui-international-airport/
+4,Dubai International Airport,Airport,Dubai,United Arab Emirates,AE,25.2515,55.3683,https://worthajourney.com/airports/dubai-international-airport/
+5,Kempegowda International Airport,Airport,Bengaluru,India,IN,13.1989,77.7069,https://worthajourney.com/airports/kempegowda-international-airport/
+6,Zayed International Airport,Airport,Abu Dhabi,United Arab Emirates,AE,24.4514,54.6421,https://worthajourney.com/airports/zayed-international-airport/
+7,Tampa International Airport,Airport,Tampa,United States,US,27.9769,-82.5303,https://worthajourney.com/airports/tampa-international-airport/
+8,Hercílio Luz International Airport,Airport,Florianópolis,Brazil,BR,-27.6745,-48.5462,https://worthajourney.com/airports/hercilio-luz-international-airport/
+9,Incheon International Airport,Airport,Seoul,South Korea,KR,37.4587,126.4420,https://worthajourney.com/airports/incheon-international-airport/
+10,Chhatrapati Shivaji Maharaj International Airport,Airport,Mumbai,India,IN,19.0902,72.8628,https://worthajourney.com/airports/chhatrapati-shivaji-maharaj-international-airport/
+11,Hong Kong International Airport,Airport,Hong Kong,Hong Kong,HK,22.3135,113.9137,https://worthajourney.com/airports/hong-kong-international-airport/
+12,Bahrain International Airport,Airport,Manama,Bahrain,BH,26.2672,50.6303,https://worthajourney.com/airports/bahrain-international-airport/
+13,King Khalid International Airport,Airport,Riyadh,Saudi Arabia,SA,24.9594,46.7011,https://worthajourney.com/airports/king-khalid-international-airport/
+14,Istanbul Airport,Airport,Istanbul,Turkey,TR,41.2761,28.7287,https://worthajourney.com/airports/istanbul-airport/
+15,Lennart Meri Tallinn Airport,Airport,Tallinn,Estonia,EE,59.4146,24.8335,https://worthajourney.com/airports/lennart-meri-tallinn-airport/
+16,Rajiv Gandhi International Airport,Airport,Hyderabad,India,IN,17.2403,78.4294,https://worthajourney.com/airports/rajiv-gandhi-international-airport/
+17,Portland International Airport,Airport,Portland,United States,US,45.5853,-122.5917,https://worthajourney.com/airports/portland-international-airport/
+18,Helsinki Airport,Airport,Helsinki,Finland,FI,60.3179,24.9496,https://worthajourney.com/airports/helsinki-airport/
+19,Indianapolis International Airport,Airport,Indianapolis,United States,US,39.7223,-86.3020,https://worthajourney.com/airports/indianapolis-international-airport/
+20,Salt Lake City International Airport,Airport,Salt Lake City,United States,US,40.7903,-111.9771,https://worthajourney.com/airports/salt-lake-city-international-airport/
+21,Tokyo Haneda Airport,Airport,Tokyo,Japan,JP,35.5483,139.7780,https://worthajourney.com/airports/tokyo-haneda-airport/
+22,Shannon Airport,Airport,Shannon,Ireland,IE,52.6927,-8.9214,https://worthajourney.com/airports/shannon-airport/
+23,Curitiba Afonso Pena International Airport,Airport,Curitiba,Brazil,BR,-25.5315,-49.1740,https://worthajourney.com/airports/curitiba-afonso-pena-international-airport/
+24,Mactan-Cebu International Airport,Airport,Cebu,Philippines,PH,10.3136,123.9834,https://worthajourney.com/airports/mactan-cebu-international-airport/
+25,Jackson Hole Airport,Airport,Jackson,United States,US,43.6088,-110.7376,https://worthajourney.com/airports/jackson-hole-airport/
+26,Ben Gurion International Airport,Airport,Tel Aviv,Israel,IL,32.0004,34.8706,https://worthajourney.com/airports/ben-gurion-international-airport/
+27,Minneapolis-Saint Paul International Airport,Airport,Minneapolis,United States,US,44.8851,-93.2144,https://worthajourney.com/airports/minneapolis-saint-paul-international-airport/
+28,Leonardo da Vinci-Rome Fiumicino International Airport,Airport,Rome,Italy,IT,41.8035,12.2519,https://worthajourney.com/airports/leonardo-da-vinci-rome-fiumicino-international-airport/
+29,Indira Gandhi International Airport,Airport,Delhi,India,IN,28.5561,77.1000,https://worthajourney.com/airports/indira-gandhi-international-airport/
+30,Zurich Airport,Airport,Zurich,Switzerland,CH,47.4617,8.5509,https://worthajourney.com/airports/zurich-airport/
+31,Recife/Guararapes-Gilberto Freyre International Airport,Airport,Recife,Brazil,BR,-8.1287,-34.9259,https://worthajourney.com/airports/recife-guararapes-gilberto-freyre-international-airport/
+32,Vancouver International Airport,Airport,Vancouver,Canada,CA,49.1934,-123.1751,https://worthajourney.com/airports/vancouver-international-airport/
+33,Cochin International Airport,Airport,Kochi,India,IN,10.1532,76.3933,https://worthajourney.com/airports/cochin-international-airport/
+34,Greenville-Spartanburg International Airport,Airport,Greenville,United States,US,34.8959,-82.2172,https://worthajourney.com/airports/greenville-spartanburg-international-airport/
+35,Suvarnabhumi Airport,Airport,Bangkok,Thailand,TH,13.6819,100.7469,https://worthajourney.com/airports/suvarnabhumi-airport/
+36,Presidente Juscelino Kubitschek International Airport,Airport,Brasília,Brazil,BR,-15.8707,-47.9193,https://worthajourney.com/airports/presidente-juscelino-kubitschek-international-airport/
+37,Guadalajara International Airport,Airport,Guadalajara,Mexico,MX,20.5255,-103.3096,https://worthajourney.com/airports/guadalajara-international-airport/
+38,Detroit Metropolitan Wayne County Airport,Airport,Detroit,United States,US,42.2132,-83.3525,https://worthajourney.com/airports/detroit-metropolitan-wayne-county-airport/
+39,Paine Field,Airport,Everett,United States,US,47.9081,-122.2814,https://worthajourney.com/airports/paine-field/
+40,John Wayne Airport,Airport,Santa Ana,United States,US,33.6747,-117.8692,https://worthajourney.com/airports/john-wayne-airport/
+41,Hartsfield-Jackson Atlanta International Airport,Airport,Atlanta,United States,US,33.6324,-84.4333,https://worthajourney.com/airports/hartsfield-jackson-atlanta-international-airport/
+42,Adelaide Airport,Airport,Adelaide,Australia,AU,-34.9462,138.5312,https://worthajourney.com/airports/adelaide-airport/
+43,Ángel Albino Corzo International Airport,Airport,Tuxtla Gutiérrez,Mexico,MX,16.5592,-93.0232,https://worthajourney.com/airports/angel-albino-corzo-international-airport/
+44,Long Beach Airport,Airport,Long Beach,United States,US,33.8161,-118.1513,https://worthajourney.com/airports/long-beach-airport/
+45,Paro International Airport,Airport,Paro,Bhutan,BT,27.4052,89.4210,https://worthajourney.com/airports/paro-international-airport/
+46,Palm Springs International Airport,Airport,Palm Springs,United States,US,33.8303,-116.5070,https://worthajourney.com/airports/palm-springs-international-airport/
+47,Muscat International Airport,Airport,Muscat,Oman,OM,23.6006,58.2827,https://worthajourney.com/airports/muscat-international-airport/
+48,Bozeman Yellowstone International Airport,Airport,Bozeman,United States,US,45.7784,-111.1612,https://worthajourney.com/airports/bozeman-yellowstone-international-airport/
+49,Cape Town International Airport,Airport,Cape Town,South Africa,ZA,-33.9689,18.5998,https://worthajourney.com/airports/cape-town-international-airport/
+50,Colorado Springs Airport,Airport,Colorado Springs,United States,US,38.8037,-104.7112,https://worthajourney.com/airports/colorado-springs-airport/
+51,Munich Airport,Airport,Munich,Germany,DE,48.3536,11.7832,https://worthajourney.com/airports/munich-airport/
+52,Taiwan Taoyuan International Airport,Airport,Taoyuan,Taiwan,TW,25.0805,121.2312,https://worthajourney.com/airports/taiwan-taoyuan-international-airport/
+53,Moscow Sheremetyevo International Airport,Airport,Moscow,Russia,RU,55.9725,37.4119,https://worthajourney.com/airports/moscow-sheremetyevo-international-airport/
+54,Liverpool John Lennon Airport,Airport,Liverpool,United Kingdom,GB,53.3351,-2.8523,https://worthajourney.com/airports/liverpool-john-lennon-airport/
+55,Mariscal Sucre Quito International Airport,Airport,Quito,Ecuador,EC,-0.1242,-78.3606,https://worthajourney.com/airports/mariscal-sucre-quito-international-airport/
+56,El Dorado International Airport,Airport,Bogota,Colombia,CO,4.7010,-74.1461,https://worthajourney.com/airports/el-dorado-international-airport/
+57,Gerald R. Ford International Airport,Airport,Grand Rapids,United States,US,42.8826,-85.5240,https://worthajourney.com/airports/gerald-r-ford-international-airport/
+58,Carrasco International Airport,Airport,Montevideo,Uruguay,UY,-34.8371,-56.0162,https://worthajourney.com/airports/carrasco-international-airport/
+59,Southwest Florida International Airport,Airport,Fort Myers,United States,US,26.5319,-81.7596,https://worthajourney.com/airports/southwest-florida-international-airport/
+60,Heydar Aliyev International Airport,Airport,Baku,Azerbaijan,AZ,40.4656,50.0521,https://worthajourney.com/airports/heydar-aliyev-international-airport/
+61,President Donald J. Trump International Airport,Airport,West Palm Beach,United States,US,26.6857,-80.0928,https://worthajourney.com/airports/president-donald-j-trump-international-airport/
+62,Rhode Island T.F. Green International Airport,Airport,Providence,United States,US,41.7235,-71.4270,https://worthajourney.com/airports/rhode-island-t-f-green-international-airport/
+63,Albuquerque International Sunport,Airport,Albuquerque,United States,US,35.0405,-106.6098,https://worthajourney.com/airports/albuquerque-international-sunport/
+64,King Fahd International Airport,Airport,Dammam,Saudi Arabia,SA,26.4700,49.7984,https://worthajourney.com/airports/king-fahd-international-airport/
+65,Aarhus Airport,Airport,Aarhus,Denmark,DK,56.3075,10.6281,https://worthajourney.com/airports/aarhus-airport/
+66,San Francisco International Airport,Airport,San Francisco,United States,US,37.6191,-122.3816,https://worthajourney.com/airports/san-francisco-international-airport/
+67,Viracopos International Airport,Airport,Campinas,Brazil,BR,-23.0050,-47.1426,https://worthajourney.com/airports/viracopos-international-airport/
+68,Nicolaus Copernicus Wrocław Airport,Airport,Wrocław,Poland,PL,51.1042,16.8854,https://worthajourney.com/airports/nicolaus-copernicus-wrocaw-airport/
+69,Melbourne Orlando International Airport,Airport,Melbourne,United States,US,28.1013,-80.6451,https://worthajourney.com/airports/melbourne-orlando-international-airport/
+70,Clark International Airport,Airport,Angeles,Philippines,PH,15.1976,120.5572,https://worthajourney.com/airports/clark-international-airport/
+71,Narita International Airport,Airport,Tokyo,Japan,JP,35.7702,140.3843,https://worthajourney.com/airports/narita-international-airport/
+72,São Paulo-Guarulhos International Airport,Airport,São Paulo,Brazil,BR,-23.4302,-46.4717,https://worthajourney.com/airports/sao-paulo-guarulhos-international-airport/
+73,Warsaw Radom Airport,Airport,Radom,Poland,PL,51.3934,21.1997,https://worthajourney.com/airports/warsaw-radom-airport/
+74,Kansas City International Airport,Airport,Kansas City,United States,US,39.3014,-94.7104,https://worthajourney.com/airports/kansas-city-international-airport/
+75,Cork Airport,Airport,Cork,Ireland,IE,51.8491,-8.4899,https://worthajourney.com/airports/cork-airport/
+76,Tucson International Airport,Airport,Tucson,United States,US,32.1145,-110.9392,https://worthajourney.com/airports/tucson-international-airport/
+77,Milwaukee Mitchell International Airport,Airport,Milwaukee,United States,US,42.9439,-87.9008,https://worthajourney.com/airports/milwaukee-mitchell-international-airport/
+78,Charleston International Airport,Airport,Charleston,United States,US,32.8917,-80.0395,https://worthajourney.com/airports/charleston-international-airport/
+79,Münster Osnabrück International Airport,Airport,Münster,Germany,DE,52.1330,7.6864,https://worthajourney.com/airports/munster-osnabruck-international-airport/
+80,Santa Barbara Airport,Airport,Santa Barbara,United States,US,34.4275,-119.8420,https://worthajourney.com/airports/santa-barbara-airport/
+81,London City Airport,Airport,London,United Kingdom,GB,51.5051,0.0521,https://worthajourney.com/airports/london-city-airport/
+82,Islamabad International Airport,Airport,Islamabad,Pakistan,PK,33.5565,72.8341,https://worthajourney.com/airports/islamabad-international-airport/
+83,Ireland West Airport Knock,Airport,Knock,Ireland,IE,53.9141,-8.8115,https://worthajourney.com/airports/ireland-west-airport-knock/
+84,Techo International Airport,Airport,Phnom Penh,Cambodia,KH,11.3589,104.9335,https://worthajourney.com/airports/techo-international-airport/
+85,Sarasota Bradenton International Airport,Airport,Sarasota,United States,US,27.3951,-82.5538,https://worthajourney.com/airports/sarasota-bradenton-international-airport/
+86,William P. Hobby Airport,Airport,Houston,United States,US,29.6459,-95.2769,https://worthajourney.com/airports/william-p-hobby-airport/
+87,Raleigh-Durham International Airport,Airport,Raleigh,United States,US,35.8798,-78.7856,https://worthajourney.com/airports/raleigh-durham-international-airport/
+88,Adolfo Suárez Madrid-Barajas Airport,Airport,Madrid,Spain,ES,40.4895,-3.5643,https://worthajourney.com/airports/adolfo-suarez-madrid-barajas-airport/
+89,Myrtle Beach International Airport,Airport,Myrtle Beach,United States,US,33.6822,-78.9279,https://worthajourney.com/airports/myrtle-beach-international-airport/
+90,Copenhagen Airport,Airport,Copenhagen,Denmark,DK,55.6120,12.6477,https://worthajourney.com/airports/copenhagen-airport/
+91,Queen Alia International Airport,Airport,Amman,Jordan,JO,31.7217,35.9965,https://worthajourney.com/airports/queen-alia-international-airport/
+92,Tancredo Neves International Airport,Airport,Belo Horizonte,Brazil,BR,-19.6370,-43.9651,https://worthajourney.com/airports/tancredo-neves-international-airport/
+93,Billund Airport,Airport,Billund,Denmark,DK,55.7462,9.1481,https://worthajourney.com/airports/billund-airport/
+94,Eurico de Aguiar Salles International Airport,Airport,Vitória,Brazil,BR,-20.2616,-40.2833,https://worthajourney.com/airports/eurico-de-aguiar-salles-international-airport/
+95,Pittsburgh International Airport,Airport,Pittsburgh,United States,US,40.4929,-80.2373,https://worthajourney.com/airports/pittsburgh-international-airport/
+96,Fort Lauderdale-Hollywood International Airport,Airport,Fort Lauderdale,United States,US,26.0732,-80.1512,https://worthajourney.com/airports/fort-lauderdale-hollywood-international-airport/
+97,Daytona Beach International Airport,Airport,Daytona Beach,United States,US,29.1802,-81.0598,https://worthajourney.com/airports/daytona-beach-international-airport/
+98,Savannah/Hilton Head International Airport,Airport,Savannah,United States,US,32.1294,-81.2019,https://worthajourney.com/airports/savannah-hilton-head-international-airport/
+99,Billy Bishop Toronto City Airport,Airport,Toronto,Canada,CA,43.6289,-79.3944,https://worthajourney.com/airports/billy-bishop-toronto-city-airport/
+100,Prince Mohammad Bin Abdulaziz International Airport,Airport,Medina,Saudi Arabia,SA,24.5574,39.7041,https://worthajourney.com/airports/prince-mohammad-bin-abdulaziz-international-airport/

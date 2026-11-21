@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,Flåm Railway,Mountain railway,Flåm,Norway,NO,60.8629,7.1146,https://worthajourney.com/cable-cars/#flam-railway
-2,Titlis Rotair,Cable car,Engelberg,Switzerland,CH,46.7720,8.4378,https://worthajourney.com/cable-cars/#titlis-rotair
-3,Jungfrau Railway,Rack railway,Kleine Scheidegg,Switzerland,CH,46.5475,7.9821,https://worthajourney.com/cable-cars/#jungfrau-railway
-4,Teleférico de Mérida,Cable car,Mérida,Venezuela,VE,8.5915,-71.1414,https://worthajourney.com/cable-cars/#teleferico-de-merida
-5,Stanserhorn CabriO,Cable car,Stans,Switzerland,CH,46.9586,8.3635,https://worthajourney.com/cable-cars/#stanserhorn-cabrio
-6,Téléphérique de l’Aiguille du Midi,Cable car,Chamonix,France,FR,45.9183,6.8700,https://worthajourney.com/cable-cars/#telepherique-de-laiguille-du-midi
-7,Gornergrat Railway,Rack railway,Zermatt,Switzerland,CH,46.0240,7.7485,https://worthajourney.com/cable-cars/#gornergrat-railway
-8,Sugarloaf Cable Car,Cable car,Rio de Janeiro,Brazil,BR,-22.9558,-43.1670,https://worthajourney.com/cable-cars/#sugarloaf-cable-car
-9,Fansipan Legend Cable Car,Cable car,Sa Pa,Vietnam,VN,22.3369,103.8242,https://worthajourney.com/cable-cars/#fansipan-legend-cable-car
-10,Geoje Panorama Cable Car,Gondola,Geoje,South Korea,KR,34.7844,128.6330,https://worthajourney.com/cable-cars/#geoje-panorama-cable-car
-11,Hon Thom Cable Car,Cable car,Phu Quoc,Vietnam,VN,10.0270,104.0072,https://worthajourney.com/cable-cars/#hon-thom-cable-car
-12,Mokpo Marine Cable Car,Cable car,Mokpo,South Korea,KR,34.7743,126.3607,https://worthajourney.com/cable-cars/#mokpo-marine-cable-car
-13,Skyway Monte Bianco,Cable car,Courmayeur,Italy,IT,45.8160,6.9559,https://worthajourney.com/cable-cars/#skyway-monte-bianco
-14,Funivia Sass Pordoi,Cable car,Canazei,Italy,IT,46.5007,11.8077,https://worthajourney.com/cable-cars/#funivia-sass-pordoi
-15,Matterhorn Glacier Paradise,Cable car,Zermatt,Switzerland,CH,45.9386,7.7299,https://worthajourney.com/cable-cars/#matterhorn-glacier-paradise
-16,Bayerische Zugspitzbahn,Cable car,Garmisch-Partenkirchen,Germany,DE,47.4566,10.9921,https://worthajourney.com/cable-cars/#bayerische-zugspitzbahn
-17,Table Mountain Aerial Cableway,Cable car,Cape Town,South Africa,ZA,-33.9482,18.4028,https://worthajourney.com/cable-cars/#table-mountain-aerial-cableway
-18,Eiger Express,Gondola,Grindelwald,Switzerland,CH,46.6247,8.0189,https://worthajourney.com/cable-cars/#eiger-express
-19,Sacheon Sea Cable Car,Cable car,Sacheon,South Korea,KR,34.9337,128.0532,https://worthajourney.com/cable-cars/#sacheon-sea-cable-car
-20,Téléphérique de Jounieh,Cable car,Jounieh,Lebanon,LB,33.9935,35.6409,https://worthajourney.com/cable-cars/#telepherique-de-jounieh
-21,Loen Skylift,Cable car,Loen,Norway,NO,61.8751,6.8393,https://worthajourney.com/cable-cars/#loen-skylift
-22,Gelmerbahn,Funicular,Handeck,Switzerland,CH,46.6136,8.3085,https://worthajourney.com/cable-cars/#gelmerbahn
-23,Petit train d’Artouste,Mountain railway,Laruns,France,FR,42.8795,-0.3964,https://worthajourney.com/cable-cars/#petit-train-dartouste
-24,Kotor Cable Car,Cable car,Kotor,Montenegro,ME,42.3956,18.7470,https://worthajourney.com/cable-cars/#kotor-cable-car
-25,Pilatus Railway,Rack railway,Lucerne,Switzerland,CH,47.0304,8.2779,https://worthajourney.com/cable-cars/#pilatus-railway
-26,Gulmarg Gondola,Gondola,Gulmarg,India,IN,34.0326,74.3670,https://worthajourney.com/cable-cars/#gulmarg-gondola
-27,Scenic World,Funicular,Katoomba,Australia,AU,-33.7288,150.3012,https://worthajourney.com/cable-cars/#scenic-world
-28,Langkawi SkyCab,Cable car,Langkawi,Malaysia,MY,6.3711,99.6717,https://worthajourney.com/cable-cars/#langkawi-skycab
-29,Brienz Rothorn Railway,Rack railway,Brienz,Switzerland,CH,46.7551,8.0388,https://worthajourney.com/cable-cars/#brienz-rothorn-railway
-30,Bursa Uludağ Teleferik,Cable car,Bursa,Turkey,TR,40.1369,29.1063,https://worthajourney.com/cable-cars/#bursa-uludag-teleferik
-31,Teleférico del Teide,Cable car,Tenerife,Spain,ES,28.2545,-16.6258,https://worthajourney.com/cable-cars/#teleferico-del-teide
-32,Nordkettenbahnen,Cable car,Innsbruck,Austria,AT,47.2705,11.3950,https://worthajourney.com/cable-cars/#nordkettenbahnen
-33,Glacier 3000,Cable car,Col du Pillon,Switzerland,CH,46.3539,7.2057,https://worthajourney.com/cable-cars/#glacier-3000
-34,Schilthornbahn,Cable car,Mürren,Switzerland,CH,46.5572,7.8352,https://worthajourney.com/cable-cars/#schilthornbahn
-35,Medeu–Shymbulak Gondola,Gondola,Almaty,Kazakhstan,KZ,43.1287,77.0805,https://worthajourney.com/cable-cars/#medeushymbulak-gondola
-36,Peak 2 Peak Gondola,Gondola,Whistler,Canada,CA,50.0694,-122.9461,https://worthajourney.com/cable-cars/#peak-2-peak-gondola
-37,Funivia Lagazuoi,Cable car,Passo Falzarego,Italy,IT,46.5192,12.0085,https://worthajourney.com/cable-cars/#funivia-lagazuoi
-38,Banff Gondola,Gondola,Banff,Canada,CA,51.1479,-115.5555,https://worthajourney.com/cable-cars/#banff-gondola
-39,Aerosilla Cerro Campanario,Chairlift,Bariloche,Argentina,AR,-41.0706,-71.4739,https://worthajourney.com/cable-cars/#aerosilla-cerro-campanario
-40,Firstbahn,Gondola,Grindelwald,Switzerland,CH,46.6251,8.0418,https://worthajourney.com/cable-cars/#firstbahn
-41,Telluride Gondola,Gondola,Telluride,United States,US,37.9361,-107.8139,https://worthajourney.com/cable-cars/#telluride-gondola
-42,Pikes Peak Cog Railway,Rack railway,Manitou Springs,United States,US,38.8561,-104.9313,https://worthajourney.com/cable-cars/#pikes-peak-cog-railway
-43,Boztepe Teleferik,Cable car,Ordu,Turkey,TR,40.9896,37.8577,https://worthajourney.com/cable-cars/#boztepe-teleferik
-44,Galala Cable Car,Cable car,Galala City,Egypt,EG,29.4777,32.4413,https://worthajourney.com/cable-cars/#galala-cable-car
-45,Mount Washington Cog Railway,Rack railway,Bretton Woods,United States,US,44.2700,-71.3508,https://worthajourney.com/cable-cars/#mount-washington-cog-railway
-46,Balwangsan Cable Car,Gondola,Pyeongchang,South Korea,KR,37.6440,128.6787,https://worthajourney.com/cable-cars/#balwangsan-cable-car
-47,Stoosbahn,Funicular,Schwyz,Switzerland,CH,46.9914,8.6733,https://worthajourney.com/cable-cars/#stoosbahn
-48,Ngong Ping 360,Gondola,Hong Kong,Hong Kong,HK,22.2563,113.9014,https://worthajourney.com/cable-cars/#ngong-ping-360
-49,Awana SkyWay,Gondola,Genting Highlands,Malaysia,MY,3.4035,101.7829,https://worthajourney.com/cable-cars/#awana-skyway
-50,Odontotos Rack Railway,Rack railway,Diakopto,Greece,GR,38.0335,22.1101,https://worthajourney.com/cable-cars/#odontotos-rack-railway
-51,Skyrail Rainforest Cableway,Gondola,Cairns,Australia,AU,-16.8476,145.6957,https://worthajourney.com/cable-cars/#skyrail-rainforest-cableway
-52,Olympos Teleferik,Cable car,Kemer,Turkey,TR,36.5407,30.4871,https://worthajourney.com/cable-cars/#olympos-teleferik
-53,Mi Teleférico,Gondola,La Paz,Bolivia,BO,-16.5382,-68.0873,https://worthajourney.com/cable-cars/#mi-teleferico
-54,Funivia Marmolada,Cable car,Malga Ciapela,Italy,IT,46.4276,11.9107,https://worthajourney.com/cable-cars/#funivia-marmolada
-55,Gondelbahn Oeschinensee,Gondola,Kandersteg,Switzerland,CH,46.4975,7.6827,https://worthajourney.com/cable-cars/#gondelbahn-oeschinensee
-56,Singapore Cable Car,Cable car,Singapore,Singapore,SG,1.2711,103.8196,https://worthajourney.com/cable-cars/#singapore-cable-car
-57,Maokong Gondola,Gondola,Taipei,Taiwan,TW,24.9960,121.5763,https://worthajourney.com/cable-cars/#maokong-gondola
-58,Namak Abrud Telecabin,Cable car,Namak Abrud,Iran,IR,36.6642,51.3191,https://worthajourney.com/cable-cars/#namak-abrud-telecabin
-59,Telecabina Bâlea,Cable car,Bâlea Cascadă,Romania,RO,45.6366,24.6073,https://worthajourney.com/cable-cars/#telecabina-balea
-60,Mittagbahn,Chairlift,Immenstadt,Germany,DE,47.5547,10.2183,https://worthajourney.com/cable-cars/#mittagbahn
-61,Tianmen Mountain Cableway,Cable car,Zhangjiajie,China,CN,29.1116,110.4834,https://worthajourney.com/cable-cars/#tianmen-mountain-cableway
-62,Funivie del Lago Maggiore,Gondola,Laveno-Mombello,Italy,IT,45.9122,8.6207,https://worthajourney.com/cable-cars/#funivie-del-lago-maggiore
-63,Weißsee Gletscherbahn,Gondola,Uttendorf,Austria,AT,47.1696,12.6244,https://worthajourney.com/cable-cars/#weisssee-gletscherbahn
-64,Gletscherbahnen Kaprun,Cable car,Kaprun,Austria,AT,47.2295,12.7260,https://worthajourney.com/cable-cars/#gletscherbahnen-kaprun
-65,Palm Springs Aerial Tramway,Cable car,Palm Springs,United States,US,33.8371,-116.6141,https://worthajourney.com/cable-cars/#palm-springs-aerial-tramway
-66,Sea to Sky Gondola,Gondola,Squamish,Canada,CA,49.6752,-123.1570,https://worthajourney.com/cable-cars/#sea-to-sky-gondola
-67,Galzigbahn,Cable car,St. Anton am Arlberg,Austria,AT,47.1281,10.2631,https://worthajourney.com/cable-cars/#galzigbahn
-68,San Francisco Cable Cars,Street cable car,San Francisco,United States,US,37.8053,-122.4152,https://worthajourney.com/cable-cars/#san-francisco-cable-cars
-69,Sun Moon Lake Ropeway,Gondola,Yuchi,Taiwan,TW,23.8523,120.9349,https://worthajourney.com/cable-cars/#sun-moon-lake-ropeway
-70,Tren Nariz del Diablo,Mountain railway,Alausí,Ecuador,EC,-2.2437,-78.8780,https://worthajourney.com/cable-cars/#tren-nariz-del-diablo
-71,Tongyeong Cable Car,Gondola,Tongyeong,South Korea,KR,34.8100,128.4185,https://worthajourney.com/cable-cars/#tongyeong-cable-car
-72,Cataract Gorge Chairlift,Chairlift,Launceston,Australia,AU,-41.4461,147.1218,https://worthajourney.com/cable-cars/#cataract-gorge-chairlift
-73,Babadağ Teleferik,Cable car,Ölüdeniz,Turkey,TR,36.5614,29.1330,https://worthajourney.com/cable-cars/#babadag-teleferik
-74,Abbottabad Chairlift,Chairlift,Abbottabad,Pakistan,PK,34.1936,73.2901,https://worthajourney.com/cable-cars/#abbottabad-chairlift
-75,Kuranda Scenic Railway,Mountain railway,Cairns,Australia,AU,-16.8184,145.6387,https://worthajourney.com/cable-cars/#kuranda-scenic-railway
-76,Snowdon Mountain Railway,Rack railway,Llanberis,United Kingdom,GB,53.1163,-4.1194,https://worthajourney.com/cable-cars/#snowdon-mountain-railway
-77,Nevis Range Mountain Gondola,Gondola,Fort William,United Kingdom,GB,56.8522,-4.9991,https://worthajourney.com/cable-cars/#nevis-range-mountain-gondola
-78,Funicular de Santiago,Funicular,Santiago,Chile,CL,-33.4300,-70.6359,https://worthajourney.com/cable-cars/#funicular-de-santiago
-79,Teleférico das Achadas da Cruz,Cable car,Porto Moniz,Portugal,PT,32.8529,-17.2097,https://worthajourney.com/cable-cars/#teleferico-das-achadas-da-cruz
-80,Kobi–Gudauri Gondola,Gondola,Gudauri,Georgia,GE,42.5572,44.4972,https://worthajourney.com/cable-cars/#kobigudauri-gondola
-81,Manakamana Cable Car,Gondola,Kurintar,Nepal,NP,27.8782,84.5903,https://worthajourney.com/cable-cars/#manakamana-cable-car
-82,Funivia Ortisei–Alpe di Siusi,Gondola,Ortisei,Italy,IT,46.5729,11.6713,https://worthajourney.com/cable-cars/#funivia-ortiseialpe-di-siusi
-83,Tsomgo Lake Ropeway,Cable car,Gangtok,India,IN,27.3742,88.7579,https://worthajourney.com/cable-cars/#tsomgo-lake-ropeway
-84,Teleférico de las Barrancas del Cobre,Cable car,Divisadero,Mexico,MX,27.5162,-107.8267,https://worthajourney.com/cable-cars/#teleferico-de-las-barrancas-del-cobre
-85,Jackson Hole Aerial Tram,Cable car,Teton Village,United States,US,43.5875,-110.8277,https://worthajourney.com/cable-cars/#jackson-hole-aerial-tram
-86,Dharamshala Skyway,Gondola,Dharamshala,India,IN,32.2344,76.3244,https://worthajourney.com/cable-cars/#dharamshala-skyway
-87,Rigi Railways,Rack railway,Vitznau,Switzerland,CH,47.0094,8.4826,https://worthajourney.com/cable-cars/#rigi-railways
-88,Samaksan Lake Cable Car,Gondola,Chuncheon,South Korea,KR,37.8644,127.6914,https://worthajourney.com/cable-cars/#samaksan-lake-cable-car
-89,Hartbeespoort Aerial Cableway,Cable car,Hartbeespoort,South Africa,ZA,-25.7202,27.8847,https://worthajourney.com/cable-cars/#hartbeespoort-aerial-cableway
-90,Parque Unipraias,Gondola,Balneário Camboriú,Brazil,BR,-27.0050,-48.6033,https://worthajourney.com/cable-cars/#parque-unipraias
-91,Rajgir Ropeway,Cable car,Rajgir,India,IN,25.0042,85.4444,https://worthajourney.com/cable-cars/#rajgir-ropeway
-92,Lookout Mountain Incline Railway,Funicular,Chattanooga,United States,US,35.0095,-85.3286,https://worthajourney.com/cable-cars/#lookout-mountain-incline-railway
-93,Heights of Abraham,Gondola,Matlock Bath,United Kingdom,GB,53.1243,-1.5567,https://worthajourney.com/cable-cars/#heights-of-abraham
-94,Tsaghkadzor Ropeway,Chairlift,Tsaghkadzor,Armenia,AM,40.5347,44.6970,https://worthajourney.com/cable-cars/#tsaghkadzor-ropeway
-95,Telesillas Volcán Osorno,Chairlift,Puerto Varas,Chile,CL,-41.1277,-72.5297,https://worthajourney.com/cable-cars/#telesillas-volcan-osorno
-96,Aurora Sky Station Chairlift,Chairlift,Abisko,Sweden,SE,68.3617,18.7234,https://worthajourney.com/cable-cars/#aurora-sky-station-chairlift
-97,Annapurna Cable Car,Gondola,Pokhara,Nepal,NP,28.2292,83.9499,https://worthajourney.com/cable-cars/#annapurna-cable-car
-98,Ajloun Cable Car,Gondola,Ajloun,Jordan,JO,32.3498,35.7263,https://worthajourney.com/cable-cars/#ajloun-cable-car
-99,Whistler Village Gondola,Gondola,Whistler,Canada,CA,50.1126,-122.9545,https://worthajourney.com/cable-cars/#whistler-village-gondola
-100,Kartepe Teleferik,Gondola,Kartepe,Turkey,TR,40.6894,30.1190,https://worthajourney.com/cable-cars/#kartepe-teleferik
+1,Flåm Railway,Mountain railway,Flåm,Norway,NO,60.8629,7.1146,https://worthajourney.com/cable-cars/flam-railway/
+2,Titlis Rotair,Cable car,Engelberg,Switzerland,CH,46.7720,8.4378,https://worthajourney.com/cable-cars/titlis-rotair/
+3,Jungfrau Railway,Rack railway,Kleine Scheidegg,Switzerland,CH,46.5475,7.9821,https://worthajourney.com/cable-cars/jungfrau-railway/
+4,Teleférico de Mérida,Cable car,Mérida,Venezuela,VE,8.5915,-71.1414,https://worthajourney.com/cable-cars/teleferico-de-merida/
+5,Stanserhorn CabriO,Cable car,Stans,Switzerland,CH,46.9586,8.3635,https://worthajourney.com/cable-cars/stanserhorn-cabrio/
+6,Téléphérique de l’Aiguille du Midi,Cable car,Chamonix,France,FR,45.9183,6.8700,https://worthajourney.com/cable-cars/telepherique-de-laiguille-du-midi/
+7,Gornergrat Railway,Rack railway,Zermatt,Switzerland,CH,46.0240,7.7485,https://worthajourney.com/cable-cars/gornergrat-railway/
+8,Sugarloaf Cable Car,Cable car,Rio de Janeiro,Brazil,BR,-22.9558,-43.1670,https://worthajourney.com/cable-cars/sugarloaf-cable-car/
+9,Fansipan Legend Cable Car,Cable car,Sa Pa,Vietnam,VN,22.3369,103.8242,https://worthajourney.com/cable-cars/fansipan-legend-cable-car/
+10,Geoje Panorama Cable Car,Gondola,Geoje,South Korea,KR,34.7844,128.6330,https://worthajourney.com/cable-cars/geoje-panorama-cable-car/
+11,Hon Thom Cable Car,Cable car,Phu Quoc,Vietnam,VN,10.0270,104.0072,https://worthajourney.com/cable-cars/hon-thom-cable-car/
+12,Mokpo Marine Cable Car,Cable car,Mokpo,South Korea,KR,34.7743,126.3607,https://worthajourney.com/cable-cars/mokpo-marine-cable-car/
+13,Skyway Monte Bianco,Cable car,Courmayeur,Italy,IT,45.8160,6.9559,https://worthajourney.com/cable-cars/skyway-monte-bianco/
+14,Funivia Sass Pordoi,Cable car,Canazei,Italy,IT,46.5007,11.8077,https://worthajourney.com/cable-cars/funivia-sass-pordoi/
+15,Matterhorn Glacier Paradise,Cable car,Zermatt,Switzerland,CH,45.9386,7.7299,https://worthajourney.com/cable-cars/matterhorn-glacier-paradise/
+16,Bayerische Zugspitzbahn,Cable car,Garmisch-Partenkirchen,Germany,DE,47.4566,10.9921,https://worthajourney.com/cable-cars/bayerische-zugspitzbahn/
+17,Table Mountain Aerial Cableway,Cable car,Cape Town,South Africa,ZA,-33.9482,18.4028,https://worthajourney.com/cable-cars/table-mountain-aerial-cableway/
+18,Eiger Express,Gondola,Grindelwald,Switzerland,CH,46.6247,8.0189,https://worthajourney.com/cable-cars/eiger-express/
+19,Sacheon Sea Cable Car,Cable car,Sacheon,South Korea,KR,34.9337,128.0532,https://worthajourney.com/cable-cars/sacheon-sea-cable-car/
+20,Téléphérique de Jounieh,Cable car,Jounieh,Lebanon,LB,33.9935,35.6409,https://worthajourney.com/cable-cars/telepherique-de-jounieh/
+21,Loen Skylift,Cable car,Loen,Norway,NO,61.8751,6.8393,https://worthajourney.com/cable-cars/loen-skylift/
+22,Gelmerbahn,Funicular,Handeck,Switzerland,CH,46.6136,8.3085,https://worthajourney.com/cable-cars/gelmerbahn/
+23,Petit train d’Artouste,Mountain railway,Laruns,France,FR,42.8795,-0.3964,https://worthajourney.com/cable-cars/petit-train-dartouste/
+24,Kotor Cable Car,Cable car,Kotor,Montenegro,ME,42.3956,18.7470,https://worthajourney.com/cable-cars/kotor-cable-car/
+25,Pilatus Railway,Rack railway,Alpnachstad,Switzerland,CH,46.9556,8.2769,https://worthajourney.com/cable-cars/pilatus-railway/
+26,Gulmarg Gondola,Gondola,Gulmarg,India,IN,34.0326,74.3670,https://worthajourney.com/cable-cars/gulmarg-gondola/
+27,Scenic World,Funicular,Katoomba,Australia,AU,-33.7288,150.3012,https://worthajourney.com/cable-cars/scenic-world/
+28,Langkawi SkyCab,Cable car,Langkawi,Malaysia,MY,6.3711,99.6717,https://worthajourney.com/cable-cars/langkawi-skycab/
+29,Brienz Rothorn Railway,Rack railway,Brienz,Switzerland,CH,46.7551,8.0388,https://worthajourney.com/cable-cars/brienz-rothorn-railway/
+30,Bursa Uludağ Teleferik,Cable car,Bursa,Turkey,TR,40.1369,29.1063,https://worthajourney.com/cable-cars/bursa-uludag-teleferik/
+31,Teleférico del Teide,Cable car,Tenerife,Spain,ES,28.2545,-16.6258,https://worthajourney.com/cable-cars/teleferico-del-teide/
+32,Nordkettenbahnen,Cable car,Innsbruck,Austria,AT,47.2705,11.3950,https://worthajourney.com/cable-cars/nordkettenbahnen/
+33,Glacier 3000,Cable car,Col du Pillon,Switzerland,CH,46.3539,7.2057,https://worthajourney.com/cable-cars/glacier-3000/
+34,Schilthornbahn,Cable car,Mürren,Switzerland,CH,46.5572,7.8352,https://worthajourney.com/cable-cars/schilthornbahn/
+35,Medeu-Shymbulak Gondola,Gondola,Almaty,Kazakhstan,KZ,43.1287,77.0805,https://worthajourney.com/cable-cars/medeu-shymbulak-gondola/
+36,Peak 2 Peak Gondola,Gondola,Whistler,Canada,CA,50.0694,-122.9461,https://worthajourney.com/cable-cars/peak-2-peak-gondola/
+37,Funivia Lagazuoi,Cable car,Passo Falzarego,Italy,IT,46.5192,12.0085,https://worthajourney.com/cable-cars/funivia-lagazuoi/
+38,Banff Gondola,Gondola,Banff,Canada,CA,51.1479,-115.5555,https://worthajourney.com/cable-cars/banff-gondola/
+39,Aerosilla Cerro Campanario,Chairlift,Bariloche,Argentina,AR,-41.0706,-71.4739,https://worthajourney.com/cable-cars/aerosilla-cerro-campanario/
+40,Firstbahn,Gondola,Grindelwald,Switzerland,CH,46.6251,8.0418,https://worthajourney.com/cable-cars/firstbahn/
+41,Telluride Gondola,Gondola,Telluride,United States,US,37.9361,-107.8139,https://worthajourney.com/cable-cars/telluride-gondola/
+42,Pikes Peak Cog Railway,Rack railway,Manitou Springs,United States,US,38.8561,-104.9313,https://worthajourney.com/cable-cars/pikes-peak-cog-railway/
+43,Boztepe Teleferik,Cable car,Ordu,Turkey,TR,40.9896,37.8577,https://worthajourney.com/cable-cars/boztepe-teleferik/
+44,Galala Cable Car,Cable car,Galala City,Egypt,EG,29.4777,32.4413,https://worthajourney.com/cable-cars/galala-cable-car/
+45,Mount Washington Cog Railway,Rack railway,Bretton Woods,United States,US,44.2700,-71.3508,https://worthajourney.com/cable-cars/mount-washington-cog-railway/
+46,Balwangsan Cable Car,Gondola,Pyeongchang,South Korea,KR,37.6440,128.6787,https://worthajourney.com/cable-cars/balwangsan-cable-car/
+47,Stoosbahn,Funicular,Schwyz,Switzerland,CH,46.9914,8.6733,https://worthajourney.com/cable-cars/stoosbahn/
+48,Ngong Ping 360,Gondola,Hong Kong,Hong Kong,HK,22.2563,113.9014,https://worthajourney.com/cable-cars/ngong-ping-360/
+49,Awana SkyWay,Gondola,Genting Highlands,Malaysia,MY,3.4035,101.7829,https://worthajourney.com/cable-cars/awana-skyway/
+50,Odontotos Rack Railway,Rack railway,Diakopto,Greece,GR,38.0335,22.1101,https://worthajourney.com/cable-cars/odontotos-rack-railway/
+51,Skyrail Rainforest Cableway,Gondola,Cairns,Australia,AU,-16.8476,145.6957,https://worthajourney.com/cable-cars/skyrail-rainforest-cableway/
+52,Olympos Teleferik,Cable car,Kemer,Turkey,TR,36.5407,30.4871,https://worthajourney.com/cable-cars/olympos-teleferik/
+53,Mi Teleférico,Gondola,La Paz,Bolivia,BO,-16.5382,-68.0873,https://worthajourney.com/cable-cars/mi-teleferico/
+54,Funivia Marmolada,Cable car,Malga Ciapela,Italy,IT,46.4276,11.9107,https://worthajourney.com/cable-cars/funivia-marmolada/
+55,Gondelbahn Oeschinensee,Gondola,Kandersteg,Switzerland,CH,46.4975,7.6827,https://worthajourney.com/cable-cars/gondelbahn-oeschinensee/
+56,Singapore Cable Car,Cable car,Singapore,Singapore,SG,1.2711,103.8196,https://worthajourney.com/cable-cars/singapore-cable-car/
+57,Maokong Gondola,Gondola,Taipei,Taiwan,TW,24.9960,121.5763,https://worthajourney.com/cable-cars/maokong-gondola/
+58,Namak Abrud Telecabin,Cable car,Namak Abrud,Iran,IR,36.6642,51.3191,https://worthajourney.com/cable-cars/namak-abrud-telecabin/
+59,Telecabina Bâlea,Cable car,Bâlea Cascadă,Romania,RO,45.6366,24.6073,https://worthajourney.com/cable-cars/telecabina-balea/
+60,Mittagbahn,Chairlift,Immenstadt,Germany,DE,47.5547,10.2183,https://worthajourney.com/cable-cars/mittagbahn/
+61,Funivie del Lago Maggiore,Gondola,Laveno-Mombello,Italy,IT,45.9122,8.6207,https://worthajourney.com/cable-cars/funivie-del-lago-maggiore/
+62,Weißsee Gletscherbahn,Gondola,Uttendorf,Austria,AT,47.1696,12.6244,https://worthajourney.com/cable-cars/weisssee-gletscherbahn/
+63,Gletscherbahnen Kaprun,Cable car,Kaprun,Austria,AT,47.2295,12.7260,https://worthajourney.com/cable-cars/gletscherbahnen-kaprun/
+64,Palm Springs Aerial Tramway,Cable car,Palm Springs,United States,US,33.8371,-116.6141,https://worthajourney.com/cable-cars/palm-springs-aerial-tramway/
+65,Sea to Sky Gondola,Gondola,Squamish,Canada,CA,49.6752,-123.1570,https://worthajourney.com/cable-cars/sea-to-sky-gondola/
+66,Galzigbahn,Cable car,St. Anton am Arlberg,Austria,AT,47.1281,10.2631,https://worthajourney.com/cable-cars/galzigbahn/
+67,San Francisco Cable Cars,Street cable car,San Francisco,United States,US,37.8053,-122.4152,https://worthajourney.com/cable-cars/san-francisco-cable-cars/
+68,Sun Moon Lake Ropeway,Gondola,Yuchi,Taiwan,TW,23.8523,120.9349,https://worthajourney.com/cable-cars/sun-moon-lake-ropeway/
+69,Tren Nariz del Diablo,Mountain railway,Alausí,Ecuador,EC,-2.2437,-78.8780,https://worthajourney.com/cable-cars/tren-nariz-del-diablo/
+70,Tongyeong Cable Car,Gondola,Tongyeong,South Korea,KR,34.8100,128.4185,https://worthajourney.com/cable-cars/tongyeong-cable-car/
+71,Cataract Gorge Chairlift,Chairlift,Launceston,Australia,AU,-41.4461,147.1218,https://worthajourney.com/cable-cars/cataract-gorge-chairlift/
+72,Babadağ Teleferik,Cable car,Ölüdeniz,Turkey,TR,36.5614,29.1330,https://worthajourney.com/cable-cars/babadag-teleferik/
+73,Abbottabad Chairlift,Chairlift,Abbottabad,Pakistan,PK,34.1936,73.2901,https://worthajourney.com/cable-cars/abbottabad-chairlift/
+74,Kuranda Scenic Railway,Mountain railway,Cairns,Australia,AU,-16.8184,145.6387,https://worthajourney.com/cable-cars/kuranda-scenic-railway/
+75,Snowdon Mountain Railway,Rack railway,Llanberis,United Kingdom,GB,53.1163,-4.1194,https://worthajourney.com/cable-cars/snowdon-mountain-railway/
+76,Nevis Range Mountain Gondola,Gondola,Fort William,United Kingdom,GB,56.8522,-4.9991,https://worthajourney.com/cable-cars/nevis-range-mountain-gondola/
+77,Funicular de Santiago,Funicular,Santiago,Chile,CL,-33.4300,-70.6359,https://worthajourney.com/cable-cars/funicular-de-santiago/
+78,Teleférico das Achadas da Cruz,Cable car,Porto Moniz,Portugal,PT,32.8529,-17.2097,https://worthajourney.com/cable-cars/teleferico-das-achadas-da-cruz/
+79,Kobi-Gudauri Gondola,Gondola,Gudauri,Georgia,GE,42.5572,44.4972,https://worthajourney.com/cable-cars/kobi-gudauri-gondola/
+80,Manakamana Cable Car,Gondola,Kurintar,Nepal,NP,27.8782,84.5903,https://worthajourney.com/cable-cars/manakamana-cable-car/
+81,Funivia Ortisei-Alpe di Siusi,Gondola,Ortisei,Italy,IT,46.5729,11.6713,https://worthajourney.com/cable-cars/funivia-ortisei-alpe-di-siusi/
+82,Tsomgo Lake Ropeway,Cable car,Gangtok,India,IN,27.3742,88.7579,https://worthajourney.com/cable-cars/tsomgo-lake-ropeway/
+83,Teleférico de las Barrancas del Cobre,Cable car,Divisadero,Mexico,MX,27.5162,-107.8267,https://worthajourney.com/cable-cars/teleferico-de-las-barrancas-del-cobre/
+84,Jackson Hole Aerial Tram,Cable car,Teton Village,United States,US,43.5875,-110.8277,https://worthajourney.com/cable-cars/jackson-hole-aerial-tram/
+85,Dharamshala Skyway,Gondola,Dharamshala,India,IN,32.2344,76.3244,https://worthajourney.com/cable-cars/dharamshala-skyway/
+86,Rigi Railways,Rack railway,Vitznau,Switzerland,CH,47.0094,8.4826,https://worthajourney.com/cable-cars/rigi-railways/
+87,Samaksan Lake Cable Car,Gondola,Chuncheon,South Korea,KR,37.8644,127.6914,https://worthajourney.com/cable-cars/samaksan-lake-cable-car/
+88,Hartbeespoort Aerial Cableway,Cable car,Hartbeespoort,South Africa,ZA,-25.7202,27.8847,https://worthajourney.com/cable-cars/hartbeespoort-aerial-cableway/
+89,Parque Unipraias,Gondola,Balneário Camboriú,Brazil,BR,-27.0050,-48.6033,https://worthajourney.com/cable-cars/parque-unipraias/
+90,Rajgir Ropeway,Cable car,Rajgir,India,IN,25.0042,85.4444,https://worthajourney.com/cable-cars/rajgir-ropeway/
+91,Lookout Mountain Incline Railway,Funicular,Chattanooga,United States,US,35.0095,-85.3286,https://worthajourney.com/cable-cars/lookout-mountain-incline-railway/
+92,Heights of Abraham,Gondola,Matlock Bath,United Kingdom,GB,53.1243,-1.5567,https://worthajourney.com/cable-cars/heights-of-abraham/
+93,Tsaghkadzor Ropeway,Chairlift,Tsaghkadzor,Armenia,AM,40.5347,44.6970,https://worthajourney.com/cable-cars/tsaghkadzor-ropeway/
+94,Telesillas Volcán Osorno,Chairlift,Puerto Varas,Chile,CL,-41.1277,-72.5297,https://worthajourney.com/cable-cars/telesillas-volcan-osorno/
+95,Aurora Sky Station Chairlift,Chairlift,Abisko,Sweden,SE,68.3617,18.7234,https://worthajourney.com/cable-cars/aurora-sky-station-chairlift/
+96,Annapurna Cable Car,Gondola,Pokhara,Nepal,NP,28.2292,83.9499,https://worthajourney.com/cable-cars/annapurna-cable-car/
+97,Ajloun Cable Car,Gondola,Ajloun,Jordan,JO,32.3498,35.7263,https://worthajourney.com/cable-cars/ajloun-cable-car/
+98,Whistler Village Gondola,Gondola,Whistler,Canada,CA,50.1126,-122.9545,https://worthajourney.com/cable-cars/whistler-village-gondola/
+99,Kartepe Teleferik,Gondola,Kartepe,Turkey,TR,40.6894,30.1190,https://worthajourney.com/cable-cars/kartepe-teleferik/
+100,Snowbird Aerial Tram,Cable car,Snowbird,United States,US,40.5811,-111.6563,https://worthajourney.com/cable-cars/snowbird-aerial-tram/

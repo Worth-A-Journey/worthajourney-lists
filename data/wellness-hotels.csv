@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Forestis,Spa hotel,Brixen,Italy,IT,46.6758,11.7100,https://worthajourney.com/wellness-hotels/forestis/
+2,Genussdorf Gmachl,Spa hotel,Bergheim,Austria,AT,47.8397,13.0228,https://worthajourney.com/wellness-hotels/genussdorf-gmachl/
+3,Grand Hotel Permon,Spa hotel,Podbanské,Slovakia,SK,49.1472,19.9088,https://worthajourney.com/wellness-hotels/grand-hotel-permon/
+4,Interalpen Hotel Tyrol,Spa hotel,Telfs,Austria,AT,47.3303,11.1243,https://worthajourney.com/wellness-hotels/interalpen-hotel-tyrol/
+5,Rogner Bad Blumau,Spa hotel,Bad Blumau,Austria,AT,47.1248,16.0474,https://worthajourney.com/wellness-hotels/rogner-bad-blumau/
+6,Nayara Springs,Spa hotel,La Fortuna,Costa Rica,CR,10.5028,-84.6875,https://worthajourney.com/wellness-hotels/nayara-springs/
+7,Approdo Thalasso Spa,Spa hotel,San Marco di Castellabate,Italy,IT,40.2677,14.9343,https://worthajourney.com/wellness-hotels/approdo-thalasso-spa/
+8,Alpenresort Schwarz,Spa hotel,Mieming,Austria,AT,47.3072,10.9861,https://worthajourney.com/wellness-hotels/alpenresort-schwarz/
+9,Kashmir Wellness & Spa,Spa hotel,Velingrad,Bulgaria,BG,42.0010,23.9841,https://worthajourney.com/wellness-hotels/kashmir-wellness-spa/
+10,Alpen Tesitin,Spa hotel,Tesido,Italy,IT,46.7669,12.1028,https://worthajourney.com/wellness-hotels/alpen-tesitin/
+11,Schloss Elmau,Spa hotel,Krün,Germany,DE,47.4621,11.1865,https://worthajourney.com/wellness-hotels/schloss-elmau/
+12,Hotel Ramonda,Spa hotel,Rtanj,Serbia,RS,43.7729,21.9293,https://worthajourney.com/wellness-hotels/hotel-ramonda/
+13,Shiratama no Yu Kahou,Ryokan,Tsukioka Onsen,Japan,JP,37.8803,139.3146,https://worthajourney.com/wellness-hotels/shiratama-no-yu-kahou/
+14,Six Senses Douro Valley,Spa hotel,Samodães,Portugal,PT,41.1441,-7.8128,https://worthajourney.com/wellness-hotels/six-senses-douro-valley/
+15,Das Edelweiss,Spa hotel,Großarl,Austria,AT,47.2429,13.1955,https://worthajourney.com/wellness-hotels/das-edelweiss/
+16,Hotel Hubertus,Spa hotel,Olang,Italy,IT,46.7538,12.0100,https://worthajourney.com/wellness-hotels/hotel-hubertus/
+17,Senjin Onsen Iwa-no-Yu,Ryokan,Suzaka,Japan,JP,36.5892,138.3287,https://worthajourney.com/wellness-hotels/senjin-onsen-iwa-no-yu/
+18,Krallerhof,Spa hotel,Leogang,Austria,AT,47.4382,12.7360,https://worthajourney.com/wellness-hotels/krallerhof/
+19,Palac Saturna,Spa hotel,Czeladź,Poland,PL,50.3082,19.0696,https://worthajourney.com/wellness-hotels/palac-saturna/
+20,Otaru Kourakuen,Ryokan,Otaru,Japan,JP,43.1652,141.0501,https://worthajourney.com/wellness-hotels/otaru-kourakuen/
+21,Monastero Santa Rosa,Spa hotel,Conca dei Marini,Italy,IT,40.6207,14.5770,https://worthajourney.com/wellness-hotels/monastero-santa-rosa/
+22,Palmaïa,Spa hotel,Playa del Carmen,Mexico,MX,20.5975,-87.0962,https://worthajourney.com/wellness-hotels/palmaia/
+23,Llullu Llama Mountain Lodge,Spa hotel,Isinlivi,Ecuador,EC,-0.7587,-78.8715,https://worthajourney.com/wellness-hotels/llullu-llama-mountain-lodge/
+24,Tabacón Thermal Resort & Spa,Spa hotel,La Fortuna,Costa Rica,CR,10.4916,-84.7220,https://worthajourney.com/wellness-hotels/tabacon-thermal-resort-spa/
+25,Takefue,Ryokan,Minamioguni,Japan,JP,33.0648,131.1510,https://worthajourney.com/wellness-hotels/takefue/
+26,Hotel Quelle,Spa hotel,Valle di Casies,Italy,IT,46.8320,12.2367,https://worthajourney.com/wellness-hotels/hotel-quelle/
+27,Dr Irena Eris Hotel SPA,Spa hotel,Polanica-Zdrój,Poland,PL,50.4115,16.5029,https://worthajourney.com/wellness-hotels/dr-irena-eris-hotel-spa/
+28,Nemo,Spa hotel,Odesa,Ukraine,UA,46.4775,30.7650,https://worthajourney.com/wellness-hotels/nemo/
+29,Maximus Resort,Spa hotel,Brno,Czechia,CZ,49.2434,16.5156,https://worthajourney.com/wellness-hotels/maximus-resort/
+30,Arakur Ushuaia,Spa hotel,Ushuaia,Argentina,AR,-54.7839,-68.2593,https://worthajourney.com/wellness-hotels/arakur-ushuaia/
+31,Hotel der Engel,Spa hotel,Grän,Austria,AT,47.5025,10.5525,https://worthajourney.com/wellness-hotels/hotel-der-engel/
+32,STOCK resort,Spa hotel,Finkenberg,Austria,AT,47.1544,11.8232,https://worthajourney.com/wellness-hotels/stock-resort/
+33,Monart Destination Spa,Spa hotel,Wexford,Ireland,IE,52.5071,-6.6123,https://worthajourney.com/wellness-hotels/monart-destination-spa/
+34,Terra Nostra,Spa hotel,Furnas,Portugal,PT,37.7729,-25.3144,https://worthajourney.com/wellness-hotels/terra-nostra/
+35,Hotel Gerl,Spa hotel,Wals,Austria,AT,47.7823,12.9661,https://worthajourney.com/wellness-hotels/hotel-gerl/
+36,Chablé Yucatán,Spa hotel,Chocholá,Mexico,MX,20.7542,-89.8614,https://worthajourney.com/wellness-hotels/chable-yucatan/
+37,Canaan Hotel,Spa hotel,Safed,Israel,IL,32.9776,35.5072,https://worthajourney.com/wellness-hotels/canaan-hotel/
+38,Naturhotel Forsthofgut,Spa hotel,Leogang,Austria,AT,47.4392,12.7158,https://worthajourney.com/wellness-hotels/naturhotel-forsthofgut/
+39,Hotel Chalet Mirabell,Spa hotel,Avelengo,Italy,IT,46.6565,11.2210,https://worthajourney.com/wellness-hotels/hotel-chalet-mirabell/
+40,Santre Dolomythic Home,Spa hotel,Brixen,Italy,IT,46.6994,11.6737,https://worthajourney.com/wellness-hotels/santre-dolomythic-home/
+41,Adler Dolomiti,Spa hotel,Ortisei,Italy,IT,46.5745,11.6716,https://worthajourney.com/wellness-hotels/adler-dolomiti/
+42,Odyssey ClubHotel,Spa hotel,Kielce,Poland,PL,50.9120,20.6938,https://worthajourney.com/wellness-hotels/odyssey-clubhotel/
+43,Amonti & Lunaris,Spa hotel,Cadipietra,Italy,IT,46.9950,11.9775,https://worthajourney.com/wellness-hotels/amonti-lunaris/
+44,FuFu Kawaguchiko,Ryokan,Fujikawaguchiko,Japan,JP,35.5283,138.7596,https://worthajourney.com/wellness-hotels/fufu-kawaguchiko/
+45,Jagdhof,Spa hotel,Röhrnbach,Germany,DE,48.7389,13.5245,https://worthajourney.com/wellness-hotels/jagdhof/
+46,Hotel Gassenhof,Spa hotel,Racines,Italy,IT,46.9009,11.3189,https://worthajourney.com/wellness-hotels/hotel-gassenhof/
+47,Grand Hotel Therme,Spa hotel,Banya,Bulgaria,BG,41.8778,23.5306,https://worthajourney.com/wellness-hotels/grand-hotel-therme/
+48,H2otel,Spa hotel,Unhais da Serra,Portugal,PT,40.2662,-7.6241,https://worthajourney.com/wellness-hotels/h2otel/
+49,Los Pinos,Spa hotel,Villa Río Hondo,Argentina,AR,-27.4947,-64.8626,https://worthajourney.com/wellness-hotels/los-pinos/
+50,Stanglwirt,Spa hotel,Going,Austria,AT,47.5153,12.3438,https://worthajourney.com/wellness-hotels/stanglwirt/
+51,Reischlhof,Spa hotel,Wegscheid,Germany,DE,48.6604,13.7497,https://worthajourney.com/wellness-hotels/reischlhof/
+52,The Retreat at Blue Lagoon,Spa hotel,Grindavík,Iceland,IS,63.8796,-22.4514,https://worthajourney.com/wellness-hotels/the-retreat-at-blue-lagoon/
+53,The Banjaran Hotsprings Retreat,Spa hotel,Ipoh,Malaysia,MY,4.6311,101.1561,https://worthajourney.com/wellness-hotels/the-banjaran-hotsprings-retreat/
+54,Preidlhof,Spa hotel,Naturns,Italy,IT,46.6534,10.9997,https://worthajourney.com/wellness-hotels/preidlhof/
+55,Hotel Winkler,Spa hotel,San Lorenzo di Sebato,Italy,IT,46.7700,11.9222,https://worthajourney.com/wellness-hotels/hotel-winkler/
+56,Carmel Forest,Spa hotel,Mount Carmel,Israel,IL,32.7072,35.0107,https://worthajourney.com/wellness-hotels/carmel-forest/
+57,Stay Wellbeing & Lifestyle Resort,Spa hotel,Rawai,Thailand,TH,7.8106,98.3301,https://worthajourney.com/wellness-hotels/stay-wellbeing-lifestyle-resort/
+58,Mesés Shiraz,Spa hotel,Egerszalók,Hungary,HU,47.8696,20.3222,https://worthajourney.com/wellness-hotels/meses-shiraz/
+59,Quellenhof Passeier,Spa hotel,San Martino in Passiria,Italy,IT,46.7470,11.2063,https://worthajourney.com/wellness-hotels/quellenhof-passeier/
+60,Bagni Nuovi,Spa hotel,Bormio,Italy,IT,46.4864,10.3608,https://worthajourney.com/wellness-hotels/bagni-nuovi/
+61,Solea,Spa hotel,Fai della Paganella,Italy,IT,46.1759,11.0693,https://worthajourney.com/wellness-hotels/solea/
+62,Quellenhof Lazise,Spa hotel,Lazise,Italy,IT,45.4906,10.7411,https://worthajourney.com/wellness-hotels/quellenhof-lazise/
+63,Lefay Dolomiti,Spa hotel,Pinzolo,Italy,IT,46.1671,10.7664,https://worthajourney.com/wellness-hotels/lefay-dolomiti/
+64,Biwafront,Ryokan,Hikone,Japan,JP,35.2993,136.2547,https://worthajourney.com/wellness-hotels/biwafront/
+65,Ōtani Sansō,Ryokan,Nagato,Japan,JP,34.3260,131.1750,https://worthajourney.com/wellness-hotels/otani-sanso/
+66,Hakone Ginyu,Ryokan,Hakone,Japan,JP,35.2431,139.0627,https://worthajourney.com/wellness-hotels/hakone-ginyu/
+67,The Udaya,Spa hotel,Ubud,Indonesia,ID,-8.4864,115.2667,https://worthajourney.com/wellness-hotels/the-udaya/
+68,Bagni Vecchi,Spa hotel,Bormio,Italy,IT,46.4923,10.3611,https://worthajourney.com/wellness-hotels/bagni-vecchi/
+69,V Spa Hotel,Spa hotel,Tartu,Estonia,EE,58.3765,26.7287,https://worthajourney.com/wellness-hotels/v-spa-hotel/
+70,Padma Resort Ubud,Spa hotel,Ubud,Indonesia,ID,-8.3835,115.2745,https://worthajourney.com/wellness-hotels/padma-resort-ubud/
+71,Schwarzenstein,Spa hotel,Luttach,Italy,IT,46.9490,11.9193,https://worthajourney.com/wellness-hotels/schwarzenstein/
+72,Das König Ludwig,Spa hotel,Schwangau,Germany,DE,47.5825,10.7298,https://worthajourney.com/wellness-hotels/das-konig-ludwig/
+73,Schlosshotel Kitzbühel,Spa hotel,Kitzbühel,Austria,AT,47.4435,12.4040,https://worthajourney.com/wellness-hotels/schlosshotel-kitzbuhel/
+74,Alpenrose,Spa hotel,Maurach,Austria,AT,47.4214,11.7515,https://worthajourney.com/wellness-hotels/alpenrose/
+75,Lefay Lago di Garda,Spa hotel,Gargnano,Italy,IT,45.6869,10.6456,https://worthajourney.com/wellness-hotels/lefay-lago-di-garda/
+76,Udara Bali,Spa hotel,Seseh,Indonesia,ID,-8.6469,115.1147,https://worthajourney.com/wellness-hotels/udara-bali/
+77,Edem Resort & Spa,Spa hotel,Strilky,Ukraine,UA,49.6508,24.3498,https://worthajourney.com/wellness-hotels/edem-resort-spa/
+78,Yatsusankan,Ryokan,Hida,Japan,JP,36.2330,137.1878,https://worthajourney.com/wellness-hotels/yatsusankan/
+79,Mountain Resort Feuerberg,Spa hotel,Bodensdorf,Austria,AT,46.6945,13.9231,https://worthajourney.com/wellness-hotels/mountain-resort-feuerberg/
+80,Escape Haven,Spa hotel,Canggu,Indonesia,ID,-8.6464,115.1318,https://worthajourney.com/wellness-hotels/escape-haven/
+81,Kashoen,Ryokan,Hanamaki,Japan,JP,39.4553,141.0670,https://worthajourney.com/wellness-hotels/kashoen/
+82,Jagdhof,Spa hotel,Neustift im Stubaital,Austria,AT,47.1082,11.2997,https://worthajourney.com/wellness-hotels/jagdhof-neustift-im-stubaital/
+83,Posthotel,Spa hotel,Leavenworth,United States,US,47.5940,-120.6614,https://worthajourney.com/wellness-hotels/posthotel/
+84,Villa Contessa,Spa hotel,Bad Saarow,Germany,DE,52.2912,14.0570,https://worthajourney.com/wellness-hotels/villa-contessa/
+85,Materra,Spa hotel,Čepin,Croatia,HR,45.5022,18.5675,https://worthajourney.com/wellness-hotels/materra/
+86,Namia River Retreat,Spa hotel,Hội An,Vietnam,VN,15.8760,108.3491,https://worthajourney.com/wellness-hotels/namia-river-retreat/
+87,Six Senses Shaharut,Spa hotel,Shaharut,Israel,IL,29.9160,35.0060,https://worthajourney.com/wellness-hotels/six-senses-shaharut/
+88,Mövenpick Resort & Spa Fruške Terme,Spa hotel,Vrdnik,Serbia,RS,45.1414,19.7797,https://worthajourney.com/wellness-hotels/movenpick-resort-spa-fruske-terme/
+89,San Montano,Spa hotel,Lacco Ameno,Italy,IT,40.7562,13.8822,https://worthajourney.com/wellness-hotels/san-montano/
+90,TIA Wellness Resort,Spa hotel,Da Nang,Vietnam,VN,16.0313,108.2544,https://worthajourney.com/wellness-hotels/tia-wellness-resort/
+91,Manna,Spa hotel,Montagna,Italy,IT,46.3438,11.3253,https://worthajourney.com/wellness-hotels/manna/
+92,Grand Resort Bad Ragaz,Spa hotel,Bad Ragaz,Switzerland,CH,47.0004,9.5037,https://worthajourney.com/wellness-hotels/grand-resort-bad-ragaz/
+93,Manor House Hotel,Spa hotel,Alsager,United Kingdom,GB,53.0882,-2.2976,https://worthajourney.com/wellness-hotels/manor-house-hotel/
+94,Das Graseck,Spa hotel,Garmisch-Partenkirchen,Germany,DE,47.4668,11.1222,https://worthajourney.com/wellness-hotels/das-graseck/
+95,Hotel Izvor,Spa hotel,Aranđelovac,Serbia,RS,44.3087,20.5498,https://worthajourney.com/wellness-hotels/hotel-izvor/
+96,Sensi Azores,Spa hotel,Ginetes,Portugal,PT,37.8345,-25.8367,https://worthajourney.com/wellness-hotels/sensi-azores/
+97,Posthotel Achenkirch,Spa hotel,Achenkirch,Austria,AT,47.5272,11.7075,https://worthajourney.com/wellness-hotels/posthotel-achenkirch/
+98,Apartel Skhidnytsia,Spa hotel,Skhidnytsia,Ukraine,UA,49.2381,23.3605,https://worthajourney.com/wellness-hotels/apartel-skhidnytsia/
+99,Hotel Bania,Spa hotel,Białka Tatrzańska,Poland,PL,49.3887,20.0997,https://worthajourney.com/wellness-hotels/hotel-bania/
+100,Rio Perdido,Spa hotel,Fortuna,Costa Rica,CR,10.5947,-85.2015,https://worthajourney.com/wellness-hotels/rio-perdido/

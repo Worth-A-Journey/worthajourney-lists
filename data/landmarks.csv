@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Antwerp Central Station,Building,Antwerp,Belgium,BE,51.2173,4.4212,https://worthajourney.com/landmarks/antwerp-central-station/
+2,Grand-Place,Square,Brussels,Belgium,BE,50.8468,4.3524,https://worthajourney.com/landmarks/grand-place/
+3,Place Stanislas,Square,Nancy,France,FR,48.6936,6.1832,https://worthajourney.com/landmarks/place-stanislas/
+4,Plaza de España,Square,Seville,Spain,ES,37.3772,-5.9869,https://worthajourney.com/landmarks/plaza-de-espana/
+5,Teatro Colón,Building,Buenos Aires,Argentina,AR,-34.6012,-58.3833,https://worthajourney.com/landmarks/teatro-colon/
+6,Registan Square,Square,Samarkand,Uzbekistan,UZ,39.6546,66.9758,https://worthajourney.com/landmarks/registan-square/
+7,Hungarian Parliament Building,Building,Budapest,Hungary,HU,47.5071,19.0457,https://worthajourney.com/landmarks/hungarian-parliament-building/
+8,Taj Mahal,Monument,Agra,India,IN,27.1751,78.0421,https://worthajourney.com/landmarks/taj-mahal/
+9,Piazza del Campo,Square,Siena,Italy,IT,43.3184,11.3317,https://worthajourney.com/landmarks/piazza-del-campo/
+10,Prato della Valle,Square,Padua,Italy,IT,45.3986,11.8762,https://worthajourney.com/landmarks/prato-della-valle/
+11,Naqsh-e Jahan Square,Square,Isfahan,Iran,IR,32.6573,51.6775,https://worthajourney.com/landmarks/naqsh-e-jahan-square/
+12,Piazza Unità d'Italia,Square,Trieste,Italy,IT,45.6501,13.7678,https://worthajourney.com/landmarks/piazza-unita-d-italia/
+13,Palace Square,Square,St Petersburg,Russia,RU,59.9389,30.3150,https://worthajourney.com/landmarks/palace-square/
+14,Main Market Square,Square,Kraków,Poland,PL,50.0619,19.9368,https://worthajourney.com/landmarks/main-market-square/
+15,St. Peter's Square,Square,Vatican City,Holy See (Vatican City State),VA,41.9022,12.4568,https://worthajourney.com/landmarks/st-peter-s-square/
+16,Burj Khalifa,Tower,Dubai,United Arab Emirates,AE,25.1972,55.2744,https://worthajourney.com/landmarks/burj-khalifa/
+17,Teatro Amazonas,Building,Manaus,Brazil,BR,-3.1303,-60.0234,https://worthajourney.com/landmarks/teatro-amazonas/
+18,Palais Garnier,Building,Paris,France,FR,48.8720,2.3316,https://worthajourney.com/landmarks/palais-garnier/
+19,Vittoriano,Monument,Rome,Italy,IT,41.8946,12.4831,https://worthajourney.com/landmarks/vittoriano/
+20,Red Square,Square,Moscow,Russia,RU,55.7539,37.6208,https://worthajourney.com/landmarks/red-square/
+21,The Motherland Calls,Monument,Volgograd,Russia,RU,48.7423,44.5370,https://worthajourney.com/landmarks/the-motherland-calls/
+22,Dubai Fountain,Monument,Dubai,United Arab Emirates,AE,25.1952,55.2752,https://worthajourney.com/landmarks/dubai-fountain/
+23,St Mark's Square,Square,Venice,Italy,IT,45.4342,12.3385,https://worthajourney.com/landmarks/st-mark-s-square/
+24,Teatro Massimo,Building,Palermo,Italy,IT,38.1203,13.3575,https://worthajourney.com/landmarks/teatro-massimo/
+25,Wrocław Old Town Hall,Building,Wrocław,Poland,PL,51.1096,17.0321,https://worthajourney.com/landmarks/wrocaw-old-town-hall/
+26,Bolívar Square,Square,Maracay,Venezuela,VE,10.2494,-67.5933,https://worthajourney.com/landmarks/bolivar-square/
+27,National Parliament House,Building,Dhaka,Bangladesh,BD,23.7624,90.3785,https://worthajourney.com/landmarks/national-parliament-house/
+28,Heydar Aliyev Center,Building,Baku,Azerbaijan,AZ,40.3959,49.8678,https://worthajourney.com/landmarks/heydar-aliyev-center/
+29,Alexandre III Bridge,Bridge,Paris,France,FR,48.8639,2.3136,https://worthajourney.com/landmarks/alexandre-iii-bridge/
+30,Zacharias of Hradec Square,Square,Telč,Czechia,CZ,49.1842,15.4538,https://worthajourney.com/landmarks/zacharias-of-hradec-square/
+31,Sydney Opera House,Building,Sydney,Australia,AU,-33.8568,151.2153,https://worthajourney.com/landmarks/sydney-opera-house/
+32,Old Town Square,Square,Prague,Czechia,CZ,50.0876,14.4212,https://worthajourney.com/landmarks/old-town-square/
+33,Hallstatt Skywalk,Tower,Hallstatt,Austria,AT,47.5646,13.6500,https://worthajourney.com/landmarks/hallstatt-skywalk/
+34,Petronas Twin Towers,Tower,Kuala Lumpur,Malaysia,MY,3.1575,101.7116,https://worthajourney.com/landmarks/petronas-twin-towers/
+35,Khaju Bridge,Bridge,Isfahan,Iran,IR,32.6368,51.6833,https://worthajourney.com/landmarks/khaju-bridge/
+36,Dalimil Lookout Tower,Tower,Staré Město pod Sněžníkem,Czechia,CZ,50.1948,16.9795,https://worthajourney.com/landmarks/dalimil-lookout-tower/
+37,Anichkov Bridge,Bridge,Saint Petersburg,Russia,RU,59.9332,30.3434,https://worthajourney.com/landmarks/anichkov-bridge/
+38,Palau de la Música Catalana,Building,Barcelona,Spain,ES,41.3876,2.1753,https://worthajourney.com/landmarks/palau-de-la-musica-catalana/
+39,Place du Capitole,Square,Toulouse,France,FR,43.6044,1.4434,https://worthajourney.com/landmarks/place-du-capitole/
+40,Plaza de Armas,Square,Trujillo,Peru,PE,-8.1118,-79.0287,https://worthajourney.com/landmarks/plaza-de-armas/
+41,Monument of Honour,Monument,Samsun,Turkey,TR,41.2891,36.3365,https://worthajourney.com/landmarks/monument-of-honour/
+42,Big Ben,Tower,London,United Kingdom,GB,51.5007,-0.1246,https://worthajourney.com/landmarks/big-ben/
+43,Plaza del Pilar,Square,Zaragoza,Spain,ES,41.6563,-0.8789,https://worthajourney.com/landmarks/plaza-del-pilar/
+44,Cordouan Lighthouse,Lighthouse,Le Verdon-sur-Mer,France,FR,45.5865,-1.1731,https://worthajourney.com/landmarks/cordouan-lighthouse/
+45,Millennium of Russia Monument,Monument,Veliky Novgorod,Russia,RU,58.5211,31.2752,https://worthajourney.com/landmarks/millennium-of-russia-monument/
+46,Tomb of Hafez,Monument,Shiraz,Iran,IR,29.6258,52.5585,https://worthajourney.com/landmarks/tomb-of-hafez/
+47,Piazza della Signoria,Square,Florence,Italy,IT,43.7697,11.2556,https://worthajourney.com/landmarks/piazza-della-signoria/
+48,Westerheversand Lighthouse,Lighthouse,Westerhever,Germany,DE,54.3734,8.6399,https://worthajourney.com/landmarks/westerheversand-lighthouse/
+49,Semperoper,Building,Dresden,Germany,DE,51.0545,13.7353,https://worthajourney.com/landmarks/semperoper/
+50,Charles Bridge,Bridge,Prague,Czechia,CZ,50.0865,14.4114,https://worthajourney.com/landmarks/charles-bridge/
+51,Piazza dei Miracoli,Square,Pisa,Italy,IT,43.7232,10.3947,https://worthajourney.com/landmarks/piazza-dei-miracoli/
+52,Heceta Head Lighthouse,Lighthouse,Florence,United States,US,44.1374,-124.1281,https://worthajourney.com/landmarks/heceta-head-lighthouse/
+53,Vienna City Hall,Building,Vienna,Austria,AT,48.2110,16.3566,https://worthajourney.com/landmarks/vienna-city-hall/
+54,Patan Durbar Square,Square,Lalitpur,Nepal,NP,27.6727,85.3253,https://worthajourney.com/landmarks/patan-durbar-square/
+55,Golden Gate Bridge,Bridge,San Francisco,United States,US,37.8199,-122.4786,https://worthajourney.com/landmarks/golden-gate-bridge/
+56,Guggenheim Museum Bilbao,Building,Bilbao,Spain,ES,43.2687,-2.9340,https://worthajourney.com/landmarks/guggenheim-museum-bilbao/
+57,National Flag Monument,Monument,Rosario,Argentina,AR,-32.9479,-60.6304,https://worthajourney.com/landmarks/national-flag-monument/
+58,Bhaktapur Durbar Square,Square,Bhaktapur,Nepal,NP,27.6721,85.4283,https://worthajourney.com/landmarks/bhaktapur-durbar-square/
+59,5 Fingers,Tower,Obertraun,Austria,AT,47.5286,13.6920,https://worthajourney.com/landmarks/5-fingers/
+60,Founders of the Bulgarian State Monument,Monument,Shumen,Bulgaria,BG,43.2619,26.9229,https://worthajourney.com/landmarks/founders-of-the-bulgarian-state-monument/
+61,Portland Head Light,Lighthouse,Cape Elizabeth,United States,US,43.6231,-70.2079,https://worthajourney.com/landmarks/portland-head-light/
+62,Ponte dei Salti,Bridge,Lavertezzo,Switzerland,CH,46.2601,8.8360,https://worthajourney.com/landmarks/ponte-dei-salti/
+63,Alcántara Roman Bridge,Bridge,Alcántara,Spain,ES,39.7224,-6.8924,https://worthajourney.com/landmarks/alcantara-roman-bridge/
+64,Shibuya Sky,Tower,Tokyo,Japan,JP,35.6587,139.7020,https://worthajourney.com/landmarks/shibuya-sky/
+65,Rio Antirrio Bridge,Bridge,Patras,Greece,GR,38.3206,21.7733,https://worthajourney.com/landmarks/rio-antirrio-bridge/
+66,25 de Abril Bridge,Bridge,Lisbon,Portugal,PT,38.6995,-9.1792,https://worthajourney.com/landmarks/25-de-abril-bridge/
+67,Chrysler Building,Tower,New York,United States,US,40.7516,-73.9755,https://worthajourney.com/landmarks/chrysler-building/
+68,Plaza de Armas,Square,Cusco,Peru,PE,-13.5168,-71.9788,https://worthajourney.com/landmarks/plaza-de-armas-cusco/
+69,Kuwait Towers,Tower,Kuwait City,Kuwait,KW,29.3896,48.0027,https://worthajourney.com/landmarks/kuwait-towers/
+70,Hamburg Town Hall,Building,Hamburg,Germany,DE,53.5504,9.9923,https://worthajourney.com/landmarks/hamburg-town-hall/
+71,Dosan Seowon,Building,Andong,South Korea,KR,36.7271,128.8432,https://worthajourney.com/landmarks/dosan-seowon/
+72,Sarangkot View Tower,Tower,Pokhara,Nepal,NP,28.2460,83.9487,https://worthajourney.com/landmarks/sarangkot-view-tower/
+73,Sydney Harbour Bridge,Bridge,Sydney,Australia,AU,-33.8523,151.2108,https://worthajourney.com/landmarks/sydney-harbour-bridge/
+74,Piazza delle Erbe,Square,Verona,Italy,IT,45.4433,10.9970,https://worthajourney.com/landmarks/piazza-delle-erbe/
+75,Monument to the Assen Dynasty,Monument,Veliko Tarnovo,Bulgaria,BG,43.0825,25.6376,https://worthajourney.com/landmarks/monument-to-the-assen-dynasty/
+76,USS Arizona Memorial,Monument,Honolulu,United States,US,21.3647,-157.9499,https://worthajourney.com/landmarks/uss-arizona-memorial/
+77,Kirkilai Observation Tower,Tower,Biržai,Lithuania,LT,56.2485,24.6906,https://worthajourney.com/landmarks/kirkilai-observation-tower/
+78,Buzludzha Monument,Monument,Shipka,Bulgaria,BG,42.7356,25.3939,https://worthajourney.com/landmarks/buzludzha-monument/
+79,Magic Fountain of Montjuïc,Monument,Barcelona,Spain,ES,41.3712,2.1517,https://worthajourney.com/landmarks/magic-fountain-of-montjuic/
+80,Juscelino Kubitschek Bridge,Bridge,Brasília,Brazil,BR,-15.8229,-47.8300,https://worthajourney.com/landmarks/juscelino-kubitschek-bridge/
+81,Christ the Redeemer,Monument,Rio de Janeiro,Brazil,BR,-22.9519,-43.2105,https://worthajourney.com/landmarks/christ-the-redeemer/
+82,Stegastein,Tower,Aurland,Norway,NO,60.9086,7.2121,https://worthajourney.com/landmarks/stegastein/
+83,Bab al-Yemen,Monument,Sanaa,Yemen,YE,15.3512,44.2159,https://worthajourney.com/landmarks/bab-al-yemen/
+84,Khai Dinh Mausoleum,Monument,Hue,Vietnam,VN,16.3990,107.5903,https://worthajourney.com/landmarks/khai-dinh-mausoleum/
+85,Palacio de Bellas Artes,Building,Mexico City,Mexico,MX,19.4352,-99.1412,https://worthajourney.com/landmarks/palacio-de-bellas-artes/
+86,Alexander the Great Statue,Monument,Skopje,North Macedonia,MK,41.9959,21.4315,https://worthajourney.com/landmarks/alexander-the-great-statue/
+87,Trevi Fountain,Monument,Rome,Italy,IT,41.9009,12.4833,https://worthajourney.com/landmarks/trevi-fountain/
+88,SUMMIT One Vanderbilt,Tower,New York,United States,US,40.7528,-73.9787,https://worthajourney.com/landmarks/summit-one-vanderbilt/
+89,Harukas 300,Tower,Osaka,Japan,JP,34.6463,135.5133,https://worthajourney.com/landmarks/harukas-300/
+90,Soviet War Memorial Treptow,Monument,Berlin,Germany,DE,52.4861,13.4720,https://worthajourney.com/landmarks/soviet-war-memorial-treptow/
+91,Royal Opera House Muscat,Building,Muscat,Oman,OM,23.6140,58.4685,https://worthajourney.com/landmarks/royal-opera-house-muscat/
+92,Russian-Georgian Friendship Monument,Monument,Gudauri,Georgia,GE,42.4921,44.4528,https://worthajourney.com/landmarks/russian-georgian-friendship-monument/
+93,Fanad Head Lighthouse,Lighthouse,Donegal,Ireland,IE,55.2761,-7.6318,https://worthajourney.com/landmarks/fanad-head-lighthouse/
+94,Anıtkabir,Monument,Ankara,Turkey,TR,39.9249,32.8371,https://worthajourney.com/landmarks/antkabir/
+95,Galleria Vittorio Emanuele II,Building,Milan,Italy,IT,45.4658,9.1899,https://worthajourney.com/landmarks/galleria-vittorio-emanuele-ii/
+96,Cape St. Vincent Lighthouse,Lighthouse,Sagres,Portugal,PT,37.0230,-8.9965,https://worthajourney.com/landmarks/cape-st-vincent-lighthouse/
+97,Plaza Mayor,Square,Madrid,Spain,ES,40.4155,-3.7074,https://worthajourney.com/landmarks/plaza-mayor/
+98,Morelia Aqueduct,Bridge,Morelia,Mexico,MX,19.6969,-101.1690,https://worthajourney.com/landmarks/morelia-aqueduct/
+99,Merkinė Observation Tower,Tower,Merkinė,Lithuania,LT,54.1637,24.1745,https://worthajourney.com/landmarks/merkine-observation-tower/
+100,Santiago R. Palmer Plaza,Square,Caguas,Puerto Rico,PR,18.2347,-66.0352,https://worthajourney.com/landmarks/santiago-r-palmer-plaza/

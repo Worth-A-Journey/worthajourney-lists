@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Alyan Family Wines,Wine estate,Pirque,Chile,CL,-33.6933,-70.5350,https://worthajourney.com/wineries/alyan-family-wines/
+2,Varaison Vineyards & Winery,Wine estate,Palisade,United States,US,39.1119,-108.3558,https://worthajourney.com/wineries/varaison-vineyards-winery/
+3,Pago de Carraovejas,Wine estate,Peñafiel,Spain,ES,41.5947,-4.0879,https://worthajourney.com/wineries/pago-de-carraovejas/
+4,Tura Winery,Wine estate,Rehelim,West Bank,PS,32.1029,35.2568,https://worthajourney.com/wineries/tura-winery/
+5,Antinori nel Chianti Classico,Wine estate,Bargino,Italy,IT,43.6124,11.1916,https://worthajourney.com/wineries/antinori-nel-chianti-classico/
+6,Babylonstoren,Wine estate,Simondium,South Africa,ZA,-33.8237,18.9267,https://worthajourney.com/wineries/babylonstoren/
+7,Tenuta Casanova,Wine estate,Castellina in Chianti,Italy,IT,43.4770,11.2258,https://worthajourney.com/wineries/tenuta-casanova/
+8,Blue Ridge Estate Vineyard & Winery,Wine estate,Saylorsburg,United States,US,40.8999,-75.4103,https://worthajourney.com/wineries/blue-ridge-estate-vineyard-winery/
+9,Delaire Graff Estate,Wine estate,Stellenbosch,South Africa,ZA,-33.9203,18.9218,https://worthajourney.com/wineries/delaire-graff-estate/
+10,Marqués de Murrieta,Wine estate,Logroño,Spain,ES,42.4579,-2.3820,https://worthajourney.com/wineries/marques-de-murrieta/
+11,Lowe Family Wine Co.,Wine estate,Mudgee,Australia,AU,-32.5382,149.5817,https://worthajourney.com/wineries/lowe-family-wine-co/
+12,Bodega Catena Zapata,Wine estate,Luján de Cuyo,Argentina,AR,-33.1641,-68.9196,https://worthajourney.com/wineries/bodega-catena-zapata/
+13,Caprio Cellars,Wine estate,Walla Walla,United States,US,46.0129,-118.3608,https://worthajourney.com/wineries/caprio-cellars/
+14,Quinta de Sant’Ana,Wine estate,Gradil,Portugal,PT,38.9789,-9.2806,https://worthajourney.com/wineries/quinta-de-santana/
+15,Vineria Kakheti,Wine estate,Tokhliauri,Georgia,GE,41.7263,45.4217,https://worthajourney.com/wineries/vineria-kakheti/
+16,JOLO Winery & Vineyards,Wine estate,Pilot Mountain,United States,US,36.3700,-80.5242,https://worthajourney.com/wineries/jolo-winery-vineyards/
+17,Oliver’s Taranga Vineyards,Wine estate,McLaren Vale,Australia,AU,-35.1886,138.5312,https://worthajourney.com/wineries/olivers-taranga-vineyards/
+18,Clos Apalta,Wine estate,Apalta,Chile,CL,-34.6072,-71.2961,https://worthajourney.com/wineries/clos-apalta/
+19,Caymus Vineyards,Wine estate,Rutherford,United States,US,38.4707,-122.3985,https://worthajourney.com/wineries/caymus-vineyards/
+20,Cantina del Vesuvio,Wine estate,Trecase,Italy,IT,40.7808,14.4408,https://worthajourney.com/wineries/cantina-del-vesuvio/
+21,Nurellari Winery,Wine estate,Fushë Peshtan,Albania,AL,40.6468,20.0410,https://worthajourney.com/wineries/nurellari-winery/
+22,Silver Springs Winery,Wine estate,Burdett,United States,US,42.4469,-76.8633,https://worthajourney.com/wineries/silver-springs-winery/
+23,Alpha Estate,Wine estate,Amyntaion,Greece,GR,40.6946,21.7064,https://worthajourney.com/wineries/alpha-estate/
+24,Slate Theory Winery,Wine estate,Fredericksburg,United States,US,30.2209,-98.7178,https://worthajourney.com/wineries/slate-theory-winery/
+25,Ayia Mavri Winery,Wine estate,Koilani,Cyprus,CY,34.8440,32.8630,https://worthajourney.com/wineries/ayia-mavri-winery/
+26,La Lastra,Wine estate,Siena,Italy,IT,43.3231,11.3050,https://worthajourney.com/wineries/la-lastra/
+27,Poggio Amorelli,Wine estate,Castellina in Chianti,Italy,IT,43.4784,11.2961,https://worthajourney.com/wineries/poggio-amorelli/
+28,Zuccardi Valle de Uco,Wine estate,Paraje Altamira,Argentina,AR,-33.7724,-69.1566,https://worthajourney.com/wineries/zuccardi-valle-de-uco/
+29,Cantina Ligios,Wine estate,La Muddizza,Italy,IT,40.9129,8.7914,https://worthajourney.com/wineries/cantina-ligios/
+30,Samuel’s Gorge,Wine estate,McLaren Vale,Australia,AU,-35.1695,138.5472,https://worthajourney.com/wineries/samuels-gorge/
+31,Vinarija Mašanović,Wine estate,Virpazar,Montenegro,ME,42.2401,19.0835,https://worthajourney.com/wineries/vinarija-masanovic/
+32,Gerovassiliou Estate,Wine estate,Epanomi,Greece,GR,40.4495,22.9252,https://worthajourney.com/wineries/gerovassiliou-estate/
+33,De’ Ricci Cantine Storiche,Wine estate,Montepulciano,Italy,IT,43.0935,11.7808,https://worthajourney.com/wineries/de-ricci-cantine-storiche/
+34,Valenzano Winery,Wine estate,Shamong,United States,US,39.7912,-74.7364,https://worthajourney.com/wineries/valenzano-winery/
+35,Opus One Winery,Wine estate,Oakville,United States,US,38.4408,-122.4005,https://worthajourney.com/wineries/opus-one-winery/
+36,Bodegas Martín Códax,Wine estate,Cambados,Spain,ES,42.5201,-8.7924,https://worthajourney.com/wineries/bodegas-martin-codax/
+37,Momik WineCube,Wine estate,Areni,Armenia,AM,39.7186,45.1627,https://worthajourney.com/wineries/momik-winecube/
+38,Barboursville Vineyards,Wine estate,Barboursville,United States,US,38.1596,-78.2771,https://worthajourney.com/wineries/barboursville-vineyards/
+39,Chateau Morrisette,Wine estate,Floyd,United States,US,36.7938,-80.3955,https://worthajourney.com/wineries/chateau-morrisette/
+40,Viña Concha y Toro,Wine estate,Pirque,Chile,CL,-33.6356,-70.5740,https://worthajourney.com/wineries/vina-concha-y-toro/
+41,Gambino Vini,Wine estate,Linguaglossa,Italy,IT,37.8138,15.1194,https://worthajourney.com/wineries/gambino-vini/
+42,Vergelegen,Wine estate,Somerset West,South Africa,ZA,-34.0773,18.8917,https://worthajourney.com/wineries/vergelegen/
+43,Matuško Winery,Wine estate,Potomje,Croatia,HR,42.9398,17.3387,https://worthajourney.com/wineries/matusko-winery/
+44,Alpeta Winery,Wine estate,Roshnik,Albania,AL,40.7289,20.0413,https://worthajourney.com/wineries/alpeta-winery/
+45,Château Cantenac,Wine estate,Saint-Émilion,France,FR,44.8942,-0.2005,https://worthajourney.com/wineries/chateau-cantenac/
+46,Bodegas Ramón Bilbao,Wine estate,Haro,Spain,ES,42.5699,-2.8608,https://worthajourney.com/wineries/bodegas-ramon-bilbao/
+47,Maison Ruinart,Champagne house,Reims,France,FR,49.2448,4.0545,https://worthajourney.com/wineries/maison-ruinart/
+48,Kanu Wines,Wine estate,Stellenbosch,South Africa,ZA,-33.8900,18.8179,https://worthajourney.com/wineries/kanu-wines/
+49,Tenuta Torciano,Wine estate,San Gimignano,Italy,IT,43.5091,11.0817,https://worthajourney.com/wineries/tenuta-torciano/
+50,Viña Montes,Wine estate,Santa Cruz,Chile,CL,-34.6161,-71.2739,https://worthajourney.com/wineries/vina-montes/
+51,Bodegas Gómez Cruzado,Wine estate,Haro,Spain,ES,42.5838,-2.8474,https://worthajourney.com/wineries/bodegas-gomez-cruzado/
+52,López de Heredia Viña Tondonia,Wine estate,Haro,Spain,ES,42.5844,-2.8482,https://worthajourney.com/wineries/lopez-de-heredia-vina-tondonia/
+53,Cantina Sorrentino,Wine estate,Boscotrecase,Italy,IT,40.7835,14.4607,https://worthajourney.com/wineries/cantina-sorrentino/
+54,Bodegas Ysios,Wine estate,Laguardia,Spain,ES,42.5688,-2.5908,https://worthajourney.com/wineries/bodegas-ysios/
+55,Oliver Winery,Wine estate,Bloomington,United States,US,39.2820,-86.5216,https://worthajourney.com/wineries/oliver-winery/
+56,Saint Anna Winery,Wine estate,Naxos,Greece,GR,37.0706,25.4321,https://worthajourney.com/wineries/saint-anna-winery/
+57,S&S Winery,Wine estate,Ohrid,North Macedonia,MK,41.1384,20.7758,https://worthajourney.com/wineries/s-s-winery/
+58,Johnson Estate Winery,Wine estate,Westfield,United States,US,42.3071,-79.6064,https://worthajourney.com/wineries/johnson-estate-winery/
+59,Vinarija Aleksandrović,Wine estate,Topola,Serbia,RS,44.2265,20.6534,https://worthajourney.com/wineries/vinarija-aleksandrovic/
+60,Pearmund Cellars,Wine estate,Broad Run,United States,US,38.7833,-77.7396,https://worthajourney.com/wineries/pearmund-cellars/
+61,Villa il Pozzo,Wine estate,Certaldo,Italy,IT,43.5757,11.1018,https://worthajourney.com/wineries/villa-il-pozzo/
+62,Davis Estates,Wine estate,Calistoga,United States,US,38.5705,-122.5143,https://worthajourney.com/wineries/davis-estates/
+63,Bodega Pepe Mendoza,Wine estate,Llíber,Spain,ES,38.7308,0.0072,https://worthajourney.com/wineries/bodega-pepe-mendoza/
+64,Rockford Wines,Wine estate,Tanunda,Australia,AU,-34.5569,138.9608,https://worthajourney.com/wineries/rockford-wines/
+65,Atlantis Niagara Winery,Wine estate,Lincoln,Canada,CA,43.1911,-79.4534,https://worthajourney.com/wineries/atlantis-niagara-winery/
+66,Bibich Winery,Wine estate,Plastovo,Croatia,HR,43.8810,15.9193,https://worthajourney.com/wineries/bibich-winery/
+67,Quinta da Pacheca,Wine estate,Lamego,Portugal,PT,41.1553,-7.7981,https://worthajourney.com/wineries/quinta-da-pacheca/
+68,Château d’Yquem,Wine estate,Sauternes,France,FR,44.5436,-0.3281,https://worthajourney.com/wineries/chateau-dyquem/
+69,Viña Aquitania,Wine estate,Peñalolén,Chile,CL,-33.4906,-70.5499,https://worthajourney.com/wineries/vina-aquitania/
+70,Bodegas Tritium,Wine estate,Cenicero,Spain,ES,42.4810,-2.6465,https://worthajourney.com/wineries/bodegas-tritium/
+71,Oldenburg Vineyards,Wine estate,Stellenbosch,South Africa,ZA,-33.9294,18.9462,https://worthajourney.com/wineries/oldenburg-vineyards/
+72,Forest Edge Winery,Wine estate,Shepherdsville,United States,US,37.9246,-85.6665,https://worthajourney.com/wineries/forest-edge-winery/
+73,Casa Valduga,Wine estate,Bento Gonçalves,Brazil,BR,-29.1770,-51.5562,https://worthajourney.com/wineries/casa-valduga/
+74,Ravanello Winery,Wine estate,Gramado,Brazil,BR,-29.3961,-50.9232,https://worthajourney.com/wineries/ravanello-winery/
+75,Ca’ dei Frati,Wine estate,Sirmione,Italy,IT,45.4547,10.6168,https://worthajourney.com/wineries/ca-dei-frati/
+76,Champagne Leclerc Briant,Champagne house,Épernay,France,FR,49.0444,3.9443,https://worthajourney.com/wineries/champagne-leclerc-briant/
+77,Pillitteri Estates,Wine estate,Niagara-on-the-Lake,Canada,CA,43.2292,-79.1140,https://worthajourney.com/wineries/pillitteri-estates/
+78,Château Margaux,Wine estate,Margaux,France,FR,45.0444,-0.6688,https://worthajourney.com/wineries/chateau-margaux/
+79,Viña Santa Rita,Wine estate,Buin,Chile,CL,-33.7246,-70.6801,https://worthajourney.com/wineries/vina-santa-rita/
+80,Ktima Palivou,Wine estate,Nemea,Greece,GR,37.8073,22.6946,https://worthajourney.com/wineries/ktima-palivou/
+81,Bodega Otazu,Wine estate,Otazu,Spain,ES,42.7861,-1.7810,https://worthajourney.com/wineries/bodega-otazu/
+82,Castello di Verrazzano,Wine estate,Greve in Chianti,Italy,IT,43.6016,11.2852,https://worthajourney.com/wineries/castello-di-verrazzano/
+83,Lambouri Winery,Wine estate,Platres,Cyprus,CY,34.8762,32.8372,https://worthajourney.com/wineries/lambouri-winery/
+84,Schnebly Redland’s Winery,Wine estate,Homestead,United States,US,25.4856,-80.5407,https://worthajourney.com/wineries/schnebly-redlands-winery/
+85,Quails’ Gate Winery,Wine estate,West Kelowna,Canada,CA,49.8427,-119.5665,https://worthajourney.com/wineries/quails-gate-winery/
+86,King Family Vineyards,Wine estate,Crozet,United States,US,38.0622,-78.7286,https://worthajourney.com/wineries/king-family-vineyards/
+87,Tzora Vineyards,Wine estate,Tzora,Israel,IL,31.7616,34.9696,https://worthajourney.com/wineries/tzora-vineyards/
+88,HALL St. Helena,Wine estate,St. Helena,United States,US,38.4894,-122.4528,https://worthajourney.com/wineries/hall-st-helena/
+89,William Chris Vineyards,Wine estate,Hye,United States,US,30.2435,-98.5712,https://worthajourney.com/wineries/william-chris-vineyards/
+90,Anaia Wines,Wine estate,Agrelo,Argentina,AR,-33.1813,-68.8912,https://worthajourney.com/wineries/anaia-wines/
+91,Hilltop Wine Estate,Wine estate,Neszmély,Hungary,HU,47.7252,18.3780,https://worthajourney.com/wineries/hilltop-wine-estate/
+92,Dominio Lubiano,Wine estate,Pesquera de Duero,Spain,ES,41.6393,-4.1727,https://worthajourney.com/wineries/dominio-lubiano/
+93,Creation Wines,Wine estate,Hermanus,South Africa,ZA,-34.3313,19.3268,https://worthajourney.com/wineries/creation-wines/
+94,V. Sattui Winery,Wine estate,St. Helena,United States,US,38.4890,-122.4482,https://worthajourney.com/wineries/v-sattui-winery/
+95,Quinta do Vallado,Wine estate,Peso da Régua,Portugal,PT,41.1624,-7.7667,https://worthajourney.com/wineries/quinta-do-vallado/
+96,Bodegas Vivanco,Wine estate,Briones,Spain,ES,42.5394,-2.7776,https://worthajourney.com/wineries/bodegas-vivanco/
+97,Kies Family Wines,Wine estate,Lyndoch,Australia,AU,-34.5945,138.8827,https://worthajourney.com/wineries/kies-family-wines/
+98,Halleck Vineyard,Wine estate,Sebastopol,United States,US,38.3592,-122.8726,https://worthajourney.com/wineries/halleck-vineyard/
+99,Gritelles Winery,Wine estate,Cornudella de Montsant,Spain,ES,41.2639,0.9051,https://worthajourney.com/wineries/gritelles-winery/
+100,Ante Sladić Winery,Wine estate,Plastovo,Croatia,HR,43.8803,15.9248,https://worthajourney.com/wineries/ante-sladic-winery/

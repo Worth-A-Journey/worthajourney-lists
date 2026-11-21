@@ -1,101 +1,101 @@
 rank,name,kind,city,country,country_code,latitude,longitude,url
-1,State Hall of the Austrian National Library,Historic library,Vienna,Austria,AT,48.2063,16.3669,https://worthajourney.com/libraries/#state-hall-of-the-austrian-national-library
-2,Deichman Bjørvika,Public library,Oslo,Norway,NO,59.9087,10.7526,https://worthajourney.com/libraries/#deichman-bjorvika
-3,Qatar National Library,National library,Doha,Qatar,QA,25.3180,51.4416,https://worthajourney.com/libraries/#qatar-national-library
-4,Stuttgart City Library,Public library,Stuttgart,Germany,DE,48.7900,9.1831,https://worthajourney.com/libraries/#stuttgart-city-library
-5,Oodi Helsinki Central Library,Public library,Helsinki,Finland,FI,60.1737,24.9379,https://worthajourney.com/libraries/#oodi-helsinki-central-library
-6,Abbey Library of St Gall,Monastery library,St. Gallen,Switzerland,CH,47.4228,9.3770,https://worthajourney.com/libraries/#abbey-library-of-st-gall
-7,Admont Abbey Library,Monastery library,Admont,Austria,AT,47.5746,14.4630,https://worthajourney.com/libraries/#admont-abbey-library
-8,Malmö City Library,Public library,Malmö,Sweden,SE,55.6004,12.9941,https://worthajourney.com/libraries/#malmo-city-library
-9,Metropolitan Ervin Szabó Library,Public library,Budapest,Hungary,HU,47.4895,19.0648,https://worthajourney.com/libraries/#metropolitan-ervin-szabo-library
-10,Seattle Central Library,Public library,Seattle,United States,US,47.6068,-122.3326,https://worthajourney.com/libraries/#seattle-central-library
-11,"Bibliothèque nationale de France, Richelieu",National library,Paris,France,FR,48.8674,2.3385,https://worthajourney.com/libraries/#bibliotheque-nationale-de-france-richelieu
-12,State Library Victoria,Public library,Melbourne,Australia,AU,-37.8097,144.9655,https://worthajourney.com/libraries/#state-library-victoria
-13,Boston Public Library,Public library,Boston,United States,US,42.3492,-71.0787,https://worthajourney.com/libraries/#boston-public-library
-14,Royal Portuguese Cabinet of Reading,Historic library,Rio de Janeiro,Brazil,BR,-22.9053,-43.1822,https://worthajourney.com/libraries/#royal-portuguese-cabinet-of-reading
-15,Austin Central Library,Public library,Austin,United States,US,30.2658,-97.7519,https://worthajourney.com/libraries/#austin-central-library
-16,Calgary Central Library,Public library,Calgary,Canada,CA,51.0454,-114.0550,https://worthajourney.com/libraries/#calgary-central-library
-17,Gabriel García Márquez Library,Public library,Barcelona,Spain,ES,41.4173,2.2000,https://worthajourney.com/libraries/#gabriel-garcia-marquez-library
-18,Ishikawa Prefectural Library,Public library,Kanazawa,Japan,JP,36.5488,136.6803,https://worthajourney.com/libraries/#ishikawa-prefectural-library
-19,Library of Congress,National library,"Washington, DC",United States,US,38.8887,-77.0047,https://worthajourney.com/libraries/#library-of-congress
-20,Bibliotheca Alexandrina,National library,Alexandria,Egypt,EG,31.2089,29.9092,https://worthajourney.com/libraries/#bibliotheca-alexandrina
-21,Salt Lake City Public Library,Public library,Salt Lake City,United States,US,40.7600,-111.8846,https://worthajourney.com/libraries/#salt-lake-city-public-library
-22,Mohammed bin Rashid Library,Public library,Dubai,United Arab Emirates,AE,25.2209,55.3439,https://worthajourney.com/libraries/#mohammed-bin-rashid-library
-23,Cerritos Library,Public library,Cerritos,United States,US,33.8670,-118.0647,https://worthajourney.com/libraries/#cerritos-library
-24,Klementinum,Historic library,Prague,Czechia,CZ,50.0866,14.4160,https://worthajourney.com/libraries/#klementinum
-25,Neude Library,Public library,Utrecht,Netherlands,NL,52.0931,5.1180,https://worthajourney.com/libraries/#neude-library
-26,Biblioteca Vasconcelos,Public library,Mexico City,Mexico,MX,19.4465,-99.1510,https://worthajourney.com/libraries/#biblioteca-vasconcelos
-27,LocHal Library,Public library,Tilburg,Netherlands,NL,51.5611,5.0856,https://worthajourney.com/libraries/#lochal-library
-28,Het Predikheren,Public library,Mechelen,Belgium,BE,51.0334,4.4797,https://worthajourney.com/libraries/#het-predikheren
-29,John Rylands Library,Historic library,Manchester,United Kingdom,GB,53.4803,-2.2487,https://worthajourney.com/libraries/#john-rylands-library
-30,Stockholm Public Library,Public library,Stockholm,Sweden,SE,59.3435,18.0545,https://worthajourney.com/libraries/#stockholm-public-library
-31,Biblioteca Palafoxiana,Historic library,Puebla,Mexico,MX,19.0422,-98.1987,https://worthajourney.com/libraries/#biblioteca-palafoxiana
-32,Joanina Library,University library,Coimbra,Portugal,PT,40.2070,-8.4265,https://worthajourney.com/libraries/#joanina-library
-33,Library of Birmingham,Public library,Birmingham,United Kingdom,GB,52.4794,-1.9085,https://worthajourney.com/libraries/#library-of-birmingham
-34,George Peabody Library,University library,Baltimore,United States,US,39.2972,-76.6150,https://worthajourney.com/libraries/#george-peabody-library
-35,"Old Library, Trinity College",University library,Dublin,Ireland,IE,53.3439,-6.2568,https://worthajourney.com/libraries/#old-library-trinity-college
-36,Nashville Public Library,Public library,Nashville,United States,US,36.1621,-86.7817,https://worthajourney.com/libraries/#nashville-public-library
-37,Yusuhara Community Library,Public library,Yusuhara,Japan,JP,33.3940,132.9281,https://worthajourney.com/libraries/#yusuhara-community-library
-38,Taoyuan Public Library,Public library,Taoyuan,Taiwan,TW,25.0178,121.3001,https://worthajourney.com/libraries/#taoyuan-public-library
-39,Starfield Library,Public library,Seoul,South Korea,KR,37.5102,127.0600,https://worthajourney.com/libraries/#starfield-library
-40,National Library of Latvia,National library,Riga,Latvia,LV,56.9411,24.0968,https://worthajourney.com/libraries/#national-library-of-latvia
-41,Liverpool Central Library,Public library,Liverpool,United Kingdom,GB,53.4098,-2.9803,https://worthajourney.com/libraries/#liverpool-central-library
-42,Harold Washington Library Center,Public library,Chicago,United States,US,41.8762,-87.6281,https://worthajourney.com/libraries/#harold-washington-library-center
-43,Daxian Library,University library,Taipei,Taiwan,TW,24.9885,121.5789,https://worthajourney.com/libraries/#daxian-library
-44,Stacja Kultura,Public library,Rumia,Poland,PL,54.5693,18.3868,https://worthajourney.com/libraries/#stacja-kultura
-45,Vancouver Central Library,Public library,Vancouver,Canada,CA,49.2797,-123.1156,https://worthajourney.com/libraries/#vancouver-central-library
-46,Beitou Library,Public library,Taipei,Taiwan,TW,25.1364,121.5063,https://worthajourney.com/libraries/#beitou-library
-47,New York Public Library,Public library,New York,United States,US,40.7532,-73.9823,https://worthajourney.com/libraries/#new-york-public-library
-48,Lund University Library,University library,Lund,Sweden,SE,55.7089,13.1972,https://worthajourney.com/libraries/#lund-university-library
-49,National Library of El Salvador,National library,San Salvador,El Salvador,SV,13.6970,-89.1912,https://worthajourney.com/libraries/#national-library-of-el-salvador
-50,Kaohsiung Main Public Library,Public library,Kaohsiung,Taiwan,TW,22.6104,120.3018,https://worthajourney.com/libraries/#kaohsiung-main-public-library
-51,Gheorghe Asachi Technical University Library,University library,Iași,Romania,RO,47.1748,27.5718,https://worthajourney.com/libraries/#gheorghe-asachi-technical-university-library
-52,State Library of South Australia,Public library,Adelaide,Australia,AU,-34.9207,138.6024,https://worthajourney.com/libraries/#state-library-of-south-australia
-53,Gifu Media Cosmos,Public library,Gifu,Japan,JP,35.4275,136.7599,https://worthajourney.com/libraries/#gifu-media-cosmos
-54,Library of Parliament,Historic library,Ottawa,Canada,CA,45.4256,-75.7003,https://worthajourney.com/libraries/#library-of-parliament
-55,Bibliothèque Oscar Niemeyer,Public library,Le Havre,France,FR,49.4907,0.1061,https://worthajourney.com/libraries/#bibliotheque-oscar-niemeyer
-56,Bodleian Library,University library,Oxford,United Kingdom,GB,51.7541,-1.2540,https://worthajourney.com/libraries/#bodleian-library
-57,School 7,Public library,Den Helder,Netherlands,NL,52.9578,4.7671,https://worthajourney.com/libraries/#school-7
-58,Royal Danish Library,National library,Copenhagen,Denmark,DK,55.6734,12.5827,https://worthajourney.com/libraries/#royal-danish-library
-59,Dokk1,Public library,Aarhus,Denmark,DK,56.1536,10.2144,https://worthajourney.com/libraries/#dokk1
-60,National Library of Belarus,National library,Minsk,Belarus,BY,53.9315,27.6462,https://worthajourney.com/libraries/#national-library-of-belarus
-61,Jondi Shapour Library,Public library,Tehran,Iran,IR,35.7530,51.1899,https://worthajourney.com/libraries/#jondi-shapour-library
-62,Duchess Anna Amalia Library,Historic library,Weimar,Germany,DE,50.9785,11.3322,https://worthajourney.com/libraries/#duchess-anna-amalia-library
-63,National Library of Finland,National library,Helsinki,Finland,FI,60.1704,24.9504,https://worthajourney.com/libraries/#national-library-of-finland
-64,Bibliothèque francophone multimédia,Public library,Limoges,France,FR,45.8262,1.2592,https://worthajourney.com/libraries/#bibliotheque-francophone-multimedia
-65,University of Warsaw Library,University library,Warsaw,Poland,PL,52.2426,21.0248,https://worthajourney.com/libraries/#university-of-warsaw-library
-66,Suzzallo and Allen Libraries,University library,Seattle,United States,US,47.6559,-122.3084,https://worthajourney.com/libraries/#suzzallo-and-allen-libraries
-67,Biblioteca Salaborsa,Public library,Bologna,Italy,IT,44.4946,11.3419,https://worthajourney.com/libraries/#biblioteca-salaborsa
-68,National Library of Brazil,National library,Rio de Janeiro,Brazil,BR,-22.9097,-43.1755,https://worthajourney.com/libraries/#national-library-of-brazil
-69,Nakajima Library,University library,Akita,Japan,JP,39.6264,140.1991,https://worthajourney.com/libraries/#nakajima-library
-70,Kansas City Central Library,Public library,Kansas City,United States,US,39.1027,-94.5839,https://worthajourney.com/libraries/#kansas-city-central-library
-71,National Library of Estonia,National library,Tallinn,Estonia,EE,59.4303,24.7390,https://worthajourney.com/libraries/#national-library-of-estonia
-72,Indianapolis Central Library,Public library,Indianapolis,United States,US,39.7782,-86.1568,https://worthajourney.com/libraries/#indianapolis-central-library
-73,National Library of Spain,National library,Madrid,Spain,ES,40.4238,-3.6902,https://worthajourney.com/libraries/#national-library-of-spain
-74,Los Angeles Central Library,Public library,Los Angeles,United States,US,34.0503,-118.2546,https://worthajourney.com/libraries/#los-angeles-central-library
-75,State Library of New South Wales,Public library,Sydney,Australia,AU,-33.8661,151.2132,https://worthajourney.com/libraries/#state-library-of-new-south-wales
-76,Deventer Library,Public library,Deventer,Netherlands,NL,52.2533,6.1557,https://worthajourney.com/libraries/#deventer-library
-77,National Library of Luxembourg,National library,Luxembourg,Luxembourg,LU,49.6295,6.1658,https://worthajourney.com/libraries/#national-library-of-luxembourg
-78,Takeo City Library,Public library,Takeo,Japan,JP,33.1890,130.0237,https://worthajourney.com/libraries/#takeo-city-library
-79,OBA Oosterdok,Public library,Amsterdam,Netherlands,NL,52.3759,4.9084,https://worthajourney.com/libraries/#oba-oosterdok
-80,Multnomah County Central Library,Public library,Portland,United States,US,45.5191,-122.6832,https://worthajourney.com/libraries/#multnomah-county-central-library
-81,The Culture Yard Library,Public library,Helsingør,Denmark,DK,56.0385,12.6157,https://worthajourney.com/libraries/#the-culture-yard-library
-82,National Taitung University Library,University library,Taitung,Taiwan,TW,22.7357,121.0676,https://worthajourney.com/libraries/#national-taitung-university-library
-83,Toyama City Public Library,Public library,Toyama,Japan,JP,36.6884,137.2151,https://worthajourney.com/libraries/#toyama-city-public-library
-84,Miyakonojo City Library,Public library,Miyakonojo,Japan,JP,31.7252,131.0654,https://worthajourney.com/libraries/#miyakonojo-city-library
-85,Rozet,Public library,Arnhem,Netherlands,NL,51.9806,5.9046,https://worthajourney.com/libraries/#rozet
-86,San Giovanni Library,Public library,Pesaro,Italy,IT,43.9096,12.9063,https://worthajourney.com/libraries/#san-giovanni-library
-87,Mariano Moreno National Library,National library,Buenos Aires,Argentina,AR,-34.5844,-58.3980,https://worthajourney.com/libraries/#mariano-moreno-national-library
-88,City of Perth Library,Public library,Perth,Australia,AU,-31.9551,115.8612,https://worthajourney.com/libraries/#city-of-perth-library
-89,Maison de la littérature,Public library,Quebec City,Canada,CA,46.8130,-71.2109,https://worthajourney.com/libraries/#maison-de-la-litterature
-90,Toledo Main Library,Public library,Toledo,United States,US,41.6545,-83.5401,https://worthajourney.com/libraries/#toledo-main-library
-91,De Nieuwe Bibliotheek,Public library,Almere,Netherlands,NL,52.3715,5.2208,https://worthajourney.com/libraries/#de-nieuwe-bibliotheek
-92,Braidense National Library,National library,Milan,Italy,IT,45.4722,9.1887,https://worthajourney.com/libraries/#braidense-national-library
-93,Providence Athenaeum,Historic library,Providence,United States,US,41.8258,-71.4064,https://worthajourney.com/libraries/#providence-athenaeum
-94,Jaffna Public Library,Public library,Jaffna,Sri Lanka,LK,9.6620,80.0120,https://worthajourney.com/libraries/#jaffna-public-library
-95,Ithra Library,Public library,Dhahran,Saudi Arabia,SA,26.3354,50.1206,https://worthajourney.com/libraries/#ithra-library
-96,Malatestiana Library,Public library,Cesena,Italy,IT,44.1388,12.2441,https://worthajourney.com/libraries/#malatestiana-library
-97,National Library of Kosovo,National library,Pristina,Kosovo,XK,42.6576,21.1622,https://worthajourney.com/libraries/#national-library-of-kosovo
-98,Bidebarrieta Library,Public library,Bilbao,Spain,ES,43.2588,-2.9246,https://worthajourney.com/libraries/#bidebarrieta-library
-99,Cleveland Public Library,Public library,Cleveland,United States,US,41.5011,-81.6916,https://worthajourney.com/libraries/#cleveland-public-library
-100,Guangzhou Library,Public library,Guangzhou,China,CN,23.1164,113.3261,https://worthajourney.com/libraries/#guangzhou-library
+1,State Hall of the Austrian National Library,Historic library,Vienna,Austria,AT,48.2063,16.3669,https://worthajourney.com/libraries/state-hall-of-the-austrian-national-library/
+2,Deichman Bjørvika,Public library,Oslo,Norway,NO,59.9087,10.7526,https://worthajourney.com/libraries/deichman-bjorvika/
+3,Qatar National Library,National library,Doha,Qatar,QA,25.3180,51.4416,https://worthajourney.com/libraries/qatar-national-library/
+4,Stuttgart City Library,Public library,Stuttgart,Germany,DE,48.7900,9.1831,https://worthajourney.com/libraries/stuttgart-city-library/
+5,Oodi Helsinki Central Library,Public library,Helsinki,Finland,FI,60.1737,24.9379,https://worthajourney.com/libraries/oodi-helsinki-central-library/
+6,Abbey Library of St Gall,Monastery library,St. Gallen,Switzerland,CH,47.4228,9.3770,https://worthajourney.com/libraries/abbey-library-of-st-gall/
+7,Admont Abbey Library,Monastery library,Admont,Austria,AT,47.5746,14.4630,https://worthajourney.com/libraries/admont-abbey-library/
+8,Malmö City Library,Public library,Malmö,Sweden,SE,55.6004,12.9941,https://worthajourney.com/libraries/malmo-city-library/
+9,Metropolitan Ervin Szabó Library,Public library,Budapest,Hungary,HU,47.4895,19.0648,https://worthajourney.com/libraries/metropolitan-ervin-szabo-library/
+10,Seattle Central Library,Public library,Seattle,United States,US,47.6068,-122.3326,https://worthajourney.com/libraries/seattle-central-library/
+11,"Bibliothèque nationale de France, Richelieu",National library,Paris,France,FR,48.8674,2.3385,https://worthajourney.com/libraries/bibliotheque-nationale-de-france-richelieu/
+12,State Library Victoria,Public library,Melbourne,Australia,AU,-37.8097,144.9655,https://worthajourney.com/libraries/state-library-victoria/
+13,Boston Public Library,Public library,Boston,United States,US,42.3492,-71.0787,https://worthajourney.com/libraries/boston-public-library/
+14,Royal Portuguese Cabinet of Reading,Historic library,Rio de Janeiro,Brazil,BR,-22.9053,-43.1822,https://worthajourney.com/libraries/royal-portuguese-cabinet-of-reading/
+15,Austin Central Library,Public library,Austin,United States,US,30.2658,-97.7519,https://worthajourney.com/libraries/austin-central-library/
+16,Calgary Central Library,Public library,Calgary,Canada,CA,51.0454,-114.0550,https://worthajourney.com/libraries/calgary-central-library/
+17,Gabriel García Márquez Library,Public library,Barcelona,Spain,ES,41.4173,2.2000,https://worthajourney.com/libraries/gabriel-garcia-marquez-library/
+18,Ishikawa Prefectural Library,Public library,Kanazawa,Japan,JP,36.5488,136.6803,https://worthajourney.com/libraries/ishikawa-prefectural-library/
+19,Library of Congress,National library,"Washington, DC",United States,US,38.8887,-77.0047,https://worthajourney.com/libraries/library-of-congress/
+20,Bibliotheca Alexandrina,National library,Alexandria,Egypt,EG,31.2089,29.9092,https://worthajourney.com/libraries/bibliotheca-alexandrina/
+21,Salt Lake City Public Library,Public library,Salt Lake City,United States,US,40.7600,-111.8846,https://worthajourney.com/libraries/salt-lake-city-public-library/
+22,Mohammed bin Rashid Library,Public library,Dubai,United Arab Emirates,AE,25.2209,55.3439,https://worthajourney.com/libraries/mohammed-bin-rashid-library/
+23,Cerritos Library,Public library,Cerritos,United States,US,33.8670,-118.0647,https://worthajourney.com/libraries/cerritos-library/
+24,Klementinum,Historic library,Prague,Czechia,CZ,50.0866,14.4160,https://worthajourney.com/libraries/klementinum/
+25,Neude Library,Public library,Utrecht,Netherlands,NL,52.0931,5.1180,https://worthajourney.com/libraries/neude-library/
+26,Biblioteca Vasconcelos,Public library,Mexico City,Mexico,MX,19.4465,-99.1510,https://worthajourney.com/libraries/biblioteca-vasconcelos/
+27,LocHal Library,Public library,Tilburg,Netherlands,NL,51.5611,5.0856,https://worthajourney.com/libraries/lochal-library/
+28,Het Predikheren,Public library,Mechelen,Belgium,BE,51.0334,4.4797,https://worthajourney.com/libraries/het-predikheren/
+29,John Rylands Library,Historic library,Manchester,United Kingdom,GB,53.4803,-2.2487,https://worthajourney.com/libraries/john-rylands-library/
+30,Biblioteca Palafoxiana,Historic library,Puebla,Mexico,MX,19.0422,-98.1987,https://worthajourney.com/libraries/biblioteca-palafoxiana/
+31,Joanina Library,University library,Coimbra,Portugal,PT,40.2070,-8.4265,https://worthajourney.com/libraries/joanina-library/
+32,Library of Birmingham,Public library,Birmingham,United Kingdom,GB,52.4794,-1.9085,https://worthajourney.com/libraries/library-of-birmingham/
+33,George Peabody Library,University library,Baltimore,United States,US,39.2972,-76.6150,https://worthajourney.com/libraries/george-peabody-library/
+34,"Old Library, Trinity College",University library,Dublin,Ireland,IE,53.3439,-6.2568,https://worthajourney.com/libraries/old-library-trinity-college/
+35,Nashville Public Library,Public library,Nashville,United States,US,36.1621,-86.7817,https://worthajourney.com/libraries/nashville-public-library/
+36,Yusuhara Community Library,Public library,Yusuhara,Japan,JP,33.3940,132.9281,https://worthajourney.com/libraries/yusuhara-community-library/
+37,Taoyuan Public Library,Public library,Taoyuan,Taiwan,TW,25.0178,121.3001,https://worthajourney.com/libraries/taoyuan-public-library/
+38,Starfield Library,Public library,Seoul,South Korea,KR,37.5102,127.0600,https://worthajourney.com/libraries/starfield-library/
+39,National Library of Latvia,National library,Riga,Latvia,LV,56.9411,24.0968,https://worthajourney.com/libraries/national-library-of-latvia/
+40,Liverpool Central Library,Public library,Liverpool,United Kingdom,GB,53.4098,-2.9803,https://worthajourney.com/libraries/liverpool-central-library/
+41,Harold Washington Library Center,Public library,Chicago,United States,US,41.8762,-87.6281,https://worthajourney.com/libraries/harold-washington-library-center/
+42,Daxian Library,University library,Taipei,Taiwan,TW,24.9885,121.5789,https://worthajourney.com/libraries/daxian-library/
+43,Stacja Kultura,Public library,Rumia,Poland,PL,54.5693,18.3868,https://worthajourney.com/libraries/stacja-kultura/
+44,Vancouver Central Library,Public library,Vancouver,Canada,CA,49.2797,-123.1156,https://worthajourney.com/libraries/vancouver-central-library/
+45,Beitou Library,Public library,Taipei,Taiwan,TW,25.1364,121.5063,https://worthajourney.com/libraries/beitou-library/
+46,New York Public Library,Public library,New York,United States,US,40.7532,-73.9823,https://worthajourney.com/libraries/new-york-public-library/
+47,Lund University Library,University library,Lund,Sweden,SE,55.7089,13.1972,https://worthajourney.com/libraries/lund-university-library/
+48,National Library of El Salvador,National library,San Salvador,El Salvador,SV,13.6970,-89.1912,https://worthajourney.com/libraries/national-library-of-el-salvador/
+49,Kaohsiung Main Public Library,Public library,Kaohsiung,Taiwan,TW,22.6104,120.3018,https://worthajourney.com/libraries/kaohsiung-main-public-library/
+50,Gheorghe Asachi Technical University Library,University library,Iași,Romania,RO,47.1748,27.5718,https://worthajourney.com/libraries/gheorghe-asachi-technical-university-library/
+51,State Library of South Australia,Public library,Adelaide,Australia,AU,-34.9207,138.6024,https://worthajourney.com/libraries/state-library-of-south-australia/
+52,Gifu Media Cosmos,Public library,Gifu,Japan,JP,35.4275,136.7599,https://worthajourney.com/libraries/gifu-media-cosmos/
+53,Bibliothèque Oscar Niemeyer,Public library,Le Havre,France,FR,49.4907,0.1061,https://worthajourney.com/libraries/bibliotheque-oscar-niemeyer/
+54,Bodleian Library,University library,Oxford,United Kingdom,GB,51.7541,-1.2540,https://worthajourney.com/libraries/bodleian-library/
+55,School 7,Public library,Den Helder,Netherlands,NL,52.9578,4.7671,https://worthajourney.com/libraries/school-7/
+56,Royal Danish Library,National library,Copenhagen,Denmark,DK,55.6734,12.5827,https://worthajourney.com/libraries/royal-danish-library/
+57,Dokk1,Public library,Aarhus,Denmark,DK,56.1536,10.2144,https://worthajourney.com/libraries/dokk1/
+58,National Library of Belarus,National library,Minsk,Belarus,BY,53.9315,27.6462,https://worthajourney.com/libraries/national-library-of-belarus/
+59,Jondi Shapour Library,Public library,Tehran,Iran,IR,35.7530,51.1899,https://worthajourney.com/libraries/jondi-shapour-library/
+60,Duchess Anna Amalia Library,Historic library,Weimar,Germany,DE,50.9785,11.3322,https://worthajourney.com/libraries/duchess-anna-amalia-library/
+61,National Library of Finland,National library,Helsinki,Finland,FI,60.1704,24.9504,https://worthajourney.com/libraries/national-library-of-finland/
+62,Bibliothèque francophone multimédia,Public library,Limoges,France,FR,45.8262,1.2592,https://worthajourney.com/libraries/bibliotheque-francophone-multimedia/
+63,University of Warsaw Library,University library,Warsaw,Poland,PL,52.2426,21.0248,https://worthajourney.com/libraries/university-of-warsaw-library/
+64,Suzzallo and Allen Libraries,University library,Seattle,United States,US,47.6559,-122.3084,https://worthajourney.com/libraries/suzzallo-and-allen-libraries/
+65,Biblioteca Salaborsa,Public library,Bologna,Italy,IT,44.4946,11.3419,https://worthajourney.com/libraries/biblioteca-salaborsa/
+66,National Library of Brazil,National library,Rio de Janeiro,Brazil,BR,-22.9097,-43.1755,https://worthajourney.com/libraries/national-library-of-brazil/
+67,Nakajima Library,University library,Akita,Japan,JP,39.6264,140.1991,https://worthajourney.com/libraries/nakajima-library/
+68,Kansas City Central Library,Public library,Kansas City,United States,US,39.1027,-94.5839,https://worthajourney.com/libraries/kansas-city-central-library/
+69,Indianapolis Central Library,Public library,Indianapolis,United States,US,39.7782,-86.1568,https://worthajourney.com/libraries/indianapolis-central-library/
+70,National Library of Spain,National library,Madrid,Spain,ES,40.4238,-3.6902,https://worthajourney.com/libraries/national-library-of-spain/
+71,Los Angeles Central Library,Public library,Los Angeles,United States,US,34.0503,-118.2546,https://worthajourney.com/libraries/los-angeles-central-library/
+72,State Library of New South Wales,Public library,Sydney,Australia,AU,-33.8661,151.2132,https://worthajourney.com/libraries/state-library-of-new-south-wales/
+73,Deventer Library,Public library,Deventer,Netherlands,NL,52.2533,6.1557,https://worthajourney.com/libraries/deventer-library/
+74,National Library of Luxembourg,National library,Luxembourg,Luxembourg,LU,49.6295,6.1658,https://worthajourney.com/libraries/national-library-of-luxembourg/
+75,Takeo City Library,Public library,Takeo,Japan,JP,33.1890,130.0237,https://worthajourney.com/libraries/takeo-city-library/
+76,OBA Oosterdok,Public library,Amsterdam,Netherlands,NL,52.3759,4.9084,https://worthajourney.com/libraries/oba-oosterdok/
+77,Multnomah County Central Library,Public library,Portland,United States,US,45.5191,-122.6832,https://worthajourney.com/libraries/multnomah-county-central-library/
+78,The Culture Yard Library,Public library,Helsingør,Denmark,DK,56.0385,12.6157,https://worthajourney.com/libraries/the-culture-yard-library/
+79,National Taitung University Library,University library,Taitung,Taiwan,TW,22.7357,121.0676,https://worthajourney.com/libraries/national-taitung-university-library/
+80,Toyama City Public Library,Public library,Toyama,Japan,JP,36.6884,137.2151,https://worthajourney.com/libraries/toyama-city-public-library/
+81,Miyakonojo City Library,Public library,Miyakonojo,Japan,JP,31.7252,131.0654,https://worthajourney.com/libraries/miyakonojo-city-library/
+82,Rozet,Public library,Arnhem,Netherlands,NL,51.9806,5.9046,https://worthajourney.com/libraries/rozet/
+83,San Giovanni Library,Public library,Pesaro,Italy,IT,43.9096,12.9063,https://worthajourney.com/libraries/san-giovanni-library/
+84,Mariano Moreno National Library,National library,Buenos Aires,Argentina,AR,-34.5844,-58.3980,https://worthajourney.com/libraries/mariano-moreno-national-library/
+85,City of Perth Library,Public library,Perth,Australia,AU,-31.9551,115.8612,https://worthajourney.com/libraries/city-of-perth-library/
+86,Maison de la littérature,Public library,Quebec City,Canada,CA,46.8130,-71.2109,https://worthajourney.com/libraries/maison-de-la-litterature/
+87,Toledo Main Library,Public library,Toledo,United States,US,41.6545,-83.5401,https://worthajourney.com/libraries/toledo-main-library/
+88,De Nieuwe Bibliotheek,Public library,Almere,Netherlands,NL,52.3715,5.2208,https://worthajourney.com/libraries/de-nieuwe-bibliotheek/
+89,Braidense National Library,National library,Milan,Italy,IT,45.4722,9.1887,https://worthajourney.com/libraries/braidense-national-library/
+90,Providence Athenaeum,Historic library,Providence,United States,US,41.8258,-71.4064,https://worthajourney.com/libraries/providence-athenaeum/
+91,Jaffna Public Library,Public library,Jaffna,Sri Lanka,LK,9.6620,80.0120,https://worthajourney.com/libraries/jaffna-public-library/
+92,Ithra Library,Public library,Dhahran,Saudi Arabia,SA,26.3354,50.1206,https://worthajourney.com/libraries/ithra-library/
+93,Malatestiana Library,Public library,Cesena,Italy,IT,44.1388,12.2441,https://worthajourney.com/libraries/malatestiana-library/
+94,National Library of Kosovo,National library,Pristina,Kosovo,XK,42.6576,21.1622,https://worthajourney.com/libraries/national-library-of-kosovo/
+95,Bidebarrieta Library,Public library,Bilbao,Spain,ES,43.2588,-2.9246,https://worthajourney.com/libraries/bidebarrieta-library/
+96,Cleveland Public Library,Public library,Cleveland,United States,US,41.5011,-81.6916,https://worthajourney.com/libraries/cleveland-public-library/
+97,Guangzhou Library,Public library,Guangzhou,China,CN,23.1164,113.3261,https://worthajourney.com/libraries/guangzhou-library/
+98,Miruru Library,Public library,Nasushiobara,Japan,JP,36.9693,140.0586,https://worthajourney.com/libraries/miruru-library/
+99,Forum Groningen,Public library,Groningen,Netherlands,NL,53.2190,6.5704,https://worthajourney.com/libraries/forum-groningen/
+100,Bibliothèque d’étude et du patrimoine,Public library,Toulouse,France,FR,43.6079,1.4438,https://worthajourney.com/libraries/bibliotheque-detude-et-du-patrimoine/

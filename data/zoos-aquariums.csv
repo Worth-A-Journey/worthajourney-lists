@@ -1,0 +1,101 @@
+rank,name,kind,city,country,country_code,latitude,longitude,url
+1,Henry Doorly Zoo and Aquarium,Zoo,Omaha,United States,US,41.2259,-95.9271,https://worthajourney.com/zoos-aquariums/henry-doorly-zoo-and-aquarium/
+2,Zoo Leipzig,Zoo,Leipzig,Germany,DE,51.3485,12.3710,https://worthajourney.com/zoos-aquariums/zoo-leipzig/
+3,Australia Zoo,Zoo,Beerwah,Australia,AU,-26.8357,152.9631,https://worthajourney.com/zoos-aquariums/australia-zoo/
+4,Prague Zoo,Zoo,Prague,Czechia,CZ,50.1177,14.4062,https://worthajourney.com/zoos-aquariums/prague-zoo/
+5,Zoo Zlín,Zoo,Zlín,Czechia,CZ,49.2716,17.7148,https://worthajourney.com/zoos-aquariums/zoo-zlin/
+6,Burgers' Zoo,Zoo,Arnhem,Netherlands,NL,52.0077,5.8985,https://worthajourney.com/zoos-aquariums/burgers-zoo/
+7,Pairi Daiza,Zoo,Brugelette,Belgium,BE,50.5888,3.8889,https://worthajourney.com/zoos-aquariums/pairi-daiza/
+8,Bioparc de Doué-la-Fontaine,Zoo,Doué-la-Fontaine,France,FR,47.1907,-0.2996,https://worthajourney.com/zoos-aquariums/bioparc-de-doue-la-fontaine/
+9,St. Louis Zoo,Zoo,St. Louis,United States,US,38.6349,-90.2910,https://worthajourney.com/zoos-aquariums/st-louis-zoo/
+10,San Diego Zoo,Zoo,San Diego,United States,US,32.7360,-117.1510,https://worthajourney.com/zoos-aquariums/san-diego-zoo/
+11,Cheyenne Mountain Zoo,Zoo,Colorado Springs,United States,US,38.7704,-104.8549,https://worthajourney.com/zoos-aquariums/cheyenne-mountain-zoo/
+12,ZooParc de Beauval,Zoo,Saint-Aignan,France,FR,47.2477,1.3531,https://worthajourney.com/zoos-aquariums/zooparc-de-beauval/
+13,Loro Parque,Zoo,Puerto de la Cruz,Spain,ES,28.4085,-16.5647,https://worthajourney.com/zoos-aquariums/loro-parque/
+14,Schönbrunn Zoo,Zoo,Vienna,Austria,AT,48.1821,16.3028,https://worthajourney.com/zoos-aquariums/schonbrunn-zoo/
+15,Poema del Mar Aquarium,Aquarium,Las Palmas de Gran Canaria,Spain,ES,28.1446,-15.4282,https://worthajourney.com/zoos-aquariums/poema-del-mar-aquarium/
+16,Zoo Wrocław,Zoo,Wrocław,Poland,PL,51.1056,17.0762,https://worthajourney.com/zoos-aquariums/zoo-wrocaw/
+17,Zoo Sauvage de Saint-Félicien,Wildlife park,Saint-Félicien,Canada,CA,48.6854,-72.5146,https://worthajourney.com/zoos-aquariums/zoo-sauvage-de-saint-felicien/
+18,Fort Worth Zoo,Zoo,Fort Worth,United States,US,32.7232,-97.3564,https://worthajourney.com/zoos-aquariums/fort-worth-zoo/
+19,Zoo Opole,Zoo,Opole,Poland,PL,50.6558,17.9232,https://worthajourney.com/zoos-aquariums/zoo-opole/
+20,Wonders of Wildlife National Museum and Aquarium,Aquarium,Springfield,United States,US,37.1817,-93.2962,https://worthajourney.com/zoos-aquariums/wonders-of-wildlife-national-museum-and-aquarium/
+21,Chester Zoo,Zoo,Chester,United Kingdom,GB,53.2259,-2.8835,https://worthajourney.com/zoos-aquariums/chester-zoo/
+22,Zoo Rostock,Zoo,Rostock,Germany,DE,54.0794,12.0835,https://worthajourney.com/zoos-aquariums/zoo-rostock/
+23,Zoológico Guadalajara,Zoo,Guadalajara,Mexico,MX,20.7288,-103.3070,https://worthajourney.com/zoos-aquariums/zoologico-guadalajara/
+24,Zoo Berlin,Zoo,Berlin,Germany,DE,52.5078,13.3394,https://worthajourney.com/zoos-aquariums/zoo-berlin/
+25,Georgia Aquarium,Aquarium,Atlanta,United States,US,33.7634,-84.3951,https://worthajourney.com/zoos-aquariums/georgia-aquarium/
+26,North Carolina Zoo,Zoo,Asheboro,United States,US,35.6297,-79.7645,https://worthajourney.com/zoos-aquariums/north-carolina-zoo/
+27,Bioparc València,Zoo,Valencia,Spain,ES,39.4780,-0.4076,https://worthajourney.com/zoos-aquariums/bioparc-valencia/
+28,Erlebnis-Zoo Hannover,Zoo,Hanover,Germany,DE,52.3818,9.7687,https://worthajourney.com/zoos-aquariums/erlebnis-zoo-hannover/
+29,Zoo Safari Borysew,Zoo,Poddębice,Poland,PL,51.8820,18.9366,https://worthajourney.com/zoos-aquariums/zoo-safari-borysew/
+30,Zoo Târgu Mureș,Zoo,Târgu Mureș,Romania,RO,46.5517,24.5935,https://worthajourney.com/zoos-aquariums/zoo-targu-mures/
+31,Zoológico Miguel Álvarez del Toro,Zoo,Tuxtla Gutiérrez,Mexico,MX,16.7251,-93.0937,https://worthajourney.com/zoos-aquariums/zoologico-miguel-alvarez-del-toro/
+32,ZOOM Experience World,Zoo,Gelsenkirchen,Germany,DE,51.5421,7.1104,https://worthajourney.com/zoos-aquariums/zoom-experience-world/
+33,Wildlands Adventure Zoo Emmen,Zoo,Emmen,Netherlands,NL,52.7825,6.8912,https://worthajourney.com/zoos-aquariums/wildlands-adventure-zoo-emmen/
+34,Zoo Zürich,Zoo,Zurich,Switzerland,CH,47.3843,8.5745,https://worthajourney.com/zoos-aquariums/zoo-zurich/
+35,Colchester Zoo,Zoo,Colchester,United Kingdom,GB,51.8622,0.8339,https://worthajourney.com/zoos-aquariums/colchester-zoo/
+36,Brevard Zoo,Zoo,Melbourne,United States,US,28.2250,-80.7139,https://worthajourney.com/zoos-aquariums/brevard-zoo/
+37,Cincinnati Zoo & Botanical Garden,Zoo,Cincinnati,United States,US,39.1441,-84.5085,https://worthajourney.com/zoos-aquariums/cincinnati-zoo-botanical-garden/
+38,Shanghai Wild Animal Park,Safari park,Shanghai,China,CN,31.0548,121.7243,https://worthajourney.com/zoos-aquariums/shanghai-wild-animal-park/
+39,Zoo de Cerza,Zoo,Hermival-les-Vaux,France,FR,49.1823,0.3120,https://worthajourney.com/zoos-aquariums/zoo-de-cerza/
+40,Naturschutz-Tierpark Görlitz,Zoo,Görlitz,Germany,DE,51.1419,14.9788,https://worthajourney.com/zoos-aquariums/naturschutz-tierpark-gorlitz/
+41,Zoo de Guadeloupe au Parc des Mamelles,Zoo,Bouillante,Guadeloupe,GP,16.1807,-61.7517,https://worthajourney.com/zoos-aquariums/zoo-de-guadeloupe-au-parc-des-mamelles/
+42,Oceanário de Lisboa,Aquarium,Lisbon,Portugal,PT,38.7635,-9.0937,https://worthajourney.com/zoos-aquariums/oceanario-de-lisboa/
+43,Singapore Oceanarium,Aquarium,Singapore,Singapore,SG,1.2583,103.8205,https://worthajourney.com/zoos-aquariums/singapore-oceanarium/
+44,Zoológico La Aurora,Zoo,Guatemala City,Guatemala,GT,14.5989,-90.5259,https://worthajourney.com/zoos-aquariums/zoologico-la-aurora/
+45,Columbus Zoo and Aquarium,Zoo,Powell,United States,US,40.1562,-83.1173,https://worthajourney.com/zoos-aquariums/columbus-zoo-and-aquarium/
+46,Orientarium ZOO Łódź,Zoo,Łódź,Poland,PL,51.7637,19.4123,https://worthajourney.com/zoos-aquariums/orientarium-zoo-lodz/
+47,GaiaZOO,Zoo,Kerkrade,Netherlands,NL,50.8677,6.0478,https://worthajourney.com/zoos-aquariums/gaiazoo/
+48,Jardim Zoológico de Lisboa,Zoo,Lisbon,Portugal,PT,38.7431,-9.1692,https://worthajourney.com/zoos-aquariums/jardim-zoologico-de-lisboa/
+49,Cairns Aquarium,Aquarium,Cairns,Australia,AU,-16.9184,145.7738,https://worthajourney.com/zoos-aquariums/cairns-aquarium/
+50,Osaka Aquarium Kaiyukan,Aquarium,Osaka,Japan,JP,34.6545,135.4290,https://worthajourney.com/zoos-aquariums/osaka-aquarium-kaiyukan/
+51,Taronga Zoo,Zoo,Sydney,Australia,AU,-33.8435,151.2413,https://worthajourney.com/zoos-aquariums/taronga-zoo/
+52,Tierpark Greifswald,Zoo,Greifswald,Germany,DE,54.0974,13.3708,https://worthajourney.com/zoos-aquariums/tierpark-greifswald/
+53,Oasis Wildlife Fuerteventura,Zoo,La Lajita,Spain,ES,28.1873,-14.1571,https://worthajourney.com/zoos-aquariums/oasis-wildlife-fuerteventura/
+54,Zoo Łączna,Zoo,Łączna,Poland,PL,50.6703,16.1416,https://worthajourney.com/zoos-aquariums/zoo-laczna/
+55,Kharkiv Zoo,Zoo,Kharkiv,Ukraine,UA,50.0028,36.2252,https://worthajourney.com/zoos-aquariums/kharkiv-zoo/
+56,Exmoor Zoo,Zoo,Barnstaple,United Kingdom,GB,51.1485,-3.9245,https://worthajourney.com/zoos-aquariums/exmoor-zoo/
+57,Wilhelma,Zoo,Stuttgart,Germany,DE,48.8041,9.2080,https://worthajourney.com/zoos-aquariums/wilhelma/
+58,National Zoo & Aquarium,Zoo,Canberra,Australia,AU,-35.2995,149.0705,https://worthajourney.com/zoos-aquariums/national-zoo-aquarium/
+59,Taronga Western Plains Zoo,Zoo,Dubbo,Australia,AU,-32.2737,148.5866,https://worthajourney.com/zoos-aquariums/taronga-western-plains-zoo/
+60,Smithsonian National Zoological Park,Zoo,Washington,United States,US,38.9296,-77.0498,https://worthajourney.com/zoos-aquariums/smithsonian-national-zoological-park/
+61,Copenhagen Zoo,Zoo,Copenhagen,Denmark,DK,55.6717,12.5234,https://worthajourney.com/zoos-aquariums/copenhagen-zoo/
+62,Audubon Zoo,Zoo,New Orleans,United States,US,29.9237,-90.1314,https://worthajourney.com/zoos-aquariums/audubon-zoo/
+63,Odense Zoo,Zoo,Odense,Denmark,DK,55.3786,10.3715,https://worthajourney.com/zoos-aquariums/odense-zoo/
+64,Tennessee Aquarium,Aquarium,Chattanooga,United States,US,35.0558,-85.3111,https://worthajourney.com/zoos-aquariums/tennessee-aquarium/
+65,Rotterdam Zoo,Zoo,Rotterdam,Netherlands,NL,51.9282,4.4440,https://worthajourney.com/zoos-aquariums/rotterdam-zoo/
+66,Kameltheater Kernhof,Zoo,Kernhof,Austria,AT,47.8189,15.5367,https://worthajourney.com/zoos-aquariums/kameltheater-kernhof/
+67,Cumberland Wildlife Park,Wildlife park,Grünau im Almtal,Austria,AT,47.8066,13.9503,https://worthajourney.com/zoos-aquariums/cumberland-wildlife-park/
+68,Zoo La Palmyre,Zoo,Les Mathes,France,FR,45.6855,-1.1663,https://worthajourney.com/zoos-aquariums/zoo-la-palmyre/
+69,Monterey Bay Aquarium,Aquarium,Monterey,United States,US,36.6183,-121.9020,https://worthajourney.com/zoos-aquariums/monterey-bay-aquarium/
+70,Parque de la Naturaleza de Cabárceno,Safari park,Obregón,Spain,ES,43.3492,-3.8537,https://worthajourney.com/zoos-aquariums/parque-de-la-naturaleza-de-cabarceno/
+71,National Aquarium,Aquarium,Baltimore,United States,US,39.2854,-76.6084,https://worthajourney.com/zoos-aquariums/national-aquarium/
+72,Bronx Zoo,Zoo,New York,United States,US,40.8501,-73.8767,https://worthajourney.com/zoos-aquariums/bronx-zoo/
+73,Cotswold Wildlife Park & Gardens,Wildlife park,Burford,United Kingdom,GB,51.7755,-1.6487,https://worthajourney.com/zoos-aquariums/cotswold-wildlife-park-gardens/
+74,Santillana Zoo,Zoo,Santillana del Mar,Spain,ES,43.3818,-4.1032,https://worthajourney.com/zoos-aquariums/santillana-zoo/
+75,Singapore Zoo,Zoo,Singapore,Singapore,SG,1.4043,103.7930,https://worthajourney.com/zoos-aquariums/singapore-zoo/
+76,Zoológico de Cali,Zoo,Cali,Colombia,CO,3.4481,-76.5568,https://worthajourney.com/zoos-aquariums/zoologico-de-cali/
+77,Dublin Zoo,Zoo,Dublin,Ireland,IE,53.3572,-6.3071,https://worthajourney.com/zoos-aquariums/dublin-zoo/
+78,Paignton Zoo,Zoo,Paignton,United Kingdom,GB,50.4282,-3.5828,https://worthajourney.com/zoos-aquariums/paignton-zoo/
+79,Oceanogràfic,Aquarium,Valencia,Spain,ES,39.4527,-0.3481,https://worthajourney.com/zoos-aquariums/oceanografic/
+80,Whipsnade Zoo,Zoo,Dunstable,United Kingdom,GB,51.8500,-0.5442,https://worthajourney.com/zoos-aquariums/whipsnade-zoo/
+81,Gulf Breeze Zoo,Zoo,Gulf Breeze,United States,US,30.4012,-86.9844,https://worthajourney.com/zoos-aquariums/gulf-breeze-zoo/
+82,Tiergarten Nürnberg,Zoo,Nuremberg,Germany,DE,49.4503,11.1394,https://worthajourney.com/zoos-aquariums/tiergarten-nurnberg/
+83,Parc Animalier des Pyrénées,Wildlife park,Argelès-Gazost,France,FR,43.0147,-0.0983,https://worthajourney.com/zoos-aquariums/parc-animalier-des-pyrenees/
+84,Tierpark Hellabrunn,Zoo,Munich,Germany,DE,48.0969,11.5539,https://worthajourney.com/zoos-aquariums/tierpark-hellabrunn/
+85,Memphis Zoo,Zoo,Memphis,United States,US,35.1492,-89.9950,https://worthajourney.com/zoos-aquariums/memphis-zoo/
+86,The Living Desert Zoo and Gardens,Zoo,Palm Desert,United States,US,33.7000,-116.3744,https://worthajourney.com/zoos-aquariums/the-living-desert-zoo-and-gardens/
+87,Cape May County Park & Zoo,Zoo,Cape May Court House,United States,US,39.1023,-74.8123,https://worthajourney.com/zoos-aquariums/cape-may-county-park-zoo/
+88,OdySea Aquarium,Aquarium,Scottsdale,United States,US,33.5547,-111.8777,https://worthajourney.com/zoos-aquariums/odysea-aquarium/
+89,Parc Animalier et Botanique de Branféré,Zoo,Le Guerno,France,FR,47.5968,-2.4020,https://worthajourney.com/zoos-aquariums/parc-animalier-et-botanique-de-branfere/
+90,Zoo Gdańsk,Zoo,Gdańsk,Poland,PL,54.4130,18.5346,https://worthajourney.com/zoos-aquariums/zoo-gdansk/
+91,Kölner Zoo,Zoo,Cologne,Germany,DE,50.9583,6.9730,https://worthajourney.com/zoos-aquariums/kolner-zoo/
+92,Nagasaki Bio Park,Zoo,Saikai,Japan,JP,32.9881,129.7833,https://worthajourney.com/zoos-aquariums/nagasaki-bio-park/
+93,Calgary Zoo,Zoo,Calgary,Canada,CA,51.0459,-114.0237,https://worthajourney.com/zoos-aquariums/calgary-zoo/
+94,Zoo de Castellar,Zoo,Castellar de la Frontera,Spain,ES,36.2881,-5.4092,https://worthajourney.com/zoos-aquariums/zoo-de-castellar/
+95,Nashville Zoo at Grassmere,Zoo,Nashville,United States,US,36.0895,-86.7425,https://worthajourney.com/zoos-aquariums/nashville-zoo-at-grassmere/
+96,Tierpark Sababurg,Wildlife park,Hofgeismar,Germany,DE,51.5456,9.5303,https://worthajourney.com/zoos-aquariums/tierpark-sababurg/
+97,Kobe Animal Kingdom,Zoo,Kobe,Japan,JP,34.6546,135.2225,https://worthajourney.com/zoos-aquariums/kobe-animal-kingdom/
+98,Parc Animalier d'Auvergne,Wildlife park,Ardes,France,FR,45.3933,3.1160,https://worthajourney.com/zoos-aquariums/parc-animalier-d-auvergne/
+99,Wildwood Wildlife Park,Wildlife park,Minocqua,United States,US,45.8850,-89.7421,https://worthajourney.com/zoos-aquariums/wildwood-wildlife-park/
+100,Izu Shaboten Zoo,Zoo,Ito,Japan,JP,34.9071,139.1009,https://worthajourney.com/zoos-aquariums/izu-shaboten-zoo/
